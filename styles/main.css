@@ -1,0 +1,145 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+}
+
+select {
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* ############### */
+
+.search-box {
+  margin-top: 30px;
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 24px 24px 24px;
+  border-radius: 0.5rem;
+  border: 1px solid #d7d4d2;
+}
+
+.search-header {
+  width: 95%;
+  border-bottom: 1px solid #d7d4d2;
+  padding: 20px 0px 0px 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.search-header a {
+  padding: 10px 20px;
+  font-size: 0.8em;
+  font-weight: 700;
+}
+
+.search-header a:hover {
+  border-bottom: 2px solid blue;
+}
+
+.search-main {
+  width: 100%;
+  display: flex;
+
+  margin: 20px 0px;
+}
+
+.search-main input {
+  width: 100%;
+  padding: 10px 20px;
+
+  border-radius: 0.5rem;
+  border: 1px solid #959595;
+}
+
+.search-main input:not(:last-child) {
+  margin-right: 20px;
+}
+
+.add-ons {
+  width: 100%;
+  display: flex;
+  justify-content: start;
+  color: #343b53;
+  font-size: 0.8em;
+  margin-bottom: 20px;
+}
+
+.add-ons * {
+  display: flex;
+}
+
+.add-ons div:not(:last-child) {
+  margin-right: 40px;
+}
+
+.add-ons p {
+  margin-left: 10px;
+}
+
+.search-submit {
+  background-color: #3662d8;
+  color: #fff;
+  border-radius: 0.5rem;
+  border: 0px;
+  outline: none;
+
+  font-size: 1rem;
+  line-height: 1.25rem;
+  min-height: 3rem;
+  padding: 0.25rem 2rem;
+
+  cursor: pointer;
+}
+
+.search-submit:hover {
+  background-color: #134ef1;
+}
+
+/* ############# */
+.footer {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 30px;
+}
+
+.footer1 {
+  width: 70%;
+  margin-top: 20px;
+}
+
+.footer1 img {
+  width: 100%;
+  object-fit: contain;
+  border-radius: 0.5rem;
+}
+
+.footer2 {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+  border-radius: 0.5rem;
+  border: 1px solid #d7d4d2;
+  font-size: 1.5em;
+  width: 70%;
+  padding: 40px;
+  background-color: #f8f5f4;
+  margin-bottom: 50px;
+}

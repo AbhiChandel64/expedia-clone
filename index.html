@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="styles/header.css">
+  <link rel="stylesheet" href="styles/main.css">
+  <title>Expedia App</title>
+</head>
+
+<body>
+  <div id="app" class="main">
+    <div class="header" id="header"></div>
+
+    <div class="search-box">
+      <div class="search-header">
+        <a href="#">Stays</a>
+        <a href="#">Flights</a>
+        <a href="#">Cars</a>
+        <a href="#">Packages</a>
+        <a href="#">Things to do</a>
+      </div>
+
+      <div class="search-main">
+        <input type="text" placeholder="Going to" name="location" id="location">
+        <input type="date" name="Check In" id="check-in">
+        <input type="date" name="Check Out" id="check-out">
+      </div>
+
+      <div class="add-ons">
+        <div>
+          <input type="checkbox" name="Add a flight" id="">
+          <p>Add a flight</p>
+        </div>
+        <div>
+          <input type="checkbox" name="Add a car" id="">
+          <p>Add a car</p>
+        </div>
+      </div>
+
+      <button class="search-submit" id="search-button">Submit</button>
+    </div>
+
+    <div class="footer">
+      <div class="footer1">
+        <img src="assets/Global-HP-Hero-928x398.jpeg" alt="">
+      </div>
+      <div class="footer1">
+        <img src="assets/beach.jpeg" alt="">
+      </div>
+
+      <div class="footer2">
+        Plan your trip in a snap on the app
+        From home or hammock, organise your entire escape and explore app offers
+      </div>
+    </div>
+  </div>
+
+  <script type="module">
+    import getHeader from "./scripts/header.js";
+    import getData from './scripts/index.js'
+    import main from './scripts/index.js';
+    import showSearchError from './scripts/utils.js';
+
+
+    const headerElement = document.getElementById("header");
+    headerElement.innerHTML = getHeader();
+
+    const headerLogo = document.getElementById("header-logo");
+    headerLogo.onclick = () => {
+      window.location.href = "/";
+    };
+
+    const submitElement = document.getElementById("search-button");
+    submitElement.onclick = () => {
+      const locationElement = document.getElementById("location");
+      const searchTerm = locationElement.value.trim();
+      main.searchClickHandler(searchTerm);
+    }
+  </script>
+</body>
+
+</html>

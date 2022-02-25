@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+}
+
+.first {
+  font-size: 60px;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  text-decoration: underline;
+  text-align: center;
+  color: rgb(102, 197, 192);
+}
+
+.second {
+  font-size: 30px;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+  color: rgba(54, 13, 13, 0.911);
+}

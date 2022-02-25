@@ -1,0 +1,1799 @@
+[
+  {
+    "__typename": "Property",
+    "id": "5301691",
+    "name": "The St. Regis Mumbai",
+    "propertyImage": {
+      "image": {
+        "description": "Featured image",
+        "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/6000000/5310000/5301700/5301691/42bd346d_b.jpg"
+      },
+      "fallbackImage": {
+        "description": "Featured image",
+        "url": "https://images.trvl-media.com/hotels/6000000/5310000/5301700/5301691/070317a4.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      }
+    },
+    "offerBadge": {
+      "primary": {
+        "text": "Ad",
+        "theme_temp": "SPONSORED",
+        "icon_temp": null,
+        "mark": null
+      },
+      "secondary": {
+        "text": "We have 5 left at",
+        "theme_temp": "DEAL_GENERIC",
+        "icon_temp": null
+      }
+    },
+    "price": {
+      "alignment": null,
+      "displayMessages": null,
+      "lead": {
+        "formatted": "Rs9,450"
+      },
+      "strikeOutType": "PRICE_SURVEY",
+      "strikeOut": null,
+      "disclaimer": null,
+      "roomNightMessage": "per night",
+      "priceMessages": [
+        {
+          "value": "per night"
+        }
+      ],
+      "marketingFeeDetails": null,
+      "options": [
+        {
+          "leadingCaption": null,
+          "displayPrice": {
+            "formatted": "Rs9,450"
+          },
+          "strikeOut": null,
+          "loyaltyPrice": null,
+          "disclaimer": null
+        }
+      ]
+    },
+    "reviews": {
+      "score": 4.6,
+      "localizedScore": "4.6",
+      "total": 445,
+      "localizedTotal": "445 reviews",
+      "superlative": "Wonderful",
+      "localizedSubtitle": "4.6 / 5 (445 reviews)",
+      "localizedSubtitleA11y": {
+        "accessibilityLabel": "4.6 out of 5 Wonderful (445 reviews)",
+        "value": "4.6/5 Wonderful (445 reviews)"
+      },
+      "mark": null
+    },
+    "destinationInfo": {
+      "distanceFromMessaging": null
+    },
+    "vipMessaging": null,
+    "propertyDetailsLink": {
+      "uri": {
+        "value": "https://www.expedia.co.in/Mumbai-Hotels-The-St-Regis-Mumbai.h5301691.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810286208&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=6050062&destination=Mumbai+%28and+vicinity%29%2C+Maharashtra%2C+India&destType=MARKET&neighborhoodId=6290723&trackingData=AAAAEBGrcHGZDnuf7YOH3W4ERZbMA4zQpFi2-d3Wu29PlLgKgVaalNFUpFV-HaMhUm-5ITFBRM60GJTihfuniQjMsfnn8MQzYN_8Bd5nGMpaCzzTD3CfrtxBTrHmKOEfRKExOEdSQajqRLoJurcMWClVUwVAlH6lmiszZ7s5YpW5BJmjIG5nyGSwyRM3d9TRM2CY1nNGPWVSayJ5-_ZNAWzRrf3O7E7ur-ITy5fFbRw8lbvwLqccZOy8uXJYKCk76NZIK_H7HRhzHAhK32BFRVo2_fQZhHB-A6I2aNJ_wz2kigEONz35ptCXyNV-Ld0mP6VLWXkgkfgu7oSJIMdegY4SzGEq4jfsS-5WONQpmNYyBc_lSapjQmfIpNEEEOYsGKgVjcsUaP6vFc0D1lQuey-JSiNC0PXS1X4Qdj7W93F4ql0mxt6uOBNQuRQRbiCTYT9qHbxxQt-XsTFl5-NEIPhcoCLVLE7GBTUcj_ipOyuB5MgYqtA38S3BWiGQCsCmKIZC7wjysNGsGf7qjwOfYk9OHvWfxe6CY6YQHBf--zSPnmTtHFYJ-XE4d2PAIkuT6wzIIpixqP7tmJX4eB9nqWu7vMtFx-vH5MWj8mgyN5wpz49dVLiuUsYpGlZbyH9_ZkdwVOwPMlER_34cwM9j7UmismKWDvVbW6qAVpIgjiBHJo9KD1q7BNMBf9XQ_RfvoS0Cz8EOTPFr74rCNkEfmyWAqwlL4k4GU8LMrNlSlQZW_h5RVPYGBpFGvtbm6y0JuwnKLDYZkUvV_gt7wedjVJHYw4TF9_u1rDywSBxmGbwueWFr9HYiaIM4ALleKigk5KFU7ipShqktVkzpScIXaWzL3f2C_wJlI9GbwLMO1NbezKJIOOAxvWhC1ETfSp-oITq7r1HOs7wvMhkVoKzCrSorM8AMh9gE5bYafn-ZA0fvmWR6HaPwpuFEAIU7vI8k_hbg7YcpJO6HCiJw-IK-pFQsweAOdNwXnU_z2mTtcVGMzauzH_en8iAq9cT84AmbXwXSPKKi4ibtSDuosyFEffrbjKoctfaq_h-bQRQxoPcGc6qkeX3lnubtYX2GmpCNirdc3wgV7-jKN3AyPlBjhYRbSl8VfuvMIpx_1pu55qMF8oK5-YeDAz7BIZjcK6eh4sw4CA%3D%3D&rank=1&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_A&position=1&beaconIssued=2022-02-25T17%3A31%3A25&sort=RECOMMENDED&top_dp=9450&top_cur=INR&semdtl=&userIntent=&selectedRoomType=211205554&selectedRatePlan=385354603",
+        "relativePath": "/Mumbai-Hotels-The-St-Regis-Mumbai.h5301691.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810286208&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=6050062&destination=Mumbai+%28and+vicinity%29%2C+Maharashtra%2C+India&destType=MARKET&neighborhoodId=6290723&trackingData=AAAAEBGrcHGZDnuf7YOH3W4ERZbMA4zQpFi2-d3Wu29PlLgKgVaalNFUpFV-HaMhUm-5ITFBRM60GJTihfuniQjMsfnn8MQzYN_8Bd5nGMpaCzzTD3CfrtxBTrHmKOEfRKExOEdSQajqRLoJurcMWClVUwVAlH6lmiszZ7s5YpW5BJmjIG5nyGSwyRM3d9TRM2CY1nNGPWVSayJ5-_ZNAWzRrf3O7E7ur-ITy5fFbRw8lbvwLqccZOy8uXJYKCk76NZIK_H7HRhzHAhK32BFRVo2_fQZhHB-A6I2aNJ_wz2kigEONz35ptCXyNV-Ld0mP6VLWXkgkfgu7oSJIMdegY4SzGEq4jfsS-5WONQpmNYyBc_lSapjQmfIpNEEEOYsGKgVjcsUaP6vFc0D1lQuey-JSiNC0PXS1X4Qdj7W93F4ql0mxt6uOBNQuRQRbiCTYT9qHbxxQt-XsTFl5-NEIPhcoCLVLE7GBTUcj_ipOyuB5MgYqtA38S3BWiGQCsCmKIZC7wjysNGsGf7qjwOfYk9OHvWfxe6CY6YQHBf--zSPnmTtHFYJ-XE4d2PAIkuT6wzIIpixqP7tmJX4eB9nqWu7vMtFx-vH5MWj8mgyN5wpz49dVLiuUsYpGlZbyH9_ZkdwVOwPMlER_34cwM9j7UmismKWDvVbW6qAVpIgjiBHJo9KD1q7BNMBf9XQ_RfvoS0Cz8EOTPFr74rCNkEfmyWAqwlL4k4GU8LMrNlSlQZW_h5RVPYGBpFGvtbm6y0JuwnKLDYZkUvV_gt7wedjVJHYw4TF9_u1rDywSBxmGbwueWFr9HYiaIM4ALleKigk5KFU7ipShqktVkzpScIXaWzL3f2C_wJlI9GbwLMO1NbezKJIOOAxvWhC1ETfSp-oITq7r1HOs7wvMhkVoKzCrSorM8AMh9gE5bYafn-ZA0fvmWR6HaPwpuFEAIU7vI8k_hbg7YcpJO6HCiJw-IK-pFQsweAOdNwXnU_z2mTtcVGMzauzH_en8iAq9cT84AmbXwXSPKKi4ibtSDuosyFEffrbjKoctfaq_h-bQRQxoPcGc6qkeX3lnubtYX2GmpCNirdc3wgV7-jKN3AyPlBjhYRbSl8VfuvMIpx_1pu55qMF8oK5-YeDAz7BIZjcK6eh4sw4CA%3D%3D&rank=1&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_A&position=1&beaconIssued=2022-02-25T17%3A31%3A25&sort=RECOMMENDED&top_dp=9450&top_cur=INR&semdtl=&userIntent=&selectedRoomType=211205554&selectedRatePlan=385354603"
+      },
+      "clientSideAnalytics": {
+        "referrerId": "HOT.SR:HotelModule:1",
+        "linkName": "View selected property"
+      }
+    },
+    "sponsoredListing": {
+      "id": "420708",
+      "clickRedirectTrackingUrl": "https://www.expedia.co.in/taps/v1/ClRedirect?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&destinationUrl=&rank=1&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEBGrcHGZDnuf7YOH3W4ERZbMA4zQpFi2-d3Wu29PlLgKgVaalNFUpFV-HaMhUm-5ITFBRM60GJTihfuniQjMsfnn8MQzYN_8Bd5nGMpaCzzTD3CfrtxBTrHmKOEfRKExOEdSQajqRLoJurcMWClVUwVAlH6lmiszZ7s5YpW5BJmjIG5nyGSwyRM3d9TRM2CY1nNGPWVSayJ5-_ZNAWzRrf3O7E7ur-ITy5fFbRw8lbvwLqccZOy8uXJYKCk76NZIK_H7HRhzHAhK32BFRVo2_fQZhHB-A6I2aNJ_wz2kigEONz35ptCXyNV-Ld0mP6VLWXkgkfgu7oSJIMdegY4SzGEq4jfsS-5WONQpmNYyBc_lSapjQmfIpNEEEOYsGKgVjcsUaP6vFc0D1lQuey-JSiNC0PXS1X4Qdj7W93F4ql0mxt6uOBNQuRQRbiCTYT9qHbxxQt-XsTFl5-NEIPhcoCLVLE7GBTUcj_ipOyuB5MgYqtA38S3BWiGQCsCmKIZC7wjysNGsGf7qjwOfYk9OHvWfxe6CY6YQHBf--zSPnmTtHFYJ-XE4d2PAIkuT6wzIIpixqP7tmJX4eB9nqWu7vMtFx-vH5MWj8mgyN5wpz49dVLiuUsYpGlZbyH9_ZkdwVOwPMlER_34cwM9j7UmismKWDvVbW6qAVpIgjiBHJo9KD1q7BNMBf9XQ_RfvoS0Cz8EOTPFr74rCNkEfmyWAqwlL4k4GU8LMrNlSlQZW_h5RVPYGBpFGvtbm6y0JuwnKLDYZkUvV_gt7wedjVJHYw4TF9_u1rDywSBxmGbwueWFr9HYiaIM4ALleKigk5KFU7ipShqktVkzpScIXaWzL3f2C_wJlI9GbwLMO1NbezKJIOOAxvWhC1ETfSp-oITq7r1HOs7wvMhkVoKzCrSorM8AMh9gE5bYafn-ZA0fvmWR6HaPwpuFEAIU7vI8k_hbg7YcpJO6HCiJw-IK-pFQsweAOdNwXnU_z2mTtcVGMzauzH_en8iAq9cT84AmbXwXSPKKi4ibtSDuosyFEffrbjKoctfaq_h-bQRQxoPcGc6qkeX3lnubtYX2GmpCNirdc3wgV7-jKN3AyPlBjhYRbSl8VfuvMIpx_1pu55qMF8oK5-YeDAz7BIZjcK6eh4sw4CA==&slots=HSR_A&position=1&beaconIssued=2022-02-25T17:31:25",
+      "clickTrackingUrl": "https://www.expedia.co.in/taps/v1/Cl?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=1&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEBGrcHGZDnuf7YOH3W4ERZbMA4zQpFi2-d3Wu29PlLgKgVaalNFUpFV-HaMhUm-5ITFBRM60GJTihfuniQjMsfnn8MQzYN_8Bd5nGMpaCzzTD3CfrtxBTrHmKOEfRKExOEdSQajqRLoJurcMWClVUwVAlH6lmiszZ7s5YpW5BJmjIG5nyGSwyRM3d9TRM2CY1nNGPWVSayJ5-_ZNAWzRrf3O7E7ur-ITy5fFbRw8lbvwLqccZOy8uXJYKCk76NZIK_H7HRhzHAhK32BFRVo2_fQZhHB-A6I2aNJ_wz2kigEONz35ptCXyNV-Ld0mP6VLWXkgkfgu7oSJIMdegY4SzGEq4jfsS-5WONQpmNYyBc_lSapjQmfIpNEEEOYsGKgVjcsUaP6vFc0D1lQuey-JSiNC0PXS1X4Qdj7W93F4ql0mxt6uOBNQuRQRbiCTYT9qHbxxQt-XsTFl5-NEIPhcoCLVLE7GBTUcj_ipOyuB5MgYqtA38S3BWiGQCsCmKIZC7wjysNGsGf7qjwOfYk9OHvWfxe6CY6YQHBf--zSPnmTtHFYJ-XE4d2PAIkuT6wzIIpixqP7tmJX4eB9nqWu7vMtFx-vH5MWj8mgyN5wpz49dVLiuUsYpGlZbyH9_ZkdwVOwPMlER_34cwM9j7UmismKWDvVbW6qAVpIgjiBHJo9KD1q7BNMBf9XQ_RfvoS0Cz8EOTPFr74rCNkEfmyWAqwlL4k4GU8LMrNlSlQZW_h5RVPYGBpFGvtbm6y0JuwnKLDYZkUvV_gt7wedjVJHYw4TF9_u1rDywSBxmGbwueWFr9HYiaIM4ALleKigk5KFU7ipShqktVkzpScIXaWzL3f2C_wJlI9GbwLMO1NbezKJIOOAxvWhC1ETfSp-oITq7r1HOs7wvMhkVoKzCrSorM8AMh9gE5bYafn-ZA0fvmWR6HaPwpuFEAIU7vI8k_hbg7YcpJO6HCiJw-IK-pFQsweAOdNwXnU_z2mTtcVGMzauzH_en8iAq9cT84AmbXwXSPKKi4ibtSDuosyFEffrbjKoctfaq_h-bQRQxoPcGc6qkeX3lnubtYX2GmpCNirdc3wgV7-jKN3AyPlBjhYRbSl8VfuvMIpx_1pu55qMF8oK5-YeDAz7BIZjcK6eh4sw4CA==&slots=HSR_A&position=1&beaconIssued=2022-02-25T17:31:25",
+      "details": "Enjoy a staycation with B'fast, chef curated meal, room Upgrade, early check-in, late check-out and complimentary kids stay",
+      "detailsHeadline": "Luxurious Escapade at The Best Address",
+      "hotelImage": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/6000000/5310000/5301700/5301691/42bd346d_b.jpg",
+      "impressionTrackingUrl": "https://www.expedia.co.in/taps/v1/Impr?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=1&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEBGrcHGZDnuf7YOH3W4ERZbMA4zQpFi2-d3Wu29PlLgKgVaalNFUpFV-HaMhUm-5ITFBRM60GJTihfuniQjMsfnn8MQzYN_8Bd5nGMpaCzzTD3CfrtxBTrHmKOEfRKExOEdSQajqRLoJurcMWClVUwVAlH6lmiszZ7s5YpW5BJmjIG5nyGSwyRM3d9TRM2CY1nNGPWVSayJ5-_ZNAWzRrf3O7E7ur-ITy5fFbRw8lbvwLqccZOy8uXJYKCk76NZIK_H7HRhzHAhK32BFRVo2_fQZhHB-A6I2aNJ_wz2kigEONz35ptCXyNV-Ld0mP6VLWXkgkfgu7oSJIMdegY4SzGEq4jfsS-5WONQpmNYyBc_lSapjQmfIpNEEEOYsGKgVjcsUaP6vFc0D1lQuey-JSiNC0PXS1X4Qdj7W93F4ql0mxt6uOBNQuRQRbiCTYT9qHbxxQt-XsTFl5-NEIPhcoCLVLE7GBTUcj_ipOyuB5MgYqtA38S3BWiGQCsCmKIZC7wjysNGsGf7qjwOfYk9OHvWfxe6CY6YQHBf--zSPnmTtHFYJ-XE4d2PAIkuT6wzIIpixqP7tmJX4eB9nqWu7vMtFx-vH5MWj8mgyN5wpz49dVLiuUsYpGlZbyH9_ZkdwVOwPMlER_34cwM9j7UmismKWDvVbW6qAVpIgjiBHJo9KD1q7BNMBf9XQ_RfvoS0Cz8EOTPFr74rCNkEfmyWAqwlL4k4GU8LMrNlSlQZW_h5RVPYGBpFGvtbm6y0JuwnKLDYZkUvV_gt7wedjVJHYw4TF9_u1rDywSBxmGbwueWFr9HYiaIM4ALleKigk5KFU7ipShqktVkzpScIXaWzL3f2C_wJlI9GbwLMO1NbezKJIOOAxvWhC1ETfSp-oITq7r1HOs7wvMhkVoKzCrSorM8AMh9gE5bYafn-ZA0fvmWR6HaPwpuFEAIU7vI8k_hbg7YcpJO6HCiJw-IK-pFQsweAOdNwXnU_z2mTtcVGMzauzH_en8iAq9cT84AmbXwXSPKKi4ibtSDuosyFEffrbjKoctfaq_h-bQRQxoPcGc6qkeX3lnubtYX2GmpCNirdc3wgV7-jKN3AyPlBjhYRbSl8VfuvMIpx_1pu55qMF8oK5-YeDAz7BIZjcK6eh4sw4CA==&slots=HSR_A&position=1&beaconIssued=2022-02-25T17:31:25",
+      "trackingData": "AAAAEBGrcHGZDnuf7YOH3W4ERZbMA4zQpFi2-d3Wu29PlLgKgVaalNFUpFV-HaMhUm-5ITFBRM60GJTihfuniQjMsfnn8MQzYN_8Bd5nGMpaCzzTD3CfrtxBTrHmKOEfRKExOEdSQajqRLoJurcMWClVUwVAlH6lmiszZ7s5YpW5BJmjIG5nyGSwyRM3d9TRM2CY1nNGPWVSayJ5-_ZNAWzRrf3O7E7ur-ITy5fFbRw8lbvwLqccZOy8uXJYKCk76NZIK_H7HRhzHAhK32BFRVo2_fQZhHB-A6I2aNJ_wz2kigEONz35ptCXyNV-Ld0mP6VLWXkgkfgu7oSJIMdegY4SzGEq4jfsS-5WONQpmNYyBc_lSapjQmfIpNEEEOYsGKgVjcsUaP6vFc0D1lQuey-JSiNC0PXS1X4Qdj7W93F4ql0mxt6uOBNQuRQRbiCTYT9qHbxxQt-XsTFl5-NEIPhcoCLVLE7GBTUcj_ipOyuB5MgYqtA38S3BWiGQCsCmKIZC7wjysNGsGf7qjwOfYk9OHvWfxe6CY6YQHBf--zSPnmTtHFYJ-XE4d2PAIkuT6wzIIpixqP7tmJX4eB9nqWu7vMtFx-vH5MWj8mgyN5wpz49dVLiuUsYpGlZbyH9_ZkdwVOwPMlER_34cwM9j7UmismKWDvVbW6qAVpIgjiBHJo9KD1q7BNMBf9XQ_RfvoS0Cz8EOTPFr74rCNkEfmyWAqwlL4k4GU8LMrNlSlQZW_h5RVPYGBpFGvtbm6y0JuwnKLDYZkUvV_gt7wedjVJHYw4TF9_u1rDywSBxmGbwueWFr9HYiaIM4ALleKigk5KFU7ipShqktVkzpScIXaWzL3f2C_wJlI9GbwLMO1NbezKJIOOAxvWhC1ETfSp-oITq7r1HOs7wvMhkVoKzCrSorM8AMh9gE5bYafn-ZA0fvmWR6HaPwpuFEAIU7vI8k_hbg7YcpJO6HCiJw-IK-pFQsweAOdNwXnU_z2mTtcVGMzauzH_en8iAq9cT84AmbXwXSPKKi4ibtSDuosyFEffrbjKoctfaq_h-bQRQxoPcGc6qkeX3lnubtYX2GmpCNirdc3wgV7-jKN3AyPlBjhYRbSl8VfuvMIpx_1pu55qMF8oK5-YeDAz7BIZjcK6eh4sw4CA==",
+      "brand": null,
+      "clickRedirectLinkoffTrackingUrl": null,
+      "logo": null,
+      "lotagline": null,
+      "rating": "0",
+      "slots": "HSR_A",
+      "vanityUrl": null,
+      "rank": "1",
+      "position": "1"
+    },
+    "amenities": [],
+    "star": null,
+    "starRatingIcon": "STAR",
+    "availability": {
+      "available": true,
+      "text": null,
+      "theme": "URGENT"
+    },
+    "offerSummary": {
+      "messages": []
+    },
+    "legalDisclaimer": null,
+    "imageGallery": {
+      "accessibilityLabel": "Photo gallery for The St. Regis Mumbai",
+      "images": [
+        {
+          "image": {
+            "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/6000000/5310000/5301700/5301691/42bd346d_b.jpg",
+            "description": "Featured image"
+          },
+          "subjectId": 3,
+          "fallbackImage": {
+            "url": "https://images.trvl-media.com/hotels/6000000/5310000/5301700/5301691/070317a4.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Featured image"
+          },
+          "imageId": "68516099"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/6000000/5310000/5301700/5301691/36a08f04.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Outdoor wedding area"
+          },
+          "subjectId": 91011,
+          "fallbackImage": null,
+          "imageId": "72408374"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/6000000/5310000/5301700/5301691/42bd346d.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Outdoor pool"
+          },
+          "subjectId": 30003,
+          "fallbackImage": null,
+          "imageId": "652084956"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/6000000/5310000/5301700/5301691/80859cbb.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Bathroom"
+          },
+          "subjectId": 23000,
+          "fallbackImage": null,
+          "imageId": "418467820"
+        }
+      ]
+    },
+    "mapMarker": {
+      "icon": "HOTEL",
+      "label": "Rs9,450",
+      "type": "HOTEL",
+      "latLong": {
+        "latitude": 18.993488,
+        "longitude": 72.824987
+      },
+      "clientSideAnalytics": {
+        "referrerId": "Module.Map.HotelMarkerSelect",
+        "linkName": "User selecting a hotel marker on the PWA HSR map"
+      }
+    },
+    "neighborhood": {
+      "name": "Mumbai"
+    },
+    "pinnedDetails": null,
+    "recentlyViewed": null,
+    "featuredMessages": null,
+    "supportingMessages": ["Excludes taxes & fees"],
+    "shortList": {
+      "favorited": false,
+      "saveUrl": "/api/ucs/shortlist/save/5301691",
+      "removeUrl": "/api/ucs/shortlist/remove/5301691",
+      "metaData": {
+        "chkIn": "20220311",
+        "chkOut": "20220312",
+        "hotelId": "5301691",
+        "roomConfiguration": "2"
+      }
+    },
+    "highlightedPropertyDetails": [],
+    "propertySource": null,
+    "dataAttributes": null,
+    "listingFooter": null
+  },
+  {
+    "__typename": "Property",
+    "id": "916201",
+    "name": "InterContinental Marine Drive Mumbai, an IHG Hotel",
+    "propertyImage": {
+      "image": {
+        "description": "Featured image",
+        "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/1000000/920000/916300/916201/47775203_b.jpg"
+      },
+      "fallbackImage": {
+        "description": "Featured image",
+        "url": "https://images.trvl-media.com/hotels/1000000/920000/916300/916201/47775203.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      }
+    },
+    "offerBadge": {
+      "primary": {
+        "text": "Ad",
+        "theme_temp": "SPONSORED",
+        "icon_temp": null,
+        "mark": null
+      },
+      "secondary": {
+        "text": "We have 8 left at",
+        "theme_temp": "DEAL_GENERIC",
+        "icon_temp": null
+      }
+    },
+    "price": {
+      "alignment": null,
+      "displayMessages": null,
+      "lead": {
+        "formatted": "Rs9,000"
+      },
+      "strikeOutType": "PRICE_SURVEY",
+      "strikeOut": null,
+      "disclaimer": null,
+      "roomNightMessage": "per night",
+      "priceMessages": [
+        {
+          "value": "per night"
+        }
+      ],
+      "marketingFeeDetails": null,
+      "options": [
+        {
+          "leadingCaption": null,
+          "displayPrice": {
+            "formatted": "Rs9,000"
+          },
+          "strikeOut": null,
+          "loyaltyPrice": null,
+          "disclaimer": null
+        }
+      ]
+    },
+    "reviews": {
+      "score": 4.4,
+      "localizedScore": "4.4",
+      "total": 149,
+      "localizedTotal": "149 reviews",
+      "superlative": "Excellent",
+      "localizedSubtitle": "4.4 / 5 (149 reviews)",
+      "localizedSubtitleA11y": {
+        "accessibilityLabel": "4.4 out of 5 Excellent (149 reviews)",
+        "value": "4.4/5 Excellent (149 reviews)"
+      },
+      "mark": null
+    },
+    "destinationInfo": {
+      "distanceFromMessaging": null
+    },
+    "vipMessaging": null,
+    "propertyDetailsLink": {
+      "uri": {
+        "value": "https://www.expedia.co.in/Mumbai-Hotels-InterContinental-Marine-Drive-Mumbai.h916201.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810286208&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=6050062&destination=Mumbai+%28and+vicinity%29%2C+Maharashtra%2C+India&destType=MARKET&neighborhoodId=553248633981715943&trackingData=AAAAEP9iC1jVSao3KD4rNJBT54qMH8JYOck_Fl9e7bjojHridRdBFfy9uXjnW9WLAlc3luN5kNMQ9MqP52e8ZFcQ9qt-o5GCEBUVKm43ghARKSq_L6DaAtPy9sSiRO0PuPP-EFTYKUoITT3cac7okG4VzBWzYD54tNSKkAY5dfGsZuROeg3kKB4v08fa_twuI9v3cQQXOnIupwnA65MNPVb6jk5WiETWob588CSJQ7ptbPGyTAnY9VThBJijB2LeY2P6L0QdCoZD9mIAl0KTEX7jqegYnDGenTeNRWi87Pk8uUxyEfXqfzaoB05YBBYR4Yfgnf5I2I7oqf7Hpe5otUbXdNB0_RYZYiD-4TvwEST3pULBjVawbKe3hmXF32ailszwNah3GJL2TDKspnZ1h2pRRQSchCnwFc3BQ9bZ3Xp_seUYAc2zHhYZVUU1MG5DL38BMBU_WM0EuXozEDHeO-qMc27mw8S0fIExbUdGADk6AyHZNXYqgbql0kci4otAwvU7ijnBuYSHvvcRKdWlTLSXLvNm8Ii6jsc1yGyrLCY-gLJ73THziExqZXJy-QyhNGg9bpklgaA004DOzDmbN6VhFXxTZVmv4WgywbAAm3goLqJNhSXtbSc_xFfJQiW9rZOtM6O8iLeHG2A_HOmV30aBj3Z0kTQV5WzZeGbRQNBCKZvlKwJNYRVU4dCEdqG5cFiRGsGkMYN6bMIOx9ou8nyIN0CMoqPXQhuBztIP9J67CZqKSMc5K3JirlDJ2fT5DHFmP9fpSzmfnLXK1jBMkoX5uG6dJSV7WPtm9NNNhDm13l0lgcPSu-8LnLuyj8UKLTUl11Q61n5by4T9JJrh5pPWmpu_VmGWl7TGoCPt8Hssicdn6aPKwzhFMEPqbGuu4e_5Nw05riiaxv5cWMM4Goq3doEF5a7x6LMdknTkFsUUEAQgVhKOvOpONljJ_LcG-m-GYyioup4SLoq3UEcwz5fjjOhslb1oZGNgF3uL6FpH705Qp8FnfWisHnn6Z5XYCpn42F4-4Htan_m2RvTDSJWsJ_Kv1vDutq13s_bXnaKfFXMY2unu4ys05CXkU2tlsN6PPJlqvV6qcdJjT-lb3_4K69vXpgXqxOgDg15kb51X3lCY76VmvJ-rmktqX_d2zeEpLRy0Vgf64k9FWXRTnVxkrK4%3D&rank=2&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_AA&position=2&beaconIssued=2022-02-25T17%3A31%3A25&sort=RECOMMENDED&top_dp=9000&top_cur=INR&semdtl=&userIntent=&selectedRoomType=200111859&selectedRatePlan=381138452",
+        "relativePath": "/Mumbai-Hotels-InterContinental-Marine-Drive-Mumbai.h916201.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810286208&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=6050062&destination=Mumbai+%28and+vicinity%29%2C+Maharashtra%2C+India&destType=MARKET&neighborhoodId=553248633981715943&trackingData=AAAAEP9iC1jVSao3KD4rNJBT54qMH8JYOck_Fl9e7bjojHridRdBFfy9uXjnW9WLAlc3luN5kNMQ9MqP52e8ZFcQ9qt-o5GCEBUVKm43ghARKSq_L6DaAtPy9sSiRO0PuPP-EFTYKUoITT3cac7okG4VzBWzYD54tNSKkAY5dfGsZuROeg3kKB4v08fa_twuI9v3cQQXOnIupwnA65MNPVb6jk5WiETWob588CSJQ7ptbPGyTAnY9VThBJijB2LeY2P6L0QdCoZD9mIAl0KTEX7jqegYnDGenTeNRWi87Pk8uUxyEfXqfzaoB05YBBYR4Yfgnf5I2I7oqf7Hpe5otUbXdNB0_RYZYiD-4TvwEST3pULBjVawbKe3hmXF32ailszwNah3GJL2TDKspnZ1h2pRRQSchCnwFc3BQ9bZ3Xp_seUYAc2zHhYZVUU1MG5DL38BMBU_WM0EuXozEDHeO-qMc27mw8S0fIExbUdGADk6AyHZNXYqgbql0kci4otAwvU7ijnBuYSHvvcRKdWlTLSXLvNm8Ii6jsc1yGyrLCY-gLJ73THziExqZXJy-QyhNGg9bpklgaA004DOzDmbN6VhFXxTZVmv4WgywbAAm3goLqJNhSXtbSc_xFfJQiW9rZOtM6O8iLeHG2A_HOmV30aBj3Z0kTQV5WzZeGbRQNBCKZvlKwJNYRVU4dCEdqG5cFiRGsGkMYN6bMIOx9ou8nyIN0CMoqPXQhuBztIP9J67CZqKSMc5K3JirlDJ2fT5DHFmP9fpSzmfnLXK1jBMkoX5uG6dJSV7WPtm9NNNhDm13l0lgcPSu-8LnLuyj8UKLTUl11Q61n5by4T9JJrh5pPWmpu_VmGWl7TGoCPt8Hssicdn6aPKwzhFMEPqbGuu4e_5Nw05riiaxv5cWMM4Goq3doEF5a7x6LMdknTkFsUUEAQgVhKOvOpONljJ_LcG-m-GYyioup4SLoq3UEcwz5fjjOhslb1oZGNgF3uL6FpH705Qp8FnfWisHnn6Z5XYCpn42F4-4Htan_m2RvTDSJWsJ_Kv1vDutq13s_bXnaKfFXMY2unu4ys05CXkU2tlsN6PPJlqvV6qcdJjT-lb3_4K69vXpgXqxOgDg15kb51X3lCY76VmvJ-rmktqX_d2zeEpLRy0Vgf64k9FWXRTnVxkrK4%3D&rank=2&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_AA&position=2&beaconIssued=2022-02-25T17%3A31%3A25&sort=RECOMMENDED&top_dp=9000&top_cur=INR&semdtl=&userIntent=&selectedRoomType=200111859&selectedRatePlan=381138452"
+      },
+      "clientSideAnalytics": {
+        "referrerId": "HOT.SR:HotelModule:2",
+        "linkName": "View selected property"
+      }
+    },
+    "sponsoredListing": {
+      "id": "650529",
+      "clickRedirectTrackingUrl": "https://www.expedia.co.in/taps/v1/ClRedirect?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&destinationUrl=&rank=2&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEP9iC1jVSao3KD4rNJBT54qMH8JYOck_Fl9e7bjojHridRdBFfy9uXjnW9WLAlc3luN5kNMQ9MqP52e8ZFcQ9qt-o5GCEBUVKm43ghARKSq_L6DaAtPy9sSiRO0PuPP-EFTYKUoITT3cac7okG4VzBWzYD54tNSKkAY5dfGsZuROeg3kKB4v08fa_twuI9v3cQQXOnIupwnA65MNPVb6jk5WiETWob588CSJQ7ptbPGyTAnY9VThBJijB2LeY2P6L0QdCoZD9mIAl0KTEX7jqegYnDGenTeNRWi87Pk8uUxyEfXqfzaoB05YBBYR4Yfgnf5I2I7oqf7Hpe5otUbXdNB0_RYZYiD-4TvwEST3pULBjVawbKe3hmXF32ailszwNah3GJL2TDKspnZ1h2pRRQSchCnwFc3BQ9bZ3Xp_seUYAc2zHhYZVUU1MG5DL38BMBU_WM0EuXozEDHeO-qMc27mw8S0fIExbUdGADk6AyHZNXYqgbql0kci4otAwvU7ijnBuYSHvvcRKdWlTLSXLvNm8Ii6jsc1yGyrLCY-gLJ73THziExqZXJy-QyhNGg9bpklgaA004DOzDmbN6VhFXxTZVmv4WgywbAAm3goLqJNhSXtbSc_xFfJQiW9rZOtM6O8iLeHG2A_HOmV30aBj3Z0kTQV5WzZeGbRQNBCKZvlKwJNYRVU4dCEdqG5cFiRGsGkMYN6bMIOx9ou8nyIN0CMoqPXQhuBztIP9J67CZqKSMc5K3JirlDJ2fT5DHFmP9fpSzmfnLXK1jBMkoX5uG6dJSV7WPtm9NNNhDm13l0lgcPSu-8LnLuyj8UKLTUl11Q61n5by4T9JJrh5pPWmpu_VmGWl7TGoCPt8Hssicdn6aPKwzhFMEPqbGuu4e_5Nw05riiaxv5cWMM4Goq3doEF5a7x6LMdknTkFsUUEAQgVhKOvOpONljJ_LcG-m-GYyioup4SLoq3UEcwz5fjjOhslb1oZGNgF3uL6FpH705Qp8FnfWisHnn6Z5XYCpn42F4-4Htan_m2RvTDSJWsJ_Kv1vDutq13s_bXnaKfFXMY2unu4ys05CXkU2tlsN6PPJlqvV6qcdJjT-lb3_4K69vXpgXqxOgDg15kb51X3lCY76VmvJ-rmktqX_d2zeEpLRy0Vgf64k9FWXRTnVxkrK4=&slots=HSR_AA&position=2&beaconIssued=2022-02-25T17:31:25",
+      "clickTrackingUrl": "https://www.expedia.co.in/taps/v1/Cl?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=2&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEP9iC1jVSao3KD4rNJBT54qMH8JYOck_Fl9e7bjojHridRdBFfy9uXjnW9WLAlc3luN5kNMQ9MqP52e8ZFcQ9qt-o5GCEBUVKm43ghARKSq_L6DaAtPy9sSiRO0PuPP-EFTYKUoITT3cac7okG4VzBWzYD54tNSKkAY5dfGsZuROeg3kKB4v08fa_twuI9v3cQQXOnIupwnA65MNPVb6jk5WiETWob588CSJQ7ptbPGyTAnY9VThBJijB2LeY2P6L0QdCoZD9mIAl0KTEX7jqegYnDGenTeNRWi87Pk8uUxyEfXqfzaoB05YBBYR4Yfgnf5I2I7oqf7Hpe5otUbXdNB0_RYZYiD-4TvwEST3pULBjVawbKe3hmXF32ailszwNah3GJL2TDKspnZ1h2pRRQSchCnwFc3BQ9bZ3Xp_seUYAc2zHhYZVUU1MG5DL38BMBU_WM0EuXozEDHeO-qMc27mw8S0fIExbUdGADk6AyHZNXYqgbql0kci4otAwvU7ijnBuYSHvvcRKdWlTLSXLvNm8Ii6jsc1yGyrLCY-gLJ73THziExqZXJy-QyhNGg9bpklgaA004DOzDmbN6VhFXxTZVmv4WgywbAAm3goLqJNhSXtbSc_xFfJQiW9rZOtM6O8iLeHG2A_HOmV30aBj3Z0kTQV5WzZeGbRQNBCKZvlKwJNYRVU4dCEdqG5cFiRGsGkMYN6bMIOx9ou8nyIN0CMoqPXQhuBztIP9J67CZqKSMc5K3JirlDJ2fT5DHFmP9fpSzmfnLXK1jBMkoX5uG6dJSV7WPtm9NNNhDm13l0lgcPSu-8LnLuyj8UKLTUl11Q61n5by4T9JJrh5pPWmpu_VmGWl7TGoCPt8Hssicdn6aPKwzhFMEPqbGuu4e_5Nw05riiaxv5cWMM4Goq3doEF5a7x6LMdknTkFsUUEAQgVhKOvOpONljJ_LcG-m-GYyioup4SLoq3UEcwz5fjjOhslb1oZGNgF3uL6FpH705Qp8FnfWisHnn6Z5XYCpn42F4-4Htan_m2RvTDSJWsJ_Kv1vDutq13s_bXnaKfFXMY2unu4ys05CXkU2tlsN6PPJlqvV6qcdJjT-lb3_4K69vXpgXqxOgDg15kb51X3lCY76VmvJ-rmktqX_d2zeEpLRy0Vgf64k9FWXRTnVxkrK4=&slots=HSR_AA&position=2&beaconIssued=2022-02-25T17:31:25",
+      "details": "Enjoy up to 25 percent off at over 160 hotels in India, Middle East and Africa. Book by 30 April 2022.",
+      "detailsHeadline": "Up to 25pct off at over 160 IHG Hotels",
+      "hotelImage": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/1000000/920000/916300/916201/47775203_b.jpg",
+      "impressionTrackingUrl": "https://www.expedia.co.in/taps/v1/Impr?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=2&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEP9iC1jVSao3KD4rNJBT54qMH8JYOck_Fl9e7bjojHridRdBFfy9uXjnW9WLAlc3luN5kNMQ9MqP52e8ZFcQ9qt-o5GCEBUVKm43ghARKSq_L6DaAtPy9sSiRO0PuPP-EFTYKUoITT3cac7okG4VzBWzYD54tNSKkAY5dfGsZuROeg3kKB4v08fa_twuI9v3cQQXOnIupwnA65MNPVb6jk5WiETWob588CSJQ7ptbPGyTAnY9VThBJijB2LeY2P6L0QdCoZD9mIAl0KTEX7jqegYnDGenTeNRWi87Pk8uUxyEfXqfzaoB05YBBYR4Yfgnf5I2I7oqf7Hpe5otUbXdNB0_RYZYiD-4TvwEST3pULBjVawbKe3hmXF32ailszwNah3GJL2TDKspnZ1h2pRRQSchCnwFc3BQ9bZ3Xp_seUYAc2zHhYZVUU1MG5DL38BMBU_WM0EuXozEDHeO-qMc27mw8S0fIExbUdGADk6AyHZNXYqgbql0kci4otAwvU7ijnBuYSHvvcRKdWlTLSXLvNm8Ii6jsc1yGyrLCY-gLJ73THziExqZXJy-QyhNGg9bpklgaA004DOzDmbN6VhFXxTZVmv4WgywbAAm3goLqJNhSXtbSc_xFfJQiW9rZOtM6O8iLeHG2A_HOmV30aBj3Z0kTQV5WzZeGbRQNBCKZvlKwJNYRVU4dCEdqG5cFiRGsGkMYN6bMIOx9ou8nyIN0CMoqPXQhuBztIP9J67CZqKSMc5K3JirlDJ2fT5DHFmP9fpSzmfnLXK1jBMkoX5uG6dJSV7WPtm9NNNhDm13l0lgcPSu-8LnLuyj8UKLTUl11Q61n5by4T9JJrh5pPWmpu_VmGWl7TGoCPt8Hssicdn6aPKwzhFMEPqbGuu4e_5Nw05riiaxv5cWMM4Goq3doEF5a7x6LMdknTkFsUUEAQgVhKOvOpONljJ_LcG-m-GYyioup4SLoq3UEcwz5fjjOhslb1oZGNgF3uL6FpH705Qp8FnfWisHnn6Z5XYCpn42F4-4Htan_m2RvTDSJWsJ_Kv1vDutq13s_bXnaKfFXMY2unu4ys05CXkU2tlsN6PPJlqvV6qcdJjT-lb3_4K69vXpgXqxOgDg15kb51X3lCY76VmvJ-rmktqX_d2zeEpLRy0Vgf64k9FWXRTnVxkrK4=&slots=HSR_AA&position=2&beaconIssued=2022-02-25T17:31:25",
+      "trackingData": "AAAAEP9iC1jVSao3KD4rNJBT54qMH8JYOck_Fl9e7bjojHridRdBFfy9uXjnW9WLAlc3luN5kNMQ9MqP52e8ZFcQ9qt-o5GCEBUVKm43ghARKSq_L6DaAtPy9sSiRO0PuPP-EFTYKUoITT3cac7okG4VzBWzYD54tNSKkAY5dfGsZuROeg3kKB4v08fa_twuI9v3cQQXOnIupwnA65MNPVb6jk5WiETWob588CSJQ7ptbPGyTAnY9VThBJijB2LeY2P6L0QdCoZD9mIAl0KTEX7jqegYnDGenTeNRWi87Pk8uUxyEfXqfzaoB05YBBYR4Yfgnf5I2I7oqf7Hpe5otUbXdNB0_RYZYiD-4TvwEST3pULBjVawbKe3hmXF32ailszwNah3GJL2TDKspnZ1h2pRRQSchCnwFc3BQ9bZ3Xp_seUYAc2zHhYZVUU1MG5DL38BMBU_WM0EuXozEDHeO-qMc27mw8S0fIExbUdGADk6AyHZNXYqgbql0kci4otAwvU7ijnBuYSHvvcRKdWlTLSXLvNm8Ii6jsc1yGyrLCY-gLJ73THziExqZXJy-QyhNGg9bpklgaA004DOzDmbN6VhFXxTZVmv4WgywbAAm3goLqJNhSXtbSc_xFfJQiW9rZOtM6O8iLeHG2A_HOmV30aBj3Z0kTQV5WzZeGbRQNBCKZvlKwJNYRVU4dCEdqG5cFiRGsGkMYN6bMIOx9ou8nyIN0CMoqPXQhuBztIP9J67CZqKSMc5K3JirlDJ2fT5DHFmP9fpSzmfnLXK1jBMkoX5uG6dJSV7WPtm9NNNhDm13l0lgcPSu-8LnLuyj8UKLTUl11Q61n5by4T9JJrh5pPWmpu_VmGWl7TGoCPt8Hssicdn6aPKwzhFMEPqbGuu4e_5Nw05riiaxv5cWMM4Goq3doEF5a7x6LMdknTkFsUUEAQgVhKOvOpONljJ_LcG-m-GYyioup4SLoq3UEcwz5fjjOhslb1oZGNgF3uL6FpH705Qp8FnfWisHnn6Z5XYCpn42F4-4Htan_m2RvTDSJWsJ_Kv1vDutq13s_bXnaKfFXMY2unu4ys05CXkU2tlsN6PPJlqvV6qcdJjT-lb3_4K69vXpgXqxOgDg15kb51X3lCY76VmvJ-rmktqX_d2zeEpLRy0Vgf64k9FWXRTnVxkrK4=",
+      "brand": null,
+      "clickRedirectLinkoffTrackingUrl": null,
+      "logo": null,
+      "lotagline": null,
+      "rating": "0",
+      "slots": "HSR_AA",
+      "vanityUrl": null,
+      "rank": "2",
+      "position": "2"
+    },
+    "amenities": [],
+    "star": null,
+    "starRatingIcon": "STAR",
+    "availability": {
+      "available": true,
+      "text": null,
+      "theme": "URGENT"
+    },
+    "offerSummary": {
+      "messages": [
+        {
+          "message": "Fully refundable",
+          "theme": "SUCCESS",
+          "type": "FREE_CANCEL",
+          "mark": null
+        },
+        {
+          "message": "Reserve now, pay later",
+          "theme": "SUCCESS",
+          "type": "PAY_LATER",
+          "mark": null
+        }
+      ]
+    },
+    "legalDisclaimer": null,
+    "imageGallery": {
+      "accessibilityLabel": "Photo gallery for InterContinental Marine Drive Mumbai, an IHG Hotel",
+      "images": [
+        {
+          "image": {
+            "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/1000000/920000/916300/916201/47775203_b.jpg",
+            "description": "Featured image"
+          },
+          "subjectId": 3,
+          "fallbackImage": {
+            "url": "https://images.trvl-media.com/hotels/1000000/920000/916300/916201/47775203.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Featured image"
+          },
+          "imageId": "47992593"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/920000/916300/916201/70caa069.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Terrace/patio"
+          },
+          "subjectId": 91008,
+          "fallbackImage": null,
+          "imageId": "47992607"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/920000/916300/916201/bf11e34e.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Pool"
+          },
+          "subjectId": 30000,
+          "fallbackImage": null,
+          "imageId": "47993264"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/920000/916300/916201/39099f6d.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Bedroom"
+          },
+          "subjectId": 21001,
+          "fallbackImage": null,
+          "imageId": "550079724"
+        }
+      ]
+    },
+    "mapMarker": {
+      "icon": "HOTEL",
+      "label": "Rs9,000",
+      "type": "HOTEL",
+      "latLong": {
+        "latitude": 18.934954,
+        "longitude": 72.824103
+      },
+      "clientSideAnalytics": {
+        "referrerId": "Module.Map.HotelMarkerSelect",
+        "linkName": "User selecting a hotel marker on the PWA HSR map"
+      }
+    },
+    "neighborhood": {
+      "name": "Mumbai"
+    },
+    "pinnedDetails": null,
+    "recentlyViewed": null,
+    "featuredMessages": null,
+    "supportingMessages": ["Excludes taxes & fees"],
+    "shortList": {
+      "favorited": false,
+      "saveUrl": "/api/ucs/shortlist/save/916201",
+      "removeUrl": "/api/ucs/shortlist/remove/916201",
+      "metaData": {
+        "chkIn": "20220311",
+        "chkOut": "20220312",
+        "hotelId": "916201",
+        "roomConfiguration": "2"
+      }
+    },
+    "highlightedPropertyDetails": [],
+    "propertySource": null,
+    "dataAttributes": null,
+    "listingFooter": null
+  },
+  {
+    "__typename": "Property",
+    "id": "2631410",
+    "name": "Holiday Inn Mumbai International Airport, an IHG Hotel",
+    "propertyImage": {
+      "image": {
+        "description": "Featured image",
+        "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/3000000/2640000/2631500/2631410/84d1abe2_b.jpg"
+      },
+      "fallbackImage": {
+        "description": "Featured image",
+        "url": "https://images.trvl-media.com/hotels/3000000/2640000/2631500/2631410/84d1abe2.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      }
+    },
+    "offerBadge": {
+      "primary": {
+        "text": "Ad",
+        "theme_temp": "SPONSORED",
+        "icon_temp": null,
+        "mark": null
+      },
+      "secondary": null
+    },
+    "price": {
+      "alignment": null,
+      "displayMessages": null,
+      "lead": {
+        "formatted": "Rs5,865"
+      },
+      "strikeOutType": "PRICE_SURVEY",
+      "strikeOut": null,
+      "disclaimer": null,
+      "roomNightMessage": "per night",
+      "priceMessages": [
+        {
+          "value": "per night"
+        }
+      ],
+      "marketingFeeDetails": null,
+      "options": [
+        {
+          "leadingCaption": null,
+          "displayPrice": {
+            "formatted": "Rs5,865"
+          },
+          "strikeOut": null,
+          "loyaltyPrice": null,
+          "disclaimer": null
+        }
+      ]
+    },
+    "reviews": {
+      "score": 4.2,
+      "localizedScore": "4.2",
+      "total": 606,
+      "localizedTotal": "606 reviews",
+      "superlative": "Very good",
+      "localizedSubtitle": "4.2 / 5 (606 reviews)",
+      "localizedSubtitleA11y": {
+        "accessibilityLabel": "4.2 out of 5 Very good (606 reviews)",
+        "value": "4.2/5 Very good (606 reviews)"
+      },
+      "mark": null
+    },
+    "destinationInfo": {
+      "distanceFromMessaging": null
+    },
+    "vipMessaging": null,
+    "propertyDetailsLink": {
+      "uri": {
+        "value": "https://www.expedia.co.in/Mumbai-Hotels-Holiday-Inn-Mumbai-International-Airport.h2631410.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810286208&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=6050062&destination=Mumbai+%28and+vicinity%29%2C+Maharashtra%2C+India&destType=MARKET&neighborhoodId=553248635974587286&trackingData=AAAAECczfNLCMPRy7XcI6Q8j_5t1o7aMuCw5W-rcgU6r1F0CC0lpURKfTFKwA33rNF-Sl1x9SdknylAB5S0Y6rXvnjP98kkANrCGh9vKHC6qlCLCUd5bFuPXG_mRbeJZ8fJkvY1xm0AlXDSFiraYG0QCP8l7Vqto04Lae8tfIDoSleMhhuphelbN8nUWgJiJYuLbSPACSCWEOlOgG-5AOx1lt-LRbSsWFIqJzj1sP-9Z7MvQo9THXnwCxHgqkeYcmYuyc4jYEGCN6OaK26gp8egBhOrSrRBottXgZqhXAYDNsXZJOkunYc58kvQX5mVMEH66M6-xrspx8fqw6VenXb5Y5g7j-ZddTpyDLUzEcxja1VF-s6KtCvC7HFWEJHWrnybmuj5H0mvrR-CKN4Sv2xt3yY749CAzagYiu7UYRg03UhoIwVkFfR86bM7_lEa8cYvfLPJU8sv_TS-_iUa00BVmiCekqL5_lc3ahtETb-UNbVpwx0jY1znaR0fN1KDVzi5cP4SxuDRY7Mh_vb_d8yACxCUs9GcbBW0wEex_MLwUECpEW-J5CILjNBaWGXzHHKslUtiTiuTnZd8RmBtLoJYjN6iKPJkjxoWVbX726kO-LN-k6sQo6gqO7WTuXGYfu3aWhn0oYq1O0qT0ts0JvGg4A3LX4l5Dh_SI5yUCvvaiySuoCF-T8hUFpEzsQK7YO6GKDJY-PWR4XvK1th_L-F_2JF0pUpFRFAsgU8k3KZ0X-4LYAzb1qAZ1ruKEjmdcB5ypsCVOCKc0eQzgJiold3C0iAYQE0YMw9nhiJvXg-ICDqQ3RmGAaVlL6jkcXvhU-tflhorQS-75TYAQzpmmb6TGQPgirMuTRRvNU7hNtykx-lqlnfhfWLcR4UNNpk8__rRiHkPpDDDHWwhjGoeB3siHX8Qwmoa5-laOwG9WpLkAY0R9nhT_iROcJdZuTCz0pNLkTGeN2IAtMEohEi7JGteGFgd6j3nvSFER8ylqnELfTFS1jiXWaDIcIODuQ1-KKYp8aWBcgBzYrhwW5vg2SQFXW85VNdPpzeVkN9OK__-R6X_LGQd7n9ys9vyv2Zx6v9autno48mJW6oqMhiT8yKjw-m4OAZR1kBrLnMnfH5XccO-VpLOE2nqhtC1eP6Ew_V_KUR2lVLsVNskfa-L1dRsBcgE%3D&rank=3&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_DYN&position=3&beaconIssued=2022-02-25T17%3A31%3A25&sort=RECOMMENDED&top_dp=5865&top_cur=INR&semdtl=&userIntent=&selectedRoomType=449330&selectedRatePlan=222283347",
+        "relativePath": "/Mumbai-Hotels-Holiday-Inn-Mumbai-International-Airport.h2631410.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810286208&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=6050062&destination=Mumbai+%28and+vicinity%29%2C+Maharashtra%2C+India&destType=MARKET&neighborhoodId=553248635974587286&trackingData=AAAAECczfNLCMPRy7XcI6Q8j_5t1o7aMuCw5W-rcgU6r1F0CC0lpURKfTFKwA33rNF-Sl1x9SdknylAB5S0Y6rXvnjP98kkANrCGh9vKHC6qlCLCUd5bFuPXG_mRbeJZ8fJkvY1xm0AlXDSFiraYG0QCP8l7Vqto04Lae8tfIDoSleMhhuphelbN8nUWgJiJYuLbSPACSCWEOlOgG-5AOx1lt-LRbSsWFIqJzj1sP-9Z7MvQo9THXnwCxHgqkeYcmYuyc4jYEGCN6OaK26gp8egBhOrSrRBottXgZqhXAYDNsXZJOkunYc58kvQX5mVMEH66M6-xrspx8fqw6VenXb5Y5g7j-ZddTpyDLUzEcxja1VF-s6KtCvC7HFWEJHWrnybmuj5H0mvrR-CKN4Sv2xt3yY749CAzagYiu7UYRg03UhoIwVkFfR86bM7_lEa8cYvfLPJU8sv_TS-_iUa00BVmiCekqL5_lc3ahtETb-UNbVpwx0jY1znaR0fN1KDVzi5cP4SxuDRY7Mh_vb_d8yACxCUs9GcbBW0wEex_MLwUECpEW-J5CILjNBaWGXzHHKslUtiTiuTnZd8RmBtLoJYjN6iKPJkjxoWVbX726kO-LN-k6sQo6gqO7WTuXGYfu3aWhn0oYq1O0qT0ts0JvGg4A3LX4l5Dh_SI5yUCvvaiySuoCF-T8hUFpEzsQK7YO6GKDJY-PWR4XvK1th_L-F_2JF0pUpFRFAsgU8k3KZ0X-4LYAzb1qAZ1ruKEjmdcB5ypsCVOCKc0eQzgJiold3C0iAYQE0YMw9nhiJvXg-ICDqQ3RmGAaVlL6jkcXvhU-tflhorQS-75TYAQzpmmb6TGQPgirMuTRRvNU7hNtykx-lqlnfhfWLcR4UNNpk8__rRiHkPpDDDHWwhjGoeB3siHX8Qwmoa5-laOwG9WpLkAY0R9nhT_iROcJdZuTCz0pNLkTGeN2IAtMEohEi7JGteGFgd6j3nvSFER8ylqnELfTFS1jiXWaDIcIODuQ1-KKYp8aWBcgBzYrhwW5vg2SQFXW85VNdPpzeVkN9OK__-R6X_LGQd7n9ys9vyv2Zx6v9autno48mJW6oqMhiT8yKjw-m4OAZR1kBrLnMnfH5XccO-VpLOE2nqhtC1eP6Ew_V_KUR2lVLsVNskfa-L1dRsBcgE%3D&rank=3&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_DYN&position=3&beaconIssued=2022-02-25T17%3A31%3A25&sort=RECOMMENDED&top_dp=5865&top_cur=INR&semdtl=&userIntent=&selectedRoomType=449330&selectedRatePlan=222283347"
+      },
+      "clientSideAnalytics": {
+        "referrerId": "HOT.SR:HotelModule:3",
+        "linkName": "View selected property"
+      }
+    },
+    "sponsoredListing": {
+      "id": "650423",
+      "clickRedirectTrackingUrl": "https://www.expedia.co.in/taps/v1/ClRedirect?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&destinationUrl=&rank=3&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAECczfNLCMPRy7XcI6Q8j_5t1o7aMuCw5W-rcgU6r1F0CC0lpURKfTFKwA33rNF-Sl1x9SdknylAB5S0Y6rXvnjP98kkANrCGh9vKHC6qlCLCUd5bFuPXG_mRbeJZ8fJkvY1xm0AlXDSFiraYG0QCP8l7Vqto04Lae8tfIDoSleMhhuphelbN8nUWgJiJYuLbSPACSCWEOlOgG-5AOx1lt-LRbSsWFIqJzj1sP-9Z7MvQo9THXnwCxHgqkeYcmYuyc4jYEGCN6OaK26gp8egBhOrSrRBottXgZqhXAYDNsXZJOkunYc58kvQX5mVMEH66M6-xrspx8fqw6VenXb5Y5g7j-ZddTpyDLUzEcxja1VF-s6KtCvC7HFWEJHWrnybmuj5H0mvrR-CKN4Sv2xt3yY749CAzagYiu7UYRg03UhoIwVkFfR86bM7_lEa8cYvfLPJU8sv_TS-_iUa00BVmiCekqL5_lc3ahtETb-UNbVpwx0jY1znaR0fN1KDVzi5cP4SxuDRY7Mh_vb_d8yACxCUs9GcbBW0wEex_MLwUECpEW-J5CILjNBaWGXzHHKslUtiTiuTnZd8RmBtLoJYjN6iKPJkjxoWVbX726kO-LN-k6sQo6gqO7WTuXGYfu3aWhn0oYq1O0qT0ts0JvGg4A3LX4l5Dh_SI5yUCvvaiySuoCF-T8hUFpEzsQK7YO6GKDJY-PWR4XvK1th_L-F_2JF0pUpFRFAsgU8k3KZ0X-4LYAzb1qAZ1ruKEjmdcB5ypsCVOCKc0eQzgJiold3C0iAYQE0YMw9nhiJvXg-ICDqQ3RmGAaVlL6jkcXvhU-tflhorQS-75TYAQzpmmb6TGQPgirMuTRRvNU7hNtykx-lqlnfhfWLcR4UNNpk8__rRiHkPpDDDHWwhjGoeB3siHX8Qwmoa5-laOwG9WpLkAY0R9nhT_iROcJdZuTCz0pNLkTGeN2IAtMEohEi7JGteGFgd6j3nvSFER8ylqnELfTFS1jiXWaDIcIODuQ1-KKYp8aWBcgBzYrhwW5vg2SQFXW85VNdPpzeVkN9OK__-R6X_LGQd7n9ys9vyv2Zx6v9autno48mJW6oqMhiT8yKjw-m4OAZR1kBrLnMnfH5XccO-VpLOE2nqhtC1eP6Ew_V_KUR2lVLsVNskfa-L1dRsBcgE=&slots=HSR_DYN&position=3&beaconIssued=2022-02-25T17:31:25",
+      "clickTrackingUrl": "https://www.expedia.co.in/taps/v1/Cl?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=3&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAECczfNLCMPRy7XcI6Q8j_5t1o7aMuCw5W-rcgU6r1F0CC0lpURKfTFKwA33rNF-Sl1x9SdknylAB5S0Y6rXvnjP98kkANrCGh9vKHC6qlCLCUd5bFuPXG_mRbeJZ8fJkvY1xm0AlXDSFiraYG0QCP8l7Vqto04Lae8tfIDoSleMhhuphelbN8nUWgJiJYuLbSPACSCWEOlOgG-5AOx1lt-LRbSsWFIqJzj1sP-9Z7MvQo9THXnwCxHgqkeYcmYuyc4jYEGCN6OaK26gp8egBhOrSrRBottXgZqhXAYDNsXZJOkunYc58kvQX5mVMEH66M6-xrspx8fqw6VenXb5Y5g7j-ZddTpyDLUzEcxja1VF-s6KtCvC7HFWEJHWrnybmuj5H0mvrR-CKN4Sv2xt3yY749CAzagYiu7UYRg03UhoIwVkFfR86bM7_lEa8cYvfLPJU8sv_TS-_iUa00BVmiCekqL5_lc3ahtETb-UNbVpwx0jY1znaR0fN1KDVzi5cP4SxuDRY7Mh_vb_d8yACxCUs9GcbBW0wEex_MLwUECpEW-J5CILjNBaWGXzHHKslUtiTiuTnZd8RmBtLoJYjN6iKPJkjxoWVbX726kO-LN-k6sQo6gqO7WTuXGYfu3aWhn0oYq1O0qT0ts0JvGg4A3LX4l5Dh_SI5yUCvvaiySuoCF-T8hUFpEzsQK7YO6GKDJY-PWR4XvK1th_L-F_2JF0pUpFRFAsgU8k3KZ0X-4LYAzb1qAZ1ruKEjmdcB5ypsCVOCKc0eQzgJiold3C0iAYQE0YMw9nhiJvXg-ICDqQ3RmGAaVlL6jkcXvhU-tflhorQS-75TYAQzpmmb6TGQPgirMuTRRvNU7hNtykx-lqlnfhfWLcR4UNNpk8__rRiHkPpDDDHWwhjGoeB3siHX8Qwmoa5-laOwG9WpLkAY0R9nhT_iROcJdZuTCz0pNLkTGeN2IAtMEohEi7JGteGFgd6j3nvSFER8ylqnELfTFS1jiXWaDIcIODuQ1-KKYp8aWBcgBzYrhwW5vg2SQFXW85VNdPpzeVkN9OK__-R6X_LGQd7n9ys9vyv2Zx6v9autno48mJW6oqMhiT8yKjw-m4OAZR1kBrLnMnfH5XccO-VpLOE2nqhtC1eP6Ew_V_KUR2lVLsVNskfa-L1dRsBcgE=&slots=HSR_DYN&position=3&beaconIssued=2022-02-25T17:31:25",
+      "details": "Enjoy up to 25 percent off at over 160 hotels in India, Middle East and Africa. Book by 30 April 2022.",
+      "detailsHeadline": "Up to 25pct off at over 160 IHG Hotels",
+      "hotelImage": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/3000000/2640000/2631500/2631410/84d1abe2_b.jpg",
+      "impressionTrackingUrl": "https://www.expedia.co.in/taps/v1/Impr?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=3&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAECczfNLCMPRy7XcI6Q8j_5t1o7aMuCw5W-rcgU6r1F0CC0lpURKfTFKwA33rNF-Sl1x9SdknylAB5S0Y6rXvnjP98kkANrCGh9vKHC6qlCLCUd5bFuPXG_mRbeJZ8fJkvY1xm0AlXDSFiraYG0QCP8l7Vqto04Lae8tfIDoSleMhhuphelbN8nUWgJiJYuLbSPACSCWEOlOgG-5AOx1lt-LRbSsWFIqJzj1sP-9Z7MvQo9THXnwCxHgqkeYcmYuyc4jYEGCN6OaK26gp8egBhOrSrRBottXgZqhXAYDNsXZJOkunYc58kvQX5mVMEH66M6-xrspx8fqw6VenXb5Y5g7j-ZddTpyDLUzEcxja1VF-s6KtCvC7HFWEJHWrnybmuj5H0mvrR-CKN4Sv2xt3yY749CAzagYiu7UYRg03UhoIwVkFfR86bM7_lEa8cYvfLPJU8sv_TS-_iUa00BVmiCekqL5_lc3ahtETb-UNbVpwx0jY1znaR0fN1KDVzi5cP4SxuDRY7Mh_vb_d8yACxCUs9GcbBW0wEex_MLwUECpEW-J5CILjNBaWGXzHHKslUtiTiuTnZd8RmBtLoJYjN6iKPJkjxoWVbX726kO-LN-k6sQo6gqO7WTuXGYfu3aWhn0oYq1O0qT0ts0JvGg4A3LX4l5Dh_SI5yUCvvaiySuoCF-T8hUFpEzsQK7YO6GKDJY-PWR4XvK1th_L-F_2JF0pUpFRFAsgU8k3KZ0X-4LYAzb1qAZ1ruKEjmdcB5ypsCVOCKc0eQzgJiold3C0iAYQE0YMw9nhiJvXg-ICDqQ3RmGAaVlL6jkcXvhU-tflhorQS-75TYAQzpmmb6TGQPgirMuTRRvNU7hNtykx-lqlnfhfWLcR4UNNpk8__rRiHkPpDDDHWwhjGoeB3siHX8Qwmoa5-laOwG9WpLkAY0R9nhT_iROcJdZuTCz0pNLkTGeN2IAtMEohEi7JGteGFgd6j3nvSFER8ylqnELfTFS1jiXWaDIcIODuQ1-KKYp8aWBcgBzYrhwW5vg2SQFXW85VNdPpzeVkN9OK__-R6X_LGQd7n9ys9vyv2Zx6v9autno48mJW6oqMhiT8yKjw-m4OAZR1kBrLnMnfH5XccO-VpLOE2nqhtC1eP6Ew_V_KUR2lVLsVNskfa-L1dRsBcgE=&slots=HSR_DYN&position=3&beaconIssued=2022-02-25T17:31:25",
+      "trackingData": "AAAAECczfNLCMPRy7XcI6Q8j_5t1o7aMuCw5W-rcgU6r1F0CC0lpURKfTFKwA33rNF-Sl1x9SdknylAB5S0Y6rXvnjP98kkANrCGh9vKHC6qlCLCUd5bFuPXG_mRbeJZ8fJkvY1xm0AlXDSFiraYG0QCP8l7Vqto04Lae8tfIDoSleMhhuphelbN8nUWgJiJYuLbSPACSCWEOlOgG-5AOx1lt-LRbSsWFIqJzj1sP-9Z7MvQo9THXnwCxHgqkeYcmYuyc4jYEGCN6OaK26gp8egBhOrSrRBottXgZqhXAYDNsXZJOkunYc58kvQX5mVMEH66M6-xrspx8fqw6VenXb5Y5g7j-ZddTpyDLUzEcxja1VF-s6KtCvC7HFWEJHWrnybmuj5H0mvrR-CKN4Sv2xt3yY749CAzagYiu7UYRg03UhoIwVkFfR86bM7_lEa8cYvfLPJU8sv_TS-_iUa00BVmiCekqL5_lc3ahtETb-UNbVpwx0jY1znaR0fN1KDVzi5cP4SxuDRY7Mh_vb_d8yACxCUs9GcbBW0wEex_MLwUECpEW-J5CILjNBaWGXzHHKslUtiTiuTnZd8RmBtLoJYjN6iKPJkjxoWVbX726kO-LN-k6sQo6gqO7WTuXGYfu3aWhn0oYq1O0qT0ts0JvGg4A3LX4l5Dh_SI5yUCvvaiySuoCF-T8hUFpEzsQK7YO6GKDJY-PWR4XvK1th_L-F_2JF0pUpFRFAsgU8k3KZ0X-4LYAzb1qAZ1ruKEjmdcB5ypsCVOCKc0eQzgJiold3C0iAYQE0YMw9nhiJvXg-ICDqQ3RmGAaVlL6jkcXvhU-tflhorQS-75TYAQzpmmb6TGQPgirMuTRRvNU7hNtykx-lqlnfhfWLcR4UNNpk8__rRiHkPpDDDHWwhjGoeB3siHX8Qwmoa5-laOwG9WpLkAY0R9nhT_iROcJdZuTCz0pNLkTGeN2IAtMEohEi7JGteGFgd6j3nvSFER8ylqnELfTFS1jiXWaDIcIODuQ1-KKYp8aWBcgBzYrhwW5vg2SQFXW85VNdPpzeVkN9OK__-R6X_LGQd7n9ys9vyv2Zx6v9autno48mJW6oqMhiT8yKjw-m4OAZR1kBrLnMnfH5XccO-VpLOE2nqhtC1eP6Ew_V_KUR2lVLsVNskfa-L1dRsBcgE=",
+      "brand": null,
+      "clickRedirectLinkoffTrackingUrl": null,
+      "logo": null,
+      "lotagline": null,
+      "rating": "0",
+      "slots": "HSR_DYN",
+      "vanityUrl": null,
+      "rank": "3",
+      "position": "3"
+    },
+    "amenities": [],
+    "star": null,
+    "starRatingIcon": "STAR",
+    "availability": {
+      "available": true,
+      "text": null,
+      "theme": "URGENT"
+    },
+    "offerSummary": {
+      "messages": [
+        {
+          "message": "Fully refundable",
+          "theme": "SUCCESS",
+          "type": "FREE_CANCEL",
+          "mark": null
+        },
+        {
+          "message": "Reserve now, pay later",
+          "theme": "SUCCESS",
+          "type": "PAY_LATER",
+          "mark": null
+        }
+      ]
+    },
+    "legalDisclaimer": null,
+    "imageGallery": {
+      "accessibilityLabel": "Photo gallery for Holiday Inn Mumbai International Airport, an IHG Hotel",
+      "images": [
+        {
+          "image": {
+            "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/3000000/2640000/2631500/2631410/84d1abe2_b.jpg",
+            "description": "Featured image"
+          },
+          "subjectId": 3,
+          "fallbackImage": {
+            "url": "https://images.trvl-media.com/hotels/3000000/2640000/2631500/2631410/84d1abe2.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Featured image"
+          },
+          "imageId": "63485024"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/3000000/2640000/2631500/2631410/d6d235dc.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Front of Property"
+          },
+          "subjectId": 91001,
+          "fallbackImage": null,
+          "imageId": "63484999"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/3000000/2640000/2631500/2631410/3e51e999.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Pool"
+          },
+          "subjectId": 30000,
+          "fallbackImage": null,
+          "imageId": "63485027"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/3000000/2640000/2631500/2631410/5701b391.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Bedroom"
+          },
+          "subjectId": 21001,
+          "fallbackImage": null,
+          "imageId": "113342122"
+        }
+      ]
+    },
+    "mapMarker": {
+      "icon": "HOTEL",
+      "label": "Rs5,865",
+      "type": "HOTEL",
+      "latLong": {
+        "latitude": 19.103344,
+        "longitude": 72.8874
+      },
+      "clientSideAnalytics": {
+        "referrerId": "Module.Map.HotelMarkerSelect",
+        "linkName": "User selecting a hotel marker on the PWA HSR map"
+      }
+    },
+    "neighborhood": {
+      "name": "Mumbai"
+    },
+    "pinnedDetails": null,
+    "recentlyViewed": null,
+    "featuredMessages": null,
+    "supportingMessages": ["Excludes taxes & fees"],
+    "shortList": {
+      "favorited": false,
+      "saveUrl": "/api/ucs/shortlist/save/2631410",
+      "removeUrl": "/api/ucs/shortlist/remove/2631410",
+      "metaData": {
+        "chkIn": "20220311",
+        "chkOut": "20220312",
+        "hotelId": "2631410",
+        "roomConfiguration": "2"
+      }
+    },
+    "highlightedPropertyDetails": [],
+    "propertySource": null,
+    "dataAttributes": null,
+    "listingFooter": null
+  },
+  {
+    "__typename": "MessageResult",
+    "title": {
+      "text": "You could be seeing lower prices",
+      "icon": null,
+      "mark": {
+        "description": "You could be seeing lower prices",
+        "id": "mod_exp"
+      },
+      "illustration": null,
+      "theme": null
+    },
+    "subtitle": {
+      "text": "With member prices, you could save 10% or more right now on thousands of properties.",
+      "icon": null,
+      "mark": null,
+      "illustration": null,
+      "theme": null
+    },
+    "action": {
+      "primary": {
+        "actionDetails": null,
+        "linkUrl": "https://www.expedia.co.in/user/signin?uurl=e3id%3Dredr%26rurl%3D%2FHotel-Search%3FregionId%3D6050062%26destination%3DMumbai%2B%2528and%2Bvicinity%2529%252C%2BMaharashtra%252C%2BIndia%26startDate%3D2022-03-11%26endDate%3D2022-03-12%26adults%3D2%26children%3D%26sort%3DRECOMMENDED%26semdtl%3D%26userIntent%3D",
+        "referrerId": ":LoginCard.SignIn",
+        "text": "Sign in"
+      },
+      "secondary": {
+        "actionDetails": null,
+        "linkUrl": "https://www.expedia.co.in/user/createaccount?uurl=e3id%3Dredr%26rurl%3D%2FHotel-Search%3FregionId%3D6050062%26destination%3DMumbai%2B%2528and%2Bvicinity%2529%252C%2BMaharashtra%252C%2BIndia%26startDate%3D2022-03-11%26endDate%3D2022-03-12%26adults%3D2%26children%3D%26sort%3DRECOMMENDED%26semdtl%3D%26userIntent%3D&fromheader=true",
+        "referrerId": ":LoginCard.CreateAccount",
+        "text": "Sign up, it's free"
+      }
+    },
+    "index": 3,
+    "type": "LOGIN"
+  },
+  {
+    "__typename": "Property",
+    "id": "3020992",
+    "name": "The Westin Mumbai Garden City",
+    "propertyImage": {
+      "image": {
+        "description": "Featured image",
+        "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/4000000/3030000/3021000/3020992/60cc7eb1_b.jpg"
+      },
+      "fallbackImage": {
+        "description": "Featured image",
+        "url": "https://images.trvl-media.com/hotels/4000000/3030000/3021000/3020992/d71f6a3b.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      }
+    },
+    "offerBadge": {
+      "primary": {
+        "text": "Ad",
+        "theme_temp": "SPONSORED",
+        "icon_temp": null,
+        "mark": null
+      },
+      "secondary": {
+        "text": "We have 5 left at",
+        "theme_temp": "DEAL_GENERIC",
+        "icon_temp": null
+      }
+    },
+    "price": {
+      "alignment": null,
+      "displayMessages": null,
+      "lead": {
+        "formatted": "Rs8,500"
+      },
+      "strikeOutType": "PRICE_SURVEY",
+      "strikeOut": null,
+      "disclaimer": null,
+      "roomNightMessage": "per night",
+      "priceMessages": [
+        {
+          "value": "per night"
+        }
+      ],
+      "marketingFeeDetails": null,
+      "options": [
+        {
+          "leadingCaption": null,
+          "displayPrice": {
+            "formatted": "Rs8,500"
+          },
+          "strikeOut": null,
+          "loyaltyPrice": null,
+          "disclaimer": null
+        }
+      ]
+    },
+    "reviews": {
+      "score": 4.6,
+      "localizedScore": "4.6",
+      "total": 303,
+      "localizedTotal": "303 reviews",
+      "superlative": "Wonderful",
+      "localizedSubtitle": "4.6 / 5 (303 reviews)",
+      "localizedSubtitleA11y": {
+        "accessibilityLabel": "4.6 out of 5 Wonderful (303 reviews)",
+        "value": "4.6/5 Wonderful (303 reviews)"
+      },
+      "mark": null
+    },
+    "destinationInfo": {
+      "distanceFromMessaging": null
+    },
+    "vipMessaging": null,
+    "propertyDetailsLink": {
+      "uri": {
+        "value": "https://www.expedia.co.in/Mumbai-Hotels-The-Westin-Mumbai-Garden-City.h3020992.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810286208&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=6050062&destination=Mumbai+%28and+vicinity%29%2C+Maharashtra%2C+India&destType=MARKET&neighborhoodId=553248635974587333&trackingData=AAAAEIGFPI5bRCwm3e0Aq8YzlNL6CfCVHneumOCuyCBf0BjjbJJaTjH20hLMdBck45-tKYT4JNJ1HYzOhjOubnH9Bawe59CrF4iAtQr-5mSy2xU5ZDT8BvxjAADp3xbvi-82hx0c7LyZPyNYY-rbW2z79gfnWxQG6_myzv3Ei99KxQ_KXU2MZ0GDTyGCMGC5l2od0wU5KtvDaADKpnbBz-BYI7NVIHh4geOawSaC_RHq6jZscNmkLLX9ateWbobl2gwRXomRtHNedLTBSdenGZxCB_vz9-M0IhUwOQGiDhml2L8aIwVG90nVodIsjUOMLWaHnMGG5XPn-3QdlbnbCrFoDgneGTPEyo_c04ko2wO2XluceJKXEsQdtKKDTAiulkFTlIqtaxTVhSG6H6MLvNyAg4TuZuRaW4MXU9jHFAN91g94QhgShN9uiPEw4huvaS8-e-DgwrIMhxzZxwpNRHehrpwDf19OzOJwD_Y6QDXlxfR_0vog9JP0jbxuTeFLtI03XnZwmaK4sRAt8TtT7Bj5yfZahvlwyIDH5LYcgVyYhCKt-W8FAk5I5oLbZ0MNB3_8wHhJBPTD8xIyRHghdBx1VErxNYUl-_3IRU1Hh-72Se72w7utEyPxUpdnBFAj0H2EW1DB3O522axMezKIS1lR_R3gtNCHd_i0vECz4KNN3Hbk31uAU_ilvbv2lPeiY5KLt_q99mDaEoID81oN5k6_SKNrKtT7QKouopZRPCor2tejW_9_yl0piOr2EqEMMrF7gG9HExpJH0kY9pcoQLMWB85qMv4rbpF7lCiL4mROlF_JSHd5H5kTR4PfJOChpAEywLFeZ5h2-kvK0Kul939Nr14nKUMdF9hZFApQxUOWti81F1wI3zMmJ99nLxGaQqMo5zkmkthiB4XEe3gY3DdUpE6Z7L_0Ze7RKMABtEiHbD6U3sr6MdKVbVx2I-FpyFDRYFbctrHbA_XRT960um1WvBkfAFNU-6X1oa5ZxRY0tqbgm6qNNCQBzRCJ9k_GgY5MvHTrDXFauxW9oE2OLIy0Wz9hycwDnWd4IK8cHbM4zzbJha9jRGr9HFByQktxXtCVj8NfUgFT-K3KHfIEH8u_Jvzl4DyYr827vM8mxcDVJIrfyoeky_iMNGxTS9rJO6XtnQ%3D%3D&rank=4&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_AB&position=4&beaconIssued=2022-02-25T17%3A31%3A25&sort=RECOMMENDED&top_dp=8500&top_cur=INR&semdtl=&userIntent=&selectedRoomType=218132424&selectedRatePlan=274127201",
+        "relativePath": "/Mumbai-Hotels-The-Westin-Mumbai-Garden-City.h3020992.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810286208&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=6050062&destination=Mumbai+%28and+vicinity%29%2C+Maharashtra%2C+India&destType=MARKET&neighborhoodId=553248635974587333&trackingData=AAAAEIGFPI5bRCwm3e0Aq8YzlNL6CfCVHneumOCuyCBf0BjjbJJaTjH20hLMdBck45-tKYT4JNJ1HYzOhjOubnH9Bawe59CrF4iAtQr-5mSy2xU5ZDT8BvxjAADp3xbvi-82hx0c7LyZPyNYY-rbW2z79gfnWxQG6_myzv3Ei99KxQ_KXU2MZ0GDTyGCMGC5l2od0wU5KtvDaADKpnbBz-BYI7NVIHh4geOawSaC_RHq6jZscNmkLLX9ateWbobl2gwRXomRtHNedLTBSdenGZxCB_vz9-M0IhUwOQGiDhml2L8aIwVG90nVodIsjUOMLWaHnMGG5XPn-3QdlbnbCrFoDgneGTPEyo_c04ko2wO2XluceJKXEsQdtKKDTAiulkFTlIqtaxTVhSG6H6MLvNyAg4TuZuRaW4MXU9jHFAN91g94QhgShN9uiPEw4huvaS8-e-DgwrIMhxzZxwpNRHehrpwDf19OzOJwD_Y6QDXlxfR_0vog9JP0jbxuTeFLtI03XnZwmaK4sRAt8TtT7Bj5yfZahvlwyIDH5LYcgVyYhCKt-W8FAk5I5oLbZ0MNB3_8wHhJBPTD8xIyRHghdBx1VErxNYUl-_3IRU1Hh-72Se72w7utEyPxUpdnBFAj0H2EW1DB3O522axMezKIS1lR_R3gtNCHd_i0vECz4KNN3Hbk31uAU_ilvbv2lPeiY5KLt_q99mDaEoID81oN5k6_SKNrKtT7QKouopZRPCor2tejW_9_yl0piOr2EqEMMrF7gG9HExpJH0kY9pcoQLMWB85qMv4rbpF7lCiL4mROlF_JSHd5H5kTR4PfJOChpAEywLFeZ5h2-kvK0Kul939Nr14nKUMdF9hZFApQxUOWti81F1wI3zMmJ99nLxGaQqMo5zkmkthiB4XEe3gY3DdUpE6Z7L_0Ze7RKMABtEiHbD6U3sr6MdKVbVx2I-FpyFDRYFbctrHbA_XRT960um1WvBkfAFNU-6X1oa5ZxRY0tqbgm6qNNCQBzRCJ9k_GgY5MvHTrDXFauxW9oE2OLIy0Wz9hycwDnWd4IK8cHbM4zzbJha9jRGr9HFByQktxXtCVj8NfUgFT-K3KHfIEH8u_Jvzl4DyYr827vM8mxcDVJIrfyoeky_iMNGxTS9rJO6XtnQ%3D%3D&rank=4&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_AB&position=4&beaconIssued=2022-02-25T17%3A31%3A25&sort=RECOMMENDED&top_dp=8500&top_cur=INR&semdtl=&userIntent=&selectedRoomType=218132424&selectedRatePlan=274127201"
+      },
+      "clientSideAnalytics": {
+        "referrerId": "HOT.SR:HotelModule:4",
+        "linkName": "View selected property"
+      }
+    },
+    "sponsoredListing": {
+      "id": "420692",
+      "clickRedirectTrackingUrl": "https://www.expedia.co.in/taps/v1/ClRedirect?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&destinationUrl=&rank=4&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEIGFPI5bRCwm3e0Aq8YzlNL6CfCVHneumOCuyCBf0BjjbJJaTjH20hLMdBck45-tKYT4JNJ1HYzOhjOubnH9Bawe59CrF4iAtQr-5mSy2xU5ZDT8BvxjAADp3xbvi-82hx0c7LyZPyNYY-rbW2z79gfnWxQG6_myzv3Ei99KxQ_KXU2MZ0GDTyGCMGC5l2od0wU5KtvDaADKpnbBz-BYI7NVIHh4geOawSaC_RHq6jZscNmkLLX9ateWbobl2gwRXomRtHNedLTBSdenGZxCB_vz9-M0IhUwOQGiDhml2L8aIwVG90nVodIsjUOMLWaHnMGG5XPn-3QdlbnbCrFoDgneGTPEyo_c04ko2wO2XluceJKXEsQdtKKDTAiulkFTlIqtaxTVhSG6H6MLvNyAg4TuZuRaW4MXU9jHFAN91g94QhgShN9uiPEw4huvaS8-e-DgwrIMhxzZxwpNRHehrpwDf19OzOJwD_Y6QDXlxfR_0vog9JP0jbxuTeFLtI03XnZwmaK4sRAt8TtT7Bj5yfZahvlwyIDH5LYcgVyYhCKt-W8FAk5I5oLbZ0MNB3_8wHhJBPTD8xIyRHghdBx1VErxNYUl-_3IRU1Hh-72Se72w7utEyPxUpdnBFAj0H2EW1DB3O522axMezKIS1lR_R3gtNCHd_i0vECz4KNN3Hbk31uAU_ilvbv2lPeiY5KLt_q99mDaEoID81oN5k6_SKNrKtT7QKouopZRPCor2tejW_9_yl0piOr2EqEMMrF7gG9HExpJH0kY9pcoQLMWB85qMv4rbpF7lCiL4mROlF_JSHd5H5kTR4PfJOChpAEywLFeZ5h2-kvK0Kul939Nr14nKUMdF9hZFApQxUOWti81F1wI3zMmJ99nLxGaQqMo5zkmkthiB4XEe3gY3DdUpE6Z7L_0Ze7RKMABtEiHbD6U3sr6MdKVbVx2I-FpyFDRYFbctrHbA_XRT960um1WvBkfAFNU-6X1oa5ZxRY0tqbgm6qNNCQBzRCJ9k_GgY5MvHTrDXFauxW9oE2OLIy0Wz9hycwDnWd4IK8cHbM4zzbJha9jRGr9HFByQktxXtCVj8NfUgFT-K3KHfIEH8u_Jvzl4DyYr827vM8mxcDVJIrfyoeky_iMNGxTS9rJO6XtnQ==&slots=HSR_AB&position=4&beaconIssued=2022-02-25T17:31:25",
+      "clickTrackingUrl": "https://www.expedia.co.in/taps/v1/Cl?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=4&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEIGFPI5bRCwm3e0Aq8YzlNL6CfCVHneumOCuyCBf0BjjbJJaTjH20hLMdBck45-tKYT4JNJ1HYzOhjOubnH9Bawe59CrF4iAtQr-5mSy2xU5ZDT8BvxjAADp3xbvi-82hx0c7LyZPyNYY-rbW2z79gfnWxQG6_myzv3Ei99KxQ_KXU2MZ0GDTyGCMGC5l2od0wU5KtvDaADKpnbBz-BYI7NVIHh4geOawSaC_RHq6jZscNmkLLX9ateWbobl2gwRXomRtHNedLTBSdenGZxCB_vz9-M0IhUwOQGiDhml2L8aIwVG90nVodIsjUOMLWaHnMGG5XPn-3QdlbnbCrFoDgneGTPEyo_c04ko2wO2XluceJKXEsQdtKKDTAiulkFTlIqtaxTVhSG6H6MLvNyAg4TuZuRaW4MXU9jHFAN91g94QhgShN9uiPEw4huvaS8-e-DgwrIMhxzZxwpNRHehrpwDf19OzOJwD_Y6QDXlxfR_0vog9JP0jbxuTeFLtI03XnZwmaK4sRAt8TtT7Bj5yfZahvlwyIDH5LYcgVyYhCKt-W8FAk5I5oLbZ0MNB3_8wHhJBPTD8xIyRHghdBx1VErxNYUl-_3IRU1Hh-72Se72w7utEyPxUpdnBFAj0H2EW1DB3O522axMezKIS1lR_R3gtNCHd_i0vECz4KNN3Hbk31uAU_ilvbv2lPeiY5KLt_q99mDaEoID81oN5k6_SKNrKtT7QKouopZRPCor2tejW_9_yl0piOr2EqEMMrF7gG9HExpJH0kY9pcoQLMWB85qMv4rbpF7lCiL4mROlF_JSHd5H5kTR4PfJOChpAEywLFeZ5h2-kvK0Kul939Nr14nKUMdF9hZFApQxUOWti81F1wI3zMmJ99nLxGaQqMo5zkmkthiB4XEe3gY3DdUpE6Z7L_0Ze7RKMABtEiHbD6U3sr6MdKVbVx2I-FpyFDRYFbctrHbA_XRT960um1WvBkfAFNU-6X1oa5ZxRY0tqbgm6qNNCQBzRCJ9k_GgY5MvHTrDXFauxW9oE2OLIy0Wz9hycwDnWd4IK8cHbM4zzbJha9jRGr9HFByQktxXtCVj8NfUgFT-K3KHfIEH8u_Jvzl4DyYr827vM8mxcDVJIrfyoeky_iMNGxTS9rJO6XtnQ==&slots=HSR_AB&position=4&beaconIssued=2022-02-25T17:31:25",
+      "details": "INR 3000 Hotel Credit, Complimentary Breakfast, 20% Discount on Spa, 15% off Food & Beverage, Laundry & more.",
+      "detailsHeadline": "Handcrafted Urban Getaways within Mumbai",
+      "hotelImage": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/4000000/3030000/3021000/3020992/60cc7eb1_b.jpg",
+      "impressionTrackingUrl": "https://www.expedia.co.in/taps/v1/Impr?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=4&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEIGFPI5bRCwm3e0Aq8YzlNL6CfCVHneumOCuyCBf0BjjbJJaTjH20hLMdBck45-tKYT4JNJ1HYzOhjOubnH9Bawe59CrF4iAtQr-5mSy2xU5ZDT8BvxjAADp3xbvi-82hx0c7LyZPyNYY-rbW2z79gfnWxQG6_myzv3Ei99KxQ_KXU2MZ0GDTyGCMGC5l2od0wU5KtvDaADKpnbBz-BYI7NVIHh4geOawSaC_RHq6jZscNmkLLX9ateWbobl2gwRXomRtHNedLTBSdenGZxCB_vz9-M0IhUwOQGiDhml2L8aIwVG90nVodIsjUOMLWaHnMGG5XPn-3QdlbnbCrFoDgneGTPEyo_c04ko2wO2XluceJKXEsQdtKKDTAiulkFTlIqtaxTVhSG6H6MLvNyAg4TuZuRaW4MXU9jHFAN91g94QhgShN9uiPEw4huvaS8-e-DgwrIMhxzZxwpNRHehrpwDf19OzOJwD_Y6QDXlxfR_0vog9JP0jbxuTeFLtI03XnZwmaK4sRAt8TtT7Bj5yfZahvlwyIDH5LYcgVyYhCKt-W8FAk5I5oLbZ0MNB3_8wHhJBPTD8xIyRHghdBx1VErxNYUl-_3IRU1Hh-72Se72w7utEyPxUpdnBFAj0H2EW1DB3O522axMezKIS1lR_R3gtNCHd_i0vECz4KNN3Hbk31uAU_ilvbv2lPeiY5KLt_q99mDaEoID81oN5k6_SKNrKtT7QKouopZRPCor2tejW_9_yl0piOr2EqEMMrF7gG9HExpJH0kY9pcoQLMWB85qMv4rbpF7lCiL4mROlF_JSHd5H5kTR4PfJOChpAEywLFeZ5h2-kvK0Kul939Nr14nKUMdF9hZFApQxUOWti81F1wI3zMmJ99nLxGaQqMo5zkmkthiB4XEe3gY3DdUpE6Z7L_0Ze7RKMABtEiHbD6U3sr6MdKVbVx2I-FpyFDRYFbctrHbA_XRT960um1WvBkfAFNU-6X1oa5ZxRY0tqbgm6qNNCQBzRCJ9k_GgY5MvHTrDXFauxW9oE2OLIy0Wz9hycwDnWd4IK8cHbM4zzbJha9jRGr9HFByQktxXtCVj8NfUgFT-K3KHfIEH8u_Jvzl4DyYr827vM8mxcDVJIrfyoeky_iMNGxTS9rJO6XtnQ==&slots=HSR_AB&position=4&beaconIssued=2022-02-25T17:31:25",
+      "trackingData": "AAAAEIGFPI5bRCwm3e0Aq8YzlNL6CfCVHneumOCuyCBf0BjjbJJaTjH20hLMdBck45-tKYT4JNJ1HYzOhjOubnH9Bawe59CrF4iAtQr-5mSy2xU5ZDT8BvxjAADp3xbvi-82hx0c7LyZPyNYY-rbW2z79gfnWxQG6_myzv3Ei99KxQ_KXU2MZ0GDTyGCMGC5l2od0wU5KtvDaADKpnbBz-BYI7NVIHh4geOawSaC_RHq6jZscNmkLLX9ateWbobl2gwRXomRtHNedLTBSdenGZxCB_vz9-M0IhUwOQGiDhml2L8aIwVG90nVodIsjUOMLWaHnMGG5XPn-3QdlbnbCrFoDgneGTPEyo_c04ko2wO2XluceJKXEsQdtKKDTAiulkFTlIqtaxTVhSG6H6MLvNyAg4TuZuRaW4MXU9jHFAN91g94QhgShN9uiPEw4huvaS8-e-DgwrIMhxzZxwpNRHehrpwDf19OzOJwD_Y6QDXlxfR_0vog9JP0jbxuTeFLtI03XnZwmaK4sRAt8TtT7Bj5yfZahvlwyIDH5LYcgVyYhCKt-W8FAk5I5oLbZ0MNB3_8wHhJBPTD8xIyRHghdBx1VErxNYUl-_3IRU1Hh-72Se72w7utEyPxUpdnBFAj0H2EW1DB3O522axMezKIS1lR_R3gtNCHd_i0vECz4KNN3Hbk31uAU_ilvbv2lPeiY5KLt_q99mDaEoID81oN5k6_SKNrKtT7QKouopZRPCor2tejW_9_yl0piOr2EqEMMrF7gG9HExpJH0kY9pcoQLMWB85qMv4rbpF7lCiL4mROlF_JSHd5H5kTR4PfJOChpAEywLFeZ5h2-kvK0Kul939Nr14nKUMdF9hZFApQxUOWti81F1wI3zMmJ99nLxGaQqMo5zkmkthiB4XEe3gY3DdUpE6Z7L_0Ze7RKMABtEiHbD6U3sr6MdKVbVx2I-FpyFDRYFbctrHbA_XRT960um1WvBkfAFNU-6X1oa5ZxRY0tqbgm6qNNCQBzRCJ9k_GgY5MvHTrDXFauxW9oE2OLIy0Wz9hycwDnWd4IK8cHbM4zzbJha9jRGr9HFByQktxXtCVj8NfUgFT-K3KHfIEH8u_Jvzl4DyYr827vM8mxcDVJIrfyoeky_iMNGxTS9rJO6XtnQ==",
+      "brand": null,
+      "clickRedirectLinkoffTrackingUrl": null,
+      "logo": null,
+      "lotagline": null,
+      "rating": "0",
+      "slots": "HSR_AB",
+      "vanityUrl": null,
+      "rank": "4",
+      "position": "4"
+    },
+    "amenities": [],
+    "star": null,
+    "starRatingIcon": "STAR",
+    "availability": {
+      "available": true,
+      "text": null,
+      "theme": "URGENT"
+    },
+    "offerSummary": {
+      "messages": [
+        {
+          "message": "Fully refundable",
+          "theme": "SUCCESS",
+          "type": "FREE_CANCEL",
+          "mark": null
+        },
+        {
+          "message": "Reserve now, pay later",
+          "theme": "SUCCESS",
+          "type": "PAY_LATER",
+          "mark": null
+        }
+      ]
+    },
+    "legalDisclaimer": null,
+    "imageGallery": {
+      "accessibilityLabel": "Photo gallery for The Westin Mumbai Garden City",
+      "images": [
+        {
+          "image": {
+            "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/4000000/3030000/3021000/3020992/60cc7eb1_b.jpg",
+            "description": "Featured image"
+          },
+          "subjectId": 3,
+          "fallbackImage": {
+            "url": "https://images.trvl-media.com/hotels/4000000/3030000/3021000/3020992/d71f6a3b.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Featured image"
+          },
+          "imageId": "67300147"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/4000000/3030000/3021000/3020992/e3b7f44f.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Outdoor wedding area"
+          },
+          "subjectId": 91011,
+          "fallbackImage": null,
+          "imageId": "68812592"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/4000000/3030000/3021000/3020992/bd8f1693.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Outdoor pool"
+          },
+          "subjectId": 30003,
+          "fallbackImage": null,
+          "imageId": "35657541"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/4000000/3030000/3021000/3020992/54c42030.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Bedroom"
+          },
+          "subjectId": 21001,
+          "fallbackImage": null,
+          "imageId": "372774265"
+        }
+      ]
+    },
+    "mapMarker": {
+      "icon": "HOTEL",
+      "label": "Rs8,500",
+      "type": "HOTEL",
+      "latLong": {
+        "latitude": 19.173413,
+        "longitude": 72.860695
+      },
+      "clientSideAnalytics": {
+        "referrerId": "Module.Map.HotelMarkerSelect",
+        "linkName": "User selecting a hotel marker on the PWA HSR map"
+      }
+    },
+    "neighborhood": {
+      "name": "Goregaon"
+    },
+    "pinnedDetails": null,
+    "recentlyViewed": null,
+    "featuredMessages": null,
+    "supportingMessages": ["Excludes taxes & fees"],
+    "shortList": {
+      "favorited": false,
+      "saveUrl": "/api/ucs/shortlist/save/3020992",
+      "removeUrl": "/api/ucs/shortlist/remove/3020992",
+      "metaData": {
+        "chkIn": "20220311",
+        "chkOut": "20220312",
+        "hotelId": "3020992",
+        "roomConfiguration": "2"
+      }
+    },
+    "highlightedPropertyDetails": [],
+    "propertySource": null,
+    "dataAttributes": null,
+    "listingFooter": null
+  },
+  {
+    "__typename": "Property",
+    "id": "1157448",
+    "name": "ITC Grand Central, a Luxury Collection Hotel, Mumbai",
+    "propertyImage": {
+      "image": {
+        "description": "Featured image",
+        "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/2000000/1160000/1157500/1157448/0d3933eb_b.jpg"
+      },
+      "fallbackImage": {
+        "description": "Featured image",
+        "url": "https://images.trvl-media.com/hotels/2000000/1160000/1157500/1157448/77c6ecd6.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      }
+    },
+    "offerBadge": {
+      "primary": {
+        "text": "Ad",
+        "theme_temp": "SPONSORED",
+        "icon_temp": null,
+        "mark": null
+      },
+      "secondary": {
+        "text": "We have 5 left at",
+        "theme_temp": "DEAL_GENERIC",
+        "icon_temp": null
+      }
+    },
+    "price": {
+      "alignment": null,
+      "displayMessages": null,
+      "lead": {
+        "formatted": "Rs7,200"
+      },
+      "strikeOutType": "STANDALONE",
+      "strikeOut": null,
+      "disclaimer": null,
+      "roomNightMessage": "per night",
+      "priceMessages": [
+        {
+          "value": "per night"
+        }
+      ],
+      "marketingFeeDetails": null,
+      "options": [
+        {
+          "leadingCaption": null,
+          "displayPrice": {
+            "formatted": "Rs7,200"
+          },
+          "strikeOut": null,
+          "loyaltyPrice": null,
+          "disclaimer": null
+        }
+      ]
+    },
+    "reviews": {
+      "score": 4.4,
+      "localizedScore": "4.4",
+      "total": 549,
+      "localizedTotal": "549 reviews",
+      "superlative": "Excellent",
+      "localizedSubtitle": "4.4 / 5 (549 reviews)",
+      "localizedSubtitleA11y": {
+        "accessibilityLabel": "4.4 out of 5 Excellent (549 reviews)",
+        "value": "4.4/5 Excellent (549 reviews)"
+      },
+      "mark": null
+    },
+    "destinationInfo": {
+      "distanceFromMessaging": null
+    },
+    "vipMessaging": null,
+    "propertyDetailsLink": {
+      "uri": {
+        "value": "https://www.expedia.co.in/Mumbai-Hotels-ITC-Grand-Central.h1157448.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810286208&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=6050062&destination=Mumbai+%28and+vicinity%29%2C+Maharashtra%2C+India&destType=MARKET&neighborhoodId=6294727&trackingData=AAAAEJMDuj9w52vjOGr_rea_qDcF1z75CQIYQQvfGasBSnZhUaFv1vF2WZ63XF5N4UzJdB4t2a47jtWdqAiMF_Gpihw9jjShI_LfLk654RxviYYokrX5lptqYj4u2J82ydCI5d8nDO0ovPP4LisIB7gmrPRMIMLF_KRTbW-I7NuNCjdWuKHzk1K4GBoIkrMAe8oZYuOPay0POoKz67SYqdRebkJt8dEWCwCzQm49H6hXdE1-4Qu-MHp649XT92J0BDU3So8FKvuZD-igbI04sm5Z8TevsWpkAFHmDKlSGZEba4PRkEeGor4_CMLHgI3RRUPxF1Ayia6yITC6ykA-Q-zfu6a3O5Aesz-Mnaf4nbAV4XZeFqI5OcSLFFe18bHkSnu0Xq4sHKcRDUwoqYRuwDbLevsGzZyZE1XWUl2X_hKVg6MMsCAsmyHQ_Kg-jNvZj2oD7oOTtUEo2imqRkcK7eUOHqPrtsaYQEilscCYcbyNfVoavzxqUhAFmtLKWKgOnqXdVEkJ8yICwVmUKHmO5q1GyhSMcI9-WMib4np5-4u_x6bZ2H6lbiuipo5pivbzhGTsD7ftdJwUDrqoAQmeuP4Bdz8Xsb2kHNaajd_-luc0TSsixTIp--PznilYUf5LWi2CHPkwrd9zu5Xi6eTLg4qvOFQKDqfNzUwqFkn8tNoi0LI2rYvJ_kk5gIr3i7oXOHLJ5kXWseGvG7t5Dxr03M7fquxmtSSDdiHO2Ut3MlaxKdcU7rcUTozb_DjjzIlEwcPrh2oNQTf3xNH1APNucH61Ox55R8UHrYMRj25MkXArM30V5dsJwmIuL0QG0eJUXc3La6rGmh2d5zzJXPb4cuQfhvyKnkON8RipRxSYEGvfCvkHTbrapcDhq6h586rL5IDEhZGeUgzmCwpqQbRTmLPZEk7yOXiqgIVCC5Oj8aPfUKy6E7j8aHYPdKDCECy8rntzvck0jFEb3kc46zOocgQYHj9tBpgMrKzHc9qNnTDwUUlpaYzKuSmM_fzbf3cX0d_Z-RDcvM6ToJYWZv00HRnb6D72L68gKQpWw27T6GQSvCBsK1LxUn1xK78g8Lz9io9rJB9za9JfmpxARR0u1rBb-4Vki8xIaBmqZhiFTYEbtTilBGIa26ZBVj6ClDq5RYBH1w%3D%3D&rank=5&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_AC&position=5&beaconIssued=2022-02-25T17%3A31%3A25&sort=RECOMMENDED&top_dp=7200&top_cur=INR&semdtl=&userIntent=&selectedRoomType=210304188&selectedRatePlan=222105838",
+        "relativePath": "/Mumbai-Hotels-ITC-Grand-Central.h1157448.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810286208&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=6050062&destination=Mumbai+%28and+vicinity%29%2C+Maharashtra%2C+India&destType=MARKET&neighborhoodId=6294727&trackingData=AAAAEJMDuj9w52vjOGr_rea_qDcF1z75CQIYQQvfGasBSnZhUaFv1vF2WZ63XF5N4UzJdB4t2a47jtWdqAiMF_Gpihw9jjShI_LfLk654RxviYYokrX5lptqYj4u2J82ydCI5d8nDO0ovPP4LisIB7gmrPRMIMLF_KRTbW-I7NuNCjdWuKHzk1K4GBoIkrMAe8oZYuOPay0POoKz67SYqdRebkJt8dEWCwCzQm49H6hXdE1-4Qu-MHp649XT92J0BDU3So8FKvuZD-igbI04sm5Z8TevsWpkAFHmDKlSGZEba4PRkEeGor4_CMLHgI3RRUPxF1Ayia6yITC6ykA-Q-zfu6a3O5Aesz-Mnaf4nbAV4XZeFqI5OcSLFFe18bHkSnu0Xq4sHKcRDUwoqYRuwDbLevsGzZyZE1XWUl2X_hKVg6MMsCAsmyHQ_Kg-jNvZj2oD7oOTtUEo2imqRkcK7eUOHqPrtsaYQEilscCYcbyNfVoavzxqUhAFmtLKWKgOnqXdVEkJ8yICwVmUKHmO5q1GyhSMcI9-WMib4np5-4u_x6bZ2H6lbiuipo5pivbzhGTsD7ftdJwUDrqoAQmeuP4Bdz8Xsb2kHNaajd_-luc0TSsixTIp--PznilYUf5LWi2CHPkwrd9zu5Xi6eTLg4qvOFQKDqfNzUwqFkn8tNoi0LI2rYvJ_kk5gIr3i7oXOHLJ5kXWseGvG7t5Dxr03M7fquxmtSSDdiHO2Ut3MlaxKdcU7rcUTozb_DjjzIlEwcPrh2oNQTf3xNH1APNucH61Ox55R8UHrYMRj25MkXArM30V5dsJwmIuL0QG0eJUXc3La6rGmh2d5zzJXPb4cuQfhvyKnkON8RipRxSYEGvfCvkHTbrapcDhq6h586rL5IDEhZGeUgzmCwpqQbRTmLPZEk7yOXiqgIVCC5Oj8aPfUKy6E7j8aHYPdKDCECy8rntzvck0jFEb3kc46zOocgQYHj9tBpgMrKzHc9qNnTDwUUlpaYzKuSmM_fzbf3cX0d_Z-RDcvM6ToJYWZv00HRnb6D72L68gKQpWw27T6GQSvCBsK1LxUn1xK78g8Lz9io9rJB9za9JfmpxARR0u1rBb-4Vki8xIaBmqZhiFTYEbtTilBGIa26ZBVj6ClDq5RYBH1w%3D%3D&rank=5&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_AC&position=5&beaconIssued=2022-02-25T17%3A31%3A25&sort=RECOMMENDED&top_dp=7200&top_cur=INR&semdtl=&userIntent=&selectedRoomType=210304188&selectedRatePlan=222105838"
+      },
+      "clientSideAnalytics": {
+        "referrerId": "HOT.SR:HotelModule:5",
+        "linkName": "View selected property"
+      }
+    },
+    "sponsoredListing": {
+      "id": "598647",
+      "clickRedirectTrackingUrl": "https://www.expedia.co.in/taps/v1/ClRedirect?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&destinationUrl=&rank=5&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEJMDuj9w52vjOGr_rea_qDcF1z75CQIYQQvfGasBSnZhUaFv1vF2WZ63XF5N4UzJdB4t2a47jtWdqAiMF_Gpihw9jjShI_LfLk654RxviYYokrX5lptqYj4u2J82ydCI5d8nDO0ovPP4LisIB7gmrPRMIMLF_KRTbW-I7NuNCjdWuKHzk1K4GBoIkrMAe8oZYuOPay0POoKz67SYqdRebkJt8dEWCwCzQm49H6hXdE1-4Qu-MHp649XT92J0BDU3So8FKvuZD-igbI04sm5Z8TevsWpkAFHmDKlSGZEba4PRkEeGor4_CMLHgI3RRUPxF1Ayia6yITC6ykA-Q-zfu6a3O5Aesz-Mnaf4nbAV4XZeFqI5OcSLFFe18bHkSnu0Xq4sHKcRDUwoqYRuwDbLevsGzZyZE1XWUl2X_hKVg6MMsCAsmyHQ_Kg-jNvZj2oD7oOTtUEo2imqRkcK7eUOHqPrtsaYQEilscCYcbyNfVoavzxqUhAFmtLKWKgOnqXdVEkJ8yICwVmUKHmO5q1GyhSMcI9-WMib4np5-4u_x6bZ2H6lbiuipo5pivbzhGTsD7ftdJwUDrqoAQmeuP4Bdz8Xsb2kHNaajd_-luc0TSsixTIp--PznilYUf5LWi2CHPkwrd9zu5Xi6eTLg4qvOFQKDqfNzUwqFkn8tNoi0LI2rYvJ_kk5gIr3i7oXOHLJ5kXWseGvG7t5Dxr03M7fquxmtSSDdiHO2Ut3MlaxKdcU7rcUTozb_DjjzIlEwcPrh2oNQTf3xNH1APNucH61Ox55R8UHrYMRj25MkXArM30V5dsJwmIuL0QG0eJUXc3La6rGmh2d5zzJXPb4cuQfhvyKnkON8RipRxSYEGvfCvkHTbrapcDhq6h586rL5IDEhZGeUgzmCwpqQbRTmLPZEk7yOXiqgIVCC5Oj8aPfUKy6E7j8aHYPdKDCECy8rntzvck0jFEb3kc46zOocgQYHj9tBpgMrKzHc9qNnTDwUUlpaYzKuSmM_fzbf3cX0d_Z-RDcvM6ToJYWZv00HRnb6D72L68gKQpWw27T6GQSvCBsK1LxUn1xK78g8Lz9io9rJB9za9JfmpxARR0u1rBb-4Vki8xIaBmqZhiFTYEbtTilBGIa26ZBVj6ClDq5RYBH1w==&slots=HSR_AC&position=5&beaconIssued=2022-02-25T17:31:25",
+      "clickTrackingUrl": "https://www.expedia.co.in/taps/v1/Cl?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=5&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEJMDuj9w52vjOGr_rea_qDcF1z75CQIYQQvfGasBSnZhUaFv1vF2WZ63XF5N4UzJdB4t2a47jtWdqAiMF_Gpihw9jjShI_LfLk654RxviYYokrX5lptqYj4u2J82ydCI5d8nDO0ovPP4LisIB7gmrPRMIMLF_KRTbW-I7NuNCjdWuKHzk1K4GBoIkrMAe8oZYuOPay0POoKz67SYqdRebkJt8dEWCwCzQm49H6hXdE1-4Qu-MHp649XT92J0BDU3So8FKvuZD-igbI04sm5Z8TevsWpkAFHmDKlSGZEba4PRkEeGor4_CMLHgI3RRUPxF1Ayia6yITC6ykA-Q-zfu6a3O5Aesz-Mnaf4nbAV4XZeFqI5OcSLFFe18bHkSnu0Xq4sHKcRDUwoqYRuwDbLevsGzZyZE1XWUl2X_hKVg6MMsCAsmyHQ_Kg-jNvZj2oD7oOTtUEo2imqRkcK7eUOHqPrtsaYQEilscCYcbyNfVoavzxqUhAFmtLKWKgOnqXdVEkJ8yICwVmUKHmO5q1GyhSMcI9-WMib4np5-4u_x6bZ2H6lbiuipo5pivbzhGTsD7ftdJwUDrqoAQmeuP4Bdz8Xsb2kHNaajd_-luc0TSsixTIp--PznilYUf5LWi2CHPkwrd9zu5Xi6eTLg4qvOFQKDqfNzUwqFkn8tNoi0LI2rYvJ_kk5gIr3i7oXOHLJ5kXWseGvG7t5Dxr03M7fquxmtSSDdiHO2Ut3MlaxKdcU7rcUTozb_DjjzIlEwcPrh2oNQTf3xNH1APNucH61Ox55R8UHrYMRj25MkXArM30V5dsJwmIuL0QG0eJUXc3La6rGmh2d5zzJXPb4cuQfhvyKnkON8RipRxSYEGvfCvkHTbrapcDhq6h586rL5IDEhZGeUgzmCwpqQbRTmLPZEk7yOXiqgIVCC5Oj8aPfUKy6E7j8aHYPdKDCECy8rntzvck0jFEb3kc46zOocgQYHj9tBpgMrKzHc9qNnTDwUUlpaYzKuSmM_fzbf3cX0d_Z-RDcvM6ToJYWZv00HRnb6D72L68gKQpWw27T6GQSvCBsK1LxUn1xK78g8Lz9io9rJB9za9JfmpxARR0u1rBb-4Vki8xIaBmqZhiFTYEbtTilBGIa26ZBVj6ClDq5RYBH1w==&slots=HSR_AC&position=5&beaconIssued=2022-02-25T17:31:25",
+      "details": null,
+      "detailsHeadline": null,
+      "hotelImage": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/2000000/1160000/1157500/1157448/0d3933eb_b.jpg",
+      "impressionTrackingUrl": "https://www.expedia.co.in/taps/v1/Impr?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=5&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEJMDuj9w52vjOGr_rea_qDcF1z75CQIYQQvfGasBSnZhUaFv1vF2WZ63XF5N4UzJdB4t2a47jtWdqAiMF_Gpihw9jjShI_LfLk654RxviYYokrX5lptqYj4u2J82ydCI5d8nDO0ovPP4LisIB7gmrPRMIMLF_KRTbW-I7NuNCjdWuKHzk1K4GBoIkrMAe8oZYuOPay0POoKz67SYqdRebkJt8dEWCwCzQm49H6hXdE1-4Qu-MHp649XT92J0BDU3So8FKvuZD-igbI04sm5Z8TevsWpkAFHmDKlSGZEba4PRkEeGor4_CMLHgI3RRUPxF1Ayia6yITC6ykA-Q-zfu6a3O5Aesz-Mnaf4nbAV4XZeFqI5OcSLFFe18bHkSnu0Xq4sHKcRDUwoqYRuwDbLevsGzZyZE1XWUl2X_hKVg6MMsCAsmyHQ_Kg-jNvZj2oD7oOTtUEo2imqRkcK7eUOHqPrtsaYQEilscCYcbyNfVoavzxqUhAFmtLKWKgOnqXdVEkJ8yICwVmUKHmO5q1GyhSMcI9-WMib4np5-4u_x6bZ2H6lbiuipo5pivbzhGTsD7ftdJwUDrqoAQmeuP4Bdz8Xsb2kHNaajd_-luc0TSsixTIp--PznilYUf5LWi2CHPkwrd9zu5Xi6eTLg4qvOFQKDqfNzUwqFkn8tNoi0LI2rYvJ_kk5gIr3i7oXOHLJ5kXWseGvG7t5Dxr03M7fquxmtSSDdiHO2Ut3MlaxKdcU7rcUTozb_DjjzIlEwcPrh2oNQTf3xNH1APNucH61Ox55R8UHrYMRj25MkXArM30V5dsJwmIuL0QG0eJUXc3La6rGmh2d5zzJXPb4cuQfhvyKnkON8RipRxSYEGvfCvkHTbrapcDhq6h586rL5IDEhZGeUgzmCwpqQbRTmLPZEk7yOXiqgIVCC5Oj8aPfUKy6E7j8aHYPdKDCECy8rntzvck0jFEb3kc46zOocgQYHj9tBpgMrKzHc9qNnTDwUUlpaYzKuSmM_fzbf3cX0d_Z-RDcvM6ToJYWZv00HRnb6D72L68gKQpWw27T6GQSvCBsK1LxUn1xK78g8Lz9io9rJB9za9JfmpxARR0u1rBb-4Vki8xIaBmqZhiFTYEbtTilBGIa26ZBVj6ClDq5RYBH1w==&slots=HSR_AC&position=5&beaconIssued=2022-02-25T17:31:25",
+      "trackingData": "AAAAEJMDuj9w52vjOGr_rea_qDcF1z75CQIYQQvfGasBSnZhUaFv1vF2WZ63XF5N4UzJdB4t2a47jtWdqAiMF_Gpihw9jjShI_LfLk654RxviYYokrX5lptqYj4u2J82ydCI5d8nDO0ovPP4LisIB7gmrPRMIMLF_KRTbW-I7NuNCjdWuKHzk1K4GBoIkrMAe8oZYuOPay0POoKz67SYqdRebkJt8dEWCwCzQm49H6hXdE1-4Qu-MHp649XT92J0BDU3So8FKvuZD-igbI04sm5Z8TevsWpkAFHmDKlSGZEba4PRkEeGor4_CMLHgI3RRUPxF1Ayia6yITC6ykA-Q-zfu6a3O5Aesz-Mnaf4nbAV4XZeFqI5OcSLFFe18bHkSnu0Xq4sHKcRDUwoqYRuwDbLevsGzZyZE1XWUl2X_hKVg6MMsCAsmyHQ_Kg-jNvZj2oD7oOTtUEo2imqRkcK7eUOHqPrtsaYQEilscCYcbyNfVoavzxqUhAFmtLKWKgOnqXdVEkJ8yICwVmUKHmO5q1GyhSMcI9-WMib4np5-4u_x6bZ2H6lbiuipo5pivbzhGTsD7ftdJwUDrqoAQmeuP4Bdz8Xsb2kHNaajd_-luc0TSsixTIp--PznilYUf5LWi2CHPkwrd9zu5Xi6eTLg4qvOFQKDqfNzUwqFkn8tNoi0LI2rYvJ_kk5gIr3i7oXOHLJ5kXWseGvG7t5Dxr03M7fquxmtSSDdiHO2Ut3MlaxKdcU7rcUTozb_DjjzIlEwcPrh2oNQTf3xNH1APNucH61Ox55R8UHrYMRj25MkXArM30V5dsJwmIuL0QG0eJUXc3La6rGmh2d5zzJXPb4cuQfhvyKnkON8RipRxSYEGvfCvkHTbrapcDhq6h586rL5IDEhZGeUgzmCwpqQbRTmLPZEk7yOXiqgIVCC5Oj8aPfUKy6E7j8aHYPdKDCECy8rntzvck0jFEb3kc46zOocgQYHj9tBpgMrKzHc9qNnTDwUUlpaYzKuSmM_fzbf3cX0d_Z-RDcvM6ToJYWZv00HRnb6D72L68gKQpWw27T6GQSvCBsK1LxUn1xK78g8Lz9io9rJB9za9JfmpxARR0u1rBb-4Vki8xIaBmqZhiFTYEbtTilBGIa26ZBVj6ClDq5RYBH1w==",
+      "brand": null,
+      "clickRedirectLinkoffTrackingUrl": null,
+      "logo": null,
+      "lotagline": null,
+      "rating": "0",
+      "slots": "HSR_AC",
+      "vanityUrl": null,
+      "rank": "5",
+      "position": "5"
+    },
+    "amenities": [],
+    "star": null,
+    "starRatingIcon": "STAR",
+    "availability": {
+      "available": true,
+      "text": null,
+      "theme": "URGENT"
+    },
+    "offerSummary": {
+      "messages": [
+        {
+          "message": "Fully refundable",
+          "theme": "SUCCESS",
+          "type": "FREE_CANCEL",
+          "mark": null
+        },
+        {
+          "message": "Reserve now, pay later",
+          "theme": "SUCCESS",
+          "type": "PAY_LATER",
+          "mark": null
+        }
+      ]
+    },
+    "legalDisclaimer": null,
+    "imageGallery": {
+      "accessibilityLabel": "Photo gallery for ITC Grand Central, a Luxury Collection Hotel, Mumbai",
+      "images": [
+        {
+          "image": {
+            "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/2000000/1160000/1157500/1157448/0d3933eb_b.jpg",
+            "description": "Featured image"
+          },
+          "subjectId": 3,
+          "fallbackImage": {
+            "url": "https://images.trvl-media.com/hotels/2000000/1160000/1157500/1157448/77c6ecd6.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Featured image"
+          },
+          "imageId": "42350206"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/2000000/1160000/1157500/1157448/7d11a56f.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Fountain"
+          },
+          "subjectId": 91015,
+          "fallbackImage": null,
+          "imageId": "68487187"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/2000000/1160000/1157500/1157448/2e166dc0.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Pool"
+          },
+          "subjectId": 30000,
+          "fallbackImage": null,
+          "imageId": "35406546"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/2000000/1160000/1157500/1157448/c5350601.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Bedroom"
+          },
+          "subjectId": 21001,
+          "fallbackImage": null,
+          "imageId": "68487693"
+        }
+      ]
+    },
+    "mapMarker": {
+      "icon": "HOTEL",
+      "label": "Rs7,200",
+      "type": "HOTEL",
+      "latLong": {
+        "latitude": 18.998666,
+        "longitude": 72.839073
+      },
+      "clientSideAnalytics": {
+        "referrerId": "Module.Map.HotelMarkerSelect",
+        "linkName": "User selecting a hotel marker on the PWA HSR map"
+      }
+    },
+    "neighborhood": {
+      "name": "Mumbai"
+    },
+    "pinnedDetails": null,
+    "recentlyViewed": null,
+    "featuredMessages": null,
+    "supportingMessages": ["Excludes taxes & fees"],
+    "shortList": {
+      "favorited": false,
+      "saveUrl": "/api/ucs/shortlist/save/1157448",
+      "removeUrl": "/api/ucs/shortlist/remove/1157448",
+      "metaData": {
+        "chkIn": "20220311",
+        "chkOut": "20220312",
+        "hotelId": "1157448",
+        "roomConfiguration": "2"
+      }
+    },
+    "highlightedPropertyDetails": [],
+    "propertySource": null,
+    "dataAttributes": null,
+    "listingFooter": null
+  },
+  {
+    "__typename": "Property",
+    "id": "19458493",
+    "name": "The Taj Mahal Palace Mumbai",
+    "propertyImage": {
+      "image": {
+        "description": "Featured image",
+        "url": "https://images.trvl-media.com/hotels/20000000/19460000/19458500/19458493/a7678da8.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      },
+      "fallbackImage": null
+    },
+    "offerBadge": {
+      "primary": null,
+      "secondary": {
+        "text": "Member Price available",
+        "theme_temp": "DEAL_MEMBER",
+        "icon_temp": {
+          "id": "mod",
+          "description": "mod",
+          "title": ""
+        }
+      }
+    },
+    "price": {
+      "alignment": null,
+      "displayMessages": null,
+      "lead": {
+        "formatted": "Rs22,000"
+      },
+      "strikeOutType": "PRICE_SURVEY",
+      "strikeOut": null,
+      "disclaimer": null,
+      "roomNightMessage": "per night",
+      "priceMessages": [
+        {
+          "value": "per night"
+        }
+      ],
+      "marketingFeeDetails": null,
+      "options": [
+        {
+          "leadingCaption": null,
+          "displayPrice": {
+            "formatted": "Rs22,000"
+          },
+          "strikeOut": null,
+          "loyaltyPrice": null,
+          "disclaimer": null
+        }
+      ]
+    },
+    "reviews": {
+      "score": 4.7,
+      "localizedScore": "4.7",
+      "total": 195,
+      "localizedTotal": "195 reviews",
+      "superlative": "Exceptional",
+      "localizedSubtitle": "4.7 / 5 (195 reviews)",
+      "localizedSubtitleA11y": {
+        "accessibilityLabel": "4.7 out of 5 Exceptional (195 reviews)",
+        "value": "4.7/5 Exceptional (195 reviews)"
+      },
+      "mark": null
+    },
+    "destinationInfo": {
+      "distanceFromMessaging": null
+    },
+    "vipMessaging": null,
+    "propertyDetailsLink": {
+      "uri": {
+        "value": "https://www.expedia.co.in/Mumbai-Hotels-The-Taj-Mahal-Palace-Mumbai.h19458493.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810286208&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=6050062&destination=Mumbai+%28and+vicinity%29%2C+Maharashtra%2C+India&destType=MARKET&neighborhoodId=6173372&sort=RECOMMENDED&top_dp=22000&top_cur=INR&semdtl=&userIntent=&selectedRoomType=202128130&selectedRatePlan=210937636",
+        "relativePath": "/Mumbai-Hotels-The-Taj-Mahal-Palace-Mumbai.h19458493.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810286208&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=6050062&destination=Mumbai+%28and+vicinity%29%2C+Maharashtra%2C+India&destType=MARKET&neighborhoodId=6173372&sort=RECOMMENDED&top_dp=22000&top_cur=INR&semdtl=&userIntent=&selectedRoomType=202128130&selectedRatePlan=210937636"
+      },
+      "clientSideAnalytics": {
+        "referrerId": "HOT.SR:HotelModule:6",
+        "linkName": "View selected property"
+      }
+    },
+    "sponsoredListing": null,
+    "amenities": [],
+    "star": null,
+    "starRatingIcon": "STAR",
+    "availability": {
+      "available": true,
+      "text": null,
+      "theme": "URGENT"
+    },
+    "offerSummary": {
+      "messages": [
+        {
+          "message": "Fully refundable",
+          "theme": "SUCCESS",
+          "type": "FREE_CANCEL",
+          "mark": null
+        },
+        {
+          "message": "Reserve now, pay later",
+          "theme": "SUCCESS",
+          "type": "PAY_LATER",
+          "mark": null
+        }
+      ]
+    },
+    "legalDisclaimer": null,
+    "imageGallery": {
+      "accessibilityLabel": "Photo gallery for The Taj Mahal Palace Mumbai",
+      "images": [
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/20000000/19460000/19458500/19458493/a7678da8.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Featured image"
+          },
+          "subjectId": 3,
+          "fallbackImage": null,
+          "imageId": "35509241"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/20000000/19460000/19458500/19458493/21dd333b.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Front of Property - Evening/Night"
+          },
+          "subjectId": 91003,
+          "fallbackImage": null,
+          "imageId": "35509108"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/20000000/19460000/19458500/19458493/1db78232.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Outdoor pool"
+          },
+          "subjectId": 30003,
+          "fallbackImage": null,
+          "imageId": "35509208"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/20000000/19460000/19458500/19458493/f93bcf11.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "View from Room"
+          },
+          "subjectId": 22013,
+          "fallbackImage": null,
+          "imageId": "96408226"
+        }
+      ]
+    },
+    "mapMarker": {
+      "icon": "HOTEL",
+      "label": "Rs22,000",
+      "type": "HOTEL",
+      "latLong": {
+        "latitude": 18.921979,
+        "longitude": 72.832563
+      },
+      "clientSideAnalytics": {
+        "referrerId": "Module.Map.HotelMarkerSelect",
+        "linkName": "User selecting a hotel marker on the PWA HSR map"
+      }
+    },
+    "neighborhood": {
+      "name": "Mumbai"
+    },
+    "pinnedDetails": null,
+    "recentlyViewed": null,
+    "featuredMessages": null,
+    "supportingMessages": ["Excludes taxes & fees"],
+    "shortList": {
+      "favorited": false,
+      "saveUrl": "/api/ucs/shortlist/save/19458493",
+      "removeUrl": "/api/ucs/shortlist/remove/19458493",
+      "metaData": {
+        "chkIn": "20220311",
+        "chkOut": "20220312",
+        "hotelId": "19458493",
+        "roomConfiguration": "2"
+      }
+    },
+    "highlightedPropertyDetails": [],
+    "propertySource": null,
+    "dataAttributes": null,
+    "listingFooter": {
+      "actionDetails": {
+        "name": "EXTERNAL_LINK"
+      },
+      "icon": {
+        "description": "",
+        "id": "chevron_right"
+      },
+      "linkUrl": "https://www.expedia.co.in/user/createaccount?uurl=e3id%3Dredr%26rurl%3D%2FHotel-Search%3FregionId%3D6050062%26destination%3DMumbai%2B%2528and%2Bvicinity%2529%252C%2BMaharashtra%252C%2BIndia%26startDate%3D2022-03-11%26endDate%3D2022-03-12%26adults%3D2%26children%3D%26sort%3DRECOMMENDED%26semdtl%3D%26userIntent%3D%26selected%3D19458493&fromheader=true",
+      "referrerId": ":LodgingCard.createAccount:6",
+      "text": "Sign up for Member Price"
+    }
+  },
+  {
+    "__typename": "Property",
+    "id": "1351876",
+    "name": "Taj Mahal Tower, Mumbai",
+    "propertyImage": {
+      "image": {
+        "description": "Featured image",
+        "url": "https://images.trvl-media.com/hotels/2000000/1360000/1351900/1351876/1ac59945.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      },
+      "fallbackImage": null
+    },
+    "offerBadge": {
+      "primary": null,
+      "secondary": {
+        "text": "Member Price available",
+        "theme_temp": "DEAL_MEMBER",
+        "icon_temp": {
+          "id": "mod",
+          "description": "mod",
+          "title": ""
+        }
+      }
+    },
+    "price": {
+      "alignment": null,
+      "displayMessages": null,
+      "lead": {
+        "formatted": "Rs10,000"
+      },
+      "strikeOutType": "PRICE_SURVEY",
+      "strikeOut": null,
+      "disclaimer": null,
+      "roomNightMessage": "per night",
+      "priceMessages": [
+        {
+          "value": "per night"
+        }
+      ],
+      "marketingFeeDetails": null,
+      "options": [
+        {
+          "leadingCaption": null,
+          "displayPrice": {
+            "formatted": "Rs10,000"
+          },
+          "strikeOut": null,
+          "loyaltyPrice": null,
+          "disclaimer": null
+        }
+      ]
+    },
+    "reviews": {
+      "score": 4.8,
+      "localizedScore": "4.8",
+      "total": 998,
+      "localizedTotal": "998 reviews",
+      "superlative": "Exceptional",
+      "localizedSubtitle": "4.8 / 5 (998 reviews)",
+      "localizedSubtitleA11y": {
+        "accessibilityLabel": "4.8 out of 5 Exceptional (998 reviews)",
+        "value": "4.8/5 Exceptional (998 reviews)"
+      },
+      "mark": null
+    },
+    "destinationInfo": {
+      "distanceFromMessaging": null
+    },
+    "vipMessaging": null,
+    "propertyDetailsLink": {
+      "uri": {
+        "value": "https://www.expedia.co.in/Mumbai-Hotels-Taj-Mahal-Tower.h1351876.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810286208&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=6050062&destination=Mumbai+%28and+vicinity%29%2C+Maharashtra%2C+India&destType=MARKET&neighborhoodId=6173372&sort=RECOMMENDED&top_dp=10000&top_cur=INR&semdtl=&userIntent=&selectedRoomType=346247&selectedRatePlan=205151338",
+        "relativePath": "/Mumbai-Hotels-Taj-Mahal-Tower.h1351876.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810286208&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=6050062&destination=Mumbai+%28and+vicinity%29%2C+Maharashtra%2C+India&destType=MARKET&neighborhoodId=6173372&sort=RECOMMENDED&top_dp=10000&top_cur=INR&semdtl=&userIntent=&selectedRoomType=346247&selectedRatePlan=205151338"
+      },
+      "clientSideAnalytics": {
+        "referrerId": "HOT.SR:HotelModule:7",
+        "linkName": "View selected property"
+      }
+    },
+    "sponsoredListing": null,
+    "amenities": [],
+    "star": null,
+    "starRatingIcon": "STAR",
+    "availability": {
+      "available": true,
+      "text": null,
+      "theme": "URGENT"
+    },
+    "offerSummary": {
+      "messages": [
+        {
+          "message": "Fully refundable",
+          "theme": "SUCCESS",
+          "type": "FREE_CANCEL",
+          "mark": null
+        },
+        {
+          "message": "Reserve now, pay later",
+          "theme": "SUCCESS",
+          "type": "PAY_LATER",
+          "mark": null
+        }
+      ]
+    },
+    "legalDisclaimer": null,
+    "imageGallery": {
+      "accessibilityLabel": "Photo gallery for Taj Mahal Tower, Mumbai",
+      "images": [
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/2000000/1360000/1351900/1351876/1ac59945.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Featured image"
+          },
+          "subjectId": 3,
+          "fallbackImage": null,
+          "imageId": "24461435"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/2000000/1360000/1351900/1351876/db2752bd.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Exterior"
+          },
+          "subjectId": 91024,
+          "fallbackImage": null,
+          "imageId": "16827651"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/2000000/1360000/1351900/1351876/e7496f6d.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Bedroom"
+          },
+          "subjectId": 21001,
+          "fallbackImage": null,
+          "imageId": "16209347"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/2000000/1360000/1351900/1351876/a80151c4.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Bar"
+          },
+          "subjectId": 82000,
+          "fallbackImage": null,
+          "imageId": "54891757"
+        }
+      ]
+    },
+    "mapMarker": {
+      "icon": "HOTEL",
+      "label": "Rs10,000",
+      "type": "HOTEL",
+      "latLong": {
+        "latitude": 18.921949,
+        "longitude": 72.83252
+      },
+      "clientSideAnalytics": {
+        "referrerId": "Module.Map.HotelMarkerSelect",
+        "linkName": "User selecting a hotel marker on the PWA HSR map"
+      }
+    },
+    "neighborhood": {
+      "name": "Mumbai"
+    },
+    "pinnedDetails": null,
+    "recentlyViewed": null,
+    "featuredMessages": null,
+    "supportingMessages": ["Excludes taxes & fees"],
+    "shortList": {
+      "favorited": false,
+      "saveUrl": "/api/ucs/shortlist/save/1351876",
+      "removeUrl": "/api/ucs/shortlist/remove/1351876",
+      "metaData": {
+        "chkIn": "20220311",
+        "chkOut": "20220312",
+        "hotelId": "1351876",
+        "roomConfiguration": "2"
+      }
+    },
+    "highlightedPropertyDetails": [],
+    "propertySource": null,
+    "dataAttributes": null,
+    "listingFooter": null
+  },
+  {
+    "__typename": "Property",
+    "id": "11859338",
+    "name": "Niranta Airport Transit Hotel & Lounge Terminal 2 Arrivals",
+    "propertyImage": {
+      "image": {
+        "description": "Featured image",
+        "url": "https://images.trvl-media.com/hotels/12000000/11860000/11859400/11859338/e6ea5baa.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      },
+      "fallbackImage": null
+    },
+    "offerBadge": {
+      "primary": {
+        "text": "VIP Access",
+        "theme_temp": "VIP",
+        "icon_temp": null,
+        "mark": null
+      },
+      "secondary": {
+        "text": "Member Price available",
+        "theme_temp": "DEAL_MEMBER",
+        "icon_temp": {
+          "id": "mod",
+          "description": "mod",
+          "title": ""
+        }
+      }
+    },
+    "price": {
+      "alignment": null,
+      "displayMessages": null,
+      "lead": {
+        "formatted": "Rs6,035"
+      },
+      "strikeOutType": "STANDALONE",
+      "strikeOut": {
+        "formatted": "Rs7,100"
+      },
+      "disclaimer": {
+        "value": "This price is the standard rate provided by the property based on your search."
+      },
+      "roomNightMessage": "per night",
+      "priceMessages": [
+        {
+          "value": "per night"
+        }
+      ],
+      "marketingFeeDetails": null,
+      "options": [
+        {
+          "leadingCaption": null,
+          "displayPrice": {
+            "formatted": "Rs6,035"
+          },
+          "strikeOut": {
+            "formatted": "Rs7,100"
+          },
+          "loyaltyPrice": null,
+          "disclaimer": {
+            "value": "This price is the standard rate provided by the property based on your search."
+          }
+        }
+      ]
+    },
+    "reviews": {
+      "score": 4.1,
+      "localizedScore": "4.1",
+      "total": 927,
+      "localizedTotal": "927 reviews",
+      "superlative": "Very good",
+      "localizedSubtitle": "4.1 / 5 (927 reviews)",
+      "localizedSubtitleA11y": {
+        "accessibilityLabel": "4.1 out of 5 Very good (927 reviews)",
+        "value": "4.1/5 Very good (927 reviews)"
+      },
+      "mark": null
+    },
+    "destinationInfo": {
+      "distanceFromMessaging": null
+    },
+    "vipMessaging": "VIP Access",
+    "propertyDetailsLink": {
+      "uri": {
+        "value": "https://www.expedia.co.in/Mumbai-Hotels-Niranta-Airport-Transit-Hotel-Lounge-Terminal-2-Arrivals.h11859338.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810286209&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=6050062&destination=Mumbai+%28and+vicinity%29%2C+Maharashtra%2C+India&destType=MARKET&neighborhoodId=553248635974577946&sort=RECOMMENDED&top_dp=6035&top_cur=INR&semdtl=&userIntent=&selectedRoomType=201922787&selectedRatePlan=209741592",
+        "relativePath": "/Mumbai-Hotels-Niranta-Airport-Transit-Hotel-Lounge-Terminal-2-Arrivals.h11859338.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810286209&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=6050062&destination=Mumbai+%28and+vicinity%29%2C+Maharashtra%2C+India&destType=MARKET&neighborhoodId=553248635974577946&sort=RECOMMENDED&top_dp=6035&top_cur=INR&semdtl=&userIntent=&selectedRoomType=201922787&selectedRatePlan=209741592"
+      },
+      "clientSideAnalytics": {
+        "referrerId": "HOT.SR:HotelModule:8",
+        "linkName": "View selected property"
+      }
+    },
+    "sponsoredListing": null,
+    "amenities": [],
+    "star": null,
+    "starRatingIcon": "STAR",
+    "availability": {
+      "available": true,
+      "text": null,
+      "theme": "URGENT"
+    },
+    "offerSummary": {
+      "messages": [
+        {
+          "message": "Fully refundable",
+          "theme": "SUCCESS",
+          "type": "FREE_CANCEL",
+          "mark": null
+        },
+        {
+          "message": "Reserve now, pay later",
+          "theme": "SUCCESS",
+          "type": "PAY_LATER",
+          "mark": null
+        }
+      ]
+    },
+    "legalDisclaimer": null,
+    "imageGallery": {
+      "accessibilityLabel": "Photo gallery for Niranta Airport Transit Hotel & Lounge Terminal 2 Arrivals",
+      "images": [
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/12000000/11860000/11859400/11859338/e6ea5baa.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Featured image"
+          },
+          "subjectId": 3,
+          "fallbackImage": null,
+          "imageId": "99601242"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/12000000/11860000/11859400/11859338/2d184a43.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Exterior"
+          },
+          "subjectId": 91024,
+          "fallbackImage": null,
+          "imageId": "99601070"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/12000000/11860000/11859400/11859338/e6b2b537.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Bedroom"
+          },
+          "subjectId": 21001,
+          "fallbackImage": null,
+          "imageId": "30618350"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/12000000/11860000/11859400/11859338/80ff3bfc.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Bar"
+          },
+          "subjectId": 82000,
+          "fallbackImage": null,
+          "imageId": "30618349"
+        }
+      ]
+    },
+    "mapMarker": {
+      "icon": "HOTEL",
+      "label": "Rs6,035",
+      "type": "HOTEL",
+      "latLong": {
+        "latitude": 19.099724,
+        "longitude": 72.874423
+      },
+      "clientSideAnalytics": {
+        "referrerId": "Module.Map.HotelMarkerSelect",
+        "linkName": "User selecting a hotel marker on the PWA HSR map"
+      }
+    },
+    "neighborhood": {
+      "name": "Mumbai"
+    },
+    "pinnedDetails": null,
+    "recentlyViewed": null,
+    "featuredMessages": null,
+    "supportingMessages": ["Excludes taxes & fees"],
+    "shortList": {
+      "favorited": false,
+      "saveUrl": "/api/ucs/shortlist/save/11859338",
+      "removeUrl": "/api/ucs/shortlist/remove/11859338",
+      "metaData": {
+        "chkIn": "20220311",
+        "chkOut": "20220312",
+        "hotelId": "11859338",
+        "roomConfiguration": "2"
+      }
+    },
+    "highlightedPropertyDetails": [],
+    "propertySource": null,
+    "dataAttributes": null,
+    "listingFooter": null
+  },
+  {
+    "__typename": "Property",
+    "id": "20189",
+    "name": "President, Mumbai - IHCL SeleQtions",
+    "propertyImage": {
+      "image": {
+        "description": "Featured image",
+        "url": "https://images.trvl-media.com/hotels/1000000/30000/20200/20189/fef45990.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      },
+      "fallbackImage": null
+    },
+    "offerBadge": {
+      "primary": null,
+      "secondary": {
+        "text": "Member Price available",
+        "theme_temp": "DEAL_MEMBER",
+        "icon_temp": {
+          "id": "mod",
+          "description": "mod",
+          "title": ""
+        }
+      }
+    },
+    "price": {
+      "alignment": null,
+      "displayMessages": null,
+      "lead": {
+        "formatted": "Rs7,000"
+      },
+      "strikeOutType": "PRICE_SURVEY",
+      "strikeOut": null,
+      "disclaimer": null,
+      "roomNightMessage": "per night",
+      "priceMessages": [
+        {
+          "value": "per night"
+        }
+      ],
+      "marketingFeeDetails": null,
+      "options": [
+        {
+          "leadingCaption": null,
+          "displayPrice": {
+            "formatted": "Rs7,000"
+          },
+          "strikeOut": null,
+          "loyaltyPrice": null,
+          "disclaimer": null
+        }
+      ]
+    },
+    "reviews": {
+      "score": 4.3,
+      "localizedScore": "4.3",
+      "total": 967,
+      "localizedTotal": "967 reviews",
+      "superlative": "Excellent",
+      "localizedSubtitle": "4.3 / 5 (967 reviews)",
+      "localizedSubtitleA11y": {
+        "accessibilityLabel": "4.3 out of 5 Excellent (967 reviews)",
+        "value": "4.3/5 Excellent (967 reviews)"
+      },
+      "mark": null
+    },
+    "destinationInfo": {
+      "distanceFromMessaging": null
+    },
+    "vipMessaging": null,
+    "propertyDetailsLink": {
+      "uri": {
+        "value": "https://www.expedia.co.in/Mumbai-Hotels-President.h20189.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810286210&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=6050062&destination=Mumbai+%28and+vicinity%29%2C+Maharashtra%2C+India&destType=MARKET&neighborhoodId=6171895&sort=RECOMMENDED&top_dp=7000&top_cur=INR&semdtl=&userIntent=&selectedRoomType=223172&selectedRatePlan=205137676",
+        "relativePath": "/Mumbai-Hotels-President.h20189.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810286210&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=6050062&destination=Mumbai+%28and+vicinity%29%2C+Maharashtra%2C+India&destType=MARKET&neighborhoodId=6171895&sort=RECOMMENDED&top_dp=7000&top_cur=INR&semdtl=&userIntent=&selectedRoomType=223172&selectedRatePlan=205137676"
+      },
+      "clientSideAnalytics": {
+        "referrerId": "HOT.SR:HotelModule:9",
+        "linkName": "View selected property"
+      }
+    },
+    "sponsoredListing": null,
+    "amenities": [],
+    "star": null,
+    "starRatingIcon": "STAR",
+    "availability": {
+      "available": true,
+      "text": null,
+      "theme": "URGENT"
+    },
+    "offerSummary": {
+      "messages": [
+        {
+          "message": "Fully refundable",
+          "theme": "SUCCESS",
+          "type": "FREE_CANCEL",
+          "mark": null
+        },
+        {
+          "message": "Reserve now, pay later",
+          "theme": "SUCCESS",
+          "type": "PAY_LATER",
+          "mark": null
+        }
+      ]
+    },
+    "legalDisclaimer": null,
+    "imageGallery": {
+      "accessibilityLabel": "Photo gallery for President, Mumbai - IHCL SeleQtions",
+      "images": [
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/30000/20200/20189/fef45990.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Featured image"
+          },
+          "subjectId": 3,
+          "fallbackImage": null,
+          "imageId": "483054623"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/30000/20200/20189/d6d1bbb2.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Terrace/patio"
+          },
+          "subjectId": 91008,
+          "fallbackImage": null,
+          "imageId": "97691500"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/30000/20200/20189/9676dd75.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Pool"
+          },
+          "subjectId": 30000,
+          "fallbackImage": null,
+          "imageId": "97692356"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/30000/20200/20189/22218940.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Bedroom"
+          },
+          "subjectId": 21001,
+          "fallbackImage": null,
+          "imageId": "97695172"
+        }
+      ]
+    },
+    "mapMarker": {
+      "icon": "HOTEL",
+      "label": "Rs7,000",
+      "type": "HOTEL",
+      "latLong": {
+        "latitude": 18.914948,
+        "longitude": 72.820694
+      },
+      "clientSideAnalytics": {
+        "referrerId": "Module.Map.HotelMarkerSelect",
+        "linkName": "User selecting a hotel marker on the PWA HSR map"
+      }
+    },
+    "neighborhood": {
+      "name": "Mumbai"
+    },
+    "pinnedDetails": null,
+    "recentlyViewed": null,
+    "featuredMessages": null,
+    "supportingMessages": ["Excludes taxes & fees"],
+    "shortList": {
+      "favorited": false,
+      "saveUrl": "/api/ucs/shortlist/save/20189",
+      "removeUrl": "/api/ucs/shortlist/remove/20189",
+      "metaData": {
+        "chkIn": "20220311",
+        "chkOut": "20220312",
+        "hotelId": "20189",
+        "roomConfiguration": "2"
+      }
+    },
+    "highlightedPropertyDetails": [],
+    "propertySource": null,
+    "dataAttributes": null,
+    "listingFooter": null
+  }
+]

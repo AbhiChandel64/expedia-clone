@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles/header.css">
+    <link rel="stylesheet" href="styles/search.css">
+    <title>Search</title>
+</head>
+
+<body>
+    <div id="app" class="main">
+        <div class="header" id="header"></div>
+
+        <div class="container">
+            <!-- <div class="left"></div> -->
+            <div class="right" id="search-data-previewer"></div>
+        </div>
+    </div>
+
+    <script type="module">
+        import getHeader from "./scripts/header.js";
+        import renderSearchData from "./scripts/search.js";
+
+        const headerElement = document.getElementById("header");
+        headerElement.innerHTML = getHeader();
+
+        const headerLogo = document.getElementById("header-logo");
+        headerLogo.onclick = () => {
+            window.location.href = "/";
+        };
+
+        const dataPreviewerElement = document.getElementById("search-data-previewer");
+        renderSearchData(dataPreviewerElement);
+
+    </script>
+</body>
+
+</html>

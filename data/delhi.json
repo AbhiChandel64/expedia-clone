@@ -1,0 +1,1747 @@
+[
+  {
+    "__typename": "Property",
+    "id": "4446223",
+    "name": "Crowne Plaza New Delhi Rohini, an IHG Hotel",
+    "propertyImage": {
+      "image": {
+        "description": "Featured image",
+        "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/5000000/4450000/4446300/4446223/ef6c928b_b.jpg"
+      },
+      "fallbackImage": {
+        "description": "Featured image",
+        "url": "https://images.trvl-media.com/hotels/5000000/4450000/4446300/4446223/ef6c928b.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      }
+    },
+    "offerBadge": {
+      "primary": {
+        "text": "Ad",
+        "theme_temp": "SPONSORED",
+        "icon_temp": null,
+        "mark": null
+      },
+      "secondary": null
+    },
+    "price": {
+      "alignment": null,
+      "displayMessages": null,
+      "lead": {
+        "formatted": "Rs5,490"
+      },
+      "strikeOutType": "PRICE_SURVEY",
+      "strikeOut": null,
+      "disclaimer": null,
+      "roomNightMessage": "per night",
+      "priceMessages": [
+        {
+          "value": "per night"
+        }
+      ],
+      "marketingFeeDetails": null,
+      "options": [
+        {
+          "leadingCaption": null,
+          "displayPrice": {
+            "formatted": "Rs5,490"
+          },
+          "strikeOut": null,
+          "loyaltyPrice": null,
+          "disclaimer": null
+        }
+      ]
+    },
+    "reviews": {
+      "score": 4.3,
+      "localizedScore": "4.3",
+      "total": 183,
+      "localizedTotal": "183 reviews",
+      "superlative": "Excellent",
+      "localizedSubtitle": "4.3 / 5 (183 reviews)",
+      "localizedSubtitleA11y": {
+        "accessibilityLabel": "4.3 out of 5 Excellent (183 reviews)",
+        "value": "4.3/5 Excellent (183 reviews)"
+      },
+      "mark": null
+    },
+    "destinationInfo": {
+      "distanceFromMessaging": null
+    },
+    "vipMessaging": null,
+    "propertyDetailsLink": {
+      "uri": {
+        "value": "https://www.expedia.co.in/Delhi-Hotels-Crowne-Plaza-New-Delhi-Rohini.h4446223.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810401961&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=180000&destination=Delhi+%28and+vicinity%29%2C+National+Capital+Territory+of+Delhi%2C+India&destType=MARKET&neighborhoodId=6003748&trackingData=AAAAEE3SQU7QjX80QybatOsnRfapwhyWCSdRHadUV4ElMp2caAm3sL_Oj_8sfPlS5Pl96j6dMfCvVDVCrrEZue64r8L4-uQLYcXeFwT5LRHMg07OuqJ6skxylW14jvSYirUJmGCb13Olrer9xM7_7HwxcgJBY_5-VbtNzZs-vvdrzoGYgwt2h3KUCyRfbBKx0slijGHYv06Oox9bgnbzuN2fji5-dqWdBDWdTa_HivY_SRopICFVLTqDA5YEpsrq6EFtd_f0NBiGoYVrOTKDgra2m6MSb0PKkURrCPdRLG6AdIF25CddMKf2MSCltX03bKuDjIAgQFtDdtjNRmPT788PcINa95YlUQfKU-gg4q8kqLyNio-2bHkPpzDVCQLepfKXndu40tC3Xfi_sfB689iiYVLGfWsuQZoznccHEGH6XaRhVQlOxf2e7TvCpMXWym9IKXKG13Ztdu0veie9qqYJBVgb0jfIrVwzkL96vZAOJYSLRRUHtU7FgEiGgY1XkaCdaD-1ayFgFjIrwmmGm29vxZDFQR2vYFSuspLAkq2Qhghc5bknXTMapb3mxFSZ9j6n-FXXMTS4rVbtS8D4oAZ5rv6x8SY81BelEjS_Vth2WuNqnVvTmXOVf271fizHuz33SW1_WypZw4feH09kJYdx8WYktyPsTZPnrdyMRcTyB0-jgsv0DTCk25Cteiz6Wwu12huAaGBsCg2NToFuNT0L3Zo2t0-0zPZSDqzdGMVxNdD_ZYhnbLmB-Rxuso4GrI4P8UOegfXwBE5dT6NB7BzkVoi_XW7vaPaMwz8gMGFF0LFI2CT1R_T2-t_soQtssb0RK-RiFdY8op732IrThfGKfBMXkLb_QZ_PpVF3BCfhU-M-lBNxUWWoVIPR0k88iMt3PzQrL3XfCvjf23m4tRyg_UEQ3lpeReJ_eenep2K3HaK59WoRerdpcIvbz2bPIfhoKmpJjg0l3ROTVLCR7VaaYyslUVcQ9fSwwutv_AsnzMUjqWUiPvtaL1JVE55PRPQG83XU1zCyBqBQgv2ws8AZpzD3r4cT3_BXHP3wKYnDM6onYQ0uCqvxSbd4eFJqwYVBRxBOIEteOl62K36BmCd7fwCA14xYyuag31Z06eqbSEFUz0QUj1_naI2T4h-2dRnXODIT6DbT7BFtNure6zgXbpY%3D&rank=1&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_A&position=1&beaconIssued=2022-02-25T17%3A33%3A20&sort=RECOMMENDED&top_dp=5490&top_cur=INR&semdtl=&userIntent=&selectedRoomType=211215039&selectedRatePlan=381034007",
+        "relativePath": "/Delhi-Hotels-Crowne-Plaza-New-Delhi-Rohini.h4446223.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810401961&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=180000&destination=Delhi+%28and+vicinity%29%2C+National+Capital+Territory+of+Delhi%2C+India&destType=MARKET&neighborhoodId=6003748&trackingData=AAAAEE3SQU7QjX80QybatOsnRfapwhyWCSdRHadUV4ElMp2caAm3sL_Oj_8sfPlS5Pl96j6dMfCvVDVCrrEZue64r8L4-uQLYcXeFwT5LRHMg07OuqJ6skxylW14jvSYirUJmGCb13Olrer9xM7_7HwxcgJBY_5-VbtNzZs-vvdrzoGYgwt2h3KUCyRfbBKx0slijGHYv06Oox9bgnbzuN2fji5-dqWdBDWdTa_HivY_SRopICFVLTqDA5YEpsrq6EFtd_f0NBiGoYVrOTKDgra2m6MSb0PKkURrCPdRLG6AdIF25CddMKf2MSCltX03bKuDjIAgQFtDdtjNRmPT788PcINa95YlUQfKU-gg4q8kqLyNio-2bHkPpzDVCQLepfKXndu40tC3Xfi_sfB689iiYVLGfWsuQZoznccHEGH6XaRhVQlOxf2e7TvCpMXWym9IKXKG13Ztdu0veie9qqYJBVgb0jfIrVwzkL96vZAOJYSLRRUHtU7FgEiGgY1XkaCdaD-1ayFgFjIrwmmGm29vxZDFQR2vYFSuspLAkq2Qhghc5bknXTMapb3mxFSZ9j6n-FXXMTS4rVbtS8D4oAZ5rv6x8SY81BelEjS_Vth2WuNqnVvTmXOVf271fizHuz33SW1_WypZw4feH09kJYdx8WYktyPsTZPnrdyMRcTyB0-jgsv0DTCk25Cteiz6Wwu12huAaGBsCg2NToFuNT0L3Zo2t0-0zPZSDqzdGMVxNdD_ZYhnbLmB-Rxuso4GrI4P8UOegfXwBE5dT6NB7BzkVoi_XW7vaPaMwz8gMGFF0LFI2CT1R_T2-t_soQtssb0RK-RiFdY8op732IrThfGKfBMXkLb_QZ_PpVF3BCfhU-M-lBNxUWWoVIPR0k88iMt3PzQrL3XfCvjf23m4tRyg_UEQ3lpeReJ_eenep2K3HaK59WoRerdpcIvbz2bPIfhoKmpJjg0l3ROTVLCR7VaaYyslUVcQ9fSwwutv_AsnzMUjqWUiPvtaL1JVE55PRPQG83XU1zCyBqBQgv2ws8AZpzD3r4cT3_BXHP3wKYnDM6onYQ0uCqvxSbd4eFJqwYVBRxBOIEteOl62K36BmCd7fwCA14xYyuag31Z06eqbSEFUz0QUj1_naI2T4h-2dRnXODIT6DbT7BFtNure6zgXbpY%3D&rank=1&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_A&position=1&beaconIssued=2022-02-25T17%3A33%3A20&sort=RECOMMENDED&top_dp=5490&top_cur=INR&semdtl=&userIntent=&selectedRoomType=211215039&selectedRatePlan=381034007"
+      },
+      "clientSideAnalytics": {
+        "referrerId": "HOT.SR:HotelModule:1",
+        "linkName": "View selected property"
+      }
+    },
+    "sponsoredListing": {
+      "id": "650453",
+      "clickRedirectTrackingUrl": "https://www.expedia.co.in/taps/v1/ClRedirect?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&destinationUrl=&rank=1&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEE3SQU7QjX80QybatOsnRfapwhyWCSdRHadUV4ElMp2caAm3sL_Oj_8sfPlS5Pl96j6dMfCvVDVCrrEZue64r8L4-uQLYcXeFwT5LRHMg07OuqJ6skxylW14jvSYirUJmGCb13Olrer9xM7_7HwxcgJBY_5-VbtNzZs-vvdrzoGYgwt2h3KUCyRfbBKx0slijGHYv06Oox9bgnbzuN2fji5-dqWdBDWdTa_HivY_SRopICFVLTqDA5YEpsrq6EFtd_f0NBiGoYVrOTKDgra2m6MSb0PKkURrCPdRLG6AdIF25CddMKf2MSCltX03bKuDjIAgQFtDdtjNRmPT788PcINa95YlUQfKU-gg4q8kqLyNio-2bHkPpzDVCQLepfKXndu40tC3Xfi_sfB689iiYVLGfWsuQZoznccHEGH6XaRhVQlOxf2e7TvCpMXWym9IKXKG13Ztdu0veie9qqYJBVgb0jfIrVwzkL96vZAOJYSLRRUHtU7FgEiGgY1XkaCdaD-1ayFgFjIrwmmGm29vxZDFQR2vYFSuspLAkq2Qhghc5bknXTMapb3mxFSZ9j6n-FXXMTS4rVbtS8D4oAZ5rv6x8SY81BelEjS_Vth2WuNqnVvTmXOVf271fizHuz33SW1_WypZw4feH09kJYdx8WYktyPsTZPnrdyMRcTyB0-jgsv0DTCk25Cteiz6Wwu12huAaGBsCg2NToFuNT0L3Zo2t0-0zPZSDqzdGMVxNdD_ZYhnbLmB-Rxuso4GrI4P8UOegfXwBE5dT6NB7BzkVoi_XW7vaPaMwz8gMGFF0LFI2CT1R_T2-t_soQtssb0RK-RiFdY8op732IrThfGKfBMXkLb_QZ_PpVF3BCfhU-M-lBNxUWWoVIPR0k88iMt3PzQrL3XfCvjf23m4tRyg_UEQ3lpeReJ_eenep2K3HaK59WoRerdpcIvbz2bPIfhoKmpJjg0l3ROTVLCR7VaaYyslUVcQ9fSwwutv_AsnzMUjqWUiPvtaL1JVE55PRPQG83XU1zCyBqBQgv2ws8AZpzD3r4cT3_BXHP3wKYnDM6onYQ0uCqvxSbd4eFJqwYVBRxBOIEteOl62K36BmCd7fwCA14xYyuag31Z06eqbSEFUz0QUj1_naI2T4h-2dRnXODIT6DbT7BFtNure6zgXbpY=&slots=HSR_A&position=1&beaconIssued=2022-02-25T17:33:20",
+      "clickTrackingUrl": "https://www.expedia.co.in/taps/v1/Cl?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=1&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEE3SQU7QjX80QybatOsnRfapwhyWCSdRHadUV4ElMp2caAm3sL_Oj_8sfPlS5Pl96j6dMfCvVDVCrrEZue64r8L4-uQLYcXeFwT5LRHMg07OuqJ6skxylW14jvSYirUJmGCb13Olrer9xM7_7HwxcgJBY_5-VbtNzZs-vvdrzoGYgwt2h3KUCyRfbBKx0slijGHYv06Oox9bgnbzuN2fji5-dqWdBDWdTa_HivY_SRopICFVLTqDA5YEpsrq6EFtd_f0NBiGoYVrOTKDgra2m6MSb0PKkURrCPdRLG6AdIF25CddMKf2MSCltX03bKuDjIAgQFtDdtjNRmPT788PcINa95YlUQfKU-gg4q8kqLyNio-2bHkPpzDVCQLepfKXndu40tC3Xfi_sfB689iiYVLGfWsuQZoznccHEGH6XaRhVQlOxf2e7TvCpMXWym9IKXKG13Ztdu0veie9qqYJBVgb0jfIrVwzkL96vZAOJYSLRRUHtU7FgEiGgY1XkaCdaD-1ayFgFjIrwmmGm29vxZDFQR2vYFSuspLAkq2Qhghc5bknXTMapb3mxFSZ9j6n-FXXMTS4rVbtS8D4oAZ5rv6x8SY81BelEjS_Vth2WuNqnVvTmXOVf271fizHuz33SW1_WypZw4feH09kJYdx8WYktyPsTZPnrdyMRcTyB0-jgsv0DTCk25Cteiz6Wwu12huAaGBsCg2NToFuNT0L3Zo2t0-0zPZSDqzdGMVxNdD_ZYhnbLmB-Rxuso4GrI4P8UOegfXwBE5dT6NB7BzkVoi_XW7vaPaMwz8gMGFF0LFI2CT1R_T2-t_soQtssb0RK-RiFdY8op732IrThfGKfBMXkLb_QZ_PpVF3BCfhU-M-lBNxUWWoVIPR0k88iMt3PzQrL3XfCvjf23m4tRyg_UEQ3lpeReJ_eenep2K3HaK59WoRerdpcIvbz2bPIfhoKmpJjg0l3ROTVLCR7VaaYyslUVcQ9fSwwutv_AsnzMUjqWUiPvtaL1JVE55PRPQG83XU1zCyBqBQgv2ws8AZpzD3r4cT3_BXHP3wKYnDM6onYQ0uCqvxSbd4eFJqwYVBRxBOIEteOl62K36BmCd7fwCA14xYyuag31Z06eqbSEFUz0QUj1_naI2T4h-2dRnXODIT6DbT7BFtNure6zgXbpY=&slots=HSR_A&position=1&beaconIssued=2022-02-25T17:33:20",
+      "details": "Enjoy up to 25 percent off at over 160 hotels in India, Middle East and Africa. Book by 30 April 2022.",
+      "detailsHeadline": "Up to 25pct off at over 160 IHG Hotels",
+      "hotelImage": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/5000000/4450000/4446300/4446223/ef6c928b_b.jpg",
+      "impressionTrackingUrl": "https://www.expedia.co.in/taps/v1/Impr?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=1&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEE3SQU7QjX80QybatOsnRfapwhyWCSdRHadUV4ElMp2caAm3sL_Oj_8sfPlS5Pl96j6dMfCvVDVCrrEZue64r8L4-uQLYcXeFwT5LRHMg07OuqJ6skxylW14jvSYirUJmGCb13Olrer9xM7_7HwxcgJBY_5-VbtNzZs-vvdrzoGYgwt2h3KUCyRfbBKx0slijGHYv06Oox9bgnbzuN2fji5-dqWdBDWdTa_HivY_SRopICFVLTqDA5YEpsrq6EFtd_f0NBiGoYVrOTKDgra2m6MSb0PKkURrCPdRLG6AdIF25CddMKf2MSCltX03bKuDjIAgQFtDdtjNRmPT788PcINa95YlUQfKU-gg4q8kqLyNio-2bHkPpzDVCQLepfKXndu40tC3Xfi_sfB689iiYVLGfWsuQZoznccHEGH6XaRhVQlOxf2e7TvCpMXWym9IKXKG13Ztdu0veie9qqYJBVgb0jfIrVwzkL96vZAOJYSLRRUHtU7FgEiGgY1XkaCdaD-1ayFgFjIrwmmGm29vxZDFQR2vYFSuspLAkq2Qhghc5bknXTMapb3mxFSZ9j6n-FXXMTS4rVbtS8D4oAZ5rv6x8SY81BelEjS_Vth2WuNqnVvTmXOVf271fizHuz33SW1_WypZw4feH09kJYdx8WYktyPsTZPnrdyMRcTyB0-jgsv0DTCk25Cteiz6Wwu12huAaGBsCg2NToFuNT0L3Zo2t0-0zPZSDqzdGMVxNdD_ZYhnbLmB-Rxuso4GrI4P8UOegfXwBE5dT6NB7BzkVoi_XW7vaPaMwz8gMGFF0LFI2CT1R_T2-t_soQtssb0RK-RiFdY8op732IrThfGKfBMXkLb_QZ_PpVF3BCfhU-M-lBNxUWWoVIPR0k88iMt3PzQrL3XfCvjf23m4tRyg_UEQ3lpeReJ_eenep2K3HaK59WoRerdpcIvbz2bPIfhoKmpJjg0l3ROTVLCR7VaaYyslUVcQ9fSwwutv_AsnzMUjqWUiPvtaL1JVE55PRPQG83XU1zCyBqBQgv2ws8AZpzD3r4cT3_BXHP3wKYnDM6onYQ0uCqvxSbd4eFJqwYVBRxBOIEteOl62K36BmCd7fwCA14xYyuag31Z06eqbSEFUz0QUj1_naI2T4h-2dRnXODIT6DbT7BFtNure6zgXbpY=&slots=HSR_A&position=1&beaconIssued=2022-02-25T17:33:20",
+      "trackingData": "AAAAEE3SQU7QjX80QybatOsnRfapwhyWCSdRHadUV4ElMp2caAm3sL_Oj_8sfPlS5Pl96j6dMfCvVDVCrrEZue64r8L4-uQLYcXeFwT5LRHMg07OuqJ6skxylW14jvSYirUJmGCb13Olrer9xM7_7HwxcgJBY_5-VbtNzZs-vvdrzoGYgwt2h3KUCyRfbBKx0slijGHYv06Oox9bgnbzuN2fji5-dqWdBDWdTa_HivY_SRopICFVLTqDA5YEpsrq6EFtd_f0NBiGoYVrOTKDgra2m6MSb0PKkURrCPdRLG6AdIF25CddMKf2MSCltX03bKuDjIAgQFtDdtjNRmPT788PcINa95YlUQfKU-gg4q8kqLyNio-2bHkPpzDVCQLepfKXndu40tC3Xfi_sfB689iiYVLGfWsuQZoznccHEGH6XaRhVQlOxf2e7TvCpMXWym9IKXKG13Ztdu0veie9qqYJBVgb0jfIrVwzkL96vZAOJYSLRRUHtU7FgEiGgY1XkaCdaD-1ayFgFjIrwmmGm29vxZDFQR2vYFSuspLAkq2Qhghc5bknXTMapb3mxFSZ9j6n-FXXMTS4rVbtS8D4oAZ5rv6x8SY81BelEjS_Vth2WuNqnVvTmXOVf271fizHuz33SW1_WypZw4feH09kJYdx8WYktyPsTZPnrdyMRcTyB0-jgsv0DTCk25Cteiz6Wwu12huAaGBsCg2NToFuNT0L3Zo2t0-0zPZSDqzdGMVxNdD_ZYhnbLmB-Rxuso4GrI4P8UOegfXwBE5dT6NB7BzkVoi_XW7vaPaMwz8gMGFF0LFI2CT1R_T2-t_soQtssb0RK-RiFdY8op732IrThfGKfBMXkLb_QZ_PpVF3BCfhU-M-lBNxUWWoVIPR0k88iMt3PzQrL3XfCvjf23m4tRyg_UEQ3lpeReJ_eenep2K3HaK59WoRerdpcIvbz2bPIfhoKmpJjg0l3ROTVLCR7VaaYyslUVcQ9fSwwutv_AsnzMUjqWUiPvtaL1JVE55PRPQG83XU1zCyBqBQgv2ws8AZpzD3r4cT3_BXHP3wKYnDM6onYQ0uCqvxSbd4eFJqwYVBRxBOIEteOl62K36BmCd7fwCA14xYyuag31Z06eqbSEFUz0QUj1_naI2T4h-2dRnXODIT6DbT7BFtNure6zgXbpY=",
+      "brand": null,
+      "clickRedirectLinkoffTrackingUrl": null,
+      "logo": null,
+      "lotagline": null,
+      "rating": "0",
+      "slots": "HSR_A",
+      "vanityUrl": null,
+      "rank": "1",
+      "position": "1"
+    },
+    "amenities": [],
+    "star": null,
+    "starRatingIcon": "STAR",
+    "availability": {
+      "available": true,
+      "text": null,
+      "theme": "URGENT"
+    },
+    "offerSummary": {
+      "messages": [
+        {
+          "message": "Fully refundable",
+          "theme": "SUCCESS",
+          "type": "FREE_CANCEL",
+          "mark": null
+        },
+        {
+          "message": "Reserve now, pay later",
+          "theme": "SUCCESS",
+          "type": "PAY_LATER",
+          "mark": null
+        }
+      ]
+    },
+    "legalDisclaimer": null,
+    "imageGallery": {
+      "accessibilityLabel": "Photo gallery for Crowne Plaza New Delhi Rohini, an IHG Hotel",
+      "images": [
+        {
+          "image": {
+            "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/5000000/4450000/4446300/4446223/ef6c928b_b.jpg",
+            "description": "Featured image"
+          },
+          "subjectId": 3,
+          "fallbackImage": {
+            "url": "https://images.trvl-media.com/hotels/5000000/4450000/4446300/4446223/ef6c928b.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Featured image"
+          },
+          "imageId": "387405458"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/5000000/4450000/4446300/4446223/097521c2.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Porch"
+          },
+          "subjectId": 91009,
+          "fallbackImage": null,
+          "imageId": "492288173"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/5000000/4450000/4446300/4446223/c2596e7e.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Pool"
+          },
+          "subjectId": 30000,
+          "fallbackImage": null,
+          "imageId": "73481999"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/5000000/4450000/4446300/4446223/51620f9c.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Bedroom"
+          },
+          "subjectId": 21001,
+          "fallbackImage": null,
+          "imageId": "57746856"
+        }
+      ]
+    },
+    "mapMarker": {
+      "icon": "HOTEL",
+      "label": "Rs5,490",
+      "type": "HOTEL",
+      "latLong": {
+        "latitude": 28.71951,
+        "longitude": 77.110183
+      },
+      "clientSideAnalytics": {
+        "referrerId": "Module.Map.HotelMarkerSelect",
+        "linkName": "User selecting a hotel marker on the PWA HSR map"
+      }
+    },
+    "neighborhood": {
+      "name": "Rohini"
+    },
+    "pinnedDetails": null,
+    "recentlyViewed": null,
+    "featuredMessages": null,
+    "supportingMessages": ["Excludes taxes & fees"],
+    "shortList": {
+      "favorited": false,
+      "saveUrl": "/api/ucs/shortlist/save/4446223",
+      "removeUrl": "/api/ucs/shortlist/remove/4446223",
+      "metaData": {
+        "chkIn": "20220311",
+        "chkOut": "20220312",
+        "hotelId": "4446223",
+        "roomConfiguration": "2"
+      }
+    },
+    "highlightedPropertyDetails": [],
+    "propertySource": null,
+    "dataAttributes": null,
+    "listingFooter": null
+  },
+  {
+    "__typename": "Property",
+    "id": "3884851",
+    "name": "Crowne Plaza Hotel New Delhi Okhla, an IHG Hotel",
+    "propertyImage": {
+      "image": {
+        "description": "Lobby",
+        "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/4000000/3890000/3884900/3884851/598bf418_b.jpg"
+      },
+      "fallbackImage": {
+        "description": "Lobby",
+        "url": "https://images.trvl-media.com/hotels/4000000/3890000/3884900/3884851/fc5244d8.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      }
+    },
+    "offerBadge": {
+      "primary": {
+        "text": "Ad",
+        "theme_temp": "SPONSORED",
+        "icon_temp": null,
+        "mark": null
+      },
+      "secondary": null
+    },
+    "price": {
+      "alignment": null,
+      "displayMessages": null,
+      "lead": {
+        "formatted": "Rs4,759"
+      },
+      "strikeOutType": "PRICE_SURVEY",
+      "strikeOut": null,
+      "disclaimer": null,
+      "roomNightMessage": "per night",
+      "priceMessages": [
+        {
+          "value": "per night"
+        }
+      ],
+      "marketingFeeDetails": null,
+      "options": [
+        {
+          "leadingCaption": null,
+          "displayPrice": {
+            "formatted": "Rs4,759"
+          },
+          "strikeOut": null,
+          "loyaltyPrice": null,
+          "disclaimer": null
+        }
+      ]
+    },
+    "reviews": {
+      "score": 4.3,
+      "localizedScore": "4.3",
+      "total": 229,
+      "localizedTotal": "229 reviews",
+      "superlative": "Excellent",
+      "localizedSubtitle": "4.3 / 5 (229 reviews)",
+      "localizedSubtitleA11y": {
+        "accessibilityLabel": "4.3 out of 5 Excellent (229 reviews)",
+        "value": "4.3/5 Excellent (229 reviews)"
+      },
+      "mark": null
+    },
+    "destinationInfo": {
+      "distanceFromMessaging": null
+    },
+    "vipMessaging": null,
+    "propertyDetailsLink": {
+      "uri": {
+        "value": "https://www.expedia.co.in/Delhi-Hotels-Crowne-Plaza-Hotel-New-Delhi-Okhla.h3884851.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810401961&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=180000&destination=Delhi+%28and+vicinity%29%2C+National+Capital+Territory+of+Delhi%2C+India&destType=MARKET&trackingData=AAAAEHNtisoHYsD6sch9XYFz6qPGIJul4QiPeZsrkBXuwt-SitNRIPN0bI93sWYoxBVVNWP5gc9E__MEhd4uuvPjkxB2-M-rD6XYItaSEzhtAMihMF3lmO6_m4mqIuhhASCkGzE3i5R796h5nkqMxBRhw851U5suB1T_XYQFaVXxwkdBir8Oc88Y_BD0tn6_3s0xrt6UZl0k6jzuh4khn-dr3KtyPgYaCqHmGkYPfUPGdYvwV7-FV2D0G3SV8OyN2ahwJAyUK1Lrmt0R1Uf7UZthjyfH5aMN6WhbHGiggwlT1XHz2vqT8UtBV6rWVtwsTZ-_TMlaHQOZtBShz6iceyJmLL9rAAib5iCQ6S6fYVowKLBo1Q4v0q2lXVcvNLCX2llPXfDKRjJ3mjTRXHWtqc2pUMyMt9GDSVr570En8LHfY5F2kS6LXtmHHqqVTmcu7BrwNPO0aQ2jnbbLSM96KJ6IArTplT8zxLcD0K6XYzAKKwlt9VUaUsKR01VMsiIww6ZMzt9ZeUIo-dKOFjVwqLlyesKQltuGItRxrEr5Vu6KRWJKTXSfqlZfuqXFoPxcV4zBBzaYb7cPmFlbltMizPhzzPFpV9kWUGYlJL1GP0XYasNVpiX50dc_BkgkEav0f51wxWbjq6a0eLX2VFVeXZ5NIEifAQyZH-cxPPGRR8CsakJ5bN8axMTCmIdEPY5L8tREghEEhaeoTriwPip9VbakewZOW-j7xcDFgSYlu_24Kf2F67p--hnFFS_OH7nOge0MeyJbmebaX_680RXzRUvdykJUNzEOouBhpFP7zTJ5dEX0i9R9PS_cRcZiTawGIKElZ6nTqhuTiue_5jotZFZv6E0bdLWbmosf9yW-CHa3DhHfpDqHGCD_rgh3VvhnfEiywHgzESv4sQWTB1ofmYuPKshggc8Z_JH6GpKyEAUpxsYeGr2EH_0A0zXPU1GtjeKT2I2w9wE3FADWohAq5eQhJ8eaKf75ysHbfnXggldc9uEHuG_4j0T9wdgWd-rEoB0jX89JWPxZJE1AfllJqUUfnJDBngiLxfycTGAkOg05dyKzAefziOkhnu6570i6M7pKUidB1ThSKhUB_-OQtXWuR_d-uNmBdjt72P5mOAv3-Ym7T-2JsSHp_pM7ecJwtV-Ht-_FJUbrJ6q-pbBbEDZ_wYU%3D&rank=2&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_AA&position=2&beaconIssued=2022-02-25T17%3A33%3A20&sort=RECOMMENDED&top_dp=4759&top_cur=INR&semdtl=&userIntent=&selectedRoomType=200024531&selectedRatePlan=381106444",
+        "relativePath": "/Delhi-Hotels-Crowne-Plaza-Hotel-New-Delhi-Okhla.h3884851.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810401961&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=180000&destination=Delhi+%28and+vicinity%29%2C+National+Capital+Territory+of+Delhi%2C+India&destType=MARKET&trackingData=AAAAEHNtisoHYsD6sch9XYFz6qPGIJul4QiPeZsrkBXuwt-SitNRIPN0bI93sWYoxBVVNWP5gc9E__MEhd4uuvPjkxB2-M-rD6XYItaSEzhtAMihMF3lmO6_m4mqIuhhASCkGzE3i5R796h5nkqMxBRhw851U5suB1T_XYQFaVXxwkdBir8Oc88Y_BD0tn6_3s0xrt6UZl0k6jzuh4khn-dr3KtyPgYaCqHmGkYPfUPGdYvwV7-FV2D0G3SV8OyN2ahwJAyUK1Lrmt0R1Uf7UZthjyfH5aMN6WhbHGiggwlT1XHz2vqT8UtBV6rWVtwsTZ-_TMlaHQOZtBShz6iceyJmLL9rAAib5iCQ6S6fYVowKLBo1Q4v0q2lXVcvNLCX2llPXfDKRjJ3mjTRXHWtqc2pUMyMt9GDSVr570En8LHfY5F2kS6LXtmHHqqVTmcu7BrwNPO0aQ2jnbbLSM96KJ6IArTplT8zxLcD0K6XYzAKKwlt9VUaUsKR01VMsiIww6ZMzt9ZeUIo-dKOFjVwqLlyesKQltuGItRxrEr5Vu6KRWJKTXSfqlZfuqXFoPxcV4zBBzaYb7cPmFlbltMizPhzzPFpV9kWUGYlJL1GP0XYasNVpiX50dc_BkgkEav0f51wxWbjq6a0eLX2VFVeXZ5NIEifAQyZH-cxPPGRR8CsakJ5bN8axMTCmIdEPY5L8tREghEEhaeoTriwPip9VbakewZOW-j7xcDFgSYlu_24Kf2F67p--hnFFS_OH7nOge0MeyJbmebaX_680RXzRUvdykJUNzEOouBhpFP7zTJ5dEX0i9R9PS_cRcZiTawGIKElZ6nTqhuTiue_5jotZFZv6E0bdLWbmosf9yW-CHa3DhHfpDqHGCD_rgh3VvhnfEiywHgzESv4sQWTB1ofmYuPKshggc8Z_JH6GpKyEAUpxsYeGr2EH_0A0zXPU1GtjeKT2I2w9wE3FADWohAq5eQhJ8eaKf75ysHbfnXggldc9uEHuG_4j0T9wdgWd-rEoB0jX89JWPxZJE1AfllJqUUfnJDBngiLxfycTGAkOg05dyKzAefziOkhnu6570i6M7pKUidB1ThSKhUB_-OQtXWuR_d-uNmBdjt72P5mOAv3-Ym7T-2JsSHp_pM7ecJwtV-Ht-_FJUbrJ6q-pbBbEDZ_wYU%3D&rank=2&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_AA&position=2&beaconIssued=2022-02-25T17%3A33%3A20&sort=RECOMMENDED&top_dp=4759&top_cur=INR&semdtl=&userIntent=&selectedRoomType=200024531&selectedRatePlan=381106444"
+      },
+      "clientSideAnalytics": {
+        "referrerId": "HOT.SR:HotelModule:2",
+        "linkName": "View selected property"
+      }
+    },
+    "sponsoredListing": {
+      "id": "650440",
+      "clickRedirectTrackingUrl": "https://www.expedia.co.in/taps/v1/ClRedirect?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&destinationUrl=&rank=2&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEHNtisoHYsD6sch9XYFz6qPGIJul4QiPeZsrkBXuwt-SitNRIPN0bI93sWYoxBVVNWP5gc9E__MEhd4uuvPjkxB2-M-rD6XYItaSEzhtAMihMF3lmO6_m4mqIuhhASCkGzE3i5R796h5nkqMxBRhw851U5suB1T_XYQFaVXxwkdBir8Oc88Y_BD0tn6_3s0xrt6UZl0k6jzuh4khn-dr3KtyPgYaCqHmGkYPfUPGdYvwV7-FV2D0G3SV8OyN2ahwJAyUK1Lrmt0R1Uf7UZthjyfH5aMN6WhbHGiggwlT1XHz2vqT8UtBV6rWVtwsTZ-_TMlaHQOZtBShz6iceyJmLL9rAAib5iCQ6S6fYVowKLBo1Q4v0q2lXVcvNLCX2llPXfDKRjJ3mjTRXHWtqc2pUMyMt9GDSVr570En8LHfY5F2kS6LXtmHHqqVTmcu7BrwNPO0aQ2jnbbLSM96KJ6IArTplT8zxLcD0K6XYzAKKwlt9VUaUsKR01VMsiIww6ZMzt9ZeUIo-dKOFjVwqLlyesKQltuGItRxrEr5Vu6KRWJKTXSfqlZfuqXFoPxcV4zBBzaYb7cPmFlbltMizPhzzPFpV9kWUGYlJL1GP0XYasNVpiX50dc_BkgkEav0f51wxWbjq6a0eLX2VFVeXZ5NIEifAQyZH-cxPPGRR8CsakJ5bN8axMTCmIdEPY5L8tREghEEhaeoTriwPip9VbakewZOW-j7xcDFgSYlu_24Kf2F67p--hnFFS_OH7nOge0MeyJbmebaX_680RXzRUvdykJUNzEOouBhpFP7zTJ5dEX0i9R9PS_cRcZiTawGIKElZ6nTqhuTiue_5jotZFZv6E0bdLWbmosf9yW-CHa3DhHfpDqHGCD_rgh3VvhnfEiywHgzESv4sQWTB1ofmYuPKshggc8Z_JH6GpKyEAUpxsYeGr2EH_0A0zXPU1GtjeKT2I2w9wE3FADWohAq5eQhJ8eaKf75ysHbfnXggldc9uEHuG_4j0T9wdgWd-rEoB0jX89JWPxZJE1AfllJqUUfnJDBngiLxfycTGAkOg05dyKzAefziOkhnu6570i6M7pKUidB1ThSKhUB_-OQtXWuR_d-uNmBdjt72P5mOAv3-Ym7T-2JsSHp_pM7ecJwtV-Ht-_FJUbrJ6q-pbBbEDZ_wYU=&slots=HSR_AA&position=2&beaconIssued=2022-02-25T17:33:20",
+      "clickTrackingUrl": "https://www.expedia.co.in/taps/v1/Cl?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=2&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEHNtisoHYsD6sch9XYFz6qPGIJul4QiPeZsrkBXuwt-SitNRIPN0bI93sWYoxBVVNWP5gc9E__MEhd4uuvPjkxB2-M-rD6XYItaSEzhtAMihMF3lmO6_m4mqIuhhASCkGzE3i5R796h5nkqMxBRhw851U5suB1T_XYQFaVXxwkdBir8Oc88Y_BD0tn6_3s0xrt6UZl0k6jzuh4khn-dr3KtyPgYaCqHmGkYPfUPGdYvwV7-FV2D0G3SV8OyN2ahwJAyUK1Lrmt0R1Uf7UZthjyfH5aMN6WhbHGiggwlT1XHz2vqT8UtBV6rWVtwsTZ-_TMlaHQOZtBShz6iceyJmLL9rAAib5iCQ6S6fYVowKLBo1Q4v0q2lXVcvNLCX2llPXfDKRjJ3mjTRXHWtqc2pUMyMt9GDSVr570En8LHfY5F2kS6LXtmHHqqVTmcu7BrwNPO0aQ2jnbbLSM96KJ6IArTplT8zxLcD0K6XYzAKKwlt9VUaUsKR01VMsiIww6ZMzt9ZeUIo-dKOFjVwqLlyesKQltuGItRxrEr5Vu6KRWJKTXSfqlZfuqXFoPxcV4zBBzaYb7cPmFlbltMizPhzzPFpV9kWUGYlJL1GP0XYasNVpiX50dc_BkgkEav0f51wxWbjq6a0eLX2VFVeXZ5NIEifAQyZH-cxPPGRR8CsakJ5bN8axMTCmIdEPY5L8tREghEEhaeoTriwPip9VbakewZOW-j7xcDFgSYlu_24Kf2F67p--hnFFS_OH7nOge0MeyJbmebaX_680RXzRUvdykJUNzEOouBhpFP7zTJ5dEX0i9R9PS_cRcZiTawGIKElZ6nTqhuTiue_5jotZFZv6E0bdLWbmosf9yW-CHa3DhHfpDqHGCD_rgh3VvhnfEiywHgzESv4sQWTB1ofmYuPKshggc8Z_JH6GpKyEAUpxsYeGr2EH_0A0zXPU1GtjeKT2I2w9wE3FADWohAq5eQhJ8eaKf75ysHbfnXggldc9uEHuG_4j0T9wdgWd-rEoB0jX89JWPxZJE1AfllJqUUfnJDBngiLxfycTGAkOg05dyKzAefziOkhnu6570i6M7pKUidB1ThSKhUB_-OQtXWuR_d-uNmBdjt72P5mOAv3-Ym7T-2JsSHp_pM7ecJwtV-Ht-_FJUbrJ6q-pbBbEDZ_wYU=&slots=HSR_AA&position=2&beaconIssued=2022-02-25T17:33:20",
+      "details": "Enjoy up to 25 percent off at over 160 hotels in India, Middle East and Africa. Book by 30 April 2022.",
+      "detailsHeadline": "Up to 25pct off at over 160 IHG Hotels",
+      "hotelImage": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/4000000/3890000/3884900/3884851/598bf418_b.jpg",
+      "impressionTrackingUrl": "https://www.expedia.co.in/taps/v1/Impr?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=2&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEHNtisoHYsD6sch9XYFz6qPGIJul4QiPeZsrkBXuwt-SitNRIPN0bI93sWYoxBVVNWP5gc9E__MEhd4uuvPjkxB2-M-rD6XYItaSEzhtAMihMF3lmO6_m4mqIuhhASCkGzE3i5R796h5nkqMxBRhw851U5suB1T_XYQFaVXxwkdBir8Oc88Y_BD0tn6_3s0xrt6UZl0k6jzuh4khn-dr3KtyPgYaCqHmGkYPfUPGdYvwV7-FV2D0G3SV8OyN2ahwJAyUK1Lrmt0R1Uf7UZthjyfH5aMN6WhbHGiggwlT1XHz2vqT8UtBV6rWVtwsTZ-_TMlaHQOZtBShz6iceyJmLL9rAAib5iCQ6S6fYVowKLBo1Q4v0q2lXVcvNLCX2llPXfDKRjJ3mjTRXHWtqc2pUMyMt9GDSVr570En8LHfY5F2kS6LXtmHHqqVTmcu7BrwNPO0aQ2jnbbLSM96KJ6IArTplT8zxLcD0K6XYzAKKwlt9VUaUsKR01VMsiIww6ZMzt9ZeUIo-dKOFjVwqLlyesKQltuGItRxrEr5Vu6KRWJKTXSfqlZfuqXFoPxcV4zBBzaYb7cPmFlbltMizPhzzPFpV9kWUGYlJL1GP0XYasNVpiX50dc_BkgkEav0f51wxWbjq6a0eLX2VFVeXZ5NIEifAQyZH-cxPPGRR8CsakJ5bN8axMTCmIdEPY5L8tREghEEhaeoTriwPip9VbakewZOW-j7xcDFgSYlu_24Kf2F67p--hnFFS_OH7nOge0MeyJbmebaX_680RXzRUvdykJUNzEOouBhpFP7zTJ5dEX0i9R9PS_cRcZiTawGIKElZ6nTqhuTiue_5jotZFZv6E0bdLWbmosf9yW-CHa3DhHfpDqHGCD_rgh3VvhnfEiywHgzESv4sQWTB1ofmYuPKshggc8Z_JH6GpKyEAUpxsYeGr2EH_0A0zXPU1GtjeKT2I2w9wE3FADWohAq5eQhJ8eaKf75ysHbfnXggldc9uEHuG_4j0T9wdgWd-rEoB0jX89JWPxZJE1AfllJqUUfnJDBngiLxfycTGAkOg05dyKzAefziOkhnu6570i6M7pKUidB1ThSKhUB_-OQtXWuR_d-uNmBdjt72P5mOAv3-Ym7T-2JsSHp_pM7ecJwtV-Ht-_FJUbrJ6q-pbBbEDZ_wYU=&slots=HSR_AA&position=2&beaconIssued=2022-02-25T17:33:20",
+      "trackingData": "AAAAEHNtisoHYsD6sch9XYFz6qPGIJul4QiPeZsrkBXuwt-SitNRIPN0bI93sWYoxBVVNWP5gc9E__MEhd4uuvPjkxB2-M-rD6XYItaSEzhtAMihMF3lmO6_m4mqIuhhASCkGzE3i5R796h5nkqMxBRhw851U5suB1T_XYQFaVXxwkdBir8Oc88Y_BD0tn6_3s0xrt6UZl0k6jzuh4khn-dr3KtyPgYaCqHmGkYPfUPGdYvwV7-FV2D0G3SV8OyN2ahwJAyUK1Lrmt0R1Uf7UZthjyfH5aMN6WhbHGiggwlT1XHz2vqT8UtBV6rWVtwsTZ-_TMlaHQOZtBShz6iceyJmLL9rAAib5iCQ6S6fYVowKLBo1Q4v0q2lXVcvNLCX2llPXfDKRjJ3mjTRXHWtqc2pUMyMt9GDSVr570En8LHfY5F2kS6LXtmHHqqVTmcu7BrwNPO0aQ2jnbbLSM96KJ6IArTplT8zxLcD0K6XYzAKKwlt9VUaUsKR01VMsiIww6ZMzt9ZeUIo-dKOFjVwqLlyesKQltuGItRxrEr5Vu6KRWJKTXSfqlZfuqXFoPxcV4zBBzaYb7cPmFlbltMizPhzzPFpV9kWUGYlJL1GP0XYasNVpiX50dc_BkgkEav0f51wxWbjq6a0eLX2VFVeXZ5NIEifAQyZH-cxPPGRR8CsakJ5bN8axMTCmIdEPY5L8tREghEEhaeoTriwPip9VbakewZOW-j7xcDFgSYlu_24Kf2F67p--hnFFS_OH7nOge0MeyJbmebaX_680RXzRUvdykJUNzEOouBhpFP7zTJ5dEX0i9R9PS_cRcZiTawGIKElZ6nTqhuTiue_5jotZFZv6E0bdLWbmosf9yW-CHa3DhHfpDqHGCD_rgh3VvhnfEiywHgzESv4sQWTB1ofmYuPKshggc8Z_JH6GpKyEAUpxsYeGr2EH_0A0zXPU1GtjeKT2I2w9wE3FADWohAq5eQhJ8eaKf75ysHbfnXggldc9uEHuG_4j0T9wdgWd-rEoB0jX89JWPxZJE1AfllJqUUfnJDBngiLxfycTGAkOg05dyKzAefziOkhnu6570i6M7pKUidB1ThSKhUB_-OQtXWuR_d-uNmBdjt72P5mOAv3-Ym7T-2JsSHp_pM7ecJwtV-Ht-_FJUbrJ6q-pbBbEDZ_wYU=",
+      "brand": null,
+      "clickRedirectLinkoffTrackingUrl": null,
+      "logo": null,
+      "lotagline": null,
+      "rating": "0",
+      "slots": "HSR_AA",
+      "vanityUrl": null,
+      "rank": "2",
+      "position": "2"
+    },
+    "amenities": [],
+    "star": null,
+    "starRatingIcon": "STAR",
+    "availability": {
+      "available": true,
+      "text": null,
+      "theme": "URGENT"
+    },
+    "offerSummary": {
+      "messages": [
+        {
+          "message": "Fully refundable",
+          "theme": "SUCCESS",
+          "type": "FREE_CANCEL",
+          "mark": null
+        },
+        {
+          "message": "Reserve now, pay later",
+          "theme": "SUCCESS",
+          "type": "PAY_LATER",
+          "mark": null
+        }
+      ]
+    },
+    "legalDisclaimer": null,
+    "imageGallery": {
+      "accessibilityLabel": "Photo gallery for Crowne Plaza Hotel New Delhi Okhla, an IHG Hotel",
+      "images": [
+        {
+          "image": {
+            "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/4000000/3890000/3884900/3884851/598bf418_b.jpg",
+            "description": "Exterior"
+          },
+          "subjectId": 91024,
+          "fallbackImage": {
+            "url": "https://images.trvl-media.com/hotels/4000000/3890000/3884900/3884851/6909b3b5.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Exterior"
+          },
+          "imageId": "256537832"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/4000000/3890000/3884900/3884851/7b6217f3.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Outdoor pool"
+          },
+          "subjectId": 30003,
+          "fallbackImage": null,
+          "imageId": "22542355"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/4000000/3890000/3884900/3884851/393a102f.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Bedroom"
+          },
+          "subjectId": 21001,
+          "fallbackImage": null,
+          "imageId": "449718563"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/4000000/3890000/3884900/3884851/f1d876b1.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Bar"
+          },
+          "subjectId": 82000,
+          "fallbackImage": null,
+          "imageId": "48466584"
+        }
+      ]
+    },
+    "mapMarker": {
+      "icon": "HOTEL",
+      "label": "Rs4,759",
+      "type": "HOTEL",
+      "latLong": {
+        "latitude": 28.528613,
+        "longitude": 77.272026
+      },
+      "clientSideAnalytics": {
+        "referrerId": "Module.Map.HotelMarkerSelect",
+        "linkName": "User selecting a hotel marker on the PWA HSR map"
+      }
+    },
+    "neighborhood": {
+      "name": "Okhla Phase I"
+    },
+    "pinnedDetails": null,
+    "recentlyViewed": null,
+    "featuredMessages": null,
+    "supportingMessages": ["Excludes taxes & fees"],
+    "shortList": {
+      "favorited": false,
+      "saveUrl": "/api/ucs/shortlist/save/3884851",
+      "removeUrl": "/api/ucs/shortlist/remove/3884851",
+      "metaData": {
+        "chkIn": "20220311",
+        "chkOut": "20220312",
+        "hotelId": "3884851",
+        "roomConfiguration": "2"
+      }
+    },
+    "highlightedPropertyDetails": [],
+    "propertySource": null,
+    "dataAttributes": null,
+    "listingFooter": null
+  },
+  {
+    "__typename": "Property",
+    "id": "4431441",
+    "name": "Crowne Plaza New Delhi Mayur Vihar Noida, an IHG Hotel",
+    "propertyImage": {
+      "image": {
+        "description": "Lobby",
+        "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/5000000/4440000/4431500/4431441/dcb8337b_b.jpg"
+      },
+      "fallbackImage": {
+        "description": "Lobby",
+        "url": "https://images.trvl-media.com/hotels/5000000/4440000/4431500/4431441/c2b77d97.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      }
+    },
+    "offerBadge": {
+      "primary": {
+        "text": "Ad",
+        "theme_temp": "SPONSORED",
+        "icon_temp": null,
+        "mark": null
+      },
+      "secondary": null
+    },
+    "price": {
+      "alignment": null,
+      "displayMessages": null,
+      "lead": {
+        "formatted": "Rs5,225"
+      },
+      "strikeOutType": "PRICE_SURVEY",
+      "strikeOut": null,
+      "disclaimer": null,
+      "roomNightMessage": "per night",
+      "priceMessages": [
+        {
+          "value": "per night"
+        }
+      ],
+      "marketingFeeDetails": null,
+      "options": [
+        {
+          "leadingCaption": null,
+          "displayPrice": {
+            "formatted": "Rs5,225"
+          },
+          "strikeOut": null,
+          "loyaltyPrice": null,
+          "disclaimer": null
+        }
+      ]
+    },
+    "reviews": {
+      "score": 4.2,
+      "localizedScore": "4.2",
+      "total": 132,
+      "localizedTotal": "132 reviews",
+      "superlative": "Very good",
+      "localizedSubtitle": "4.2 / 5 (132 reviews)",
+      "localizedSubtitleA11y": {
+        "accessibilityLabel": "4.2 out of 5 Very good (132 reviews)",
+        "value": "4.2/5 Very good (132 reviews)"
+      },
+      "mark": null
+    },
+    "destinationInfo": {
+      "distanceFromMessaging": null
+    },
+    "vipMessaging": null,
+    "propertyDetailsLink": {
+      "uri": {
+        "value": "https://www.expedia.co.in/Delhi-Hotels-Crowne-Plaza-New-Delhi-Mayur-Vihar-Noida.h4431441.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810401961&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=180000&destination=Delhi+%28and+vicinity%29%2C+National+Capital+Territory+of+Delhi%2C+India&destType=MARKET&neighborhoodId=553248635939576766&trackingData=AAAAEGyeQOuPOX1um1SWtDA6uXOvIJaACD2ahm7cGdWWSLWTK0BNR79I3JddIPfHnxUWVTR1U-IW7BI2k25ZL9LTljngvu0mA2LjVe_75Tsd_7eGhqvmH6B5OM-E7PM-8fnQvVVXj1JP9HQh6Tl5O9rXTOZnJTjJUVXI9b3UB7J-GeTGfBhaB6Gg0530GZ8p-YENRv1gA3oiqpKBQXnkxr3bWMxq0mg2uxh3OVitAGmFC8vJH1tSEe8gd7VAbUWibulV1ZKR34SbaeHwtJJ3YNdgcv8kvN_EYsAtqOG9AbgEMHDmj41VoDSHCJMzilzI5IRU4DmdJJpiCM_zUJ-xvIQP2tD01-jKrXOKwbWQM0yPH4H9cstlbALa7frJrzXxmFniN0TvKd9u_Kci8ettUVNWuXwf5jCasbVv-AzyM4RUhsNAUBkjPQDkObCWDpkwToTqlOo68m6oqAssFP2uT9gkg4GPHjx6-9YJI8PDOYjgFycLMM1GZCrv3jYxagKzuiaKFUXwo4A-24ESapCLkEcRUDDsr4_P3gHDQRkTsfWamXwspK6_plmUiBLrHW8Gsf_oL8aWJBvnCQjxvTrB1ONqnzPqnS2C8GDtHCgdHjMQNrk6Bon7BkNduaQ9kwF3DExrI6n1QJ5uPRlPQyFvWdNsipIbNuLMCkqMZbHWTUnia8jPmc_jh3BkM4rfHmIemj0zQeVlibOK7-rcT34tnR0pgraiqK93cv-EA5ZxvZpB0_1rTtV2ikFEI0JbY3wuTBaQ-V1x_WKPCDO4Nq1bEfCqC76GaIhFwcTDjxGUOxR669TOBk7qjavZKEGkrRkUDsboHqJHVUhOkdRT6DGwh65wMNhaloZBa9O7TnzC01E2aKCAQnLOX3Ts_ABiY60szd7zTF1VoBVXnfAFfBMCjstQXAFf8UH3EHFzQsRxXCTPvTLWR3k1WZjluDqCX4lk4ws4fYPKPXvHBzdZoZAJDhsvElPyo2HeEn_QacCxq0fcSOWNLrJHOQvLFVvxMHxBIV2KWsq-FW8Ho45hNRrXXRisiv7z9a2r0xw6N6jOySoA9fzMf6OojXh-r8Iuni2cusS1QgrWmHO_ka5Je1sTCiaT79zLvf1YeNUcG1tQzz4LksUJwObh2y4X-PMyrGInZU7JJssp9k8kPXg6eSR_6AJHp0w%3D&rank=3&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_DYN&position=3&beaconIssued=2022-02-25T17%3A33%3A20&sort=RECOMMENDED&top_dp=5225&top_cur=INR&semdtl=&userIntent=&selectedRoomType=315904433&selectedRatePlan=385008610",
+        "relativePath": "/Delhi-Hotels-Crowne-Plaza-New-Delhi-Mayur-Vihar-Noida.h4431441.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810401961&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=180000&destination=Delhi+%28and+vicinity%29%2C+National+Capital+Territory+of+Delhi%2C+India&destType=MARKET&neighborhoodId=553248635939576766&trackingData=AAAAEGyeQOuPOX1um1SWtDA6uXOvIJaACD2ahm7cGdWWSLWTK0BNR79I3JddIPfHnxUWVTR1U-IW7BI2k25ZL9LTljngvu0mA2LjVe_75Tsd_7eGhqvmH6B5OM-E7PM-8fnQvVVXj1JP9HQh6Tl5O9rXTOZnJTjJUVXI9b3UB7J-GeTGfBhaB6Gg0530GZ8p-YENRv1gA3oiqpKBQXnkxr3bWMxq0mg2uxh3OVitAGmFC8vJH1tSEe8gd7VAbUWibulV1ZKR34SbaeHwtJJ3YNdgcv8kvN_EYsAtqOG9AbgEMHDmj41VoDSHCJMzilzI5IRU4DmdJJpiCM_zUJ-xvIQP2tD01-jKrXOKwbWQM0yPH4H9cstlbALa7frJrzXxmFniN0TvKd9u_Kci8ettUVNWuXwf5jCasbVv-AzyM4RUhsNAUBkjPQDkObCWDpkwToTqlOo68m6oqAssFP2uT9gkg4GPHjx6-9YJI8PDOYjgFycLMM1GZCrv3jYxagKzuiaKFUXwo4A-24ESapCLkEcRUDDsr4_P3gHDQRkTsfWamXwspK6_plmUiBLrHW8Gsf_oL8aWJBvnCQjxvTrB1ONqnzPqnS2C8GDtHCgdHjMQNrk6Bon7BkNduaQ9kwF3DExrI6n1QJ5uPRlPQyFvWdNsipIbNuLMCkqMZbHWTUnia8jPmc_jh3BkM4rfHmIemj0zQeVlibOK7-rcT34tnR0pgraiqK93cv-EA5ZxvZpB0_1rTtV2ikFEI0JbY3wuTBaQ-V1x_WKPCDO4Nq1bEfCqC76GaIhFwcTDjxGUOxR669TOBk7qjavZKEGkrRkUDsboHqJHVUhOkdRT6DGwh65wMNhaloZBa9O7TnzC01E2aKCAQnLOX3Ts_ABiY60szd7zTF1VoBVXnfAFfBMCjstQXAFf8UH3EHFzQsRxXCTPvTLWR3k1WZjluDqCX4lk4ws4fYPKPXvHBzdZoZAJDhsvElPyo2HeEn_QacCxq0fcSOWNLrJHOQvLFVvxMHxBIV2KWsq-FW8Ho45hNRrXXRisiv7z9a2r0xw6N6jOySoA9fzMf6OojXh-r8Iuni2cusS1QgrWmHO_ka5Je1sTCiaT79zLvf1YeNUcG1tQzz4LksUJwObh2y4X-PMyrGInZU7JJssp9k8kPXg6eSR_6AJHp0w%3D&rank=3&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_DYN&position=3&beaconIssued=2022-02-25T17%3A33%3A20&sort=RECOMMENDED&top_dp=5225&top_cur=INR&semdtl=&userIntent=&selectedRoomType=315904433&selectedRatePlan=385008610"
+      },
+      "clientSideAnalytics": {
+        "referrerId": "HOT.SR:HotelModule:3",
+        "linkName": "View selected property"
+      }
+    },
+    "sponsoredListing": {
+      "id": "650487",
+      "clickRedirectTrackingUrl": "https://www.expedia.co.in/taps/v1/ClRedirect?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&destinationUrl=&rank=3&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEGyeQOuPOX1um1SWtDA6uXOvIJaACD2ahm7cGdWWSLWTK0BNR79I3JddIPfHnxUWVTR1U-IW7BI2k25ZL9LTljngvu0mA2LjVe_75Tsd_7eGhqvmH6B5OM-E7PM-8fnQvVVXj1JP9HQh6Tl5O9rXTOZnJTjJUVXI9b3UB7J-GeTGfBhaB6Gg0530GZ8p-YENRv1gA3oiqpKBQXnkxr3bWMxq0mg2uxh3OVitAGmFC8vJH1tSEe8gd7VAbUWibulV1ZKR34SbaeHwtJJ3YNdgcv8kvN_EYsAtqOG9AbgEMHDmj41VoDSHCJMzilzI5IRU4DmdJJpiCM_zUJ-xvIQP2tD01-jKrXOKwbWQM0yPH4H9cstlbALa7frJrzXxmFniN0TvKd9u_Kci8ettUVNWuXwf5jCasbVv-AzyM4RUhsNAUBkjPQDkObCWDpkwToTqlOo68m6oqAssFP2uT9gkg4GPHjx6-9YJI8PDOYjgFycLMM1GZCrv3jYxagKzuiaKFUXwo4A-24ESapCLkEcRUDDsr4_P3gHDQRkTsfWamXwspK6_plmUiBLrHW8Gsf_oL8aWJBvnCQjxvTrB1ONqnzPqnS2C8GDtHCgdHjMQNrk6Bon7BkNduaQ9kwF3DExrI6n1QJ5uPRlPQyFvWdNsipIbNuLMCkqMZbHWTUnia8jPmc_jh3BkM4rfHmIemj0zQeVlibOK7-rcT34tnR0pgraiqK93cv-EA5ZxvZpB0_1rTtV2ikFEI0JbY3wuTBaQ-V1x_WKPCDO4Nq1bEfCqC76GaIhFwcTDjxGUOxR669TOBk7qjavZKEGkrRkUDsboHqJHVUhOkdRT6DGwh65wMNhaloZBa9O7TnzC01E2aKCAQnLOX3Ts_ABiY60szd7zTF1VoBVXnfAFfBMCjstQXAFf8UH3EHFzQsRxXCTPvTLWR3k1WZjluDqCX4lk4ws4fYPKPXvHBzdZoZAJDhsvElPyo2HeEn_QacCxq0fcSOWNLrJHOQvLFVvxMHxBIV2KWsq-FW8Ho45hNRrXXRisiv7z9a2r0xw6N6jOySoA9fzMf6OojXh-r8Iuni2cusS1QgrWmHO_ka5Je1sTCiaT79zLvf1YeNUcG1tQzz4LksUJwObh2y4X-PMyrGInZU7JJssp9k8kPXg6eSR_6AJHp0w=&slots=HSR_DYN&position=3&beaconIssued=2022-02-25T17:33:20",
+      "clickTrackingUrl": "https://www.expedia.co.in/taps/v1/Cl?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=3&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEGyeQOuPOX1um1SWtDA6uXOvIJaACD2ahm7cGdWWSLWTK0BNR79I3JddIPfHnxUWVTR1U-IW7BI2k25ZL9LTljngvu0mA2LjVe_75Tsd_7eGhqvmH6B5OM-E7PM-8fnQvVVXj1JP9HQh6Tl5O9rXTOZnJTjJUVXI9b3UB7J-GeTGfBhaB6Gg0530GZ8p-YENRv1gA3oiqpKBQXnkxr3bWMxq0mg2uxh3OVitAGmFC8vJH1tSEe8gd7VAbUWibulV1ZKR34SbaeHwtJJ3YNdgcv8kvN_EYsAtqOG9AbgEMHDmj41VoDSHCJMzilzI5IRU4DmdJJpiCM_zUJ-xvIQP2tD01-jKrXOKwbWQM0yPH4H9cstlbALa7frJrzXxmFniN0TvKd9u_Kci8ettUVNWuXwf5jCasbVv-AzyM4RUhsNAUBkjPQDkObCWDpkwToTqlOo68m6oqAssFP2uT9gkg4GPHjx6-9YJI8PDOYjgFycLMM1GZCrv3jYxagKzuiaKFUXwo4A-24ESapCLkEcRUDDsr4_P3gHDQRkTsfWamXwspK6_plmUiBLrHW8Gsf_oL8aWJBvnCQjxvTrB1ONqnzPqnS2C8GDtHCgdHjMQNrk6Bon7BkNduaQ9kwF3DExrI6n1QJ5uPRlPQyFvWdNsipIbNuLMCkqMZbHWTUnia8jPmc_jh3BkM4rfHmIemj0zQeVlibOK7-rcT34tnR0pgraiqK93cv-EA5ZxvZpB0_1rTtV2ikFEI0JbY3wuTBaQ-V1x_WKPCDO4Nq1bEfCqC76GaIhFwcTDjxGUOxR669TOBk7qjavZKEGkrRkUDsboHqJHVUhOkdRT6DGwh65wMNhaloZBa9O7TnzC01E2aKCAQnLOX3Ts_ABiY60szd7zTF1VoBVXnfAFfBMCjstQXAFf8UH3EHFzQsRxXCTPvTLWR3k1WZjluDqCX4lk4ws4fYPKPXvHBzdZoZAJDhsvElPyo2HeEn_QacCxq0fcSOWNLrJHOQvLFVvxMHxBIV2KWsq-FW8Ho45hNRrXXRisiv7z9a2r0xw6N6jOySoA9fzMf6OojXh-r8Iuni2cusS1QgrWmHO_ka5Je1sTCiaT79zLvf1YeNUcG1tQzz4LksUJwObh2y4X-PMyrGInZU7JJssp9k8kPXg6eSR_6AJHp0w=&slots=HSR_DYN&position=3&beaconIssued=2022-02-25T17:33:20",
+      "details": "Enjoy up to 25 percent off at over 160 hotels in India, Middle East and Africa. Book by 30 April 2022.",
+      "detailsHeadline": "Up to 25pct off at over 160 IHG Hotels",
+      "hotelImage": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/5000000/4440000/4431500/4431441/dcb8337b_b.jpg",
+      "impressionTrackingUrl": "https://www.expedia.co.in/taps/v1/Impr?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=3&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEGyeQOuPOX1um1SWtDA6uXOvIJaACD2ahm7cGdWWSLWTK0BNR79I3JddIPfHnxUWVTR1U-IW7BI2k25ZL9LTljngvu0mA2LjVe_75Tsd_7eGhqvmH6B5OM-E7PM-8fnQvVVXj1JP9HQh6Tl5O9rXTOZnJTjJUVXI9b3UB7J-GeTGfBhaB6Gg0530GZ8p-YENRv1gA3oiqpKBQXnkxr3bWMxq0mg2uxh3OVitAGmFC8vJH1tSEe8gd7VAbUWibulV1ZKR34SbaeHwtJJ3YNdgcv8kvN_EYsAtqOG9AbgEMHDmj41VoDSHCJMzilzI5IRU4DmdJJpiCM_zUJ-xvIQP2tD01-jKrXOKwbWQM0yPH4H9cstlbALa7frJrzXxmFniN0TvKd9u_Kci8ettUVNWuXwf5jCasbVv-AzyM4RUhsNAUBkjPQDkObCWDpkwToTqlOo68m6oqAssFP2uT9gkg4GPHjx6-9YJI8PDOYjgFycLMM1GZCrv3jYxagKzuiaKFUXwo4A-24ESapCLkEcRUDDsr4_P3gHDQRkTsfWamXwspK6_plmUiBLrHW8Gsf_oL8aWJBvnCQjxvTrB1ONqnzPqnS2C8GDtHCgdHjMQNrk6Bon7BkNduaQ9kwF3DExrI6n1QJ5uPRlPQyFvWdNsipIbNuLMCkqMZbHWTUnia8jPmc_jh3BkM4rfHmIemj0zQeVlibOK7-rcT34tnR0pgraiqK93cv-EA5ZxvZpB0_1rTtV2ikFEI0JbY3wuTBaQ-V1x_WKPCDO4Nq1bEfCqC76GaIhFwcTDjxGUOxR669TOBk7qjavZKEGkrRkUDsboHqJHVUhOkdRT6DGwh65wMNhaloZBa9O7TnzC01E2aKCAQnLOX3Ts_ABiY60szd7zTF1VoBVXnfAFfBMCjstQXAFf8UH3EHFzQsRxXCTPvTLWR3k1WZjluDqCX4lk4ws4fYPKPXvHBzdZoZAJDhsvElPyo2HeEn_QacCxq0fcSOWNLrJHOQvLFVvxMHxBIV2KWsq-FW8Ho45hNRrXXRisiv7z9a2r0xw6N6jOySoA9fzMf6OojXh-r8Iuni2cusS1QgrWmHO_ka5Je1sTCiaT79zLvf1YeNUcG1tQzz4LksUJwObh2y4X-PMyrGInZU7JJssp9k8kPXg6eSR_6AJHp0w=&slots=HSR_DYN&position=3&beaconIssued=2022-02-25T17:33:20",
+      "trackingData": "AAAAEGyeQOuPOX1um1SWtDA6uXOvIJaACD2ahm7cGdWWSLWTK0BNR79I3JddIPfHnxUWVTR1U-IW7BI2k25ZL9LTljngvu0mA2LjVe_75Tsd_7eGhqvmH6B5OM-E7PM-8fnQvVVXj1JP9HQh6Tl5O9rXTOZnJTjJUVXI9b3UB7J-GeTGfBhaB6Gg0530GZ8p-YENRv1gA3oiqpKBQXnkxr3bWMxq0mg2uxh3OVitAGmFC8vJH1tSEe8gd7VAbUWibulV1ZKR34SbaeHwtJJ3YNdgcv8kvN_EYsAtqOG9AbgEMHDmj41VoDSHCJMzilzI5IRU4DmdJJpiCM_zUJ-xvIQP2tD01-jKrXOKwbWQM0yPH4H9cstlbALa7frJrzXxmFniN0TvKd9u_Kci8ettUVNWuXwf5jCasbVv-AzyM4RUhsNAUBkjPQDkObCWDpkwToTqlOo68m6oqAssFP2uT9gkg4GPHjx6-9YJI8PDOYjgFycLMM1GZCrv3jYxagKzuiaKFUXwo4A-24ESapCLkEcRUDDsr4_P3gHDQRkTsfWamXwspK6_plmUiBLrHW8Gsf_oL8aWJBvnCQjxvTrB1ONqnzPqnS2C8GDtHCgdHjMQNrk6Bon7BkNduaQ9kwF3DExrI6n1QJ5uPRlPQyFvWdNsipIbNuLMCkqMZbHWTUnia8jPmc_jh3BkM4rfHmIemj0zQeVlibOK7-rcT34tnR0pgraiqK93cv-EA5ZxvZpB0_1rTtV2ikFEI0JbY3wuTBaQ-V1x_WKPCDO4Nq1bEfCqC76GaIhFwcTDjxGUOxR669TOBk7qjavZKEGkrRkUDsboHqJHVUhOkdRT6DGwh65wMNhaloZBa9O7TnzC01E2aKCAQnLOX3Ts_ABiY60szd7zTF1VoBVXnfAFfBMCjstQXAFf8UH3EHFzQsRxXCTPvTLWR3k1WZjluDqCX4lk4ws4fYPKPXvHBzdZoZAJDhsvElPyo2HeEn_QacCxq0fcSOWNLrJHOQvLFVvxMHxBIV2KWsq-FW8Ho45hNRrXXRisiv7z9a2r0xw6N6jOySoA9fzMf6OojXh-r8Iuni2cusS1QgrWmHO_ka5Je1sTCiaT79zLvf1YeNUcG1tQzz4LksUJwObh2y4X-PMyrGInZU7JJssp9k8kPXg6eSR_6AJHp0w=",
+      "brand": null,
+      "clickRedirectLinkoffTrackingUrl": null,
+      "logo": null,
+      "lotagline": null,
+      "rating": "0",
+      "slots": "HSR_DYN",
+      "vanityUrl": null,
+      "rank": "3",
+      "position": "3"
+    },
+    "amenities": [],
+    "star": null,
+    "starRatingIcon": "STAR",
+    "availability": {
+      "available": true,
+      "text": null,
+      "theme": "URGENT"
+    },
+    "offerSummary": {
+      "messages": [
+        {
+          "message": "Fully refundable",
+          "theme": "SUCCESS",
+          "type": "FREE_CANCEL",
+          "mark": null
+        },
+        {
+          "message": "Reserve now, pay later",
+          "theme": "SUCCESS",
+          "type": "PAY_LATER",
+          "mark": null
+        }
+      ]
+    },
+    "legalDisclaimer": null,
+    "imageGallery": {
+      "accessibilityLabel": "Photo gallery for Crowne Plaza New Delhi Mayur Vihar Noida, an IHG Hotel",
+      "images": [
+        {
+          "image": {
+            "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/5000000/4440000/4431500/4431441/dcb8337b_b.jpg",
+            "description": "Exterior"
+          },
+          "subjectId": 91024,
+          "fallbackImage": {
+            "url": "https://images.trvl-media.com/hotels/5000000/4440000/4431500/4431441/0f096ef0.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Exterior"
+          },
+          "imageId": "407405024"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/5000000/4440000/4431500/4431441/4b2b7991.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Pool"
+          },
+          "subjectId": 30000,
+          "fallbackImage": null,
+          "imageId": "654584699"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/5000000/4440000/4431500/4431441/5d6b2724.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Bathroom"
+          },
+          "subjectId": 23000,
+          "fallbackImage": null,
+          "imageId": "607096753"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/5000000/4440000/4431500/4431441/69574d56.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Bar"
+          },
+          "subjectId": 82000,
+          "fallbackImage": null,
+          "imageId": "44628970"
+        }
+      ]
+    },
+    "mapMarker": {
+      "icon": "HOTEL",
+      "label": "Rs5,225",
+      "type": "HOTEL",
+      "latLong": {
+        "latitude": 28.589705,
+        "longitude": 77.298157
+      },
+      "clientSideAnalytics": {
+        "referrerId": "Module.Map.HotelMarkerSelect",
+        "linkName": "User selecting a hotel marker on the PWA HSR map"
+      }
+    },
+    "neighborhood": {
+      "name": "New Delhi"
+    },
+    "pinnedDetails": null,
+    "recentlyViewed": null,
+    "featuredMessages": null,
+    "supportingMessages": ["Excludes taxes & fees"],
+    "shortList": {
+      "favorited": false,
+      "saveUrl": "/api/ucs/shortlist/save/4431441",
+      "removeUrl": "/api/ucs/shortlist/remove/4431441",
+      "metaData": {
+        "chkIn": "20220311",
+        "chkOut": "20220312",
+        "hotelId": "4431441",
+        "roomConfiguration": "2"
+      }
+    },
+    "highlightedPropertyDetails": [],
+    "propertySource": null,
+    "dataAttributes": null,
+    "listingFooter": null
+  },
+  {
+    "__typename": "MessageResult",
+    "title": {
+      "text": "You could be seeing lower prices",
+      "icon": null,
+      "mark": {
+        "description": "You could be seeing lower prices",
+        "id": "mod_exp"
+      },
+      "illustration": null,
+      "theme": null
+    },
+    "subtitle": {
+      "text": "With member prices, you could save 10% or more right now on thousands of properties.",
+      "icon": null,
+      "mark": null,
+      "illustration": null,
+      "theme": null
+    },
+    "action": {
+      "primary": {
+        "actionDetails": null,
+        "linkUrl": "https://www.expedia.co.in/user/signin?uurl=e3id%3Dredr%26rurl%3D%2FHotel-Search%3FregionId%3D180000%26destination%3DDelhi%2B%2528and%2Bvicinity%2529%252C%2BNational%2BCapital%2BTerritory%2Bof%2BDelhi%252C%2BIndia%26startDate%3D2022-03-11%26endDate%3D2022-03-12%26adults%3D2%26children%3D%26sort%3DRECOMMENDED%26semdtl%3D%26userIntent%3D",
+        "referrerId": ":LoginCard.SignIn",
+        "text": "Sign in"
+      },
+      "secondary": {
+        "actionDetails": null,
+        "linkUrl": "https://www.expedia.co.in/user/createaccount?uurl=e3id%3Dredr%26rurl%3D%2FHotel-Search%3FregionId%3D180000%26destination%3DDelhi%2B%2528and%2Bvicinity%2529%252C%2BNational%2BCapital%2BTerritory%2Bof%2BDelhi%252C%2BIndia%26startDate%3D2022-03-11%26endDate%3D2022-03-12%26adults%3D2%26children%3D%26sort%3DRECOMMENDED%26semdtl%3D%26userIntent%3D&fromheader=true",
+        "referrerId": ":LoginCard.CreateAccount",
+        "text": "Sign up, it's free"
+      }
+    },
+    "index": 3,
+    "type": "LOGIN"
+  },
+  {
+    "__typename": "Property",
+    "id": "4358953",
+    "name": "Holiday Inn New Delhi Mayur Vihar Noida, an IHG Hotel",
+    "propertyImage": {
+      "image": {
+        "description": "Featured image",
+        "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/5000000/4360000/4359000/4358953/84a990cf_b.jpg"
+      },
+      "fallbackImage": {
+        "description": "Featured image",
+        "url": "https://images.trvl-media.com/hotels/5000000/4360000/4359000/4358953/84a990cf.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      }
+    },
+    "offerBadge": {
+      "primary": {
+        "text": "Ad",
+        "theme_temp": "SPONSORED",
+        "icon_temp": null,
+        "mark": null
+      },
+      "secondary": null
+    },
+    "price": {
+      "alignment": null,
+      "displayMessages": null,
+      "lead": {
+        "formatted": "Rs5,207"
+      },
+      "strikeOutType": "PRICE_SURVEY",
+      "strikeOut": null,
+      "disclaimer": null,
+      "roomNightMessage": "per night",
+      "priceMessages": [
+        {
+          "value": "per night"
+        }
+      ],
+      "marketingFeeDetails": null,
+      "options": [
+        {
+          "leadingCaption": null,
+          "displayPrice": {
+            "formatted": "Rs5,207"
+          },
+          "strikeOut": null,
+          "loyaltyPrice": null,
+          "disclaimer": null
+        }
+      ]
+    },
+    "reviews": {
+      "score": 4.2,
+      "localizedScore": "4.2",
+      "total": 140,
+      "localizedTotal": "140 reviews",
+      "superlative": "Very good",
+      "localizedSubtitle": "4.2 / 5 (140 reviews)",
+      "localizedSubtitleA11y": {
+        "accessibilityLabel": "4.2 out of 5 Very good (140 reviews)",
+        "value": "4.2/5 Very good (140 reviews)"
+      },
+      "mark": null
+    },
+    "destinationInfo": {
+      "distanceFromMessaging": null
+    },
+    "vipMessaging": null,
+    "propertyDetailsLink": {
+      "uri": {
+        "value": "https://www.expedia.co.in/Delhi-Hotels-Holiday-Inn-New-Delhi-Mayur-Vihar-Noida.h4358953.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810401961&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=180000&destination=Delhi+%28and+vicinity%29%2C+National+Capital+Territory+of+Delhi%2C+India&destType=MARKET&neighborhoodId=553248635939576766&trackingData=AAAAEI8TDQ-Cfm-8SLxi3CM3GImNdvrgLuqp1seVxe582pe6mNGAYEbKzkvJ6eZGU2LpTgqDOrlDYAhcaZLfksfRTzc51Lf1CJW7_RCXnbrA0Th_F2FOxolXTYLQ8qCw5iITCkxg7bRVYetywg4dzqWELMntXBoDAdk7eeWE3twGMlGAN-zst4Wky9bqOYPFvhoySUYPoUNxh7LQtuDi-ZCzQ30XWMlQyLRo-aDtskkid5B1qocAgQ52aPq3uqfJXBIKIQx3OpTrqbWpkfd3Q_2VAMGBwBdTaxXAXVm2TB9sFHQ3W6qNkgTTXC8b0nESEVsM-VpefcODdE5dn1IZUjgvQH7TOeTQt0epHa5xNR4cVRlyerZoUS_fbQJlvGFUdDT1rm4O9qv5WtFGXCEGnIBPc2wnl_AYNhefGaFKdGi6QAuvJ6Rg0xUWEHN8LtQjrJPLOBQPNE2ANsr7Ub2TPCEXmmvGt1zBBpN3mDdLRaxpVrATj8vgXTD_eJTr5xusSoJDN2ZqJzmd0hwcLzAEGiDlCZnHn5cq56xxxDSIclXEfUV8AkFiGC0lF4r10QFQxykIvjtSbq4tBkbA-KAfhav_EL5SzMLx_TT8CZsXWeXL7Bm3FfnTSeoK9QfN4X7j28j-xqo3qmrGNGjSINtUWy_Riz87qVHOiA3FitV59Xotvd7KgvE6GUG0_5V8Lov6BztCPGCgHHF0o8QGxk4YV75H65LXRLmSpH3tSbYosM_F4U-YXKR5yvFXmqKVTorCOlyhT0rfY3CJIEdCOY72Gw0wklJig74Jbi53DW55Kme1Z9K0xKz61XckDaaifOj5ysLGpnqUX-YD1kaYHdC4rlHEdNR4kfLpUKIBQuwWjSi8tz39-gCDrLmadcjmKqIAVvS3mhwsGUjb_cKR-rkVhN6YCQPzCgWHyuNMKJzs7nqbkwLkmZ8fSxqmBNAkLRso1FNsze4roWL4O3BjlFi1mA411K3qZNJjbB-SE_LxqhETEiLfnU0liahq2zrffEHWTOr50mz1_vHARQBHNBwJbg6ebMLVHwegCnOwhklpLQIeUsj1MVoWy9GK_HMWQUvHCqgXv-pwFvc3NzV0zi7BWvwMXOplikP34_P6CepSRRqcsi4bQWcpe7rGolneY0mXI2MQsdFsEs_mq8FoZFuzYF3V3OE%3D&rank=4&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_AB&position=4&beaconIssued=2022-02-25T17%3A33%3A20&sort=RECOMMENDED&top_dp=5207&top_cur=INR&semdtl=&userIntent=&selectedRoomType=211201144&selectedRatePlan=228309484",
+        "relativePath": "/Delhi-Hotels-Holiday-Inn-New-Delhi-Mayur-Vihar-Noida.h4358953.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810401961&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=180000&destination=Delhi+%28and+vicinity%29%2C+National+Capital+Territory+of+Delhi%2C+India&destType=MARKET&neighborhoodId=553248635939576766&trackingData=AAAAEI8TDQ-Cfm-8SLxi3CM3GImNdvrgLuqp1seVxe582pe6mNGAYEbKzkvJ6eZGU2LpTgqDOrlDYAhcaZLfksfRTzc51Lf1CJW7_RCXnbrA0Th_F2FOxolXTYLQ8qCw5iITCkxg7bRVYetywg4dzqWELMntXBoDAdk7eeWE3twGMlGAN-zst4Wky9bqOYPFvhoySUYPoUNxh7LQtuDi-ZCzQ30XWMlQyLRo-aDtskkid5B1qocAgQ52aPq3uqfJXBIKIQx3OpTrqbWpkfd3Q_2VAMGBwBdTaxXAXVm2TB9sFHQ3W6qNkgTTXC8b0nESEVsM-VpefcODdE5dn1IZUjgvQH7TOeTQt0epHa5xNR4cVRlyerZoUS_fbQJlvGFUdDT1rm4O9qv5WtFGXCEGnIBPc2wnl_AYNhefGaFKdGi6QAuvJ6Rg0xUWEHN8LtQjrJPLOBQPNE2ANsr7Ub2TPCEXmmvGt1zBBpN3mDdLRaxpVrATj8vgXTD_eJTr5xusSoJDN2ZqJzmd0hwcLzAEGiDlCZnHn5cq56xxxDSIclXEfUV8AkFiGC0lF4r10QFQxykIvjtSbq4tBkbA-KAfhav_EL5SzMLx_TT8CZsXWeXL7Bm3FfnTSeoK9QfN4X7j28j-xqo3qmrGNGjSINtUWy_Riz87qVHOiA3FitV59Xotvd7KgvE6GUG0_5V8Lov6BztCPGCgHHF0o8QGxk4YV75H65LXRLmSpH3tSbYosM_F4U-YXKR5yvFXmqKVTorCOlyhT0rfY3CJIEdCOY72Gw0wklJig74Jbi53DW55Kme1Z9K0xKz61XckDaaifOj5ysLGpnqUX-YD1kaYHdC4rlHEdNR4kfLpUKIBQuwWjSi8tz39-gCDrLmadcjmKqIAVvS3mhwsGUjb_cKR-rkVhN6YCQPzCgWHyuNMKJzs7nqbkwLkmZ8fSxqmBNAkLRso1FNsze4roWL4O3BjlFi1mA411K3qZNJjbB-SE_LxqhETEiLfnU0liahq2zrffEHWTOr50mz1_vHARQBHNBwJbg6ebMLVHwegCnOwhklpLQIeUsj1MVoWy9GK_HMWQUvHCqgXv-pwFvc3NzV0zi7BWvwMXOplikP34_P6CepSRRqcsi4bQWcpe7rGolneY0mXI2MQsdFsEs_mq8FoZFuzYF3V3OE%3D&rank=4&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_AB&position=4&beaconIssued=2022-02-25T17%3A33%3A20&sort=RECOMMENDED&top_dp=5207&top_cur=INR&semdtl=&userIntent=&selectedRoomType=211201144&selectedRatePlan=228309484"
+      },
+      "clientSideAnalytics": {
+        "referrerId": "HOT.SR:HotelModule:4",
+        "linkName": "View selected property"
+      }
+    },
+    "sponsoredListing": {
+      "id": "650432",
+      "clickRedirectTrackingUrl": "https://www.expedia.co.in/taps/v1/ClRedirect?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&destinationUrl=&rank=4&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEI8TDQ-Cfm-8SLxi3CM3GImNdvrgLuqp1seVxe582pe6mNGAYEbKzkvJ6eZGU2LpTgqDOrlDYAhcaZLfksfRTzc51Lf1CJW7_RCXnbrA0Th_F2FOxolXTYLQ8qCw5iITCkxg7bRVYetywg4dzqWELMntXBoDAdk7eeWE3twGMlGAN-zst4Wky9bqOYPFvhoySUYPoUNxh7LQtuDi-ZCzQ30XWMlQyLRo-aDtskkid5B1qocAgQ52aPq3uqfJXBIKIQx3OpTrqbWpkfd3Q_2VAMGBwBdTaxXAXVm2TB9sFHQ3W6qNkgTTXC8b0nESEVsM-VpefcODdE5dn1IZUjgvQH7TOeTQt0epHa5xNR4cVRlyerZoUS_fbQJlvGFUdDT1rm4O9qv5WtFGXCEGnIBPc2wnl_AYNhefGaFKdGi6QAuvJ6Rg0xUWEHN8LtQjrJPLOBQPNE2ANsr7Ub2TPCEXmmvGt1zBBpN3mDdLRaxpVrATj8vgXTD_eJTr5xusSoJDN2ZqJzmd0hwcLzAEGiDlCZnHn5cq56xxxDSIclXEfUV8AkFiGC0lF4r10QFQxykIvjtSbq4tBkbA-KAfhav_EL5SzMLx_TT8CZsXWeXL7Bm3FfnTSeoK9QfN4X7j28j-xqo3qmrGNGjSINtUWy_Riz87qVHOiA3FitV59Xotvd7KgvE6GUG0_5V8Lov6BztCPGCgHHF0o8QGxk4YV75H65LXRLmSpH3tSbYosM_F4U-YXKR5yvFXmqKVTorCOlyhT0rfY3CJIEdCOY72Gw0wklJig74Jbi53DW55Kme1Z9K0xKz61XckDaaifOj5ysLGpnqUX-YD1kaYHdC4rlHEdNR4kfLpUKIBQuwWjSi8tz39-gCDrLmadcjmKqIAVvS3mhwsGUjb_cKR-rkVhN6YCQPzCgWHyuNMKJzs7nqbkwLkmZ8fSxqmBNAkLRso1FNsze4roWL4O3BjlFi1mA411K3qZNJjbB-SE_LxqhETEiLfnU0liahq2zrffEHWTOr50mz1_vHARQBHNBwJbg6ebMLVHwegCnOwhklpLQIeUsj1MVoWy9GK_HMWQUvHCqgXv-pwFvc3NzV0zi7BWvwMXOplikP34_P6CepSRRqcsi4bQWcpe7rGolneY0mXI2MQsdFsEs_mq8FoZFuzYF3V3OE=&slots=HSR_AB&position=4&beaconIssued=2022-02-25T17:33:20",
+      "clickTrackingUrl": "https://www.expedia.co.in/taps/v1/Cl?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=4&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEI8TDQ-Cfm-8SLxi3CM3GImNdvrgLuqp1seVxe582pe6mNGAYEbKzkvJ6eZGU2LpTgqDOrlDYAhcaZLfksfRTzc51Lf1CJW7_RCXnbrA0Th_F2FOxolXTYLQ8qCw5iITCkxg7bRVYetywg4dzqWELMntXBoDAdk7eeWE3twGMlGAN-zst4Wky9bqOYPFvhoySUYPoUNxh7LQtuDi-ZCzQ30XWMlQyLRo-aDtskkid5B1qocAgQ52aPq3uqfJXBIKIQx3OpTrqbWpkfd3Q_2VAMGBwBdTaxXAXVm2TB9sFHQ3W6qNkgTTXC8b0nESEVsM-VpefcODdE5dn1IZUjgvQH7TOeTQt0epHa5xNR4cVRlyerZoUS_fbQJlvGFUdDT1rm4O9qv5WtFGXCEGnIBPc2wnl_AYNhefGaFKdGi6QAuvJ6Rg0xUWEHN8LtQjrJPLOBQPNE2ANsr7Ub2TPCEXmmvGt1zBBpN3mDdLRaxpVrATj8vgXTD_eJTr5xusSoJDN2ZqJzmd0hwcLzAEGiDlCZnHn5cq56xxxDSIclXEfUV8AkFiGC0lF4r10QFQxykIvjtSbq4tBkbA-KAfhav_EL5SzMLx_TT8CZsXWeXL7Bm3FfnTSeoK9QfN4X7j28j-xqo3qmrGNGjSINtUWy_Riz87qVHOiA3FitV59Xotvd7KgvE6GUG0_5V8Lov6BztCPGCgHHF0o8QGxk4YV75H65LXRLmSpH3tSbYosM_F4U-YXKR5yvFXmqKVTorCOlyhT0rfY3CJIEdCOY72Gw0wklJig74Jbi53DW55Kme1Z9K0xKz61XckDaaifOj5ysLGpnqUX-YD1kaYHdC4rlHEdNR4kfLpUKIBQuwWjSi8tz39-gCDrLmadcjmKqIAVvS3mhwsGUjb_cKR-rkVhN6YCQPzCgWHyuNMKJzs7nqbkwLkmZ8fSxqmBNAkLRso1FNsze4roWL4O3BjlFi1mA411K3qZNJjbB-SE_LxqhETEiLfnU0liahq2zrffEHWTOr50mz1_vHARQBHNBwJbg6ebMLVHwegCnOwhklpLQIeUsj1MVoWy9GK_HMWQUvHCqgXv-pwFvc3NzV0zi7BWvwMXOplikP34_P6CepSRRqcsi4bQWcpe7rGolneY0mXI2MQsdFsEs_mq8FoZFuzYF3V3OE=&slots=HSR_AB&position=4&beaconIssued=2022-02-25T17:33:20",
+      "details": "Enjoy up to 25 percent off at over 160 hotels in India, Middle East and Africa. Book by 30 April 2022.",
+      "detailsHeadline": "Up to 25pct off at over 160 IHG Hotels",
+      "hotelImage": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/5000000/4360000/4359000/4358953/84a990cf_b.jpg",
+      "impressionTrackingUrl": "https://www.expedia.co.in/taps/v1/Impr?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=4&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEI8TDQ-Cfm-8SLxi3CM3GImNdvrgLuqp1seVxe582pe6mNGAYEbKzkvJ6eZGU2LpTgqDOrlDYAhcaZLfksfRTzc51Lf1CJW7_RCXnbrA0Th_F2FOxolXTYLQ8qCw5iITCkxg7bRVYetywg4dzqWELMntXBoDAdk7eeWE3twGMlGAN-zst4Wky9bqOYPFvhoySUYPoUNxh7LQtuDi-ZCzQ30XWMlQyLRo-aDtskkid5B1qocAgQ52aPq3uqfJXBIKIQx3OpTrqbWpkfd3Q_2VAMGBwBdTaxXAXVm2TB9sFHQ3W6qNkgTTXC8b0nESEVsM-VpefcODdE5dn1IZUjgvQH7TOeTQt0epHa5xNR4cVRlyerZoUS_fbQJlvGFUdDT1rm4O9qv5WtFGXCEGnIBPc2wnl_AYNhefGaFKdGi6QAuvJ6Rg0xUWEHN8LtQjrJPLOBQPNE2ANsr7Ub2TPCEXmmvGt1zBBpN3mDdLRaxpVrATj8vgXTD_eJTr5xusSoJDN2ZqJzmd0hwcLzAEGiDlCZnHn5cq56xxxDSIclXEfUV8AkFiGC0lF4r10QFQxykIvjtSbq4tBkbA-KAfhav_EL5SzMLx_TT8CZsXWeXL7Bm3FfnTSeoK9QfN4X7j28j-xqo3qmrGNGjSINtUWy_Riz87qVHOiA3FitV59Xotvd7KgvE6GUG0_5V8Lov6BztCPGCgHHF0o8QGxk4YV75H65LXRLmSpH3tSbYosM_F4U-YXKR5yvFXmqKVTorCOlyhT0rfY3CJIEdCOY72Gw0wklJig74Jbi53DW55Kme1Z9K0xKz61XckDaaifOj5ysLGpnqUX-YD1kaYHdC4rlHEdNR4kfLpUKIBQuwWjSi8tz39-gCDrLmadcjmKqIAVvS3mhwsGUjb_cKR-rkVhN6YCQPzCgWHyuNMKJzs7nqbkwLkmZ8fSxqmBNAkLRso1FNsze4roWL4O3BjlFi1mA411K3qZNJjbB-SE_LxqhETEiLfnU0liahq2zrffEHWTOr50mz1_vHARQBHNBwJbg6ebMLVHwegCnOwhklpLQIeUsj1MVoWy9GK_HMWQUvHCqgXv-pwFvc3NzV0zi7BWvwMXOplikP34_P6CepSRRqcsi4bQWcpe7rGolneY0mXI2MQsdFsEs_mq8FoZFuzYF3V3OE=&slots=HSR_AB&position=4&beaconIssued=2022-02-25T17:33:20",
+      "trackingData": "AAAAEI8TDQ-Cfm-8SLxi3CM3GImNdvrgLuqp1seVxe582pe6mNGAYEbKzkvJ6eZGU2LpTgqDOrlDYAhcaZLfksfRTzc51Lf1CJW7_RCXnbrA0Th_F2FOxolXTYLQ8qCw5iITCkxg7bRVYetywg4dzqWELMntXBoDAdk7eeWE3twGMlGAN-zst4Wky9bqOYPFvhoySUYPoUNxh7LQtuDi-ZCzQ30XWMlQyLRo-aDtskkid5B1qocAgQ52aPq3uqfJXBIKIQx3OpTrqbWpkfd3Q_2VAMGBwBdTaxXAXVm2TB9sFHQ3W6qNkgTTXC8b0nESEVsM-VpefcODdE5dn1IZUjgvQH7TOeTQt0epHa5xNR4cVRlyerZoUS_fbQJlvGFUdDT1rm4O9qv5WtFGXCEGnIBPc2wnl_AYNhefGaFKdGi6QAuvJ6Rg0xUWEHN8LtQjrJPLOBQPNE2ANsr7Ub2TPCEXmmvGt1zBBpN3mDdLRaxpVrATj8vgXTD_eJTr5xusSoJDN2ZqJzmd0hwcLzAEGiDlCZnHn5cq56xxxDSIclXEfUV8AkFiGC0lF4r10QFQxykIvjtSbq4tBkbA-KAfhav_EL5SzMLx_TT8CZsXWeXL7Bm3FfnTSeoK9QfN4X7j28j-xqo3qmrGNGjSINtUWy_Riz87qVHOiA3FitV59Xotvd7KgvE6GUG0_5V8Lov6BztCPGCgHHF0o8QGxk4YV75H65LXRLmSpH3tSbYosM_F4U-YXKR5yvFXmqKVTorCOlyhT0rfY3CJIEdCOY72Gw0wklJig74Jbi53DW55Kme1Z9K0xKz61XckDaaifOj5ysLGpnqUX-YD1kaYHdC4rlHEdNR4kfLpUKIBQuwWjSi8tz39-gCDrLmadcjmKqIAVvS3mhwsGUjb_cKR-rkVhN6YCQPzCgWHyuNMKJzs7nqbkwLkmZ8fSxqmBNAkLRso1FNsze4roWL4O3BjlFi1mA411K3qZNJjbB-SE_LxqhETEiLfnU0liahq2zrffEHWTOr50mz1_vHARQBHNBwJbg6ebMLVHwegCnOwhklpLQIeUsj1MVoWy9GK_HMWQUvHCqgXv-pwFvc3NzV0zi7BWvwMXOplikP34_P6CepSRRqcsi4bQWcpe7rGolneY0mXI2MQsdFsEs_mq8FoZFuzYF3V3OE=",
+      "brand": null,
+      "clickRedirectLinkoffTrackingUrl": null,
+      "logo": null,
+      "lotagline": null,
+      "rating": "0",
+      "slots": "HSR_AB",
+      "vanityUrl": null,
+      "rank": "4",
+      "position": "4"
+    },
+    "amenities": [],
+    "star": null,
+    "starRatingIcon": "STAR",
+    "availability": {
+      "available": true,
+      "text": null,
+      "theme": "URGENT"
+    },
+    "offerSummary": {
+      "messages": [
+        {
+          "message": "Fully refundable",
+          "theme": "SUCCESS",
+          "type": "FREE_CANCEL",
+          "mark": null
+        },
+        {
+          "message": "Reserve now, pay later",
+          "theme": "SUCCESS",
+          "type": "PAY_LATER",
+          "mark": null
+        }
+      ]
+    },
+    "legalDisclaimer": null,
+    "imageGallery": {
+      "accessibilityLabel": "Photo gallery for Holiday Inn New Delhi Mayur Vihar Noida, an IHG Hotel",
+      "images": [
+        {
+          "image": {
+            "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/5000000/4360000/4359000/4358953/84a990cf_b.jpg",
+            "description": "Featured image"
+          },
+          "subjectId": 3,
+          "fallbackImage": {
+            "url": "https://images.trvl-media.com/hotels/5000000/4360000/4359000/4358953/84a990cf.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Featured image"
+          },
+          "imageId": "84974540"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/5000000/4360000/4359000/4358953/6204bde5.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "BBQ/picnic area"
+          },
+          "subjectId": 91016,
+          "fallbackImage": null,
+          "imageId": "42966132"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/5000000/4360000/4359000/4358953/07bd446b.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Pool"
+          },
+          "subjectId": 30000,
+          "fallbackImage": null,
+          "imageId": "204165172"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/5000000/4360000/4359000/4358953/010c90d3.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Bedroom"
+          },
+          "subjectId": 21001,
+          "fallbackImage": null,
+          "imageId": "200562635"
+        }
+      ]
+    },
+    "mapMarker": {
+      "icon": "HOTEL",
+      "label": "Rs5,207",
+      "type": "HOTEL",
+      "latLong": {
+        "latitude": 28.590395,
+        "longitude": 77.298703
+      },
+      "clientSideAnalytics": {
+        "referrerId": "Module.Map.HotelMarkerSelect",
+        "linkName": "User selecting a hotel marker on the PWA HSR map"
+      }
+    },
+    "neighborhood": {
+      "name": "New Delhi"
+    },
+    "pinnedDetails": null,
+    "recentlyViewed": null,
+    "featuredMessages": null,
+    "supportingMessages": ["Excludes taxes & fees"],
+    "shortList": {
+      "favorited": false,
+      "saveUrl": "/api/ucs/shortlist/save/4358953",
+      "removeUrl": "/api/ucs/shortlist/remove/4358953",
+      "metaData": {
+        "chkIn": "20220311",
+        "chkOut": "20220312",
+        "hotelId": "4358953",
+        "roomConfiguration": "2"
+      }
+    },
+    "highlightedPropertyDetails": [],
+    "propertySource": null,
+    "dataAttributes": null,
+    "listingFooter": null
+  },
+  {
+    "__typename": "Property",
+    "id": "3851663",
+    "name": "The Leela Palace New Delhi",
+    "propertyImage": {
+      "image": {
+        "description": "Featured image",
+        "url": "https://images.trvl-media.com/hotels/4000000/3860000/3851700/3851663/958ad657.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      },
+      "fallbackImage": null
+    },
+    "offerBadge": {
+      "primary": {
+        "text": "VIP Access",
+        "theme_temp": "VIP",
+        "icon_temp": null,
+        "mark": null
+      },
+      "secondary": null
+    },
+    "price": {
+      "alignment": null,
+      "displayMessages": null,
+      "lead": {
+        "formatted": "Rs14,083"
+      },
+      "strikeOutType": "STANDALONE",
+      "strikeOut": null,
+      "disclaimer": null,
+      "roomNightMessage": "per night",
+      "priceMessages": [
+        {
+          "value": "per night"
+        }
+      ],
+      "marketingFeeDetails": null,
+      "options": [
+        {
+          "leadingCaption": null,
+          "displayPrice": {
+            "formatted": "Rs14,083"
+          },
+          "strikeOut": null,
+          "loyaltyPrice": null,
+          "disclaimer": null
+        }
+      ]
+    },
+    "reviews": {
+      "score": 4.8,
+      "localizedScore": "4.8",
+      "total": 998,
+      "localizedTotal": "998 reviews",
+      "superlative": "Exceptional",
+      "localizedSubtitle": "4.8 / 5 (998 reviews)",
+      "localizedSubtitleA11y": {
+        "accessibilityLabel": "4.8 out of 5 Exceptional (998 reviews)",
+        "value": "4.8/5 Exceptional (998 reviews)"
+      },
+      "mark": null
+    },
+    "destinationInfo": {
+      "distanceFromMessaging": null
+    },
+    "vipMessaging": "VIP Access",
+    "propertyDetailsLink": {
+      "uri": {
+        "value": "https://www.expedia.co.in/Delhi-Hotels-The-Leela-Palace-New-Delhi.h3851663.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810401961&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=180000&destination=Delhi+%28and+vicinity%29%2C+National+Capital+Territory+of+Delhi%2C+India&destType=MARKET&neighborhoodId=553248635976007706&sort=RECOMMENDED&top_dp=14083&top_cur=INR&semdtl=&userIntent=&selectedRoomType=212415166&selectedRatePlan=236341924",
+        "relativePath": "/Delhi-Hotels-The-Leela-Palace-New-Delhi.h3851663.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810401961&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=180000&destination=Delhi+%28and+vicinity%29%2C+National+Capital+Territory+of+Delhi%2C+India&destType=MARKET&neighborhoodId=553248635976007706&sort=RECOMMENDED&top_dp=14083&top_cur=INR&semdtl=&userIntent=&selectedRoomType=212415166&selectedRatePlan=236341924"
+      },
+      "clientSideAnalytics": {
+        "referrerId": "HOT.SR:HotelModule:5",
+        "linkName": "View selected property"
+      }
+    },
+    "sponsoredListing": null,
+    "amenities": [],
+    "star": null,
+    "starRatingIcon": "STAR",
+    "availability": {
+      "available": true,
+      "text": null,
+      "theme": "URGENT"
+    },
+    "offerSummary": {
+      "messages": [
+        {
+          "message": "Fully refundable",
+          "theme": "SUCCESS",
+          "type": "FREE_CANCEL",
+          "mark": null
+        },
+        {
+          "message": "Reserve now, pay later",
+          "theme": "SUCCESS",
+          "type": "PAY_LATER",
+          "mark": null
+        }
+      ]
+    },
+    "legalDisclaimer": null,
+    "imageGallery": {
+      "accessibilityLabel": "Photo gallery for The Leela Palace New Delhi",
+      "images": [
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/4000000/3860000/3851700/3851663/958ad657.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Featured image"
+          },
+          "subjectId": 3,
+          "fallbackImage": null,
+          "imageId": "17330569"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/4000000/3860000/3851700/3851663/c1013ae8.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Terrace/patio"
+          },
+          "subjectId": 91008,
+          "fallbackImage": null,
+          "imageId": "97390735"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/4000000/3860000/3851700/3851663/5cc49445.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Outdoor pool"
+          },
+          "subjectId": 30003,
+          "fallbackImage": null,
+          "imageId": "372506108"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/4000000/3860000/3851700/3851663/bada04cf.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Bedroom"
+          },
+          "subjectId": 21001,
+          "fallbackImage": null,
+          "imageId": "27335798"
+        }
+      ]
+    },
+    "mapMarker": {
+      "icon": "HOTEL",
+      "label": "Rs14,083",
+      "type": "HOTEL",
+      "latLong": {
+        "latitude": 28.600866,
+        "longitude": 77.186237
+      },
+      "clientSideAnalytics": {
+        "referrerId": "Module.Map.HotelMarkerSelect",
+        "linkName": "User selecting a hotel marker on the PWA HSR map"
+      }
+    },
+    "neighborhood": {
+      "name": "New Delhi"
+    },
+    "pinnedDetails": null,
+    "recentlyViewed": null,
+    "featuredMessages": null,
+    "supportingMessages": ["Excludes taxes & fees"],
+    "shortList": {
+      "favorited": false,
+      "saveUrl": "/api/ucs/shortlist/save/3851663",
+      "removeUrl": "/api/ucs/shortlist/remove/3851663",
+      "metaData": {
+        "chkIn": "20220311",
+        "chkOut": "20220312",
+        "hotelId": "3851663",
+        "roomConfiguration": "2"
+      }
+    },
+    "highlightedPropertyDetails": [],
+    "propertySource": null,
+    "dataAttributes": null,
+    "listingFooter": null
+  },
+  {
+    "__typename": "Property",
+    "id": "1304393",
+    "name": "Shangri-La Eros, New Delhi",
+    "propertyImage": {
+      "image": {
+        "description": "Featured image",
+        "url": "https://images.trvl-media.com/hotels/2000000/1310000/1304400/1304393/370d2f58.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      },
+      "fallbackImage": null
+    },
+    "offerBadge": {
+      "primary": {
+        "text": "VIP Access",
+        "theme_temp": "VIP",
+        "icon_temp": null,
+        "mark": null
+      },
+      "secondary": null
+    },
+    "price": {
+      "alignment": null,
+      "displayMessages": null,
+      "lead": {
+        "formatted": "Rs7,200"
+      },
+      "strikeOutType": "PRICE_SURVEY",
+      "strikeOut": null,
+      "disclaimer": null,
+      "roomNightMessage": "per night",
+      "priceMessages": [
+        {
+          "value": "per night"
+        }
+      ],
+      "marketingFeeDetails": null,
+      "options": [
+        {
+          "leadingCaption": null,
+          "displayPrice": {
+            "formatted": "Rs7,200"
+          },
+          "strikeOut": null,
+          "loyaltyPrice": null,
+          "disclaimer": null
+        }
+      ]
+    },
+    "reviews": {
+      "score": 4.5,
+      "localizedScore": "4.5",
+      "total": 997,
+      "localizedTotal": "997 reviews",
+      "superlative": "Wonderful",
+      "localizedSubtitle": "4.5 / 5 (997 reviews)",
+      "localizedSubtitleA11y": {
+        "accessibilityLabel": "4.5 out of 5 Wonderful (997 reviews)",
+        "value": "4.5/5 Wonderful (997 reviews)"
+      },
+      "mark": null
+    },
+    "destinationInfo": {
+      "distanceFromMessaging": null
+    },
+    "vipMessaging": "VIP Access",
+    "propertyDetailsLink": {
+      "uri": {
+        "value": "https://www.expedia.co.in/Delhi-Hotels-Shangri-La-Eros.h1304393.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810401961&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=180000&destination=Delhi+%28and+vicinity%29%2C+National+Capital+Territory+of+Delhi%2C+India&destType=MARKET&neighborhoodId=6000902&sort=RECOMMENDED&top_dp=7200&top_cur=INR&semdtl=&userIntent=&selectedRoomType=202133036&selectedRatePlan=236224601",
+        "relativePath": "/Delhi-Hotels-Shangri-La-Eros.h1304393.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810401961&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=180000&destination=Delhi+%28and+vicinity%29%2C+National+Capital+Territory+of+Delhi%2C+India&destType=MARKET&neighborhoodId=6000902&sort=RECOMMENDED&top_dp=7200&top_cur=INR&semdtl=&userIntent=&selectedRoomType=202133036&selectedRatePlan=236224601"
+      },
+      "clientSideAnalytics": {
+        "referrerId": "HOT.SR:HotelModule:6",
+        "linkName": "View selected property"
+      }
+    },
+    "sponsoredListing": null,
+    "amenities": [],
+    "star": null,
+    "starRatingIcon": "STAR",
+    "availability": {
+      "available": true,
+      "text": null,
+      "theme": "URGENT"
+    },
+    "offerSummary": {
+      "messages": []
+    },
+    "legalDisclaimer": null,
+    "imageGallery": {
+      "accessibilityLabel": "Photo gallery for Shangri-La Eros, New Delhi",
+      "images": [
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/2000000/1310000/1304400/1304393/370d2f58.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Featured image"
+          },
+          "subjectId": 3,
+          "fallbackImage": null,
+          "imageId": "90964380"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/2000000/1310000/1304400/1304393/a8a245d8.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Garden"
+          },
+          "subjectId": 91005,
+          "fallbackImage": null,
+          "imageId": "556684961"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/2000000/1310000/1304400/1304393/29aff702.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Pool"
+          },
+          "subjectId": 30000,
+          "fallbackImage": null,
+          "imageId": "556684949"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/2000000/1310000/1304400/1304393/2fefac0e.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Bedroom"
+          },
+          "subjectId": 21001,
+          "fallbackImage": null,
+          "imageId": "556684706"
+        }
+      ]
+    },
+    "mapMarker": {
+      "icon": "HOTEL",
+      "label": "Rs7,200",
+      "type": "HOTEL",
+      "latLong": {
+        "latitude": 28.62098,
+        "longitude": 77.218229
+      },
+      "clientSideAnalytics": {
+        "referrerId": "Module.Map.HotelMarkerSelect",
+        "linkName": "User selecting a hotel marker on the PWA HSR map"
+      }
+    },
+    "neighborhood": {
+      "name": "Connaught Place"
+    },
+    "pinnedDetails": null,
+    "recentlyViewed": null,
+    "featuredMessages": null,
+    "supportingMessages": ["Excludes taxes & fees"],
+    "shortList": {
+      "favorited": false,
+      "saveUrl": "/api/ucs/shortlist/save/1304393",
+      "removeUrl": "/api/ucs/shortlist/remove/1304393",
+      "metaData": {
+        "chkIn": "20220311",
+        "chkOut": "20220312",
+        "hotelId": "1304393",
+        "roomConfiguration": "2"
+      }
+    },
+    "highlightedPropertyDetails": [],
+    "propertySource": null,
+    "dataAttributes": null,
+    "listingFooter": null
+  },
+  {
+    "__typename": "Property",
+    "id": "465005",
+    "name": "Taj Palace, New Delhi",
+    "propertyImage": {
+      "image": {
+        "description": "Featured image",
+        "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/13a4747e.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      },
+      "fallbackImage": null
+    },
+    "offerBadge": {
+      "primary": null,
+      "secondary": {
+        "text": "Member Price available",
+        "theme_temp": "DEAL_MEMBER",
+        "icon_temp": {
+          "id": "mod",
+          "description": "mod",
+          "title": ""
+        }
+      }
+    },
+    "price": {
+      "alignment": null,
+      "displayMessages": null,
+      "lead": {
+        "formatted": "Rs8,500"
+      },
+      "strikeOutType": "PRICE_SURVEY",
+      "strikeOut": null,
+      "disclaimer": null,
+      "roomNightMessage": "per night",
+      "priceMessages": [
+        {
+          "value": "per night"
+        }
+      ],
+      "marketingFeeDetails": null,
+      "options": [
+        {
+          "leadingCaption": null,
+          "displayPrice": {
+            "formatted": "Rs8,500"
+          },
+          "strikeOut": null,
+          "loyaltyPrice": null,
+          "disclaimer": null
+        }
+      ]
+    },
+    "reviews": {
+      "score": 4.5,
+      "localizedScore": "4.5",
+      "total": 1000,
+      "localizedTotal": "1,000 reviews",
+      "superlative": "Wonderful",
+      "localizedSubtitle": "4.5 / 5 (1,000 reviews)",
+      "localizedSubtitleA11y": {
+        "accessibilityLabel": "4.5 out of 5 Wonderful (1,000 reviews)",
+        "value": "4.5/5 Wonderful (1,000 reviews)"
+      },
+      "mark": null
+    },
+    "destinationInfo": {
+      "distanceFromMessaging": null
+    },
+    "vipMessaging": null,
+    "propertyDetailsLink": {
+      "uri": {
+        "value": "https://www.expedia.co.in/Delhi-Hotels-Taj-Palace.h465005.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810401961&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=180000&destination=Delhi+%28and+vicinity%29%2C+National+Capital+Territory+of+Delhi%2C+India&destType=MARKET&sort=RECOMMENDED&top_dp=8500&top_cur=INR&semdtl=&userIntent=&selectedRoomType=201488016&selectedRatePlan=207466472",
+        "relativePath": "/Delhi-Hotels-Taj-Palace.h465005.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810401961&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=180000&destination=Delhi+%28and+vicinity%29%2C+National+Capital+Territory+of+Delhi%2C+India&destType=MARKET&sort=RECOMMENDED&top_dp=8500&top_cur=INR&semdtl=&userIntent=&selectedRoomType=201488016&selectedRatePlan=207466472"
+      },
+      "clientSideAnalytics": {
+        "referrerId": "HOT.SR:HotelModule:7",
+        "linkName": "View selected property"
+      }
+    },
+    "sponsoredListing": null,
+    "amenities": [],
+    "star": null,
+    "starRatingIcon": "STAR",
+    "availability": {
+      "available": true,
+      "text": null,
+      "theme": "URGENT"
+    },
+    "offerSummary": {
+      "messages": [
+        {
+          "message": "Fully refundable",
+          "theme": "SUCCESS",
+          "type": "FREE_CANCEL",
+          "mark": null
+        }
+      ]
+    },
+    "legalDisclaimer": null,
+    "imageGallery": {
+      "accessibilityLabel": "Photo gallery for Taj Palace, New Delhi",
+      "images": [
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/13a4747e.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Featured image"
+          },
+          "subjectId": 3,
+          "fallbackImage": null,
+          "imageId": "649643186"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/a26f2a9b.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Garden"
+          },
+          "subjectId": 91005,
+          "fallbackImage": null,
+          "imageId": "65424691"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/60f296fc.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Outdoor pool"
+          },
+          "subjectId": 30003,
+          "fallbackImage": null,
+          "imageId": "65424706"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/a99e1840.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "View from Room"
+          },
+          "subjectId": 22013,
+          "fallbackImage": null,
+          "imageId": "649651771"
+        }
+      ]
+    },
+    "mapMarker": {
+      "icon": "HOTEL",
+      "label": "Rs8,500",
+      "type": "HOTEL",
+      "latLong": {
+        "latitude": 28.596333,
+        "longitude": 77.170013
+      },
+      "clientSideAnalytics": {
+        "referrerId": "Module.Map.HotelMarkerSelect",
+        "linkName": "User selecting a hotel marker on the PWA HSR map"
+      }
+    },
+    "neighborhood": {
+      "name": "New Delhi"
+    },
+    "pinnedDetails": null,
+    "recentlyViewed": null,
+    "featuredMessages": null,
+    "supportingMessages": ["Excludes taxes & fees"],
+    "shortList": {
+      "favorited": false,
+      "saveUrl": "/api/ucs/shortlist/save/465005",
+      "removeUrl": "/api/ucs/shortlist/remove/465005",
+      "metaData": {
+        "chkIn": "20220311",
+        "chkOut": "20220312",
+        "hotelId": "465005",
+        "roomConfiguration": "2"
+      }
+    },
+    "highlightedPropertyDetails": [],
+    "propertySource": null,
+    "dataAttributes": null,
+    "listingFooter": {
+      "actionDetails": {
+        "name": "EXTERNAL_LINK"
+      },
+      "icon": {
+        "description": "",
+        "id": "chevron_right"
+      },
+      "linkUrl": "https://www.expedia.co.in/user/createaccount?uurl=e3id%3Dredr%26rurl%3D%2FHotel-Search%3FregionId%3D180000%26destination%3DDelhi%2B%2528and%2Bvicinity%2529%252C%2BNational%2BCapital%2BTerritory%2Bof%2BDelhi%252C%2BIndia%26startDate%3D2022-03-11%26endDate%3D2022-03-12%26adults%3D2%26children%3D%26sort%3DRECOMMENDED%26semdtl%3D%26userIntent%3D%26selected%3D465005&fromheader=true",
+      "referrerId": ":LodgingCard.createAccount:7",
+      "text": "Sign up for Member Price"
+    }
+  },
+  {
+    "__typename": "Property",
+    "id": "20160759",
+    "name": "The Oberoi, New Delhi",
+    "propertyImage": {
+      "image": {
+        "description": "Featured image",
+        "url": "https://images.trvl-media.com/hotels/21000000/20170000/20160800/20160759/f1d65a95.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      },
+      "fallbackImage": null
+    },
+    "offerBadge": {
+      "primary": {
+        "text": "VIP Access",
+        "theme_temp": "VIP",
+        "icon_temp": null,
+        "mark": null
+      },
+      "secondary": {
+        "text": "Member Price available",
+        "theme_temp": "DEAL_MEMBER",
+        "icon_temp": {
+          "id": "mod",
+          "description": "mod",
+          "title": ""
+        }
+      }
+    },
+    "price": {
+      "alignment": null,
+      "displayMessages": null,
+      "lead": {
+        "formatted": "Rs14,725"
+      },
+      "strikeOutType": "PRICE_SURVEY",
+      "strikeOut": null,
+      "disclaimer": null,
+      "roomNightMessage": "per night",
+      "priceMessages": [
+        {
+          "value": "per night"
+        }
+      ],
+      "marketingFeeDetails": null,
+      "options": [
+        {
+          "leadingCaption": null,
+          "displayPrice": {
+            "formatted": "Rs14,725"
+          },
+          "strikeOut": null,
+          "loyaltyPrice": null,
+          "disclaimer": null
+        }
+      ]
+    },
+    "reviews": {
+      "score": 4.9,
+      "localizedScore": "4.9",
+      "total": 141,
+      "localizedTotal": "141 reviews",
+      "superlative": "Exceptional",
+      "localizedSubtitle": "4.9 / 5 (141 reviews)",
+      "localizedSubtitleA11y": {
+        "accessibilityLabel": "4.9 out of 5 Exceptional (141 reviews)",
+        "value": "4.9/5 Exceptional (141 reviews)"
+      },
+      "mark": null
+    },
+    "destinationInfo": {
+      "distanceFromMessaging": null
+    },
+    "vipMessaging": "VIP Access",
+    "propertyDetailsLink": {
+      "uri": {
+        "value": "https://www.expedia.co.in/Delhi-Hotels-The-Oberoi.h20160759.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810401963&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=180000&destination=Delhi+%28and+vicinity%29%2C+National+Capital+Territory+of+Delhi%2C+India&destType=MARKET&sort=RECOMMENDED&top_dp=14725&top_cur=INR&semdtl=&userIntent=&selectedRoomType=202209407&selectedRatePlan=292213041",
+        "relativePath": "/Delhi-Hotels-The-Oberoi.h20160759.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810401963&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=180000&destination=Delhi+%28and+vicinity%29%2C+National+Capital+Territory+of+Delhi%2C+India&destType=MARKET&sort=RECOMMENDED&top_dp=14725&top_cur=INR&semdtl=&userIntent=&selectedRoomType=202209407&selectedRatePlan=292213041"
+      },
+      "clientSideAnalytics": {
+        "referrerId": "HOT.SR:HotelModule:8",
+        "linkName": "View selected property"
+      }
+    },
+    "sponsoredListing": null,
+    "amenities": [],
+    "star": null,
+    "starRatingIcon": "STAR",
+    "availability": {
+      "available": true,
+      "text": null,
+      "theme": "URGENT"
+    },
+    "offerSummary": {
+      "messages": [
+        {
+          "message": "Fully refundable",
+          "theme": "SUCCESS",
+          "type": "FREE_CANCEL",
+          "mark": null
+        },
+        {
+          "message": "Reserve now, pay later",
+          "theme": "SUCCESS",
+          "type": "PAY_LATER",
+          "mark": null
+        }
+      ]
+    },
+    "legalDisclaimer": null,
+    "imageGallery": {
+      "accessibilityLabel": "Photo gallery for The Oberoi, New Delhi",
+      "images": [
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/21000000/20170000/20160800/20160759/f1d65a95.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Featured image"
+          },
+          "subjectId": 3,
+          "fallbackImage": null,
+          "imageId": "441681066"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/21000000/20170000/20160800/20160759/9386948f.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Terrace/patio"
+          },
+          "subjectId": 91008,
+          "fallbackImage": null,
+          "imageId": "70469292"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/21000000/20170000/20160800/20160759/3569ead8.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Pool"
+          },
+          "subjectId": 30000,
+          "fallbackImage": null,
+          "imageId": "70469464"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/21000000/20170000/20160800/20160759/85266bca.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Living room"
+          },
+          "subjectId": 22006,
+          "fallbackImage": null,
+          "imageId": "40483173"
+        }
+      ]
+    },
+    "mapMarker": {
+      "icon": "HOTEL",
+      "label": "Rs14,725",
+      "type": "HOTEL",
+      "latLong": {
+        "latitude": 28.59629,
+        "longitude": 77.23975
+      },
+      "clientSideAnalytics": {
+        "referrerId": "Module.Map.HotelMarkerSelect",
+        "linkName": "User selecting a hotel marker on the PWA HSR map"
+      }
+    },
+    "neighborhood": {
+      "name": "New Delhi"
+    },
+    "pinnedDetails": null,
+    "recentlyViewed": null,
+    "featuredMessages": null,
+    "supportingMessages": ["Excludes taxes & fees"],
+    "shortList": {
+      "favorited": false,
+      "saveUrl": "/api/ucs/shortlist/save/20160759",
+      "removeUrl": "/api/ucs/shortlist/remove/20160759",
+      "metaData": {
+        "chkIn": "20220311",
+        "chkOut": "20220312",
+        "hotelId": "20160759",
+        "roomConfiguration": "2"
+      }
+    },
+    "highlightedPropertyDetails": [],
+    "propertySource": null,
+    "dataAttributes": null,
+    "listingFooter": null
+  },
+  {
+    "__typename": "Property",
+    "id": "75755",
+    "name": "The Imperial New Delhi",
+    "propertyImage": {
+      "image": {
+        "description": "Featured image",
+        "url": "https://images.trvl-media.com/hotels/1000000/80000/75800/75755/5626de23.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      },
+      "fallbackImage": null
+    },
+    "offerBadge": {
+      "primary": {
+        "text": "VIP Access",
+        "theme_temp": "VIP",
+        "icon_temp": null,
+        "mark": null
+      },
+      "secondary": {
+        "text": "Member Price available",
+        "theme_temp": "DEAL_MEMBER",
+        "icon_temp": {
+          "id": "mod",
+          "description": "mod",
+          "title": ""
+        }
+      }
+    },
+    "price": {
+      "alignment": null,
+      "displayMessages": null,
+      "lead": {
+        "formatted": "Rs19,000"
+      },
+      "strikeOutType": "STANDALONE",
+      "strikeOut": null,
+      "disclaimer": null,
+      "roomNightMessage": "per night",
+      "priceMessages": [
+        {
+          "value": "per night"
+        }
+      ],
+      "marketingFeeDetails": null,
+      "options": [
+        {
+          "leadingCaption": null,
+          "displayPrice": {
+            "formatted": "Rs19,000"
+          },
+          "strikeOut": null,
+          "loyaltyPrice": null,
+          "disclaimer": null
+        }
+      ]
+    },
+    "reviews": {
+      "score": 4.7,
+      "localizedScore": "4.7",
+      "total": 454,
+      "localizedTotal": "454 reviews",
+      "superlative": "Exceptional",
+      "localizedSubtitle": "4.7 / 5 (454 reviews)",
+      "localizedSubtitleA11y": {
+        "accessibilityLabel": "4.7 out of 5 Exceptional (454 reviews)",
+        "value": "4.7/5 Exceptional (454 reviews)"
+      },
+      "mark": null
+    },
+    "destinationInfo": {
+      "distanceFromMessaging": null
+    },
+    "vipMessaging": "VIP Access",
+    "propertyDetailsLink": {
+      "uri": {
+        "value": "https://www.expedia.co.in/Delhi-Hotels-The-Imperial-New-Delhi.h75755.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810401963&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=180000&destination=Delhi+%28and+vicinity%29%2C+National+Capital+Territory+of+Delhi%2C+India&destType=MARKET&neighborhoodId=6000902&sort=RECOMMENDED&top_dp=19000&top_cur=INR&semdtl=&userIntent=&selectedRoomType=202402730&selectedRatePlan=212242654",
+        "relativePath": "/Delhi-Hotels-The-Imperial-New-Delhi.h75755.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810401963&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=180000&destination=Delhi+%28and+vicinity%29%2C+National+Capital+Territory+of+Delhi%2C+India&destType=MARKET&neighborhoodId=6000902&sort=RECOMMENDED&top_dp=19000&top_cur=INR&semdtl=&userIntent=&selectedRoomType=202402730&selectedRatePlan=212242654"
+      },
+      "clientSideAnalytics": {
+        "referrerId": "HOT.SR:HotelModule:9",
+        "linkName": "View selected property"
+      }
+    },
+    "sponsoredListing": null,
+    "amenities": [],
+    "star": null,
+    "starRatingIcon": "STAR",
+    "availability": {
+      "available": true,
+      "text": null,
+      "theme": "URGENT"
+    },
+    "offerSummary": {
+      "messages": [
+        {
+          "message": "Fully refundable",
+          "theme": "SUCCESS",
+          "type": "FREE_CANCEL",
+          "mark": null
+        },
+        {
+          "message": "Reserve now, pay later",
+          "theme": "SUCCESS",
+          "type": "PAY_LATER",
+          "mark": null
+        }
+      ]
+    },
+    "legalDisclaimer": null,
+    "imageGallery": {
+      "accessibilityLabel": "Photo gallery for The Imperial New Delhi",
+      "images": [
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/80000/75800/75755/5626de23.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Featured image"
+          },
+          "subjectId": 3,
+          "fallbackImage": null,
+          "imageId": "92623035"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/80000/75800/75755/bb83911e.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Exterior"
+          },
+          "subjectId": 91024,
+          "fallbackImage": null,
+          "imageId": "92623040"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/80000/75800/75755/f9f7f645.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Pool"
+          },
+          "subjectId": 30000,
+          "fallbackImage": null,
+          "imageId": "92623073"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/80000/75800/75755/f99e7dbd.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Bedroom"
+          },
+          "subjectId": 21001,
+          "fallbackImage": null,
+          "imageId": "92623078"
+        }
+      ]
+    },
+    "mapMarker": {
+      "icon": "HOTEL",
+      "label": "Rs19,000",
+      "type": "HOTEL",
+      "latLong": {
+        "latitude": 28.625324,
+        "longitude": 77.219194
+      },
+      "clientSideAnalytics": {
+        "referrerId": "Module.Map.HotelMarkerSelect",
+        "linkName": "User selecting a hotel marker on the PWA HSR map"
+      }
+    },
+    "neighborhood": {
+      "name": "Connaught Place"
+    },
+    "pinnedDetails": null,
+    "recentlyViewed": null,
+    "featuredMessages": null,
+    "supportingMessages": ["Excludes taxes & fees"],
+    "shortList": {
+      "favorited": false,
+      "saveUrl": "/api/ucs/shortlist/save/75755",
+      "removeUrl": "/api/ucs/shortlist/remove/75755",
+      "metaData": {
+        "chkIn": "20220311",
+        "chkOut": "20220312",
+        "hotelId": "75755",
+        "roomConfiguration": "2"
+      }
+    },
+    "highlightedPropertyDetails": [],
+    "propertySource": null,
+    "dataAttributes": null,
+    "listingFooter": null
+  }
+]

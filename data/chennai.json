@@ -1,0 +1,1782 @@
+[
+  {
+    "__typename": "Property",
+    "id": "16559",
+    "name": "Crowne Plaza Chennai Adyar Park, an IHG Hotel",
+    "propertyImage": {
+      "image": {
+        "description": "Featured image",
+        "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/1000000/20000/16600/16559/37f7086e_b.jpg"
+      },
+      "fallbackImage": {
+        "description": "Featured image",
+        "url": "https://images.trvl-media.com/hotels/1000000/20000/16600/16559/37f7086e.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      }
+    },
+    "offerBadge": {
+      "primary": {
+        "text": "Ad",
+        "theme_temp": "SPONSORED",
+        "icon_temp": null,
+        "mark": null
+      },
+      "secondary": null
+    },
+    "price": {
+      "alignment": null,
+      "displayMessages": null,
+      "lead": {
+        "formatted": "Rs4,930"
+      },
+      "strikeOutType": "PRICE_SURVEY",
+      "strikeOut": null,
+      "disclaimer": null,
+      "roomNightMessage": "per night",
+      "priceMessages": [
+        {
+          "value": "per night"
+        }
+      ],
+      "marketingFeeDetails": null,
+      "options": [
+        {
+          "leadingCaption": null,
+          "displayPrice": {
+            "formatted": "Rs4,930"
+          },
+          "strikeOut": null,
+          "loyaltyPrice": null,
+          "disclaimer": null
+        }
+      ]
+    },
+    "reviews": {
+      "score": 4.2,
+      "localizedScore": "4.2",
+      "total": 82,
+      "localizedTotal": "82 reviews",
+      "superlative": "Very good",
+      "localizedSubtitle": "4.2 / 5 (82 reviews)",
+      "localizedSubtitleA11y": {
+        "accessibilityLabel": "4.2 out of 5 Very good (82 reviews)",
+        "value": "4.2/5 Very good (82 reviews)"
+      },
+      "mark": null
+    },
+    "destinationInfo": {
+      "distanceFromMessaging": null
+    },
+    "vipMessaging": null,
+    "propertyDetailsLink": {
+      "uri": {
+        "value": "https://www.expedia.co.in/Chennai-Hotels-Crowne-Plaza-Chennai-Adyar-Park.h16559.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810478779&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=181449&destination=Chennai+%28and+vicinity%29%2C+Tamil+Nadu%2C+India&destType=MARKET&neighborhoodId=6302954&trackingData=AAAAEKoSu0EdUrSDVdBk8Utka2_X2P9sPJM0V2seIidCxCQNFD5y5NKCf_x1XibgMvh4ho0uHpj0ikbJo8DzPC11Lmc45aBQ7xlpFEI2Zpks4WydGv5dj4LdeVc97GLMYs6Ns66vXgTTX7-i60gcfw3fkjrb_Z_HizFWDDo80HG9AtysM2aV3D51B783zhRkYAS07faFmHbdPjZDS_YhqjfDfqucNWhPrYZ465WwdwvX7HGmm-ZmdpmBJbqfpo41UTZX0LwyF6Q-qQ8KtkvimeFbuIev690epgnNukdesmTEQvIMXKMj9h1dWgxwmcQd8cw8uipDy3DaVC8UZYvO6cGAc6HqGtdHD78NmNSZneYKYcxj1E2uHdX5YrwJ754cAENvdCi8wLova2VvzvAtj9_6c5iq-m0Hs9eAJIK_wybmITPxAvsIoCwPYl61rAEw__In7PiIMxOXqtudOXQvuCo_7EpawEO6F5f3iVLutQT_ylMn85oOp7Xld82ejFr6LIp-gkIGN_UKb1SAKpZh_hRQn79UrtBOf6EgRWptGkb-G2QGbg9zYP9ch0bt2QkmNa9TJcUn90LoJCEEzEN_nPTmPjjkMPCv1ytrp_xSPZegpQNu6lDQ7fIPUNiDysb5BqC9R3KleUoSZ-9Ls0viNizcKllBYngb9_0jaFY5c_iekXjaVF6xzhsVfi8jAciZXscK42zhY7-9kX68Eq99Jk-Fi71qjeSw_xiVOhkI-SnxE3QI64Zb6WlOtBoPHMh6gezZPjq_rbl1UV5TwTgWBFlw-bQQVEMiOKijXP_xBeN26NE_9qdbcLJ1L0159lIO2RG5Fapj3lG-lZ5rsJv50Q0kBtZJQnqo2lg5qUFpNwvW5egrP_uomsO99t8xZgC3c0_PIvwqag_Y7gdEjfNx4NUW7grIsBTUFfIuFXz2ZJVgMB2oFEnrz1S8ohioO8nYMhjxT16eR1eTtl00TIA7n2kzJzYgpiKZfFXL04HZpiQfdnfWxszAdS4cHuzm1zU0IhQlfIDZr36YEJYHV-n0vyjBdBB9YFbmK7VLMfxZ87LG4W9sEfEVM2TGD48ofeK3yWe57c5wDo29fHZKL4IvhICKnYH-JX1KbyMoyGQrQM3tZrvYzoPZB5hHyJbnHXcaXaKqiFEm2zGbqPmIHyjRiumZfLQ%3D&rank=1&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_A&position=1&beaconIssued=2022-02-25T17%3A34%3A37&sort=RECOMMENDED&top_dp=4930&top_cur=INR&semdtl=&userIntent=&selectedRoomType=201188274&selectedRatePlan=380977868",
+        "relativePath": "/Chennai-Hotels-Crowne-Plaza-Chennai-Adyar-Park.h16559.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810478779&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=181449&destination=Chennai+%28and+vicinity%29%2C+Tamil+Nadu%2C+India&destType=MARKET&neighborhoodId=6302954&trackingData=AAAAEKoSu0EdUrSDVdBk8Utka2_X2P9sPJM0V2seIidCxCQNFD5y5NKCf_x1XibgMvh4ho0uHpj0ikbJo8DzPC11Lmc45aBQ7xlpFEI2Zpks4WydGv5dj4LdeVc97GLMYs6Ns66vXgTTX7-i60gcfw3fkjrb_Z_HizFWDDo80HG9AtysM2aV3D51B783zhRkYAS07faFmHbdPjZDS_YhqjfDfqucNWhPrYZ465WwdwvX7HGmm-ZmdpmBJbqfpo41UTZX0LwyF6Q-qQ8KtkvimeFbuIev690epgnNukdesmTEQvIMXKMj9h1dWgxwmcQd8cw8uipDy3DaVC8UZYvO6cGAc6HqGtdHD78NmNSZneYKYcxj1E2uHdX5YrwJ754cAENvdCi8wLova2VvzvAtj9_6c5iq-m0Hs9eAJIK_wybmITPxAvsIoCwPYl61rAEw__In7PiIMxOXqtudOXQvuCo_7EpawEO6F5f3iVLutQT_ylMn85oOp7Xld82ejFr6LIp-gkIGN_UKb1SAKpZh_hRQn79UrtBOf6EgRWptGkb-G2QGbg9zYP9ch0bt2QkmNa9TJcUn90LoJCEEzEN_nPTmPjjkMPCv1ytrp_xSPZegpQNu6lDQ7fIPUNiDysb5BqC9R3KleUoSZ-9Ls0viNizcKllBYngb9_0jaFY5c_iekXjaVF6xzhsVfi8jAciZXscK42zhY7-9kX68Eq99Jk-Fi71qjeSw_xiVOhkI-SnxE3QI64Zb6WlOtBoPHMh6gezZPjq_rbl1UV5TwTgWBFlw-bQQVEMiOKijXP_xBeN26NE_9qdbcLJ1L0159lIO2RG5Fapj3lG-lZ5rsJv50Q0kBtZJQnqo2lg5qUFpNwvW5egrP_uomsO99t8xZgC3c0_PIvwqag_Y7gdEjfNx4NUW7grIsBTUFfIuFXz2ZJVgMB2oFEnrz1S8ohioO8nYMhjxT16eR1eTtl00TIA7n2kzJzYgpiKZfFXL04HZpiQfdnfWxszAdS4cHuzm1zU0IhQlfIDZr36YEJYHV-n0vyjBdBB9YFbmK7VLMfxZ87LG4W9sEfEVM2TGD48ofeK3yWe57c5wDo29fHZKL4IvhICKnYH-JX1KbyMoyGQrQM3tZrvYzoPZB5hHyJbnHXcaXaKqiFEm2zGbqPmIHyjRiumZfLQ%3D&rank=1&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_A&position=1&beaconIssued=2022-02-25T17%3A34%3A37&sort=RECOMMENDED&top_dp=4930&top_cur=INR&semdtl=&userIntent=&selectedRoomType=201188274&selectedRatePlan=380977868"
+      },
+      "clientSideAnalytics": {
+        "referrerId": "HOT.SR:HotelModule:1",
+        "linkName": "View selected property"
+      }
+    },
+    "sponsoredListing": {
+      "id": "650503",
+      "clickRedirectTrackingUrl": "https://www.expedia.co.in/taps/v1/ClRedirect?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&destinationUrl=&rank=1&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEKoSu0EdUrSDVdBk8Utka2_X2P9sPJM0V2seIidCxCQNFD5y5NKCf_x1XibgMvh4ho0uHpj0ikbJo8DzPC11Lmc45aBQ7xlpFEI2Zpks4WydGv5dj4LdeVc97GLMYs6Ns66vXgTTX7-i60gcfw3fkjrb_Z_HizFWDDo80HG9AtysM2aV3D51B783zhRkYAS07faFmHbdPjZDS_YhqjfDfqucNWhPrYZ465WwdwvX7HGmm-ZmdpmBJbqfpo41UTZX0LwyF6Q-qQ8KtkvimeFbuIev690epgnNukdesmTEQvIMXKMj9h1dWgxwmcQd8cw8uipDy3DaVC8UZYvO6cGAc6HqGtdHD78NmNSZneYKYcxj1E2uHdX5YrwJ754cAENvdCi8wLova2VvzvAtj9_6c5iq-m0Hs9eAJIK_wybmITPxAvsIoCwPYl61rAEw__In7PiIMxOXqtudOXQvuCo_7EpawEO6F5f3iVLutQT_ylMn85oOp7Xld82ejFr6LIp-gkIGN_UKb1SAKpZh_hRQn79UrtBOf6EgRWptGkb-G2QGbg9zYP9ch0bt2QkmNa9TJcUn90LoJCEEzEN_nPTmPjjkMPCv1ytrp_xSPZegpQNu6lDQ7fIPUNiDysb5BqC9R3KleUoSZ-9Ls0viNizcKllBYngb9_0jaFY5c_iekXjaVF6xzhsVfi8jAciZXscK42zhY7-9kX68Eq99Jk-Fi71qjeSw_xiVOhkI-SnxE3QI64Zb6WlOtBoPHMh6gezZPjq_rbl1UV5TwTgWBFlw-bQQVEMiOKijXP_xBeN26NE_9qdbcLJ1L0159lIO2RG5Fapj3lG-lZ5rsJv50Q0kBtZJQnqo2lg5qUFpNwvW5egrP_uomsO99t8xZgC3c0_PIvwqag_Y7gdEjfNx4NUW7grIsBTUFfIuFXz2ZJVgMB2oFEnrz1S8ohioO8nYMhjxT16eR1eTtl00TIA7n2kzJzYgpiKZfFXL04HZpiQfdnfWxszAdS4cHuzm1zU0IhQlfIDZr36YEJYHV-n0vyjBdBB9YFbmK7VLMfxZ87LG4W9sEfEVM2TGD48ofeK3yWe57c5wDo29fHZKL4IvhICKnYH-JX1KbyMoyGQrQM3tZrvYzoPZB5hHyJbnHXcaXaKqiFEm2zGbqPmIHyjRiumZfLQ=&slots=HSR_A&position=1&beaconIssued=2022-02-25T17:34:37",
+      "clickTrackingUrl": "https://www.expedia.co.in/taps/v1/Cl?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=1&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEKoSu0EdUrSDVdBk8Utka2_X2P9sPJM0V2seIidCxCQNFD5y5NKCf_x1XibgMvh4ho0uHpj0ikbJo8DzPC11Lmc45aBQ7xlpFEI2Zpks4WydGv5dj4LdeVc97GLMYs6Ns66vXgTTX7-i60gcfw3fkjrb_Z_HizFWDDo80HG9AtysM2aV3D51B783zhRkYAS07faFmHbdPjZDS_YhqjfDfqucNWhPrYZ465WwdwvX7HGmm-ZmdpmBJbqfpo41UTZX0LwyF6Q-qQ8KtkvimeFbuIev690epgnNukdesmTEQvIMXKMj9h1dWgxwmcQd8cw8uipDy3DaVC8UZYvO6cGAc6HqGtdHD78NmNSZneYKYcxj1E2uHdX5YrwJ754cAENvdCi8wLova2VvzvAtj9_6c5iq-m0Hs9eAJIK_wybmITPxAvsIoCwPYl61rAEw__In7PiIMxOXqtudOXQvuCo_7EpawEO6F5f3iVLutQT_ylMn85oOp7Xld82ejFr6LIp-gkIGN_UKb1SAKpZh_hRQn79UrtBOf6EgRWptGkb-G2QGbg9zYP9ch0bt2QkmNa9TJcUn90LoJCEEzEN_nPTmPjjkMPCv1ytrp_xSPZegpQNu6lDQ7fIPUNiDysb5BqC9R3KleUoSZ-9Ls0viNizcKllBYngb9_0jaFY5c_iekXjaVF6xzhsVfi8jAciZXscK42zhY7-9kX68Eq99Jk-Fi71qjeSw_xiVOhkI-SnxE3QI64Zb6WlOtBoPHMh6gezZPjq_rbl1UV5TwTgWBFlw-bQQVEMiOKijXP_xBeN26NE_9qdbcLJ1L0159lIO2RG5Fapj3lG-lZ5rsJv50Q0kBtZJQnqo2lg5qUFpNwvW5egrP_uomsO99t8xZgC3c0_PIvwqag_Y7gdEjfNx4NUW7grIsBTUFfIuFXz2ZJVgMB2oFEnrz1S8ohioO8nYMhjxT16eR1eTtl00TIA7n2kzJzYgpiKZfFXL04HZpiQfdnfWxszAdS4cHuzm1zU0IhQlfIDZr36YEJYHV-n0vyjBdBB9YFbmK7VLMfxZ87LG4W9sEfEVM2TGD48ofeK3yWe57c5wDo29fHZKL4IvhICKnYH-JX1KbyMoyGQrQM3tZrvYzoPZB5hHyJbnHXcaXaKqiFEm2zGbqPmIHyjRiumZfLQ=&slots=HSR_A&position=1&beaconIssued=2022-02-25T17:34:37",
+      "details": "Enjoy up to 25 percent off at over 160 hotels in India, Middle East and Africa. Book by 30 April 2022.",
+      "detailsHeadline": "Up to 25pct off at over 160 IHG Hotels",
+      "hotelImage": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/1000000/20000/16600/16559/37f7086e_b.jpg",
+      "impressionTrackingUrl": "https://www.expedia.co.in/taps/v1/Impr?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=1&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEKoSu0EdUrSDVdBk8Utka2_X2P9sPJM0V2seIidCxCQNFD5y5NKCf_x1XibgMvh4ho0uHpj0ikbJo8DzPC11Lmc45aBQ7xlpFEI2Zpks4WydGv5dj4LdeVc97GLMYs6Ns66vXgTTX7-i60gcfw3fkjrb_Z_HizFWDDo80HG9AtysM2aV3D51B783zhRkYAS07faFmHbdPjZDS_YhqjfDfqucNWhPrYZ465WwdwvX7HGmm-ZmdpmBJbqfpo41UTZX0LwyF6Q-qQ8KtkvimeFbuIev690epgnNukdesmTEQvIMXKMj9h1dWgxwmcQd8cw8uipDy3DaVC8UZYvO6cGAc6HqGtdHD78NmNSZneYKYcxj1E2uHdX5YrwJ754cAENvdCi8wLova2VvzvAtj9_6c5iq-m0Hs9eAJIK_wybmITPxAvsIoCwPYl61rAEw__In7PiIMxOXqtudOXQvuCo_7EpawEO6F5f3iVLutQT_ylMn85oOp7Xld82ejFr6LIp-gkIGN_UKb1SAKpZh_hRQn79UrtBOf6EgRWptGkb-G2QGbg9zYP9ch0bt2QkmNa9TJcUn90LoJCEEzEN_nPTmPjjkMPCv1ytrp_xSPZegpQNu6lDQ7fIPUNiDysb5BqC9R3KleUoSZ-9Ls0viNizcKllBYngb9_0jaFY5c_iekXjaVF6xzhsVfi8jAciZXscK42zhY7-9kX68Eq99Jk-Fi71qjeSw_xiVOhkI-SnxE3QI64Zb6WlOtBoPHMh6gezZPjq_rbl1UV5TwTgWBFlw-bQQVEMiOKijXP_xBeN26NE_9qdbcLJ1L0159lIO2RG5Fapj3lG-lZ5rsJv50Q0kBtZJQnqo2lg5qUFpNwvW5egrP_uomsO99t8xZgC3c0_PIvwqag_Y7gdEjfNx4NUW7grIsBTUFfIuFXz2ZJVgMB2oFEnrz1S8ohioO8nYMhjxT16eR1eTtl00TIA7n2kzJzYgpiKZfFXL04HZpiQfdnfWxszAdS4cHuzm1zU0IhQlfIDZr36YEJYHV-n0vyjBdBB9YFbmK7VLMfxZ87LG4W9sEfEVM2TGD48ofeK3yWe57c5wDo29fHZKL4IvhICKnYH-JX1KbyMoyGQrQM3tZrvYzoPZB5hHyJbnHXcaXaKqiFEm2zGbqPmIHyjRiumZfLQ=&slots=HSR_A&position=1&beaconIssued=2022-02-25T17:34:37",
+      "trackingData": "AAAAEKoSu0EdUrSDVdBk8Utka2_X2P9sPJM0V2seIidCxCQNFD5y5NKCf_x1XibgMvh4ho0uHpj0ikbJo8DzPC11Lmc45aBQ7xlpFEI2Zpks4WydGv5dj4LdeVc97GLMYs6Ns66vXgTTX7-i60gcfw3fkjrb_Z_HizFWDDo80HG9AtysM2aV3D51B783zhRkYAS07faFmHbdPjZDS_YhqjfDfqucNWhPrYZ465WwdwvX7HGmm-ZmdpmBJbqfpo41UTZX0LwyF6Q-qQ8KtkvimeFbuIev690epgnNukdesmTEQvIMXKMj9h1dWgxwmcQd8cw8uipDy3DaVC8UZYvO6cGAc6HqGtdHD78NmNSZneYKYcxj1E2uHdX5YrwJ754cAENvdCi8wLova2VvzvAtj9_6c5iq-m0Hs9eAJIK_wybmITPxAvsIoCwPYl61rAEw__In7PiIMxOXqtudOXQvuCo_7EpawEO6F5f3iVLutQT_ylMn85oOp7Xld82ejFr6LIp-gkIGN_UKb1SAKpZh_hRQn79UrtBOf6EgRWptGkb-G2QGbg9zYP9ch0bt2QkmNa9TJcUn90LoJCEEzEN_nPTmPjjkMPCv1ytrp_xSPZegpQNu6lDQ7fIPUNiDysb5BqC9R3KleUoSZ-9Ls0viNizcKllBYngb9_0jaFY5c_iekXjaVF6xzhsVfi8jAciZXscK42zhY7-9kX68Eq99Jk-Fi71qjeSw_xiVOhkI-SnxE3QI64Zb6WlOtBoPHMh6gezZPjq_rbl1UV5TwTgWBFlw-bQQVEMiOKijXP_xBeN26NE_9qdbcLJ1L0159lIO2RG5Fapj3lG-lZ5rsJv50Q0kBtZJQnqo2lg5qUFpNwvW5egrP_uomsO99t8xZgC3c0_PIvwqag_Y7gdEjfNx4NUW7grIsBTUFfIuFXz2ZJVgMB2oFEnrz1S8ohioO8nYMhjxT16eR1eTtl00TIA7n2kzJzYgpiKZfFXL04HZpiQfdnfWxszAdS4cHuzm1zU0IhQlfIDZr36YEJYHV-n0vyjBdBB9YFbmK7VLMfxZ87LG4W9sEfEVM2TGD48ofeK3yWe57c5wDo29fHZKL4IvhICKnYH-JX1KbyMoyGQrQM3tZrvYzoPZB5hHyJbnHXcaXaKqiFEm2zGbqPmIHyjRiumZfLQ=",
+      "brand": null,
+      "clickRedirectLinkoffTrackingUrl": null,
+      "logo": null,
+      "lotagline": null,
+      "rating": "0",
+      "slots": "HSR_A",
+      "vanityUrl": null,
+      "rank": "1",
+      "position": "1"
+    },
+    "amenities": [],
+    "star": null,
+    "starRatingIcon": "STAR",
+    "availability": {
+      "available": true,
+      "text": null,
+      "theme": "URGENT"
+    },
+    "offerSummary": {
+      "messages": [
+        {
+          "message": "Fully refundable",
+          "theme": "SUCCESS",
+          "type": "FREE_CANCEL",
+          "mark": null
+        },
+        {
+          "message": "Reserve now, pay later",
+          "theme": "SUCCESS",
+          "type": "PAY_LATER",
+          "mark": null
+        }
+      ]
+    },
+    "legalDisclaimer": null,
+    "imageGallery": {
+      "accessibilityLabel": "Photo gallery for Crowne Plaza Chennai Adyar Park, an IHG Hotel",
+      "images": [
+        {
+          "image": {
+            "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/1000000/20000/16600/16559/37f7086e_b.jpg",
+            "description": "Featured image"
+          },
+          "subjectId": 3,
+          "fallbackImage": {
+            "url": "https://images.trvl-media.com/hotels/1000000/20000/16600/16559/37f7086e.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Featured image"
+          },
+          "imageId": "68953828"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/20000/16600/16559/b56e4cbd.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Exterior"
+          },
+          "subjectId": 91024,
+          "fallbackImage": null,
+          "imageId": "643552976"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/20000/16600/16559/cc4706da.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Pool"
+          },
+          "subjectId": 30000,
+          "fallbackImage": null,
+          "imageId": "562763014"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/20000/16600/16559/cc47d8a0.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Bedroom"
+          },
+          "subjectId": 21001,
+          "fallbackImage": null,
+          "imageId": "47775890"
+        }
+      ]
+    },
+    "mapMarker": {
+      "icon": "HOTEL",
+      "label": "Rs4,930",
+      "type": "HOTEL",
+      "latLong": {
+        "latitude": 13.02922,
+        "longitude": 80.249852
+      },
+      "clientSideAnalytics": {
+        "referrerId": "Module.Map.HotelMarkerSelect",
+        "linkName": "User selecting a hotel marker on the PWA HSR map"
+      }
+    },
+    "neighborhood": {
+      "name": "Chennai"
+    },
+    "pinnedDetails": null,
+    "recentlyViewed": null,
+    "featuredMessages": null,
+    "supportingMessages": ["Excludes taxes & fees"],
+    "shortList": {
+      "favorited": false,
+      "saveUrl": "/api/ucs/shortlist/save/16559",
+      "removeUrl": "/api/ucs/shortlist/remove/16559",
+      "metaData": {
+        "chkIn": "20220311",
+        "chkOut": "20220312",
+        "hotelId": "16559",
+        "roomConfiguration": "2"
+      }
+    },
+    "highlightedPropertyDetails": [],
+    "propertySource": null,
+    "dataAttributes": null,
+    "listingFooter": null
+  },
+  {
+    "__typename": "Property",
+    "id": "15621305",
+    "name": "Holiday Inn Chennai OMR IT Expressway, an IHG Hotel",
+    "propertyImage": {
+      "image": {
+        "description": "Featured image",
+        "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/16000000/15630000/15621400/15621305/cf0d6d0b_b.jpg"
+      },
+      "fallbackImage": {
+        "description": "Featured image",
+        "url": "https://images.trvl-media.com/hotels/16000000/15630000/15621400/15621305/cf0d6d0b.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      }
+    },
+    "offerBadge": {
+      "primary": {
+        "text": "Ad",
+        "theme_temp": "SPONSORED",
+        "icon_temp": null,
+        "mark": null
+      },
+      "secondary": {
+        "text": "We have 8 left at",
+        "theme_temp": "DEAL_GENERIC",
+        "icon_temp": null
+      }
+    },
+    "price": {
+      "alignment": null,
+      "displayMessages": null,
+      "lead": {
+        "formatted": "Rs3,956"
+      },
+      "strikeOutType": "PRICE_SURVEY",
+      "strikeOut": null,
+      "disclaimer": null,
+      "roomNightMessage": "per night",
+      "priceMessages": [
+        {
+          "value": "per night"
+        }
+      ],
+      "marketingFeeDetails": null,
+      "options": [
+        {
+          "leadingCaption": null,
+          "displayPrice": {
+            "formatted": "Rs3,956"
+          },
+          "strikeOut": null,
+          "loyaltyPrice": null,
+          "disclaimer": null
+        }
+      ]
+    },
+    "reviews": {
+      "score": 4.2,
+      "localizedScore": "4.2",
+      "total": 73,
+      "localizedTotal": "73 reviews",
+      "superlative": "Very good",
+      "localizedSubtitle": "4.2 / 5 (73 reviews)",
+      "localizedSubtitleA11y": {
+        "accessibilityLabel": "4.2 out of 5 Very good (73 reviews)",
+        "value": "4.2/5 Very good (73 reviews)"
+      },
+      "mark": null
+    },
+    "destinationInfo": {
+      "distanceFromMessaging": null
+    },
+    "vipMessaging": null,
+    "propertyDetailsLink": {
+      "uri": {
+        "value": "https://www.expedia.co.in/Chennai-Hotels-Holiday-Inn-Chennai-OMR-IT-Expressway.h15621305.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810478779&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=181449&destination=Chennai+%28and+vicinity%29%2C+Tamil+Nadu%2C+India&destType=MARKET&neighborhoodId=553248635939576706&trackingData=AAAAEOAfeJndBn9fcLkN9N5s_dU7PhFZgHTRXg_0tODMxNZ6Yd5JBBRGzAlP4LQidGTlJdxC2yleuId0-7LUw5v5_Ji4OW7fNgvZMB4M74u92UfyzG1mNtfDnkOJAt70ma8jz3Lrmbh5QD8sncRTK7Bj_mJdkpkdVvBR4QttkytTcNrx3sb2PCd24gS05b1BCPHgprJqJv51hLNHeourW-_qYsJl-QeLKwU5AclhZ7oKtnr0OqfrDN-QWhZbttoL_i8g0pDTk6bxhirBcpuOPChnc_bh0FE7Vu48J6Mx67d5sXaKNjDwJbgPgO7jtki_BUXTMDheanQk_eN2xe2VJ0tFCE1tBXjyA097CX5Q_40n3ttukTwdKrBq_oqTMRfS2YT5NMnhmO8fuFB7X95IJda-36mZO2HpMXwJKwcbDEEqmbDNgtAfdAqnx17RTlCqWcoFd5I3PjKWHbi1YQVWkKu5jFlY_4XWjzDKQwy_NFVnYwmaiSfAcaREOzQewCs2n8ZGrgNJ-0_1w8uw0GEAzZ61rE3ItQUnMVs0yLFy7uFAH59NwP6jYSbqEmLVdFMfUoNuFDsfSLo7cOJErWmnemJ30uGnF31O3r0_xrk5RZVcEpxpLnmqKPjEcnZiPi7Klu7fDQmDUgOFJtB2TMe5Omt8Gf5udVcKZPb3scxSGqYI6dcOPyD_o9736JoBhCk3_QOZCAkArpzc_z6ZUvYKprOLsER6K4JMnilV_cFaj1oIIfVU7jSrV_IQQYJqkAl9Eobb33KPD9sGxkD4A_hoTVBv90tKkyUjqvqpH7drcCRUoCX1jHZRxi-MMgdYHzr-qD5NijxjKlDJciq9U7K23XGHpb7u-_KyEBV-C6K2tq9F8ZqyDx6-IRhxn1pkr5pf_P0ZpKiKJHeWgJx3ZOMxilhiyiScETkZB2K2bVOZuvZpRgwXXuPKz9gb6MwOVk74K4DsUFU6h4wkBkg__koWjXO3vRBc9uXPAdp02TdMsUImBZce2Wn3QutDU4bMPIRgaUIz6854Crq0dJBqL9g6biENg_iPebpMcgq_n_Qr7Zim9cFJq7psYig3nECQJWRQaGaXoPEQ9JO5mev1slACskMlWvljuS8c7TYRQztkUh0mSuIUt6hP3kCc5u79J4juVwYrzUPiyoONjw5GPp4uXZ_9q1Y%3D&rank=2&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_AA&position=2&beaconIssued=2022-02-25T17%3A34%3A37&sort=RECOMMENDED&top_dp=3956&top_cur=INR&semdtl=&userIntent=&selectedRoomType=202172312&selectedRatePlan=381045715",
+        "relativePath": "/Chennai-Hotels-Holiday-Inn-Chennai-OMR-IT-Expressway.h15621305.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810478779&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=181449&destination=Chennai+%28and+vicinity%29%2C+Tamil+Nadu%2C+India&destType=MARKET&neighborhoodId=553248635939576706&trackingData=AAAAEOAfeJndBn9fcLkN9N5s_dU7PhFZgHTRXg_0tODMxNZ6Yd5JBBRGzAlP4LQidGTlJdxC2yleuId0-7LUw5v5_Ji4OW7fNgvZMB4M74u92UfyzG1mNtfDnkOJAt70ma8jz3Lrmbh5QD8sncRTK7Bj_mJdkpkdVvBR4QttkytTcNrx3sb2PCd24gS05b1BCPHgprJqJv51hLNHeourW-_qYsJl-QeLKwU5AclhZ7oKtnr0OqfrDN-QWhZbttoL_i8g0pDTk6bxhirBcpuOPChnc_bh0FE7Vu48J6Mx67d5sXaKNjDwJbgPgO7jtki_BUXTMDheanQk_eN2xe2VJ0tFCE1tBXjyA097CX5Q_40n3ttukTwdKrBq_oqTMRfS2YT5NMnhmO8fuFB7X95IJda-36mZO2HpMXwJKwcbDEEqmbDNgtAfdAqnx17RTlCqWcoFd5I3PjKWHbi1YQVWkKu5jFlY_4XWjzDKQwy_NFVnYwmaiSfAcaREOzQewCs2n8ZGrgNJ-0_1w8uw0GEAzZ61rE3ItQUnMVs0yLFy7uFAH59NwP6jYSbqEmLVdFMfUoNuFDsfSLo7cOJErWmnemJ30uGnF31O3r0_xrk5RZVcEpxpLnmqKPjEcnZiPi7Klu7fDQmDUgOFJtB2TMe5Omt8Gf5udVcKZPb3scxSGqYI6dcOPyD_o9736JoBhCk3_QOZCAkArpzc_z6ZUvYKprOLsER6K4JMnilV_cFaj1oIIfVU7jSrV_IQQYJqkAl9Eobb33KPD9sGxkD4A_hoTVBv90tKkyUjqvqpH7drcCRUoCX1jHZRxi-MMgdYHzr-qD5NijxjKlDJciq9U7K23XGHpb7u-_KyEBV-C6K2tq9F8ZqyDx6-IRhxn1pkr5pf_P0ZpKiKJHeWgJx3ZOMxilhiyiScETkZB2K2bVOZuvZpRgwXXuPKz9gb6MwOVk74K4DsUFU6h4wkBkg__koWjXO3vRBc9uXPAdp02TdMsUImBZce2Wn3QutDU4bMPIRgaUIz6854Crq0dJBqL9g6biENg_iPebpMcgq_n_Qr7Zim9cFJq7psYig3nECQJWRQaGaXoPEQ9JO5mev1slACskMlWvljuS8c7TYRQztkUh0mSuIUt6hP3kCc5u79J4juVwYrzUPiyoONjw5GPp4uXZ_9q1Y%3D&rank=2&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_AA&position=2&beaconIssued=2022-02-25T17%3A34%3A37&sort=RECOMMENDED&top_dp=3956&top_cur=INR&semdtl=&userIntent=&selectedRoomType=202172312&selectedRatePlan=381045715"
+      },
+      "clientSideAnalytics": {
+        "referrerId": "HOT.SR:HotelModule:2",
+        "linkName": "View selected property"
+      }
+    },
+    "sponsoredListing": {
+      "id": "650518",
+      "clickRedirectTrackingUrl": "https://www.expedia.co.in/taps/v1/ClRedirect?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&destinationUrl=&rank=2&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEOAfeJndBn9fcLkN9N5s_dU7PhFZgHTRXg_0tODMxNZ6Yd5JBBRGzAlP4LQidGTlJdxC2yleuId0-7LUw5v5_Ji4OW7fNgvZMB4M74u92UfyzG1mNtfDnkOJAt70ma8jz3Lrmbh5QD8sncRTK7Bj_mJdkpkdVvBR4QttkytTcNrx3sb2PCd24gS05b1BCPHgprJqJv51hLNHeourW-_qYsJl-QeLKwU5AclhZ7oKtnr0OqfrDN-QWhZbttoL_i8g0pDTk6bxhirBcpuOPChnc_bh0FE7Vu48J6Mx67d5sXaKNjDwJbgPgO7jtki_BUXTMDheanQk_eN2xe2VJ0tFCE1tBXjyA097CX5Q_40n3ttukTwdKrBq_oqTMRfS2YT5NMnhmO8fuFB7X95IJda-36mZO2HpMXwJKwcbDEEqmbDNgtAfdAqnx17RTlCqWcoFd5I3PjKWHbi1YQVWkKu5jFlY_4XWjzDKQwy_NFVnYwmaiSfAcaREOzQewCs2n8ZGrgNJ-0_1w8uw0GEAzZ61rE3ItQUnMVs0yLFy7uFAH59NwP6jYSbqEmLVdFMfUoNuFDsfSLo7cOJErWmnemJ30uGnF31O3r0_xrk5RZVcEpxpLnmqKPjEcnZiPi7Klu7fDQmDUgOFJtB2TMe5Omt8Gf5udVcKZPb3scxSGqYI6dcOPyD_o9736JoBhCk3_QOZCAkArpzc_z6ZUvYKprOLsER6K4JMnilV_cFaj1oIIfVU7jSrV_IQQYJqkAl9Eobb33KPD9sGxkD4A_hoTVBv90tKkyUjqvqpH7drcCRUoCX1jHZRxi-MMgdYHzr-qD5NijxjKlDJciq9U7K23XGHpb7u-_KyEBV-C6K2tq9F8ZqyDx6-IRhxn1pkr5pf_P0ZpKiKJHeWgJx3ZOMxilhiyiScETkZB2K2bVOZuvZpRgwXXuPKz9gb6MwOVk74K4DsUFU6h4wkBkg__koWjXO3vRBc9uXPAdp02TdMsUImBZce2Wn3QutDU4bMPIRgaUIz6854Crq0dJBqL9g6biENg_iPebpMcgq_n_Qr7Zim9cFJq7psYig3nECQJWRQaGaXoPEQ9JO5mev1slACskMlWvljuS8c7TYRQztkUh0mSuIUt6hP3kCc5u79J4juVwYrzUPiyoONjw5GPp4uXZ_9q1Y=&slots=HSR_AA&position=2&beaconIssued=2022-02-25T17:34:37",
+      "clickTrackingUrl": "https://www.expedia.co.in/taps/v1/Cl?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=2&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEOAfeJndBn9fcLkN9N5s_dU7PhFZgHTRXg_0tODMxNZ6Yd5JBBRGzAlP4LQidGTlJdxC2yleuId0-7LUw5v5_Ji4OW7fNgvZMB4M74u92UfyzG1mNtfDnkOJAt70ma8jz3Lrmbh5QD8sncRTK7Bj_mJdkpkdVvBR4QttkytTcNrx3sb2PCd24gS05b1BCPHgprJqJv51hLNHeourW-_qYsJl-QeLKwU5AclhZ7oKtnr0OqfrDN-QWhZbttoL_i8g0pDTk6bxhirBcpuOPChnc_bh0FE7Vu48J6Mx67d5sXaKNjDwJbgPgO7jtki_BUXTMDheanQk_eN2xe2VJ0tFCE1tBXjyA097CX5Q_40n3ttukTwdKrBq_oqTMRfS2YT5NMnhmO8fuFB7X95IJda-36mZO2HpMXwJKwcbDEEqmbDNgtAfdAqnx17RTlCqWcoFd5I3PjKWHbi1YQVWkKu5jFlY_4XWjzDKQwy_NFVnYwmaiSfAcaREOzQewCs2n8ZGrgNJ-0_1w8uw0GEAzZ61rE3ItQUnMVs0yLFy7uFAH59NwP6jYSbqEmLVdFMfUoNuFDsfSLo7cOJErWmnemJ30uGnF31O3r0_xrk5RZVcEpxpLnmqKPjEcnZiPi7Klu7fDQmDUgOFJtB2TMe5Omt8Gf5udVcKZPb3scxSGqYI6dcOPyD_o9736JoBhCk3_QOZCAkArpzc_z6ZUvYKprOLsER6K4JMnilV_cFaj1oIIfVU7jSrV_IQQYJqkAl9Eobb33KPD9sGxkD4A_hoTVBv90tKkyUjqvqpH7drcCRUoCX1jHZRxi-MMgdYHzr-qD5NijxjKlDJciq9U7K23XGHpb7u-_KyEBV-C6K2tq9F8ZqyDx6-IRhxn1pkr5pf_P0ZpKiKJHeWgJx3ZOMxilhiyiScETkZB2K2bVOZuvZpRgwXXuPKz9gb6MwOVk74K4DsUFU6h4wkBkg__koWjXO3vRBc9uXPAdp02TdMsUImBZce2Wn3QutDU4bMPIRgaUIz6854Crq0dJBqL9g6biENg_iPebpMcgq_n_Qr7Zim9cFJq7psYig3nECQJWRQaGaXoPEQ9JO5mev1slACskMlWvljuS8c7TYRQztkUh0mSuIUt6hP3kCc5u79J4juVwYrzUPiyoONjw5GPp4uXZ_9q1Y=&slots=HSR_AA&position=2&beaconIssued=2022-02-25T17:34:37",
+      "details": "Enjoy up to 25 percent off at over 160 hotels in India, Middle East and Africa. Book by 30 April 2022.",
+      "detailsHeadline": "Up to 25pct off at over 160 IHG Hotels",
+      "hotelImage": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/16000000/15630000/15621400/15621305/cf0d6d0b_b.jpg",
+      "impressionTrackingUrl": "https://www.expedia.co.in/taps/v1/Impr?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=2&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEOAfeJndBn9fcLkN9N5s_dU7PhFZgHTRXg_0tODMxNZ6Yd5JBBRGzAlP4LQidGTlJdxC2yleuId0-7LUw5v5_Ji4OW7fNgvZMB4M74u92UfyzG1mNtfDnkOJAt70ma8jz3Lrmbh5QD8sncRTK7Bj_mJdkpkdVvBR4QttkytTcNrx3sb2PCd24gS05b1BCPHgprJqJv51hLNHeourW-_qYsJl-QeLKwU5AclhZ7oKtnr0OqfrDN-QWhZbttoL_i8g0pDTk6bxhirBcpuOPChnc_bh0FE7Vu48J6Mx67d5sXaKNjDwJbgPgO7jtki_BUXTMDheanQk_eN2xe2VJ0tFCE1tBXjyA097CX5Q_40n3ttukTwdKrBq_oqTMRfS2YT5NMnhmO8fuFB7X95IJda-36mZO2HpMXwJKwcbDEEqmbDNgtAfdAqnx17RTlCqWcoFd5I3PjKWHbi1YQVWkKu5jFlY_4XWjzDKQwy_NFVnYwmaiSfAcaREOzQewCs2n8ZGrgNJ-0_1w8uw0GEAzZ61rE3ItQUnMVs0yLFy7uFAH59NwP6jYSbqEmLVdFMfUoNuFDsfSLo7cOJErWmnemJ30uGnF31O3r0_xrk5RZVcEpxpLnmqKPjEcnZiPi7Klu7fDQmDUgOFJtB2TMe5Omt8Gf5udVcKZPb3scxSGqYI6dcOPyD_o9736JoBhCk3_QOZCAkArpzc_z6ZUvYKprOLsER6K4JMnilV_cFaj1oIIfVU7jSrV_IQQYJqkAl9Eobb33KPD9sGxkD4A_hoTVBv90tKkyUjqvqpH7drcCRUoCX1jHZRxi-MMgdYHzr-qD5NijxjKlDJciq9U7K23XGHpb7u-_KyEBV-C6K2tq9F8ZqyDx6-IRhxn1pkr5pf_P0ZpKiKJHeWgJx3ZOMxilhiyiScETkZB2K2bVOZuvZpRgwXXuPKz9gb6MwOVk74K4DsUFU6h4wkBkg__koWjXO3vRBc9uXPAdp02TdMsUImBZce2Wn3QutDU4bMPIRgaUIz6854Crq0dJBqL9g6biENg_iPebpMcgq_n_Qr7Zim9cFJq7psYig3nECQJWRQaGaXoPEQ9JO5mev1slACskMlWvljuS8c7TYRQztkUh0mSuIUt6hP3kCc5u79J4juVwYrzUPiyoONjw5GPp4uXZ_9q1Y=&slots=HSR_AA&position=2&beaconIssued=2022-02-25T17:34:37",
+      "trackingData": "AAAAEOAfeJndBn9fcLkN9N5s_dU7PhFZgHTRXg_0tODMxNZ6Yd5JBBRGzAlP4LQidGTlJdxC2yleuId0-7LUw5v5_Ji4OW7fNgvZMB4M74u92UfyzG1mNtfDnkOJAt70ma8jz3Lrmbh5QD8sncRTK7Bj_mJdkpkdVvBR4QttkytTcNrx3sb2PCd24gS05b1BCPHgprJqJv51hLNHeourW-_qYsJl-QeLKwU5AclhZ7oKtnr0OqfrDN-QWhZbttoL_i8g0pDTk6bxhirBcpuOPChnc_bh0FE7Vu48J6Mx67d5sXaKNjDwJbgPgO7jtki_BUXTMDheanQk_eN2xe2VJ0tFCE1tBXjyA097CX5Q_40n3ttukTwdKrBq_oqTMRfS2YT5NMnhmO8fuFB7X95IJda-36mZO2HpMXwJKwcbDEEqmbDNgtAfdAqnx17RTlCqWcoFd5I3PjKWHbi1YQVWkKu5jFlY_4XWjzDKQwy_NFVnYwmaiSfAcaREOzQewCs2n8ZGrgNJ-0_1w8uw0GEAzZ61rE3ItQUnMVs0yLFy7uFAH59NwP6jYSbqEmLVdFMfUoNuFDsfSLo7cOJErWmnemJ30uGnF31O3r0_xrk5RZVcEpxpLnmqKPjEcnZiPi7Klu7fDQmDUgOFJtB2TMe5Omt8Gf5udVcKZPb3scxSGqYI6dcOPyD_o9736JoBhCk3_QOZCAkArpzc_z6ZUvYKprOLsER6K4JMnilV_cFaj1oIIfVU7jSrV_IQQYJqkAl9Eobb33KPD9sGxkD4A_hoTVBv90tKkyUjqvqpH7drcCRUoCX1jHZRxi-MMgdYHzr-qD5NijxjKlDJciq9U7K23XGHpb7u-_KyEBV-C6K2tq9F8ZqyDx6-IRhxn1pkr5pf_P0ZpKiKJHeWgJx3ZOMxilhiyiScETkZB2K2bVOZuvZpRgwXXuPKz9gb6MwOVk74K4DsUFU6h4wkBkg__koWjXO3vRBc9uXPAdp02TdMsUImBZce2Wn3QutDU4bMPIRgaUIz6854Crq0dJBqL9g6biENg_iPebpMcgq_n_Qr7Zim9cFJq7psYig3nECQJWRQaGaXoPEQ9JO5mev1slACskMlWvljuS8c7TYRQztkUh0mSuIUt6hP3kCc5u79J4juVwYrzUPiyoONjw5GPp4uXZ_9q1Y=",
+      "brand": null,
+      "clickRedirectLinkoffTrackingUrl": null,
+      "logo": null,
+      "lotagline": null,
+      "rating": "0",
+      "slots": "HSR_AA",
+      "vanityUrl": null,
+      "rank": "2",
+      "position": "2"
+    },
+    "amenities": [],
+    "star": null,
+    "starRatingIcon": "STAR",
+    "availability": {
+      "available": true,
+      "text": null,
+      "theme": "URGENT"
+    },
+    "offerSummary": {
+      "messages": [
+        {
+          "message": "Fully refundable",
+          "theme": "SUCCESS",
+          "type": "FREE_CANCEL",
+          "mark": null
+        },
+        {
+          "message": "Reserve now, pay later",
+          "theme": "SUCCESS",
+          "type": "PAY_LATER",
+          "mark": null
+        }
+      ]
+    },
+    "legalDisclaimer": null,
+    "imageGallery": {
+      "accessibilityLabel": "Photo gallery for Holiday Inn Chennai OMR IT Expressway, an IHG Hotel",
+      "images": [
+        {
+          "image": {
+            "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/16000000/15630000/15621400/15621305/cf0d6d0b_b.jpg",
+            "description": "Featured image"
+          },
+          "subjectId": 3,
+          "fallbackImage": {
+            "url": "https://images.trvl-media.com/hotels/16000000/15630000/15621400/15621305/cf0d6d0b.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Featured image"
+          },
+          "imageId": "427590641"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/16000000/15630000/15621400/15621305/23769069.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Exterior"
+          },
+          "subjectId": 91024,
+          "fallbackImage": null,
+          "imageId": "643194758"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/16000000/15630000/15621400/15621305/f714c65e.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Pool"
+          },
+          "subjectId": 30000,
+          "fallbackImage": null,
+          "imageId": "73299103"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/16000000/15630000/15621400/15621305/2e661357.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Bedroom"
+          },
+          "subjectId": 21001,
+          "fallbackImage": null,
+          "imageId": "427590642"
+        }
+      ]
+    },
+    "mapMarker": {
+      "icon": "HOTEL",
+      "label": "Rs3,956",
+      "type": "HOTEL",
+      "latLong": {
+        "latitude": 12.98035,
+        "longitude": 80.252843
+      },
+      "clientSideAnalytics": {
+        "referrerId": "Module.Map.HotelMarkerSelect",
+        "linkName": "User selecting a hotel marker on the PWA HSR map"
+      }
+    },
+    "neighborhood": {
+      "name": "Thiruvanmiyur"
+    },
+    "pinnedDetails": null,
+    "recentlyViewed": null,
+    "featuredMessages": null,
+    "supportingMessages": ["Excludes taxes & fees"],
+    "shortList": {
+      "favorited": false,
+      "saveUrl": "/api/ucs/shortlist/save/15621305",
+      "removeUrl": "/api/ucs/shortlist/remove/15621305",
+      "metaData": {
+        "chkIn": "20220311",
+        "chkOut": "20220312",
+        "hotelId": "15621305",
+        "roomConfiguration": "2"
+      }
+    },
+    "highlightedPropertyDetails": [],
+    "propertySource": null,
+    "dataAttributes": null,
+    "listingFooter": null
+  },
+  {
+    "__typename": "Property",
+    "id": "4942760",
+    "name": "ITC Grand Chola, a Luxury Collection Hotel, Chennai",
+    "propertyImage": {
+      "image": {
+        "description": "Featured image",
+        "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/5000000/4950000/4942800/4942760/c0224380_b.jpg"
+      },
+      "fallbackImage": {
+        "description": "Featured image",
+        "url": "https://images.trvl-media.com/hotels/5000000/4950000/4942800/4942760/c0224380.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      }
+    },
+    "offerBadge": {
+      "primary": {
+        "text": "Ad",
+        "theme_temp": "SPONSORED",
+        "icon_temp": null,
+        "mark": null
+      },
+      "secondary": {
+        "text": "We have 5 left at",
+        "theme_temp": "DEAL_GENERIC",
+        "icon_temp": null
+      }
+    },
+    "price": {
+      "alignment": null,
+      "displayMessages": null,
+      "lead": {
+        "formatted": "Rs8,500"
+      },
+      "strikeOutType": "PRICE_SURVEY",
+      "strikeOut": null,
+      "disclaimer": null,
+      "roomNightMessage": "per night",
+      "priceMessages": [
+        {
+          "value": "per night"
+        }
+      ],
+      "marketingFeeDetails": null,
+      "options": [
+        {
+          "leadingCaption": null,
+          "displayPrice": {
+            "formatted": "Rs8,500"
+          },
+          "strikeOut": null,
+          "loyaltyPrice": null,
+          "disclaimer": null
+        }
+      ]
+    },
+    "reviews": {
+      "score": 4.4,
+      "localizedScore": "4.4",
+      "total": 409,
+      "localizedTotal": "409 reviews",
+      "superlative": "Excellent",
+      "localizedSubtitle": "4.4 / 5 (409 reviews)",
+      "localizedSubtitleA11y": {
+        "accessibilityLabel": "4.4 out of 5 Excellent (409 reviews)",
+        "value": "4.4/5 Excellent (409 reviews)"
+      },
+      "mark": null
+    },
+    "destinationInfo": {
+      "distanceFromMessaging": null
+    },
+    "vipMessaging": null,
+    "propertyDetailsLink": {
+      "uri": {
+        "value": "https://www.expedia.co.in/Chennai-Hotels-ITC-Grand-Chola.h4942760.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810478779&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=181449&destination=Chennai+%28and+vicinity%29%2C+Tamil+Nadu%2C+India&destType=MARKET&neighborhoodId=553248635976007880&trackingData=AAAAEOL2FuFwsl8w_r1oJ7wE7sIfqbW_yPill9gpruQU8mGNlQLoETuCI6AZHUKhW8PcY4D2-bf6hw00dvJPP6I-MNlW745O4v4Xh19r6yjVGmD-XAzSolptT-6gjyNT8uvk51B_X7Lu51tYnhGjn3T8tbCRcYHRVK0Q1_CICyfnEuEMZxR6ROKHO59uzGn8oVipJVBDTx74zHgbo3pc2hgWGwszyIDTD8YRWGGNMWRBcsOryJtRH_ETygBAdATWNMbRn2ERBVVE596aCki0LWSIombbiSN8UDBBjxEQcTWI3PqD6oFDXVGHAhSHs1xTQgHQWkvwD9lN4_BudW5fUeP_bzvD3UZf7vRTTmQMRaFZrF9zxry57TJnrBQO0fpA4qWzm0TNuihXMdvGGR_dCLhAKh5bBV6U9MUH90muwvXpQsgWLlDv6AfUceTqMO-x_xt5AtqmhFA92WogPce0RHwG3rkkBTTEniCTQcarZCHaViohoi-SzMs2MKzwdIC7C8V0x33VjG2Awv1tE1BBY_-NsLE-eI2XnSKZ8CPeq5sJpYl_3JUFgnPdVPN72IuuuA36kqT2NH85ah4919l1QMEZ6ZHCncMYiDjpxVKyooz5U0z2OW6WupVwO1bpYg-b1kFZmKqJDScTQmiznAHeTl9kIy_4tZkA-PukM5MnuJiWu5jXubpSOZXZ4GW-p5W9RwT_hAVX8ijUNgy78-DFCo_bdkrQP-WovvClNFIe-KqM2ZYgE-ftuRntI_FuC2x3C5SYTZJlBTY0q9XNLpwTNWHAh7tFuuYhK1cqOnZPDUjfISX27rX5FKznRulx1VhjcodG3nhcMDsP2r9cozeNYv5CjCflaz38zPjTqmhB00sd5VHXAnpYXwRP0ylbtcv3pZbP5K-jYd4UcvzeO8syFBUXceosq4kBYItq4WxAKhwTLAunsVft19WfXiQ3sA-ty28R7iZg5xkVA-JDXh4ecyPqk1sybAub1Vj5LetETg2fPYoLMyPo_H1cpZakB0TFIga4YkEMhyja-8Gk4Z7riX1jaKQoOf0DU40lifICRui3kCbyTnBsomItyGBAjnWmJXoILDvegxF4n78pgtCydypQt5WKUalBwq5V5-D04eOhUTPaEu_EB-H2a4fyOa5xP9SU5Q%3D%3D&rank=3&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_DYN&position=3&beaconIssued=2022-02-25T17%3A34%3A37&sort=RECOMMENDED&top_dp=8500&top_cur=INR&semdtl=&userIntent=&selectedRoomType=212104780&selectedRatePlan=384252506",
+        "relativePath": "/Chennai-Hotels-ITC-Grand-Chola.h4942760.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810478779&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=181449&destination=Chennai+%28and+vicinity%29%2C+Tamil+Nadu%2C+India&destType=MARKET&neighborhoodId=553248635976007880&trackingData=AAAAEOL2FuFwsl8w_r1oJ7wE7sIfqbW_yPill9gpruQU8mGNlQLoETuCI6AZHUKhW8PcY4D2-bf6hw00dvJPP6I-MNlW745O4v4Xh19r6yjVGmD-XAzSolptT-6gjyNT8uvk51B_X7Lu51tYnhGjn3T8tbCRcYHRVK0Q1_CICyfnEuEMZxR6ROKHO59uzGn8oVipJVBDTx74zHgbo3pc2hgWGwszyIDTD8YRWGGNMWRBcsOryJtRH_ETygBAdATWNMbRn2ERBVVE596aCki0LWSIombbiSN8UDBBjxEQcTWI3PqD6oFDXVGHAhSHs1xTQgHQWkvwD9lN4_BudW5fUeP_bzvD3UZf7vRTTmQMRaFZrF9zxry57TJnrBQO0fpA4qWzm0TNuihXMdvGGR_dCLhAKh5bBV6U9MUH90muwvXpQsgWLlDv6AfUceTqMO-x_xt5AtqmhFA92WogPce0RHwG3rkkBTTEniCTQcarZCHaViohoi-SzMs2MKzwdIC7C8V0x33VjG2Awv1tE1BBY_-NsLE-eI2XnSKZ8CPeq5sJpYl_3JUFgnPdVPN72IuuuA36kqT2NH85ah4919l1QMEZ6ZHCncMYiDjpxVKyooz5U0z2OW6WupVwO1bpYg-b1kFZmKqJDScTQmiznAHeTl9kIy_4tZkA-PukM5MnuJiWu5jXubpSOZXZ4GW-p5W9RwT_hAVX8ijUNgy78-DFCo_bdkrQP-WovvClNFIe-KqM2ZYgE-ftuRntI_FuC2x3C5SYTZJlBTY0q9XNLpwTNWHAh7tFuuYhK1cqOnZPDUjfISX27rX5FKznRulx1VhjcodG3nhcMDsP2r9cozeNYv5CjCflaz38zPjTqmhB00sd5VHXAnpYXwRP0ylbtcv3pZbP5K-jYd4UcvzeO8syFBUXceosq4kBYItq4WxAKhwTLAunsVft19WfXiQ3sA-ty28R7iZg5xkVA-JDXh4ecyPqk1sybAub1Vj5LetETg2fPYoLMyPo_H1cpZakB0TFIga4YkEMhyja-8Gk4Z7riX1jaKQoOf0DU40lifICRui3kCbyTnBsomItyGBAjnWmJXoILDvegxF4n78pgtCydypQt5WKUalBwq5V5-D04eOhUTPaEu_EB-H2a4fyOa5xP9SU5Q%3D%3D&rank=3&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_DYN&position=3&beaconIssued=2022-02-25T17%3A34%3A37&sort=RECOMMENDED&top_dp=8500&top_cur=INR&semdtl=&userIntent=&selectedRoomType=212104780&selectedRatePlan=384252506"
+      },
+      "clientSideAnalytics": {
+        "referrerId": "HOT.SR:HotelModule:3",
+        "linkName": "View selected property"
+      }
+    },
+    "sponsoredListing": {
+      "id": "598489",
+      "clickRedirectTrackingUrl": "https://www.expedia.co.in/taps/v1/ClRedirect?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&destinationUrl=&rank=3&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEOL2FuFwsl8w_r1oJ7wE7sIfqbW_yPill9gpruQU8mGNlQLoETuCI6AZHUKhW8PcY4D2-bf6hw00dvJPP6I-MNlW745O4v4Xh19r6yjVGmD-XAzSolptT-6gjyNT8uvk51B_X7Lu51tYnhGjn3T8tbCRcYHRVK0Q1_CICyfnEuEMZxR6ROKHO59uzGn8oVipJVBDTx74zHgbo3pc2hgWGwszyIDTD8YRWGGNMWRBcsOryJtRH_ETygBAdATWNMbRn2ERBVVE596aCki0LWSIombbiSN8UDBBjxEQcTWI3PqD6oFDXVGHAhSHs1xTQgHQWkvwD9lN4_BudW5fUeP_bzvD3UZf7vRTTmQMRaFZrF9zxry57TJnrBQO0fpA4qWzm0TNuihXMdvGGR_dCLhAKh5bBV6U9MUH90muwvXpQsgWLlDv6AfUceTqMO-x_xt5AtqmhFA92WogPce0RHwG3rkkBTTEniCTQcarZCHaViohoi-SzMs2MKzwdIC7C8V0x33VjG2Awv1tE1BBY_-NsLE-eI2XnSKZ8CPeq5sJpYl_3JUFgnPdVPN72IuuuA36kqT2NH85ah4919l1QMEZ6ZHCncMYiDjpxVKyooz5U0z2OW6WupVwO1bpYg-b1kFZmKqJDScTQmiznAHeTl9kIy_4tZkA-PukM5MnuJiWu5jXubpSOZXZ4GW-p5W9RwT_hAVX8ijUNgy78-DFCo_bdkrQP-WovvClNFIe-KqM2ZYgE-ftuRntI_FuC2x3C5SYTZJlBTY0q9XNLpwTNWHAh7tFuuYhK1cqOnZPDUjfISX27rX5FKznRulx1VhjcodG3nhcMDsP2r9cozeNYv5CjCflaz38zPjTqmhB00sd5VHXAnpYXwRP0ylbtcv3pZbP5K-jYd4UcvzeO8syFBUXceosq4kBYItq4WxAKhwTLAunsVft19WfXiQ3sA-ty28R7iZg5xkVA-JDXh4ecyPqk1sybAub1Vj5LetETg2fPYoLMyPo_H1cpZakB0TFIga4YkEMhyja-8Gk4Z7riX1jaKQoOf0DU40lifICRui3kCbyTnBsomItyGBAjnWmJXoILDvegxF4n78pgtCydypQt5WKUalBwq5V5-D04eOhUTPaEu_EB-H2a4fyOa5xP9SU5Q==&slots=HSR_DYN&position=3&beaconIssued=2022-02-25T17:34:37",
+      "clickTrackingUrl": "https://www.expedia.co.in/taps/v1/Cl?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=3&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEOL2FuFwsl8w_r1oJ7wE7sIfqbW_yPill9gpruQU8mGNlQLoETuCI6AZHUKhW8PcY4D2-bf6hw00dvJPP6I-MNlW745O4v4Xh19r6yjVGmD-XAzSolptT-6gjyNT8uvk51B_X7Lu51tYnhGjn3T8tbCRcYHRVK0Q1_CICyfnEuEMZxR6ROKHO59uzGn8oVipJVBDTx74zHgbo3pc2hgWGwszyIDTD8YRWGGNMWRBcsOryJtRH_ETygBAdATWNMbRn2ERBVVE596aCki0LWSIombbiSN8UDBBjxEQcTWI3PqD6oFDXVGHAhSHs1xTQgHQWkvwD9lN4_BudW5fUeP_bzvD3UZf7vRTTmQMRaFZrF9zxry57TJnrBQO0fpA4qWzm0TNuihXMdvGGR_dCLhAKh5bBV6U9MUH90muwvXpQsgWLlDv6AfUceTqMO-x_xt5AtqmhFA92WogPce0RHwG3rkkBTTEniCTQcarZCHaViohoi-SzMs2MKzwdIC7C8V0x33VjG2Awv1tE1BBY_-NsLE-eI2XnSKZ8CPeq5sJpYl_3JUFgnPdVPN72IuuuA36kqT2NH85ah4919l1QMEZ6ZHCncMYiDjpxVKyooz5U0z2OW6WupVwO1bpYg-b1kFZmKqJDScTQmiznAHeTl9kIy_4tZkA-PukM5MnuJiWu5jXubpSOZXZ4GW-p5W9RwT_hAVX8ijUNgy78-DFCo_bdkrQP-WovvClNFIe-KqM2ZYgE-ftuRntI_FuC2x3C5SYTZJlBTY0q9XNLpwTNWHAh7tFuuYhK1cqOnZPDUjfISX27rX5FKznRulx1VhjcodG3nhcMDsP2r9cozeNYv5CjCflaz38zPjTqmhB00sd5VHXAnpYXwRP0ylbtcv3pZbP5K-jYd4UcvzeO8syFBUXceosq4kBYItq4WxAKhwTLAunsVft19WfXiQ3sA-ty28R7iZg5xkVA-JDXh4ecyPqk1sybAub1Vj5LetETg2fPYoLMyPo_H1cpZakB0TFIga4YkEMhyja-8Gk4Z7riX1jaKQoOf0DU40lifICRui3kCbyTnBsomItyGBAjnWmJXoILDvegxF4n78pgtCydypQt5WKUalBwq5V5-D04eOhUTPaEu_EB-H2a4fyOa5xP9SU5Q==&slots=HSR_DYN&position=3&beaconIssued=2022-02-25T17:34:37",
+      "details": null,
+      "detailsHeadline": null,
+      "hotelImage": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/5000000/4950000/4942800/4942760/c0224380_b.jpg",
+      "impressionTrackingUrl": "https://www.expedia.co.in/taps/v1/Impr?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=3&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEOL2FuFwsl8w_r1oJ7wE7sIfqbW_yPill9gpruQU8mGNlQLoETuCI6AZHUKhW8PcY4D2-bf6hw00dvJPP6I-MNlW745O4v4Xh19r6yjVGmD-XAzSolptT-6gjyNT8uvk51B_X7Lu51tYnhGjn3T8tbCRcYHRVK0Q1_CICyfnEuEMZxR6ROKHO59uzGn8oVipJVBDTx74zHgbo3pc2hgWGwszyIDTD8YRWGGNMWRBcsOryJtRH_ETygBAdATWNMbRn2ERBVVE596aCki0LWSIombbiSN8UDBBjxEQcTWI3PqD6oFDXVGHAhSHs1xTQgHQWkvwD9lN4_BudW5fUeP_bzvD3UZf7vRTTmQMRaFZrF9zxry57TJnrBQO0fpA4qWzm0TNuihXMdvGGR_dCLhAKh5bBV6U9MUH90muwvXpQsgWLlDv6AfUceTqMO-x_xt5AtqmhFA92WogPce0RHwG3rkkBTTEniCTQcarZCHaViohoi-SzMs2MKzwdIC7C8V0x33VjG2Awv1tE1BBY_-NsLE-eI2XnSKZ8CPeq5sJpYl_3JUFgnPdVPN72IuuuA36kqT2NH85ah4919l1QMEZ6ZHCncMYiDjpxVKyooz5U0z2OW6WupVwO1bpYg-b1kFZmKqJDScTQmiznAHeTl9kIy_4tZkA-PukM5MnuJiWu5jXubpSOZXZ4GW-p5W9RwT_hAVX8ijUNgy78-DFCo_bdkrQP-WovvClNFIe-KqM2ZYgE-ftuRntI_FuC2x3C5SYTZJlBTY0q9XNLpwTNWHAh7tFuuYhK1cqOnZPDUjfISX27rX5FKznRulx1VhjcodG3nhcMDsP2r9cozeNYv5CjCflaz38zPjTqmhB00sd5VHXAnpYXwRP0ylbtcv3pZbP5K-jYd4UcvzeO8syFBUXceosq4kBYItq4WxAKhwTLAunsVft19WfXiQ3sA-ty28R7iZg5xkVA-JDXh4ecyPqk1sybAub1Vj5LetETg2fPYoLMyPo_H1cpZakB0TFIga4YkEMhyja-8Gk4Z7riX1jaKQoOf0DU40lifICRui3kCbyTnBsomItyGBAjnWmJXoILDvegxF4n78pgtCydypQt5WKUalBwq5V5-D04eOhUTPaEu_EB-H2a4fyOa5xP9SU5Q==&slots=HSR_DYN&position=3&beaconIssued=2022-02-25T17:34:37",
+      "trackingData": "AAAAEOL2FuFwsl8w_r1oJ7wE7sIfqbW_yPill9gpruQU8mGNlQLoETuCI6AZHUKhW8PcY4D2-bf6hw00dvJPP6I-MNlW745O4v4Xh19r6yjVGmD-XAzSolptT-6gjyNT8uvk51B_X7Lu51tYnhGjn3T8tbCRcYHRVK0Q1_CICyfnEuEMZxR6ROKHO59uzGn8oVipJVBDTx74zHgbo3pc2hgWGwszyIDTD8YRWGGNMWRBcsOryJtRH_ETygBAdATWNMbRn2ERBVVE596aCki0LWSIombbiSN8UDBBjxEQcTWI3PqD6oFDXVGHAhSHs1xTQgHQWkvwD9lN4_BudW5fUeP_bzvD3UZf7vRTTmQMRaFZrF9zxry57TJnrBQO0fpA4qWzm0TNuihXMdvGGR_dCLhAKh5bBV6U9MUH90muwvXpQsgWLlDv6AfUceTqMO-x_xt5AtqmhFA92WogPce0RHwG3rkkBTTEniCTQcarZCHaViohoi-SzMs2MKzwdIC7C8V0x33VjG2Awv1tE1BBY_-NsLE-eI2XnSKZ8CPeq5sJpYl_3JUFgnPdVPN72IuuuA36kqT2NH85ah4919l1QMEZ6ZHCncMYiDjpxVKyooz5U0z2OW6WupVwO1bpYg-b1kFZmKqJDScTQmiznAHeTl9kIy_4tZkA-PukM5MnuJiWu5jXubpSOZXZ4GW-p5W9RwT_hAVX8ijUNgy78-DFCo_bdkrQP-WovvClNFIe-KqM2ZYgE-ftuRntI_FuC2x3C5SYTZJlBTY0q9XNLpwTNWHAh7tFuuYhK1cqOnZPDUjfISX27rX5FKznRulx1VhjcodG3nhcMDsP2r9cozeNYv5CjCflaz38zPjTqmhB00sd5VHXAnpYXwRP0ylbtcv3pZbP5K-jYd4UcvzeO8syFBUXceosq4kBYItq4WxAKhwTLAunsVft19WfXiQ3sA-ty28R7iZg5xkVA-JDXh4ecyPqk1sybAub1Vj5LetETg2fPYoLMyPo_H1cpZakB0TFIga4YkEMhyja-8Gk4Z7riX1jaKQoOf0DU40lifICRui3kCbyTnBsomItyGBAjnWmJXoILDvegxF4n78pgtCydypQt5WKUalBwq5V5-D04eOhUTPaEu_EB-H2a4fyOa5xP9SU5Q==",
+      "brand": null,
+      "clickRedirectLinkoffTrackingUrl": null,
+      "logo": null,
+      "lotagline": null,
+      "rating": "0",
+      "slots": "HSR_DYN",
+      "vanityUrl": null,
+      "rank": "3",
+      "position": "3"
+    },
+    "amenities": [],
+    "star": null,
+    "starRatingIcon": "STAR",
+    "availability": {
+      "available": true,
+      "text": null,
+      "theme": "URGENT"
+    },
+    "offerSummary": {
+      "messages": [
+        {
+          "message": "Fully refundable",
+          "theme": "SUCCESS",
+          "type": "FREE_CANCEL",
+          "mark": null
+        },
+        {
+          "message": "Reserve now, pay later",
+          "theme": "SUCCESS",
+          "type": "PAY_LATER",
+          "mark": null
+        }
+      ]
+    },
+    "legalDisclaimer": null,
+    "imageGallery": {
+      "accessibilityLabel": "Photo gallery for ITC Grand Chola, a Luxury Collection Hotel, Chennai",
+      "images": [
+        {
+          "image": {
+            "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/5000000/4950000/4942800/4942760/c0224380_b.jpg",
+            "description": "Featured image"
+          },
+          "subjectId": 3,
+          "fallbackImage": {
+            "url": "https://images.trvl-media.com/hotels/5000000/4950000/4942800/4942760/c0224380.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Featured image"
+          },
+          "imageId": "68515734"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/5000000/4950000/4942800/4942760/536b5e1d.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Exterior"
+          },
+          "subjectId": 91024,
+          "fallbackImage": null,
+          "imageId": "68515729"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/5000000/4950000/4942800/4942760/c30c7448.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Outdoor spa bath"
+          },
+          "subjectId": 30009,
+          "fallbackImage": null,
+          "imageId": "19855716"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/5000000/4950000/4942800/4942760/754c34f8.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "View from Room"
+          },
+          "subjectId": 22013,
+          "fallbackImage": null,
+          "imageId": "68515749"
+        }
+      ]
+    },
+    "mapMarker": {
+      "icon": "HOTEL",
+      "label": "Rs8,500",
+      "type": "HOTEL",
+      "latLong": {
+        "latitude": 13.01181,
+        "longitude": 80.21999
+      },
+      "clientSideAnalytics": {
+        "referrerId": "Module.Map.HotelMarkerSelect",
+        "linkName": "User selecting a hotel marker on the PWA HSR map"
+      }
+    },
+    "neighborhood": {
+      "name": "Chennai"
+    },
+    "pinnedDetails": null,
+    "recentlyViewed": null,
+    "featuredMessages": null,
+    "supportingMessages": ["Excludes taxes & fees"],
+    "shortList": {
+      "favorited": false,
+      "saveUrl": "/api/ucs/shortlist/save/4942760",
+      "removeUrl": "/api/ucs/shortlist/remove/4942760",
+      "metaData": {
+        "chkIn": "20220311",
+        "chkOut": "20220312",
+        "hotelId": "4942760",
+        "roomConfiguration": "2"
+      }
+    },
+    "highlightedPropertyDetails": [],
+    "propertySource": null,
+    "dataAttributes": null,
+    "listingFooter": null
+  },
+  {
+    "__typename": "MessageResult",
+    "title": {
+      "text": "You could be seeing lower prices",
+      "icon": null,
+      "mark": {
+        "description": "You could be seeing lower prices",
+        "id": "mod_exp"
+      },
+      "illustration": null,
+      "theme": null
+    },
+    "subtitle": {
+      "text": "With member prices, you could save 10% or more right now on thousands of properties.",
+      "icon": null,
+      "mark": null,
+      "illustration": null,
+      "theme": null
+    },
+    "action": {
+      "primary": {
+        "actionDetails": null,
+        "linkUrl": "https://www.expedia.co.in/user/signin?uurl=e3id%3Dredr%26rurl%3D%2FHotel-Search%3FregionId%3D181449%26destination%3DChennai%2B%2528and%2Bvicinity%2529%252C%2BTamil%2BNadu%252C%2BIndia%26startDate%3D2022-03-11%26endDate%3D2022-03-12%26adults%3D2%26children%3D%26sort%3DRECOMMENDED%26semdtl%3D%26userIntent%3D",
+        "referrerId": ":LoginCard.SignIn",
+        "text": "Sign in"
+      },
+      "secondary": {
+        "actionDetails": null,
+        "linkUrl": "https://www.expedia.co.in/user/createaccount?uurl=e3id%3Dredr%26rurl%3D%2FHotel-Search%3FregionId%3D181449%26destination%3DChennai%2B%2528and%2Bvicinity%2529%252C%2BTamil%2BNadu%252C%2BIndia%26startDate%3D2022-03-11%26endDate%3D2022-03-12%26adults%3D2%26children%3D%26sort%3DRECOMMENDED%26semdtl%3D%26userIntent%3D&fromheader=true",
+        "referrerId": ":LoginCard.CreateAccount",
+        "text": "Sign up, it's free"
+      }
+    },
+    "index": 3,
+    "type": "LOGIN"
+  },
+  {
+    "__typename": "Property",
+    "id": "5924662",
+    "name": "The Westin Chennai Velachery",
+    "propertyImage": {
+      "image": {
+        "description": "Featured image",
+        "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/6000000/5930000/5924700/5924662/096ed4b5_b.jpg"
+      },
+      "fallbackImage": {
+        "description": "Featured image",
+        "url": "https://images.trvl-media.com/hotels/6000000/5930000/5924700/5924662/096ed4b5.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      }
+    },
+    "offerBadge": {
+      "primary": {
+        "text": "Ad",
+        "theme_temp": "SPONSORED",
+        "icon_temp": null,
+        "mark": null
+      },
+      "secondary": {
+        "text": "We have 5 left at",
+        "theme_temp": "DEAL_GENERIC",
+        "icon_temp": null
+      }
+    },
+    "price": {
+      "alignment": null,
+      "displayMessages": null,
+      "lead": {
+        "formatted": "Rs5,000"
+      },
+      "strikeOutType": "PRICE_SURVEY",
+      "strikeOut": null,
+      "disclaimer": null,
+      "roomNightMessage": "per night",
+      "priceMessages": [
+        {
+          "value": "per night"
+        }
+      ],
+      "marketingFeeDetails": null,
+      "options": [
+        {
+          "leadingCaption": null,
+          "displayPrice": {
+            "formatted": "Rs5,000"
+          },
+          "strikeOut": null,
+          "loyaltyPrice": null,
+          "disclaimer": null
+        }
+      ]
+    },
+    "reviews": {
+      "score": 4.5,
+      "localizedScore": "4.5",
+      "total": 203,
+      "localizedTotal": "203 reviews",
+      "superlative": "Wonderful",
+      "localizedSubtitle": "4.5 / 5 (203 reviews)",
+      "localizedSubtitleA11y": {
+        "accessibilityLabel": "4.5 out of 5 Wonderful (203 reviews)",
+        "value": "4.5/5 Wonderful (203 reviews)"
+      },
+      "mark": null
+    },
+    "destinationInfo": {
+      "distanceFromMessaging": null
+    },
+    "vipMessaging": null,
+    "propertyDetailsLink": {
+      "uri": {
+        "value": "https://www.expedia.co.in/Chennai-Hotels-The-Westin-Chennai-Velachery.h5924662.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810478779&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=181449&destination=Chennai+%28and+vicinity%29%2C+Tamil+Nadu%2C+India&destType=MARKET&neighborhoodId=6154857&trackingData=AAAAEGUX0trtCzG-4CUhOBOMSBENhwIKGi658nkwnOxcw3FvQrht0Kque88GUAfh6hNxdiVCbG4TctHCB6rIB9MVDP7gaHfwp9M12AVQm9njpnt9m-umgBSJMwrl4OrVxePVKIfwn_TYTfI33wWJClfHBYuqKtAnNdFTRr4uMiT51z8dianVGsTinGkbc44tti_4ZB11NJg5oE95bJJQMI3O9doHlUHgO3oXQxRX2K84QYIik26oULw1j9dGEYVoeYfPj-AuyFcNAwQf6bnrPOWwJ9GvIhX9oDPEQCPbYk2zyjYFmqt2V6viIzRZB4VBiRWY7z6R7n2UvAj61OvKzxRmzmfLYnRVZSKKvimlEuFNUTJdE7KYHJ55UTi3_zfIfQGw6k4Nkcop3ueiVFis2wPAbosP_hoC_fUTLHI9H8ibPeglqUJJ7OK6PfMm9Awt2L_2aIxGrhbz-Tu2cbFSXCEeZUMD8w-taHyo_uiqg4PXnWFIyTF7U-99eBAa-v3bs1D5LRJFIPsciRC_TSl5RsKwHOfVdbjUt67tBVqIKHuVfREQmhqTQXyii-vV9BSWWsnc64epZ5VkEtWFPuAi-OGVMNqgB9mtqEQJYUhbE_8iMAZ9SXpJhTVjBGek1kMZfairQwkvlcBX6mh0khWseJwv-_oZ2WIFFYCFW1CY1Jge8_c1MkPcEb_2Gakc_Ahy7MnEvNOdaisvQNfTHDnGxBHYxl8ckSRQiITPvoN9e578_wk6kA8fmaKRdSsM9b8svESAj77TN_eUztG5bj3zLw5yMrU6xyNiG32rtfoAlNxko0IZaZYgn3GMVA_SsVZ8g8lllYnhg7oOtSUJq0ijErfTKKnQbnozqx_zFbwV2ndwg5Sx5I38x4VhKNmG5tQDoeAhDp4nXGTdkBbo5bwYhgHl6cXXCxEnb-wsn4Y7YXACa1tfiIjYEzn_3dBBpezOrfjnNpyhx33Qt7FcZAxPGjGCGiDuE16bCj1Kjf3-6CBF8A3xK3R0CndDECtuYAMtxWevB1D-6uC6gc_FmowvxBb3swNZwQs-HE3MDCej2ug4MVWGcFpax_DRulW_-mW0cphB1V9QPgLIlb3hc0D_ae8CV2OZOOB3viQHMn9a8FBTQQ74mjnIDgu9mgQxKLOL_MIceA%3D%3D&rank=4&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_AB&position=4&beaconIssued=2022-02-25T17%3A34%3A37&sort=RECOMMENDED&top_dp=5000&top_cur=INR&semdtl=&userIntent=&selectedRoomType=214523782&selectedRatePlan=381182476",
+        "relativePath": "/Chennai-Hotels-The-Westin-Chennai-Velachery.h5924662.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810478779&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=181449&destination=Chennai+%28and+vicinity%29%2C+Tamil+Nadu%2C+India&destType=MARKET&neighborhoodId=6154857&trackingData=AAAAEGUX0trtCzG-4CUhOBOMSBENhwIKGi658nkwnOxcw3FvQrht0Kque88GUAfh6hNxdiVCbG4TctHCB6rIB9MVDP7gaHfwp9M12AVQm9njpnt9m-umgBSJMwrl4OrVxePVKIfwn_TYTfI33wWJClfHBYuqKtAnNdFTRr4uMiT51z8dianVGsTinGkbc44tti_4ZB11NJg5oE95bJJQMI3O9doHlUHgO3oXQxRX2K84QYIik26oULw1j9dGEYVoeYfPj-AuyFcNAwQf6bnrPOWwJ9GvIhX9oDPEQCPbYk2zyjYFmqt2V6viIzRZB4VBiRWY7z6R7n2UvAj61OvKzxRmzmfLYnRVZSKKvimlEuFNUTJdE7KYHJ55UTi3_zfIfQGw6k4Nkcop3ueiVFis2wPAbosP_hoC_fUTLHI9H8ibPeglqUJJ7OK6PfMm9Awt2L_2aIxGrhbz-Tu2cbFSXCEeZUMD8w-taHyo_uiqg4PXnWFIyTF7U-99eBAa-v3bs1D5LRJFIPsciRC_TSl5RsKwHOfVdbjUt67tBVqIKHuVfREQmhqTQXyii-vV9BSWWsnc64epZ5VkEtWFPuAi-OGVMNqgB9mtqEQJYUhbE_8iMAZ9SXpJhTVjBGek1kMZfairQwkvlcBX6mh0khWseJwv-_oZ2WIFFYCFW1CY1Jge8_c1MkPcEb_2Gakc_Ahy7MnEvNOdaisvQNfTHDnGxBHYxl8ckSRQiITPvoN9e578_wk6kA8fmaKRdSsM9b8svESAj77TN_eUztG5bj3zLw5yMrU6xyNiG32rtfoAlNxko0IZaZYgn3GMVA_SsVZ8g8lllYnhg7oOtSUJq0ijErfTKKnQbnozqx_zFbwV2ndwg5Sx5I38x4VhKNmG5tQDoeAhDp4nXGTdkBbo5bwYhgHl6cXXCxEnb-wsn4Y7YXACa1tfiIjYEzn_3dBBpezOrfjnNpyhx33Qt7FcZAxPGjGCGiDuE16bCj1Kjf3-6CBF8A3xK3R0CndDECtuYAMtxWevB1D-6uC6gc_FmowvxBb3swNZwQs-HE3MDCej2ug4MVWGcFpax_DRulW_-mW0cphB1V9QPgLIlb3hc0D_ae8CV2OZOOB3viQHMn9a8FBTQQ74mjnIDgu9mgQxKLOL_MIceA%3D%3D&rank=4&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_AB&position=4&beaconIssued=2022-02-25T17%3A34%3A37&sort=RECOMMENDED&top_dp=5000&top_cur=INR&semdtl=&userIntent=&selectedRoomType=214523782&selectedRatePlan=381182476"
+      },
+      "clientSideAnalytics": {
+        "referrerId": "HOT.SR:HotelModule:4",
+        "linkName": "View selected property"
+      }
+    },
+    "sponsoredListing": {
+      "id": "609361",
+      "clickRedirectTrackingUrl": "https://www.expedia.co.in/taps/v1/ClRedirect?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&destinationUrl=&rank=4&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEGUX0trtCzG-4CUhOBOMSBENhwIKGi658nkwnOxcw3FvQrht0Kque88GUAfh6hNxdiVCbG4TctHCB6rIB9MVDP7gaHfwp9M12AVQm9njpnt9m-umgBSJMwrl4OrVxePVKIfwn_TYTfI33wWJClfHBYuqKtAnNdFTRr4uMiT51z8dianVGsTinGkbc44tti_4ZB11NJg5oE95bJJQMI3O9doHlUHgO3oXQxRX2K84QYIik26oULw1j9dGEYVoeYfPj-AuyFcNAwQf6bnrPOWwJ9GvIhX9oDPEQCPbYk2zyjYFmqt2V6viIzRZB4VBiRWY7z6R7n2UvAj61OvKzxRmzmfLYnRVZSKKvimlEuFNUTJdE7KYHJ55UTi3_zfIfQGw6k4Nkcop3ueiVFis2wPAbosP_hoC_fUTLHI9H8ibPeglqUJJ7OK6PfMm9Awt2L_2aIxGrhbz-Tu2cbFSXCEeZUMD8w-taHyo_uiqg4PXnWFIyTF7U-99eBAa-v3bs1D5LRJFIPsciRC_TSl5RsKwHOfVdbjUt67tBVqIKHuVfREQmhqTQXyii-vV9BSWWsnc64epZ5VkEtWFPuAi-OGVMNqgB9mtqEQJYUhbE_8iMAZ9SXpJhTVjBGek1kMZfairQwkvlcBX6mh0khWseJwv-_oZ2WIFFYCFW1CY1Jge8_c1MkPcEb_2Gakc_Ahy7MnEvNOdaisvQNfTHDnGxBHYxl8ckSRQiITPvoN9e578_wk6kA8fmaKRdSsM9b8svESAj77TN_eUztG5bj3zLw5yMrU6xyNiG32rtfoAlNxko0IZaZYgn3GMVA_SsVZ8g8lllYnhg7oOtSUJq0ijErfTKKnQbnozqx_zFbwV2ndwg5Sx5I38x4VhKNmG5tQDoeAhDp4nXGTdkBbo5bwYhgHl6cXXCxEnb-wsn4Y7YXACa1tfiIjYEzn_3dBBpezOrfjnNpyhx33Qt7FcZAxPGjGCGiDuE16bCj1Kjf3-6CBF8A3xK3R0CndDECtuYAMtxWevB1D-6uC6gc_FmowvxBb3swNZwQs-HE3MDCej2ug4MVWGcFpax_DRulW_-mW0cphB1V9QPgLIlb3hc0D_ae8CV2OZOOB3viQHMn9a8FBTQQ74mjnIDgu9mgQxKLOL_MIceA==&slots=HSR_AB&position=4&beaconIssued=2022-02-25T17:34:37",
+      "clickTrackingUrl": "https://www.expedia.co.in/taps/v1/Cl?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=4&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEGUX0trtCzG-4CUhOBOMSBENhwIKGi658nkwnOxcw3FvQrht0Kque88GUAfh6hNxdiVCbG4TctHCB6rIB9MVDP7gaHfwp9M12AVQm9njpnt9m-umgBSJMwrl4OrVxePVKIfwn_TYTfI33wWJClfHBYuqKtAnNdFTRr4uMiT51z8dianVGsTinGkbc44tti_4ZB11NJg5oE95bJJQMI3O9doHlUHgO3oXQxRX2K84QYIik26oULw1j9dGEYVoeYfPj-AuyFcNAwQf6bnrPOWwJ9GvIhX9oDPEQCPbYk2zyjYFmqt2V6viIzRZB4VBiRWY7z6R7n2UvAj61OvKzxRmzmfLYnRVZSKKvimlEuFNUTJdE7KYHJ55UTi3_zfIfQGw6k4Nkcop3ueiVFis2wPAbosP_hoC_fUTLHI9H8ibPeglqUJJ7OK6PfMm9Awt2L_2aIxGrhbz-Tu2cbFSXCEeZUMD8w-taHyo_uiqg4PXnWFIyTF7U-99eBAa-v3bs1D5LRJFIPsciRC_TSl5RsKwHOfVdbjUt67tBVqIKHuVfREQmhqTQXyii-vV9BSWWsnc64epZ5VkEtWFPuAi-OGVMNqgB9mtqEQJYUhbE_8iMAZ9SXpJhTVjBGek1kMZfairQwkvlcBX6mh0khWseJwv-_oZ2WIFFYCFW1CY1Jge8_c1MkPcEb_2Gakc_Ahy7MnEvNOdaisvQNfTHDnGxBHYxl8ckSRQiITPvoN9e578_wk6kA8fmaKRdSsM9b8svESAj77TN_eUztG5bj3zLw5yMrU6xyNiG32rtfoAlNxko0IZaZYgn3GMVA_SsVZ8g8lllYnhg7oOtSUJq0ijErfTKKnQbnozqx_zFbwV2ndwg5Sx5I38x4VhKNmG5tQDoeAhDp4nXGTdkBbo5bwYhgHl6cXXCxEnb-wsn4Y7YXACa1tfiIjYEzn_3dBBpezOrfjnNpyhx33Qt7FcZAxPGjGCGiDuE16bCj1Kjf3-6CBF8A3xK3R0CndDECtuYAMtxWevB1D-6uC6gc_FmowvxBb3swNZwQs-HE3MDCej2ug4MVWGcFpax_DRulW_-mW0cphB1V9QPgLIlb3hc0D_ae8CV2OZOOB3viQHMn9a8FBTQQ74mjnIDgu9mgQxKLOL_MIceA==&slots=HSR_AB&position=4&beaconIssued=2022-02-25T17:34:37",
+      "details": "Stay at unbeatable rates with complimentary breakfast and wi-fi. Free stay for kids below 12 years of age.",
+      "detailsHeadline": "Comfiest Beds, Delicious Breakfast",
+      "hotelImage": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/6000000/5930000/5924700/5924662/096ed4b5_b.jpg",
+      "impressionTrackingUrl": "https://www.expedia.co.in/taps/v1/Impr?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=4&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEGUX0trtCzG-4CUhOBOMSBENhwIKGi658nkwnOxcw3FvQrht0Kque88GUAfh6hNxdiVCbG4TctHCB6rIB9MVDP7gaHfwp9M12AVQm9njpnt9m-umgBSJMwrl4OrVxePVKIfwn_TYTfI33wWJClfHBYuqKtAnNdFTRr4uMiT51z8dianVGsTinGkbc44tti_4ZB11NJg5oE95bJJQMI3O9doHlUHgO3oXQxRX2K84QYIik26oULw1j9dGEYVoeYfPj-AuyFcNAwQf6bnrPOWwJ9GvIhX9oDPEQCPbYk2zyjYFmqt2V6viIzRZB4VBiRWY7z6R7n2UvAj61OvKzxRmzmfLYnRVZSKKvimlEuFNUTJdE7KYHJ55UTi3_zfIfQGw6k4Nkcop3ueiVFis2wPAbosP_hoC_fUTLHI9H8ibPeglqUJJ7OK6PfMm9Awt2L_2aIxGrhbz-Tu2cbFSXCEeZUMD8w-taHyo_uiqg4PXnWFIyTF7U-99eBAa-v3bs1D5LRJFIPsciRC_TSl5RsKwHOfVdbjUt67tBVqIKHuVfREQmhqTQXyii-vV9BSWWsnc64epZ5VkEtWFPuAi-OGVMNqgB9mtqEQJYUhbE_8iMAZ9SXpJhTVjBGek1kMZfairQwkvlcBX6mh0khWseJwv-_oZ2WIFFYCFW1CY1Jge8_c1MkPcEb_2Gakc_Ahy7MnEvNOdaisvQNfTHDnGxBHYxl8ckSRQiITPvoN9e578_wk6kA8fmaKRdSsM9b8svESAj77TN_eUztG5bj3zLw5yMrU6xyNiG32rtfoAlNxko0IZaZYgn3GMVA_SsVZ8g8lllYnhg7oOtSUJq0ijErfTKKnQbnozqx_zFbwV2ndwg5Sx5I38x4VhKNmG5tQDoeAhDp4nXGTdkBbo5bwYhgHl6cXXCxEnb-wsn4Y7YXACa1tfiIjYEzn_3dBBpezOrfjnNpyhx33Qt7FcZAxPGjGCGiDuE16bCj1Kjf3-6CBF8A3xK3R0CndDECtuYAMtxWevB1D-6uC6gc_FmowvxBb3swNZwQs-HE3MDCej2ug4MVWGcFpax_DRulW_-mW0cphB1V9QPgLIlb3hc0D_ae8CV2OZOOB3viQHMn9a8FBTQQ74mjnIDgu9mgQxKLOL_MIceA==&slots=HSR_AB&position=4&beaconIssued=2022-02-25T17:34:37",
+      "trackingData": "AAAAEGUX0trtCzG-4CUhOBOMSBENhwIKGi658nkwnOxcw3FvQrht0Kque88GUAfh6hNxdiVCbG4TctHCB6rIB9MVDP7gaHfwp9M12AVQm9njpnt9m-umgBSJMwrl4OrVxePVKIfwn_TYTfI33wWJClfHBYuqKtAnNdFTRr4uMiT51z8dianVGsTinGkbc44tti_4ZB11NJg5oE95bJJQMI3O9doHlUHgO3oXQxRX2K84QYIik26oULw1j9dGEYVoeYfPj-AuyFcNAwQf6bnrPOWwJ9GvIhX9oDPEQCPbYk2zyjYFmqt2V6viIzRZB4VBiRWY7z6R7n2UvAj61OvKzxRmzmfLYnRVZSKKvimlEuFNUTJdE7KYHJ55UTi3_zfIfQGw6k4Nkcop3ueiVFis2wPAbosP_hoC_fUTLHI9H8ibPeglqUJJ7OK6PfMm9Awt2L_2aIxGrhbz-Tu2cbFSXCEeZUMD8w-taHyo_uiqg4PXnWFIyTF7U-99eBAa-v3bs1D5LRJFIPsciRC_TSl5RsKwHOfVdbjUt67tBVqIKHuVfREQmhqTQXyii-vV9BSWWsnc64epZ5VkEtWFPuAi-OGVMNqgB9mtqEQJYUhbE_8iMAZ9SXpJhTVjBGek1kMZfairQwkvlcBX6mh0khWseJwv-_oZ2WIFFYCFW1CY1Jge8_c1MkPcEb_2Gakc_Ahy7MnEvNOdaisvQNfTHDnGxBHYxl8ckSRQiITPvoN9e578_wk6kA8fmaKRdSsM9b8svESAj77TN_eUztG5bj3zLw5yMrU6xyNiG32rtfoAlNxko0IZaZYgn3GMVA_SsVZ8g8lllYnhg7oOtSUJq0ijErfTKKnQbnozqx_zFbwV2ndwg5Sx5I38x4VhKNmG5tQDoeAhDp4nXGTdkBbo5bwYhgHl6cXXCxEnb-wsn4Y7YXACa1tfiIjYEzn_3dBBpezOrfjnNpyhx33Qt7FcZAxPGjGCGiDuE16bCj1Kjf3-6CBF8A3xK3R0CndDECtuYAMtxWevB1D-6uC6gc_FmowvxBb3swNZwQs-HE3MDCej2ug4MVWGcFpax_DRulW_-mW0cphB1V9QPgLIlb3hc0D_ae8CV2OZOOB3viQHMn9a8FBTQQ74mjnIDgu9mgQxKLOL_MIceA==",
+      "brand": null,
+      "clickRedirectLinkoffTrackingUrl": null,
+      "logo": null,
+      "lotagline": null,
+      "rating": "0",
+      "slots": "HSR_AB",
+      "vanityUrl": null,
+      "rank": "4",
+      "position": "4"
+    },
+    "amenities": [],
+    "star": null,
+    "starRatingIcon": "STAR",
+    "availability": {
+      "available": true,
+      "text": null,
+      "theme": "URGENT"
+    },
+    "offerSummary": {
+      "messages": [
+        {
+          "message": "Fully refundable",
+          "theme": "SUCCESS",
+          "type": "FREE_CANCEL",
+          "mark": null
+        }
+      ]
+    },
+    "legalDisclaimer": null,
+    "imageGallery": {
+      "accessibilityLabel": "Photo gallery for The Westin Chennai Velachery",
+      "images": [
+        {
+          "image": {
+            "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/6000000/5930000/5924700/5924662/096ed4b5_b.jpg",
+            "description": "Featured image"
+          },
+          "subjectId": 3,
+          "fallbackImage": {
+            "url": "https://images.trvl-media.com/hotels/6000000/5930000/5924700/5924662/096ed4b5.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Featured image"
+          },
+          "imageId": "67314862"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/6000000/5930000/5924700/5924662/4910c3cb.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Courtyard"
+          },
+          "subjectId": 91006,
+          "fallbackImage": null,
+          "imageId": "9925096"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/6000000/5930000/5924700/5924662/83bc9c21.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Outdoor pool"
+          },
+          "subjectId": 30003,
+          "fallbackImage": null,
+          "imageId": "67314868"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/6000000/5930000/5924700/5924662/6b3b466a.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Bedroom"
+          },
+          "subjectId": 21001,
+          "fallbackImage": null,
+          "imageId": "394041740"
+        }
+      ]
+    },
+    "mapMarker": {
+      "icon": "HOTEL",
+      "label": "Rs5,000",
+      "type": "HOTEL",
+      "latLong": {
+        "latitude": 12.989773,
+        "longitude": 80.221006
+      },
+      "clientSideAnalytics": {
+        "referrerId": "Module.Map.HotelMarkerSelect",
+        "linkName": "User selecting a hotel marker on the PWA HSR map"
+      }
+    },
+    "neighborhood": {
+      "name": "Guindy"
+    },
+    "pinnedDetails": null,
+    "recentlyViewed": null,
+    "featuredMessages": null,
+    "supportingMessages": ["Excludes taxes & fees"],
+    "shortList": {
+      "favorited": false,
+      "saveUrl": "/api/ucs/shortlist/save/5924662",
+      "removeUrl": "/api/ucs/shortlist/remove/5924662",
+      "metaData": {
+        "chkIn": "20220311",
+        "chkOut": "20220312",
+        "hotelId": "5924662",
+        "roomConfiguration": "2"
+      }
+    },
+    "highlightedPropertyDetails": [],
+    "propertySource": null,
+    "dataAttributes": null,
+    "listingFooter": null
+  },
+  {
+    "__typename": "Property",
+    "id": "26981641",
+    "name": "Holiday Inn Express Chennai OMR Thoraipakkam, an IHG Hotel",
+    "propertyImage": {
+      "image": {
+        "description": "Featured image",
+        "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/27000000/26990000/26981700/26981641/3896fe91_b.jpg"
+      },
+      "fallbackImage": {
+        "description": "Featured image",
+        "url": "https://images.trvl-media.com/hotels/27000000/26990000/26981700/26981641/3896fe91.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      }
+    },
+    "offerBadge": {
+      "primary": {
+        "text": "Ad",
+        "theme_temp": "SPONSORED",
+        "icon_temp": null,
+        "mark": null
+      },
+      "secondary": {
+        "text": "We have 1 left at",
+        "theme_temp": "DEAL_GENERIC",
+        "icon_temp": null
+      }
+    },
+    "price": {
+      "alignment": null,
+      "displayMessages": null,
+      "lead": {
+        "formatted": "Rs2,069"
+      },
+      "strikeOutType": "STANDALONE",
+      "strikeOut": null,
+      "disclaimer": null,
+      "roomNightMessage": "per night",
+      "priceMessages": [
+        {
+          "value": "per night"
+        }
+      ],
+      "marketingFeeDetails": null,
+      "options": [
+        {
+          "leadingCaption": null,
+          "displayPrice": {
+            "formatted": "Rs2,069"
+          },
+          "strikeOut": null,
+          "loyaltyPrice": null,
+          "disclaimer": null
+        }
+      ]
+    },
+    "reviews": {
+      "score": 3.5,
+      "localizedScore": "3.5",
+      "total": 15,
+      "localizedTotal": "15 reviews",
+      "superlative": "Good",
+      "localizedSubtitle": "3.5 / 5 (15 reviews)",
+      "localizedSubtitleA11y": {
+        "accessibilityLabel": "3.5 out of 5 Good (15 reviews)",
+        "value": "3.5/5 Good (15 reviews)"
+      },
+      "mark": null
+    },
+    "destinationInfo": {
+      "distanceFromMessaging": null
+    },
+    "vipMessaging": null,
+    "propertyDetailsLink": {
+      "uri": {
+        "value": "https://www.expedia.co.in/Chennai-Hotels-Holiday-Inn-Express-Chennai-OMR-Thoraipakkam.h26981641.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810478779&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=181449&destination=Chennai+%28and+vicinity%29%2C+Tamil+Nadu%2C+India&destType=MARKET&neighborhoodId=553248635725825792&trackingData=AAAAEEZU1JEAripI8jzfPNtauunYnbp8wffD40zcloD-Au872AjSHy3CmpMd6Bcpi9yoNZiwUCVZcTvNskqr3NDRR0l_BKBWpudxZArff2G2RevzOdG5eGjTB4DGvgkIzZcM1R1MT5USG-6yb5ho_6jeRV66QnVk0FHhB89ZZdUjztnFMc6HX1jIpmjdo3mj0RK3nwLbLysQUnu74le-z7Cv-ioyTN5e7dGxrKQ72CKrXmzsiR-u1cBhSDaejyk5_Mu-0CsMGzn54oC6TAMyVK624rM2cK8bFi4FPhaGscoDDETTdVFAf9jGgJLWCGlEx0f7RQg2w_yQVcFivQM_Y-bTB6Zi6P5tio14UzYhQVmLiRm-9GSkTyjlTMpsHKvKX7Poy1GMavAVd5Zs7Qpv3-CTjvihGBW27fMHA-F_lHoXcZ9gkb1vQZasIMSumaQvvZ6NEIRW1FLpHZPk5S7PtvYMaGvKAc02IkEVxxBrFMRIQDV4vyJ8tks150f3uaRkjliCTZzApkXWPmDBoZ238mENBJtRceGk6LHjoSgSbUggrTZloZ4YpOhmzEjlBwKtdU7e_TUJ6MK1wV3ZF2nW9DWEAECVAWXpUyGX3_5RFYc6J1hVk1RHx2CanFzaJYkYFHDZV_5NvSy2wxz6cgPcsqEEP82RzAG22Vo2r5Ey6ER18jj8xElvGqzCO-Nnz5kMDQScHvoiJmwZSCXrLu1yzOzmMSZLZwD6AzRBaurbQNirWprp8W7o1CMe9MlDgwZlVnNflQWUpSTvol7pUwYz4Jls6tgFODTLWpAGQWuWKL0bwSScLRR8rjRh07Tg088z-IDArT6TxHD_meUy-RAOlYYLqXR9wfEExDtOHwUu5jdH4n_t2WqjftMu1XdEoI64sdVD5LIr8ccYUgkcVsJTbgS6waW0X62Ac6Y-49wYYYHh7sDipXD487dM8wWukDLirgXZrZD1zIxZbPljlh4-M9NYhEn1C9gj_6i4lSEQ4Koxu3V3m-sj1Ecj3KJHH0_gc6m7oKAbjf2-eA6o6MWBoGfPbvXtuN19BTizL2WBXPkR7YmxX12X5zlNQMFL6esReRKal7QFA5-9wYJjmZMqck4SizfEJrU0iwZjYl2QTxcjAdAzudbJ8GkcLqbz5SD7BzJ4kkKxEy48CabnajHsdXPzd-Y%3D&rank=5&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_AC&position=5&beaconIssued=2022-02-25T17%3A34%3A37&sort=RECOMMENDED&top_dp=2069&top_cur=INR&semdtl=&userIntent=&selectedRoomType=216317298&selectedRatePlan=262381004",
+        "relativePath": "/Chennai-Hotels-Holiday-Inn-Express-Chennai-OMR-Thoraipakkam.h26981641.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810478779&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=181449&destination=Chennai+%28and+vicinity%29%2C+Tamil+Nadu%2C+India&destType=MARKET&neighborhoodId=553248635725825792&trackingData=AAAAEEZU1JEAripI8jzfPNtauunYnbp8wffD40zcloD-Au872AjSHy3CmpMd6Bcpi9yoNZiwUCVZcTvNskqr3NDRR0l_BKBWpudxZArff2G2RevzOdG5eGjTB4DGvgkIzZcM1R1MT5USG-6yb5ho_6jeRV66QnVk0FHhB89ZZdUjztnFMc6HX1jIpmjdo3mj0RK3nwLbLysQUnu74le-z7Cv-ioyTN5e7dGxrKQ72CKrXmzsiR-u1cBhSDaejyk5_Mu-0CsMGzn54oC6TAMyVK624rM2cK8bFi4FPhaGscoDDETTdVFAf9jGgJLWCGlEx0f7RQg2w_yQVcFivQM_Y-bTB6Zi6P5tio14UzYhQVmLiRm-9GSkTyjlTMpsHKvKX7Poy1GMavAVd5Zs7Qpv3-CTjvihGBW27fMHA-F_lHoXcZ9gkb1vQZasIMSumaQvvZ6NEIRW1FLpHZPk5S7PtvYMaGvKAc02IkEVxxBrFMRIQDV4vyJ8tks150f3uaRkjliCTZzApkXWPmDBoZ238mENBJtRceGk6LHjoSgSbUggrTZloZ4YpOhmzEjlBwKtdU7e_TUJ6MK1wV3ZF2nW9DWEAECVAWXpUyGX3_5RFYc6J1hVk1RHx2CanFzaJYkYFHDZV_5NvSy2wxz6cgPcsqEEP82RzAG22Vo2r5Ey6ER18jj8xElvGqzCO-Nnz5kMDQScHvoiJmwZSCXrLu1yzOzmMSZLZwD6AzRBaurbQNirWprp8W7o1CMe9MlDgwZlVnNflQWUpSTvol7pUwYz4Jls6tgFODTLWpAGQWuWKL0bwSScLRR8rjRh07Tg088z-IDArT6TxHD_meUy-RAOlYYLqXR9wfEExDtOHwUu5jdH4n_t2WqjftMu1XdEoI64sdVD5LIr8ccYUgkcVsJTbgS6waW0X62Ac6Y-49wYYYHh7sDipXD487dM8wWukDLirgXZrZD1zIxZbPljlh4-M9NYhEn1C9gj_6i4lSEQ4Koxu3V3m-sj1Ecj3KJHH0_gc6m7oKAbjf2-eA6o6MWBoGfPbvXtuN19BTizL2WBXPkR7YmxX12X5zlNQMFL6esReRKal7QFA5-9wYJjmZMqck4SizfEJrU0iwZjYl2QTxcjAdAzudbJ8GkcLqbz5SD7BzJ4kkKxEy48CabnajHsdXPzd-Y%3D&rank=5&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_AC&position=5&beaconIssued=2022-02-25T17%3A34%3A37&sort=RECOMMENDED&top_dp=2069&top_cur=INR&semdtl=&userIntent=&selectedRoomType=216317298&selectedRatePlan=262381004"
+      },
+      "clientSideAnalytics": {
+        "referrerId": "HOT.SR:HotelModule:5",
+        "linkName": "View selected property"
+      }
+    },
+    "sponsoredListing": {
+      "id": "650551",
+      "clickRedirectTrackingUrl": "https://www.expedia.co.in/taps/v1/ClRedirect?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&destinationUrl=&rank=5&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEEZU1JEAripI8jzfPNtauunYnbp8wffD40zcloD-Au872AjSHy3CmpMd6Bcpi9yoNZiwUCVZcTvNskqr3NDRR0l_BKBWpudxZArff2G2RevzOdG5eGjTB4DGvgkIzZcM1R1MT5USG-6yb5ho_6jeRV66QnVk0FHhB89ZZdUjztnFMc6HX1jIpmjdo3mj0RK3nwLbLysQUnu74le-z7Cv-ioyTN5e7dGxrKQ72CKrXmzsiR-u1cBhSDaejyk5_Mu-0CsMGzn54oC6TAMyVK624rM2cK8bFi4FPhaGscoDDETTdVFAf9jGgJLWCGlEx0f7RQg2w_yQVcFivQM_Y-bTB6Zi6P5tio14UzYhQVmLiRm-9GSkTyjlTMpsHKvKX7Poy1GMavAVd5Zs7Qpv3-CTjvihGBW27fMHA-F_lHoXcZ9gkb1vQZasIMSumaQvvZ6NEIRW1FLpHZPk5S7PtvYMaGvKAc02IkEVxxBrFMRIQDV4vyJ8tks150f3uaRkjliCTZzApkXWPmDBoZ238mENBJtRceGk6LHjoSgSbUggrTZloZ4YpOhmzEjlBwKtdU7e_TUJ6MK1wV3ZF2nW9DWEAECVAWXpUyGX3_5RFYc6J1hVk1RHx2CanFzaJYkYFHDZV_5NvSy2wxz6cgPcsqEEP82RzAG22Vo2r5Ey6ER18jj8xElvGqzCO-Nnz5kMDQScHvoiJmwZSCXrLu1yzOzmMSZLZwD6AzRBaurbQNirWprp8W7o1CMe9MlDgwZlVnNflQWUpSTvol7pUwYz4Jls6tgFODTLWpAGQWuWKL0bwSScLRR8rjRh07Tg088z-IDArT6TxHD_meUy-RAOlYYLqXR9wfEExDtOHwUu5jdH4n_t2WqjftMu1XdEoI64sdVD5LIr8ccYUgkcVsJTbgS6waW0X62Ac6Y-49wYYYHh7sDipXD487dM8wWukDLirgXZrZD1zIxZbPljlh4-M9NYhEn1C9gj_6i4lSEQ4Koxu3V3m-sj1Ecj3KJHH0_gc6m7oKAbjf2-eA6o6MWBoGfPbvXtuN19BTizL2WBXPkR7YmxX12X5zlNQMFL6esReRKal7QFA5-9wYJjmZMqck4SizfEJrU0iwZjYl2QTxcjAdAzudbJ8GkcLqbz5SD7BzJ4kkKxEy48CabnajHsdXPzd-Y=&slots=HSR_AC&position=5&beaconIssued=2022-02-25T17:34:37",
+      "clickTrackingUrl": "https://www.expedia.co.in/taps/v1/Cl?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=5&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEEZU1JEAripI8jzfPNtauunYnbp8wffD40zcloD-Au872AjSHy3CmpMd6Bcpi9yoNZiwUCVZcTvNskqr3NDRR0l_BKBWpudxZArff2G2RevzOdG5eGjTB4DGvgkIzZcM1R1MT5USG-6yb5ho_6jeRV66QnVk0FHhB89ZZdUjztnFMc6HX1jIpmjdo3mj0RK3nwLbLysQUnu74le-z7Cv-ioyTN5e7dGxrKQ72CKrXmzsiR-u1cBhSDaejyk5_Mu-0CsMGzn54oC6TAMyVK624rM2cK8bFi4FPhaGscoDDETTdVFAf9jGgJLWCGlEx0f7RQg2w_yQVcFivQM_Y-bTB6Zi6P5tio14UzYhQVmLiRm-9GSkTyjlTMpsHKvKX7Poy1GMavAVd5Zs7Qpv3-CTjvihGBW27fMHA-F_lHoXcZ9gkb1vQZasIMSumaQvvZ6NEIRW1FLpHZPk5S7PtvYMaGvKAc02IkEVxxBrFMRIQDV4vyJ8tks150f3uaRkjliCTZzApkXWPmDBoZ238mENBJtRceGk6LHjoSgSbUggrTZloZ4YpOhmzEjlBwKtdU7e_TUJ6MK1wV3ZF2nW9DWEAECVAWXpUyGX3_5RFYc6J1hVk1RHx2CanFzaJYkYFHDZV_5NvSy2wxz6cgPcsqEEP82RzAG22Vo2r5Ey6ER18jj8xElvGqzCO-Nnz5kMDQScHvoiJmwZSCXrLu1yzOzmMSZLZwD6AzRBaurbQNirWprp8W7o1CMe9MlDgwZlVnNflQWUpSTvol7pUwYz4Jls6tgFODTLWpAGQWuWKL0bwSScLRR8rjRh07Tg088z-IDArT6TxHD_meUy-RAOlYYLqXR9wfEExDtOHwUu5jdH4n_t2WqjftMu1XdEoI64sdVD5LIr8ccYUgkcVsJTbgS6waW0X62Ac6Y-49wYYYHh7sDipXD487dM8wWukDLirgXZrZD1zIxZbPljlh4-M9NYhEn1C9gj_6i4lSEQ4Koxu3V3m-sj1Ecj3KJHH0_gc6m7oKAbjf2-eA6o6MWBoGfPbvXtuN19BTizL2WBXPkR7YmxX12X5zlNQMFL6esReRKal7QFA5-9wYJjmZMqck4SizfEJrU0iwZjYl2QTxcjAdAzudbJ8GkcLqbz5SD7BzJ4kkKxEy48CabnajHsdXPzd-Y=&slots=HSR_AC&position=5&beaconIssued=2022-02-25T17:34:37",
+      "details": "Enjoy up to 25 percent off at over 160 hotels in India, Middle East and Africa. Book by 30 April 2022.",
+      "detailsHeadline": "Up to 25pct off at over 160 IHG Hotels",
+      "hotelImage": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/27000000/26990000/26981700/26981641/3896fe91_b.jpg",
+      "impressionTrackingUrl": "https://www.expedia.co.in/taps/v1/Impr?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=5&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEEZU1JEAripI8jzfPNtauunYnbp8wffD40zcloD-Au872AjSHy3CmpMd6Bcpi9yoNZiwUCVZcTvNskqr3NDRR0l_BKBWpudxZArff2G2RevzOdG5eGjTB4DGvgkIzZcM1R1MT5USG-6yb5ho_6jeRV66QnVk0FHhB89ZZdUjztnFMc6HX1jIpmjdo3mj0RK3nwLbLysQUnu74le-z7Cv-ioyTN5e7dGxrKQ72CKrXmzsiR-u1cBhSDaejyk5_Mu-0CsMGzn54oC6TAMyVK624rM2cK8bFi4FPhaGscoDDETTdVFAf9jGgJLWCGlEx0f7RQg2w_yQVcFivQM_Y-bTB6Zi6P5tio14UzYhQVmLiRm-9GSkTyjlTMpsHKvKX7Poy1GMavAVd5Zs7Qpv3-CTjvihGBW27fMHA-F_lHoXcZ9gkb1vQZasIMSumaQvvZ6NEIRW1FLpHZPk5S7PtvYMaGvKAc02IkEVxxBrFMRIQDV4vyJ8tks150f3uaRkjliCTZzApkXWPmDBoZ238mENBJtRceGk6LHjoSgSbUggrTZloZ4YpOhmzEjlBwKtdU7e_TUJ6MK1wV3ZF2nW9DWEAECVAWXpUyGX3_5RFYc6J1hVk1RHx2CanFzaJYkYFHDZV_5NvSy2wxz6cgPcsqEEP82RzAG22Vo2r5Ey6ER18jj8xElvGqzCO-Nnz5kMDQScHvoiJmwZSCXrLu1yzOzmMSZLZwD6AzRBaurbQNirWprp8W7o1CMe9MlDgwZlVnNflQWUpSTvol7pUwYz4Jls6tgFODTLWpAGQWuWKL0bwSScLRR8rjRh07Tg088z-IDArT6TxHD_meUy-RAOlYYLqXR9wfEExDtOHwUu5jdH4n_t2WqjftMu1XdEoI64sdVD5LIr8ccYUgkcVsJTbgS6waW0X62Ac6Y-49wYYYHh7sDipXD487dM8wWukDLirgXZrZD1zIxZbPljlh4-M9NYhEn1C9gj_6i4lSEQ4Koxu3V3m-sj1Ecj3KJHH0_gc6m7oKAbjf2-eA6o6MWBoGfPbvXtuN19BTizL2WBXPkR7YmxX12X5zlNQMFL6esReRKal7QFA5-9wYJjmZMqck4SizfEJrU0iwZjYl2QTxcjAdAzudbJ8GkcLqbz5SD7BzJ4kkKxEy48CabnajHsdXPzd-Y=&slots=HSR_AC&position=5&beaconIssued=2022-02-25T17:34:37",
+      "trackingData": "AAAAEEZU1JEAripI8jzfPNtauunYnbp8wffD40zcloD-Au872AjSHy3CmpMd6Bcpi9yoNZiwUCVZcTvNskqr3NDRR0l_BKBWpudxZArff2G2RevzOdG5eGjTB4DGvgkIzZcM1R1MT5USG-6yb5ho_6jeRV66QnVk0FHhB89ZZdUjztnFMc6HX1jIpmjdo3mj0RK3nwLbLysQUnu74le-z7Cv-ioyTN5e7dGxrKQ72CKrXmzsiR-u1cBhSDaejyk5_Mu-0CsMGzn54oC6TAMyVK624rM2cK8bFi4FPhaGscoDDETTdVFAf9jGgJLWCGlEx0f7RQg2w_yQVcFivQM_Y-bTB6Zi6P5tio14UzYhQVmLiRm-9GSkTyjlTMpsHKvKX7Poy1GMavAVd5Zs7Qpv3-CTjvihGBW27fMHA-F_lHoXcZ9gkb1vQZasIMSumaQvvZ6NEIRW1FLpHZPk5S7PtvYMaGvKAc02IkEVxxBrFMRIQDV4vyJ8tks150f3uaRkjliCTZzApkXWPmDBoZ238mENBJtRceGk6LHjoSgSbUggrTZloZ4YpOhmzEjlBwKtdU7e_TUJ6MK1wV3ZF2nW9DWEAECVAWXpUyGX3_5RFYc6J1hVk1RHx2CanFzaJYkYFHDZV_5NvSy2wxz6cgPcsqEEP82RzAG22Vo2r5Ey6ER18jj8xElvGqzCO-Nnz5kMDQScHvoiJmwZSCXrLu1yzOzmMSZLZwD6AzRBaurbQNirWprp8W7o1CMe9MlDgwZlVnNflQWUpSTvol7pUwYz4Jls6tgFODTLWpAGQWuWKL0bwSScLRR8rjRh07Tg088z-IDArT6TxHD_meUy-RAOlYYLqXR9wfEExDtOHwUu5jdH4n_t2WqjftMu1XdEoI64sdVD5LIr8ccYUgkcVsJTbgS6waW0X62Ac6Y-49wYYYHh7sDipXD487dM8wWukDLirgXZrZD1zIxZbPljlh4-M9NYhEn1C9gj_6i4lSEQ4Koxu3V3m-sj1Ecj3KJHH0_gc6m7oKAbjf2-eA6o6MWBoGfPbvXtuN19BTizL2WBXPkR7YmxX12X5zlNQMFL6esReRKal7QFA5-9wYJjmZMqck4SizfEJrU0iwZjYl2QTxcjAdAzudbJ8GkcLqbz5SD7BzJ4kkKxEy48CabnajHsdXPzd-Y=",
+      "brand": null,
+      "clickRedirectLinkoffTrackingUrl": null,
+      "logo": null,
+      "lotagline": null,
+      "rating": "0",
+      "slots": "HSR_AC",
+      "vanityUrl": null,
+      "rank": "5",
+      "position": "5"
+    },
+    "amenities": [],
+    "star": null,
+    "starRatingIcon": "STAR",
+    "availability": {
+      "available": true,
+      "text": null,
+      "theme": "URGENT"
+    },
+    "offerSummary": {
+      "messages": [
+        {
+          "message": "Fully refundable",
+          "theme": "SUCCESS",
+          "type": "FREE_CANCEL",
+          "mark": null
+        },
+        {
+          "message": "Reserve now, pay later",
+          "theme": "SUCCESS",
+          "type": "PAY_LATER",
+          "mark": null
+        }
+      ]
+    },
+    "legalDisclaimer": null,
+    "imageGallery": {
+      "accessibilityLabel": "Photo gallery for Holiday Inn Express Chennai OMR Thoraipakkam, an IHG Hotel",
+      "images": [
+        {
+          "image": {
+            "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/27000000/26990000/26981700/26981641/3896fe91_b.jpg",
+            "description": "Featured image"
+          },
+          "subjectId": 3,
+          "fallbackImage": {
+            "url": "https://images.trvl-media.com/hotels/27000000/26990000/26981700/26981641/3896fe91.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Featured image"
+          },
+          "imageId": "428993968"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/27000000/26990000/26981700/26981641/1119525e.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Exterior"
+          },
+          "subjectId": 91024,
+          "fallbackImage": null,
+          "imageId": "354572199"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/27000000/26990000/26981700/26981641/92dbd406.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Bedroom"
+          },
+          "subjectId": 21001,
+          "fallbackImage": null,
+          "imageId": "112666694"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/27000000/26990000/26981700/26981641/c42cd43d.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Restaurant"
+          },
+          "subjectId": 81003,
+          "fallbackImage": null,
+          "imageId": "442789790"
+        }
+      ]
+    },
+    "mapMarker": {
+      "icon": "HOTEL",
+      "label": "Rs2,069",
+      "type": "HOTEL",
+      "latLong": {
+        "latitude": 12.930394,
+        "longitude": 80.231457
+      },
+      "clientSideAnalytics": {
+        "referrerId": "Module.Map.HotelMarkerSelect",
+        "linkName": "User selecting a hotel marker on the PWA HSR map"
+      }
+    },
+    "neighborhood": {
+      "name": "Thoraipakkam"
+    },
+    "pinnedDetails": null,
+    "recentlyViewed": null,
+    "featuredMessages": null,
+    "supportingMessages": ["Excludes taxes & fees"],
+    "shortList": {
+      "favorited": false,
+      "saveUrl": "/api/ucs/shortlist/save/26981641",
+      "removeUrl": "/api/ucs/shortlist/remove/26981641",
+      "metaData": {
+        "chkIn": "20220311",
+        "chkOut": "20220312",
+        "hotelId": "26981641",
+        "roomConfiguration": "2"
+      }
+    },
+    "highlightedPropertyDetails": [],
+    "propertySource": null,
+    "dataAttributes": null,
+    "listingFooter": null
+  },
+  {
+    "__typename": "Property",
+    "id": "8950",
+    "name": "Trident, Chennai",
+    "propertyImage": {
+      "image": {
+        "description": "Featured image",
+        "url": "https://images.trvl-media.com/hotels/1000000/10000/9000/8950/92aa55f4.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      },
+      "fallbackImage": null
+    },
+    "offerBadge": {
+      "primary": null,
+      "secondary": {
+        "text": "Member Price available",
+        "theme_temp": "DEAL_MEMBER",
+        "icon_temp": {
+          "id": "mod",
+          "description": "mod",
+          "title": ""
+        }
+      }
+    },
+    "price": {
+      "alignment": null,
+      "displayMessages": null,
+      "lead": {
+        "formatted": "Rs5,500"
+      },
+      "strikeOutType": "STANDALONE",
+      "strikeOut": null,
+      "disclaimer": null,
+      "roomNightMessage": "per night",
+      "priceMessages": [
+        {
+          "value": "per night"
+        }
+      ],
+      "marketingFeeDetails": null,
+      "options": [
+        {
+          "leadingCaption": null,
+          "displayPrice": {
+            "formatted": "Rs5,500"
+          },
+          "strikeOut": null,
+          "loyaltyPrice": null,
+          "disclaimer": null
+        }
+      ]
+    },
+    "reviews": {
+      "score": 4.5,
+      "localizedScore": "4.5",
+      "total": 288,
+      "localizedTotal": "288 reviews",
+      "superlative": "Wonderful",
+      "localizedSubtitle": "4.5 / 5 (288 reviews)",
+      "localizedSubtitleA11y": {
+        "accessibilityLabel": "4.5 out of 5 Wonderful (288 reviews)",
+        "value": "4.5/5 Wonderful (288 reviews)"
+      },
+      "mark": null
+    },
+    "destinationInfo": {
+      "distanceFromMessaging": null
+    },
+    "vipMessaging": null,
+    "propertyDetailsLink": {
+      "uri": {
+        "value": "https://www.expedia.co.in/Chennai-Hotels-Trident.h8950.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810478779&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=181449&destination=Chennai+%28and+vicinity%29%2C+Tamil+Nadu%2C+India&destType=MARKET&neighborhoodId=553248635974577957&sort=RECOMMENDED&top_dp=5500&top_cur=INR&semdtl=&userIntent=&selectedRoomType=200305600&selectedRatePlan=240177953",
+        "relativePath": "/Chennai-Hotels-Trident.h8950.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810478779&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=181449&destination=Chennai+%28and+vicinity%29%2C+Tamil+Nadu%2C+India&destType=MARKET&neighborhoodId=553248635974577957&sort=RECOMMENDED&top_dp=5500&top_cur=INR&semdtl=&userIntent=&selectedRoomType=200305600&selectedRatePlan=240177953"
+      },
+      "clientSideAnalytics": {
+        "referrerId": "HOT.SR:HotelModule:6",
+        "linkName": "View selected property"
+      }
+    },
+    "sponsoredListing": null,
+    "amenities": [],
+    "star": null,
+    "starRatingIcon": "STAR",
+    "availability": {
+      "available": true,
+      "text": null,
+      "theme": "URGENT"
+    },
+    "offerSummary": {
+      "messages": [
+        {
+          "message": "Fully refundable",
+          "theme": "SUCCESS",
+          "type": "FREE_CANCEL",
+          "mark": null
+        },
+        {
+          "message": "Reserve now, pay later",
+          "theme": "SUCCESS",
+          "type": "PAY_LATER",
+          "mark": null
+        }
+      ]
+    },
+    "legalDisclaimer": null,
+    "imageGallery": {
+      "accessibilityLabel": "Photo gallery for Trident, Chennai",
+      "images": [
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/10000/9000/8950/92aa55f4.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Featured image"
+          },
+          "subjectId": 3,
+          "fallbackImage": null,
+          "imageId": "10702163"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/10000/9000/8950/d114dea5.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Garden"
+          },
+          "subjectId": 91005,
+          "fallbackImage": null,
+          "imageId": "10702164"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/10000/9000/8950/69fd5d26.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Pool"
+          },
+          "subjectId": 30000,
+          "fallbackImage": null,
+          "imageId": "6777686"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/10000/9000/8950/4aea132d.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Bathroom"
+          },
+          "subjectId": 23000,
+          "fallbackImage": null,
+          "imageId": "81084259"
+        }
+      ]
+    },
+    "mapMarker": {
+      "icon": "HOTEL",
+      "label": "Rs5,500",
+      "type": "HOTEL",
+      "latLong": {
+        "latitude": 12.994219,
+        "longitude": 80.186068
+      },
+      "clientSideAnalytics": {
+        "referrerId": "Module.Map.HotelMarkerSelect",
+        "linkName": "User selecting a hotel marker on the PWA HSR map"
+      }
+    },
+    "neighborhood": {
+      "name": "Meenambakkam"
+    },
+    "pinnedDetails": null,
+    "recentlyViewed": null,
+    "featuredMessages": null,
+    "supportingMessages": ["Excludes taxes & fees"],
+    "shortList": {
+      "favorited": false,
+      "saveUrl": "/api/ucs/shortlist/save/8950",
+      "removeUrl": "/api/ucs/shortlist/remove/8950",
+      "metaData": {
+        "chkIn": "20220311",
+        "chkOut": "20220312",
+        "hotelId": "8950",
+        "roomConfiguration": "2"
+      }
+    },
+    "highlightedPropertyDetails": [],
+    "propertySource": null,
+    "dataAttributes": null,
+    "listingFooter": {
+      "actionDetails": {
+        "name": "EXTERNAL_LINK"
+      },
+      "icon": {
+        "description": "",
+        "id": "chevron_right"
+      },
+      "linkUrl": "https://www.expedia.co.in/user/createaccount?uurl=e3id%3Dredr%26rurl%3D%2FHotel-Search%3FregionId%3D181449%26destination%3DChennai%2B%2528and%2Bvicinity%2529%252C%2BTamil%2BNadu%252C%2BIndia%26startDate%3D2022-03-11%26endDate%3D2022-03-12%26adults%3D2%26children%3D%26sort%3DRECOMMENDED%26semdtl%3D%26userIntent%3D%26selected%3D8950&fromheader=true",
+      "referrerId": ":LodgingCard.createAccount:6",
+      "text": "Sign up for Member Price"
+    }
+  },
+  {
+    "__typename": "Property",
+    "id": "529903",
+    "name": "Taj Coromandel",
+    "propertyImage": {
+      "image": {
+        "description": "Featured image",
+        "url": "https://images.trvl-media.com/hotels/1000000/530000/530000/529903/e4037609.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      },
+      "fallbackImage": null
+    },
+    "offerBadge": {
+      "primary": null,
+      "secondary": {
+        "text": "Member Price available",
+        "theme_temp": "DEAL_MEMBER",
+        "icon_temp": {
+          "id": "mod",
+          "description": "mod",
+          "title": ""
+        }
+      }
+    },
+    "price": {
+      "alignment": null,
+      "displayMessages": null,
+      "lead": {
+        "formatted": "Rs6,400"
+      },
+      "strikeOutType": "PRICE_SURVEY",
+      "strikeOut": null,
+      "disclaimer": null,
+      "roomNightMessage": "per night",
+      "priceMessages": [
+        {
+          "value": "per night"
+        }
+      ],
+      "marketingFeeDetails": null,
+      "options": [
+        {
+          "leadingCaption": null,
+          "displayPrice": {
+            "formatted": "Rs6,400"
+          },
+          "strikeOut": null,
+          "loyaltyPrice": null,
+          "disclaimer": null
+        }
+      ]
+    },
+    "reviews": {
+      "score": 4.6,
+      "localizedScore": "4.6",
+      "total": 193,
+      "localizedTotal": "193 reviews",
+      "superlative": "Wonderful",
+      "localizedSubtitle": "4.6 / 5 (193 reviews)",
+      "localizedSubtitleA11y": {
+        "accessibilityLabel": "4.6 out of 5 Wonderful (193 reviews)",
+        "value": "4.6/5 Wonderful (193 reviews)"
+      },
+      "mark": null
+    },
+    "destinationInfo": {
+      "distanceFromMessaging": null
+    },
+    "vipMessaging": null,
+    "propertyDetailsLink": {
+      "uri": {
+        "value": "https://www.expedia.co.in/Chennai-Hotels-Taj-Coromandel.h529903.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810478780&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=181449&destination=Chennai+%28and+vicinity%29%2C+Tamil+Nadu%2C+India&destType=MARKET&neighborhoodId=6302951&sort=RECOMMENDED&top_dp=6400&top_cur=INR&semdtl=&userIntent=&selectedRoomType=223395&selectedRatePlan=544398",
+        "relativePath": "/Chennai-Hotels-Taj-Coromandel.h529903.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810478780&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=181449&destination=Chennai+%28and+vicinity%29%2C+Tamil+Nadu%2C+India&destType=MARKET&neighborhoodId=6302951&sort=RECOMMENDED&top_dp=6400&top_cur=INR&semdtl=&userIntent=&selectedRoomType=223395&selectedRatePlan=544398"
+      },
+      "clientSideAnalytics": {
+        "referrerId": "HOT.SR:HotelModule:7",
+        "linkName": "View selected property"
+      }
+    },
+    "sponsoredListing": null,
+    "amenities": [],
+    "star": null,
+    "starRatingIcon": "STAR",
+    "availability": {
+      "available": true,
+      "text": null,
+      "theme": "URGENT"
+    },
+    "offerSummary": {
+      "messages": [
+        {
+          "message": "Fully refundable",
+          "theme": "SUCCESS",
+          "type": "FREE_CANCEL",
+          "mark": null
+        },
+        {
+          "message": "Reserve now, pay later",
+          "theme": "SUCCESS",
+          "type": "PAY_LATER",
+          "mark": null
+        }
+      ]
+    },
+    "legalDisclaimer": null,
+    "imageGallery": {
+      "accessibilityLabel": "Photo gallery for Taj Coromandel",
+      "images": [
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/530000/530000/529903/e4037609.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Featured image"
+          },
+          "subjectId": 3,
+          "fallbackImage": null,
+          "imageId": "98233766"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/530000/530000/529903/93ff7d2b.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Terrace/patio"
+          },
+          "subjectId": 91008,
+          "fallbackImage": null,
+          "imageId": "68860267"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/530000/530000/529903/ccc6b5b6.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Pool"
+          },
+          "subjectId": 30000,
+          "fallbackImage": null,
+          "imageId": "65837982"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/530000/530000/529903/22eeaa22.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Bedroom"
+          },
+          "subjectId": 21001,
+          "fallbackImage": null,
+          "imageId": "68858289"
+        }
+      ]
+    },
+    "mapMarker": {
+      "icon": "HOTEL",
+      "label": "Rs6,400",
+      "type": "HOTEL",
+      "latLong": {
+        "latitude": 13.058305,
+        "longitude": 80.248153
+      },
+      "clientSideAnalytics": {
+        "referrerId": "Module.Map.HotelMarkerSelect",
+        "linkName": "User selecting a hotel marker on the PWA HSR map"
+      }
+    },
+    "neighborhood": {
+      "name": "Nungambakkam"
+    },
+    "pinnedDetails": null,
+    "recentlyViewed": null,
+    "featuredMessages": null,
+    "supportingMessages": ["Excludes taxes & fees"],
+    "shortList": {
+      "favorited": false,
+      "saveUrl": "/api/ucs/shortlist/save/529903",
+      "removeUrl": "/api/ucs/shortlist/remove/529903",
+      "metaData": {
+        "chkIn": "20220311",
+        "chkOut": "20220312",
+        "hotelId": "529903",
+        "roomConfiguration": "2"
+      }
+    },
+    "highlightedPropertyDetails": [],
+    "propertySource": null,
+    "dataAttributes": null,
+    "listingFooter": null
+  },
+  {
+    "__typename": "Property",
+    "id": "4791355",
+    "name": "The Leela Palace Chennai",
+    "propertyImage": {
+      "image": {
+        "description": "Featured image",
+        "url": "https://images.trvl-media.com/hotels/5000000/4800000/4791400/4791355/f8b0402e.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      },
+      "fallbackImage": null
+    },
+    "offerBadge": {
+      "primary": {
+        "text": "VIP Access",
+        "theme_temp": "VIP",
+        "icon_temp": null,
+        "mark": null
+      },
+      "secondary": null
+    },
+    "price": {
+      "alignment": null,
+      "displayMessages": null,
+      "lead": {
+        "formatted": "Rs8,970"
+      },
+      "strikeOutType": "STANDALONE",
+      "strikeOut": null,
+      "disclaimer": null,
+      "roomNightMessage": "per night",
+      "priceMessages": [
+        {
+          "value": "per night"
+        }
+      ],
+      "marketingFeeDetails": null,
+      "options": [
+        {
+          "leadingCaption": null,
+          "displayPrice": {
+            "formatted": "Rs8,970"
+          },
+          "strikeOut": null,
+          "loyaltyPrice": null,
+          "disclaimer": null
+        }
+      ]
+    },
+    "reviews": {
+      "score": 4.6,
+      "localizedScore": "4.6",
+      "total": 418,
+      "localizedTotal": "418 reviews",
+      "superlative": "Wonderful",
+      "localizedSubtitle": "4.6 / 5 (418 reviews)",
+      "localizedSubtitleA11y": {
+        "accessibilityLabel": "4.6 out of 5 Wonderful (418 reviews)",
+        "value": "4.6/5 Wonderful (418 reviews)"
+      },
+      "mark": null
+    },
+    "destinationInfo": {
+      "distanceFromMessaging": null
+    },
+    "vipMessaging": "VIP Access",
+    "propertyDetailsLink": {
+      "uri": {
+        "value": "https://www.expedia.co.in/Chennai-Hotels-The-Leela-Palace-Chennai.h4791355.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810478781&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=181449&destination=Chennai+%28and+vicinity%29%2C+Tamil+Nadu%2C+India&destType=MARKET&neighborhoodId=553248635976381983&sort=RECOMMENDED&top_dp=8970&top_cur=INR&semdtl=&userIntent=&selectedRoomType=210602287&selectedRatePlan=385261939",
+        "relativePath": "/Chennai-Hotels-The-Leela-Palace-Chennai.h4791355.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810478781&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=181449&destination=Chennai+%28and+vicinity%29%2C+Tamil+Nadu%2C+India&destType=MARKET&neighborhoodId=553248635976381983&sort=RECOMMENDED&top_dp=8970&top_cur=INR&semdtl=&userIntent=&selectedRoomType=210602287&selectedRatePlan=385261939"
+      },
+      "clientSideAnalytics": {
+        "referrerId": "HOT.SR:HotelModule:8",
+        "linkName": "View selected property"
+      }
+    },
+    "sponsoredListing": null,
+    "amenities": [],
+    "star": null,
+    "starRatingIcon": "STAR",
+    "availability": {
+      "available": true,
+      "text": null,
+      "theme": "URGENT"
+    },
+    "offerSummary": {
+      "messages": []
+    },
+    "legalDisclaimer": null,
+    "imageGallery": {
+      "accessibilityLabel": "Photo gallery for The Leela Palace Chennai",
+      "images": [
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/5000000/4800000/4791400/4791355/f8b0402e.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Featured image"
+          },
+          "subjectId": 3,
+          "fallbackImage": null,
+          "imageId": "17409730"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/5000000/4800000/4791400/4791355/153d2178.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Exterior"
+          },
+          "subjectId": 91024,
+          "fallbackImage": null,
+          "imageId": "17409732"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/5000000/4800000/4791400/4791355/571b318a.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Pool"
+          },
+          "subjectId": 30000,
+          "fallbackImage": null,
+          "imageId": "17409743"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/5000000/4800000/4791400/4791355/65653a49.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Bedroom"
+          },
+          "subjectId": 21001,
+          "fallbackImage": null,
+          "imageId": "17409783"
+        }
+      ]
+    },
+    "mapMarker": {
+      "icon": "HOTEL",
+      "label": "Rs8,970",
+      "type": "HOTEL",
+      "latLong": {
+        "latitude": 13.018236,
+        "longitude": 80.27229
+      },
+      "clientSideAnalytics": {
+        "referrerId": "Module.Map.HotelMarkerSelect",
+        "linkName": "User selecting a hotel marker on the PWA HSR map"
+      }
+    },
+    "neighborhood": {
+      "name": "Chennai"
+    },
+    "pinnedDetails": null,
+    "recentlyViewed": null,
+    "featuredMessages": null,
+    "supportingMessages": ["Excludes taxes & fees"],
+    "shortList": {
+      "favorited": false,
+      "saveUrl": "/api/ucs/shortlist/save/4791355",
+      "removeUrl": "/api/ucs/shortlist/remove/4791355",
+      "metaData": {
+        "chkIn": "20220311",
+        "chkOut": "20220312",
+        "hotelId": "4791355",
+        "roomConfiguration": "2"
+      }
+    },
+    "highlightedPropertyDetails": [],
+    "propertySource": null,
+    "dataAttributes": null,
+    "listingFooter": null
+  },
+  {
+    "__typename": "Property",
+    "id": "15243779",
+    "name": "Feathers - A Radha Hotel",
+    "propertyImage": {
+      "image": {
+        "description": "Featured image",
+        "url": "https://images.trvl-media.com/hotels/16000000/15250000/15243800/15243779/868a826d.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      },
+      "fallbackImage": null
+    },
+    "offerBadge": {
+      "primary": {
+        "text": "VIP Access",
+        "theme_temp": "VIP",
+        "icon_temp": null,
+        "mark": null
+      },
+      "secondary": {
+        "text": "Member Price available",
+        "theme_temp": "DEAL_MEMBER",
+        "icon_temp": {
+          "id": "mod",
+          "description": "mod",
+          "title": ""
+        }
+      }
+    },
+    "price": {
+      "alignment": null,
+      "displayMessages": null,
+      "lead": {
+        "formatted": "Rs5,499"
+      },
+      "strikeOutType": "PRICE_SURVEY",
+      "strikeOut": null,
+      "disclaimer": null,
+      "roomNightMessage": "per night",
+      "priceMessages": [
+        {
+          "value": "per night"
+        }
+      ],
+      "marketingFeeDetails": null,
+      "options": [
+        {
+          "leadingCaption": null,
+          "displayPrice": {
+            "formatted": "Rs5,499"
+          },
+          "strikeOut": null,
+          "loyaltyPrice": null,
+          "disclaimer": null
+        }
+      ]
+    },
+    "reviews": {
+      "score": 4.2,
+      "localizedScore": "4.2",
+      "total": 99,
+      "localizedTotal": "99 reviews",
+      "superlative": "Very good",
+      "localizedSubtitle": "4.2 / 5 (99 reviews)",
+      "localizedSubtitleA11y": {
+        "accessibilityLabel": "4.2 out of 5 Very good (99 reviews)",
+        "value": "4.2/5 Very good (99 reviews)"
+      },
+      "mark": null
+    },
+    "destinationInfo": {
+      "distanceFromMessaging": null
+    },
+    "vipMessaging": "VIP Access",
+    "propertyDetailsLink": {
+      "uri": {
+        "value": "https://www.expedia.co.in/Chennai-Hotels-FEATHERS-A-Radha-Hotel.h15243779.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810478781&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=181449&destination=Chennai+%28and+vicinity%29%2C+Tamil+Nadu%2C+India&destType=MARKET&neighborhoodId=553248635974587377&sort=RECOMMENDED&top_dp=5499&top_cur=INR&semdtl=&userIntent=&selectedRoomType=221111269&selectedRatePlan=294038519",
+        "relativePath": "/Chennai-Hotels-FEATHERS-A-Radha-Hotel.h15243779.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810478781&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=181449&destination=Chennai+%28and+vicinity%29%2C+Tamil+Nadu%2C+India&destType=MARKET&neighborhoodId=553248635974587377&sort=RECOMMENDED&top_dp=5499&top_cur=INR&semdtl=&userIntent=&selectedRoomType=221111269&selectedRatePlan=294038519"
+      },
+      "clientSideAnalytics": {
+        "referrerId": "HOT.SR:HotelModule:9",
+        "linkName": "View selected property"
+      }
+    },
+    "sponsoredListing": null,
+    "amenities": [],
+    "star": null,
+    "starRatingIcon": "STAR",
+    "availability": {
+      "available": true,
+      "text": null,
+      "theme": "URGENT"
+    },
+    "offerSummary": {
+      "messages": [
+        {
+          "message": "Fully refundable",
+          "theme": "SUCCESS",
+          "type": "FREE_CANCEL",
+          "mark": null
+        },
+        {
+          "message": "Reserve now, pay later",
+          "theme": "SUCCESS",
+          "type": "PAY_LATER",
+          "mark": null
+        }
+      ]
+    },
+    "legalDisclaimer": null,
+    "imageGallery": {
+      "accessibilityLabel": "Photo gallery for Feathers - A Radha Hotel",
+      "images": [
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/16000000/15250000/15243800/15243779/868a826d.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Featured image"
+          },
+          "subjectId": 3,
+          "fallbackImage": null,
+          "imageId": "420521285"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/16000000/15250000/15243800/15243779/6c710531.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Terrace/patio"
+          },
+          "subjectId": 91008,
+          "fallbackImage": null,
+          "imageId": "92601259"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/16000000/15250000/15243800/15243779/b19f5078.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Outdoor pool"
+          },
+          "subjectId": 30003,
+          "fallbackImage": null,
+          "imageId": "35577395"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/16000000/15250000/15243800/15243779/e4abfa88.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Bedroom"
+          },
+          "subjectId": 21001,
+          "fallbackImage": null,
+          "imageId": "28973372"
+        }
+      ]
+    },
+    "mapMarker": {
+      "icon": "HOTEL",
+      "label": "Rs5,499",
+      "type": "HOTEL",
+      "latLong": {
+        "latitude": 13.022167,
+        "longitude": 80.180997
+      },
+      "clientSideAnalytics": {
+        "referrerId": "Module.Map.HotelMarkerSelect",
+        "linkName": "User selecting a hotel marker on the PWA HSR map"
+      }
+    },
+    "neighborhood": {
+      "name": "Chennai"
+    },
+    "pinnedDetails": null,
+    "recentlyViewed": null,
+    "featuredMessages": null,
+    "supportingMessages": ["Excludes taxes & fees"],
+    "shortList": {
+      "favorited": false,
+      "saveUrl": "/api/ucs/shortlist/save/15243779",
+      "removeUrl": "/api/ucs/shortlist/remove/15243779",
+      "metaData": {
+        "chkIn": "20220311",
+        "chkOut": "20220312",
+        "hotelId": "15243779",
+        "roomConfiguration": "2"
+      }
+    },
+    "highlightedPropertyDetails": [],
+    "propertySource": null,
+    "dataAttributes": null,
+    "listingFooter": null
+  }
+]

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles/header.css">
+    <link rel="stylesheet" href="styles/signin.css">
+</head>
+
+<body>
+    <div class="header" id="header"></div>
+    <div class="one">
+        <div id="main">
+            <p id="odd">Sign In</p>
+            <div><input type="email" placeholder="Email Address" class="large"></div>
+            <div><input type="Password" placeholder="Password" class="large"></div>
+            <div class="fl">
+                <input type="checkbox">
+                <label for="to check">This is a Public or shared device</label>
+            </div>
+            <p>By signing in, I agree to the Expedia Terms and Conditions, Privacy Statement and Expedia Rewards Terms
+                and Conditions.</p>
+            <div>
+                <button>Sign In</button>
+            </div>
+            <p class="cen h">Forget Password?</p>
+            <div class="fl c">
+                <p>Don't have an account?</p>
+                <p class="h"> Create one</p>
+            </div>
+            <p class="cen">or continue with</p>
+            <div class="fl c">
+                <img src="assets/7ba27b85ee51849568dd6076d0e44b15.png" alt="" height="30px">
+                <img src="assets/124010.png" alt="" height="30px">
+                <img src="assets/Google__G__Logo.svg.png" alt="" height="30px">
+            </div>
+        </div>
+    </div>
+
+    <script type="module">
+        import getHeader from "./scripts/header.js";
+        const headerElement = document.getElementById("header");
+        headerElement.innerHTML = getHeader();
+
+        const headerLogo = document.getElementById("header-logo");
+        headerLogo.onclick = () => {
+            window.location.href = "/";
+        };
+    </script>
+</body>
+
+</html>

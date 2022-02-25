@@ -1,0 +1,1694 @@
+[
+  {
+    "__typename": "Property",
+    "id": "696977",
+    "name": "Holiday Inn Resort Goa, an IHG Hotel",
+    "propertyImage": {
+      "image": {
+        "description": "Featured image",
+        "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/1000000/700000/697000/696977/52c154f9_b.jpg"
+      },
+      "fallbackImage": {
+        "description": "Featured image",
+        "url": "https://images.trvl-media.com/hotels/1000000/700000/697000/696977/52c154f9.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      }
+    },
+    "offerBadge": {
+      "primary": {
+        "text": "Ad",
+        "theme_temp": "SPONSORED",
+        "icon_temp": null,
+        "mark": null
+      },
+      "secondary": null
+    },
+    "price": {
+      "alignment": null,
+      "displayMessages": null,
+      "lead": {
+        "formatted": "Rs9,499"
+      },
+      "strikeOutType": "PRICE_SURVEY",
+      "strikeOut": null,
+      "disclaimer": null,
+      "roomNightMessage": "per night",
+      "priceMessages": [
+        {
+          "value": "per night"
+        }
+      ],
+      "marketingFeeDetails": null,
+      "options": [
+        {
+          "leadingCaption": null,
+          "displayPrice": {
+            "formatted": "Rs9,499"
+          },
+          "strikeOut": null,
+          "loyaltyPrice": null,
+          "disclaimer": null
+        }
+      ]
+    },
+    "reviews": {
+      "score": 4.2,
+      "localizedScore": "4.2",
+      "total": 151,
+      "localizedTotal": "151 reviews",
+      "superlative": "Very good",
+      "localizedSubtitle": "4.2 / 5 (151 reviews)",
+      "localizedSubtitleA11y": {
+        "accessibilityLabel": "4.2 out of 5 Very good (151 reviews)",
+        "value": "4.2/5 Very good (151 reviews)"
+      },
+      "mark": null
+    },
+    "destinationInfo": {
+      "distanceFromMessaging": null
+    },
+    "vipMessaging": null,
+    "propertyDetailsLink": {
+      "uri": {
+        "value": "https://www.expedia.co.in/Cavelossim-Hotels-Holiday-Inn-Resort-Goa.h696977.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810519621&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=6049928&destination=Goa%2C+India&destType=MARKET&trackingData=AAAAELtopYf4Jehb5jq4KPyPTL8t93ho7OaxyZCAflzfG0UvnglL5MC4shCqHrRBV90-f8ZQPWnF7jWewS94mYqziPvftPUs_NOg5kXIv7N8094HI6_OU_GcTqZ5_lSgvgwi8t5jpyDoCsuwKQntJkWAMhssEqZvDqYN6yq232XERKLmZUUHfNHcLq_rUCgRZkJJKaujBdQixHEAa1uf8io6qKoI8ize_Dex7P2EU1lfs1XHfmQAxPHTT9n8HvhSQ5YjnPM0UnNk9cfA0jKdlxKkWsSMIPkDrseRTwonNWFMsHckFsU-kYSyP3GnN5l71nJFERuv9ncUvPtNuOP2VG-k4CjhRrTEnUNOWWlkG2nt7WMG9uKcxEVIii4E1N1zAiJzE30mNBJx4tz_eWZIrhHPGbXZm3FELOrfz9cXZDMycy0jGw5gqY8Flbst_gjzW0_OvoavA4kUB_CBgPkjdr3Jkyo-3mCl341cPslwispw25b24DtYO0Aa_l4RjPwv3Gcfx3bMHan0Jwtl11H4R4bJNg3RpQrVdDNFmq_92CLlGB1c6ji4D9yllDN7YQ--h_olYFFVRzlHkmbzjcd3ncMVbOiCyhL-AlBPfeLrMumK2VUDSAg62OhylN5NjAj6WD6Zu3CGrCpCP2lsPrHn4xnQ9L2SW4-k3PA8qVKCxhLIyQLK5NvNZ75I9IK1BKJPbxBNu2GbafmYulf4ieWskpwGydNLojBC3DkDm1FUyGaLwo1gxMoliaU2rhDQAMjFJ4WcyyJv5wX9Ae-L_Ge-eRBm8lD74hR15HYcQCIGe86lOFy3I9XxaF9yOEujQ8FUkVsW6RMf3ZBs3IhrzFp-XyVAsAHrrd6Tz1u95KLp7GRGg0wjcn7IEZ8ML533Vgnb7ZPbtmil1dppnyS8irmC5UG6UY3y0dzqvi7LXGFTuSBrUL2wcI6_5EulUJ5WMxQmbSK-HSA0CLSYxsg5hb0btYsprOB4CqCe_vWJRNJmgvOJJpDIN14X1UzCc7hwiAHwsHc7ebAef3h5pRpaaUA-XOUIsPwnAWJlvLhpQ-A5a0f8fNMDPf9R3VtDnQjilVdH3C2DfNq-wd815f92LfGODUx5xroCqVDRPd56lsAckGOCCNJxJLLe1rxhMz_rGMyFzu38GBHTDXcduBu9_6Uu9IsFRE0%3D&rank=1&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_A&position=1&beaconIssued=2022-02-25T17%3A35%3A17&sort=RECOMMENDED&top_dp=9499&top_cur=INR&semdtl=&userIntent=&selectedRoomType=314048550&selectedRatePlan=381376387",
+        "relativePath": "/Cavelossim-Hotels-Holiday-Inn-Resort-Goa.h696977.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810519621&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=6049928&destination=Goa%2C+India&destType=MARKET&trackingData=AAAAELtopYf4Jehb5jq4KPyPTL8t93ho7OaxyZCAflzfG0UvnglL5MC4shCqHrRBV90-f8ZQPWnF7jWewS94mYqziPvftPUs_NOg5kXIv7N8094HI6_OU_GcTqZ5_lSgvgwi8t5jpyDoCsuwKQntJkWAMhssEqZvDqYN6yq232XERKLmZUUHfNHcLq_rUCgRZkJJKaujBdQixHEAa1uf8io6qKoI8ize_Dex7P2EU1lfs1XHfmQAxPHTT9n8HvhSQ5YjnPM0UnNk9cfA0jKdlxKkWsSMIPkDrseRTwonNWFMsHckFsU-kYSyP3GnN5l71nJFERuv9ncUvPtNuOP2VG-k4CjhRrTEnUNOWWlkG2nt7WMG9uKcxEVIii4E1N1zAiJzE30mNBJx4tz_eWZIrhHPGbXZm3FELOrfz9cXZDMycy0jGw5gqY8Flbst_gjzW0_OvoavA4kUB_CBgPkjdr3Jkyo-3mCl341cPslwispw25b24DtYO0Aa_l4RjPwv3Gcfx3bMHan0Jwtl11H4R4bJNg3RpQrVdDNFmq_92CLlGB1c6ji4D9yllDN7YQ--h_olYFFVRzlHkmbzjcd3ncMVbOiCyhL-AlBPfeLrMumK2VUDSAg62OhylN5NjAj6WD6Zu3CGrCpCP2lsPrHn4xnQ9L2SW4-k3PA8qVKCxhLIyQLK5NvNZ75I9IK1BKJPbxBNu2GbafmYulf4ieWskpwGydNLojBC3DkDm1FUyGaLwo1gxMoliaU2rhDQAMjFJ4WcyyJv5wX9Ae-L_Ge-eRBm8lD74hR15HYcQCIGe86lOFy3I9XxaF9yOEujQ8FUkVsW6RMf3ZBs3IhrzFp-XyVAsAHrrd6Tz1u95KLp7GRGg0wjcn7IEZ8ML533Vgnb7ZPbtmil1dppnyS8irmC5UG6UY3y0dzqvi7LXGFTuSBrUL2wcI6_5EulUJ5WMxQmbSK-HSA0CLSYxsg5hb0btYsprOB4CqCe_vWJRNJmgvOJJpDIN14X1UzCc7hwiAHwsHc7ebAef3h5pRpaaUA-XOUIsPwnAWJlvLhpQ-A5a0f8fNMDPf9R3VtDnQjilVdH3C2DfNq-wd815f92LfGODUx5xroCqVDRPd56lsAckGOCCNJxJLLe1rxhMz_rGMyFzu38GBHTDXcduBu9_6Uu9IsFRE0%3D&rank=1&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_A&position=1&beaconIssued=2022-02-25T17%3A35%3A17&sort=RECOMMENDED&top_dp=9499&top_cur=INR&semdtl=&userIntent=&selectedRoomType=314048550&selectedRatePlan=381376387"
+      },
+      "clientSideAnalytics": {
+        "referrerId": "HOT.SR:HotelModule:1",
+        "linkName": "View selected property"
+      }
+    },
+    "sponsoredListing": {
+      "id": "650557",
+      "clickRedirectTrackingUrl": "https://www.expedia.co.in/taps/v1/ClRedirect?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&destinationUrl=&rank=1&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAELtopYf4Jehb5jq4KPyPTL8t93ho7OaxyZCAflzfG0UvnglL5MC4shCqHrRBV90-f8ZQPWnF7jWewS94mYqziPvftPUs_NOg5kXIv7N8094HI6_OU_GcTqZ5_lSgvgwi8t5jpyDoCsuwKQntJkWAMhssEqZvDqYN6yq232XERKLmZUUHfNHcLq_rUCgRZkJJKaujBdQixHEAa1uf8io6qKoI8ize_Dex7P2EU1lfs1XHfmQAxPHTT9n8HvhSQ5YjnPM0UnNk9cfA0jKdlxKkWsSMIPkDrseRTwonNWFMsHckFsU-kYSyP3GnN5l71nJFERuv9ncUvPtNuOP2VG-k4CjhRrTEnUNOWWlkG2nt7WMG9uKcxEVIii4E1N1zAiJzE30mNBJx4tz_eWZIrhHPGbXZm3FELOrfz9cXZDMycy0jGw5gqY8Flbst_gjzW0_OvoavA4kUB_CBgPkjdr3Jkyo-3mCl341cPslwispw25b24DtYO0Aa_l4RjPwv3Gcfx3bMHan0Jwtl11H4R4bJNg3RpQrVdDNFmq_92CLlGB1c6ji4D9yllDN7YQ--h_olYFFVRzlHkmbzjcd3ncMVbOiCyhL-AlBPfeLrMumK2VUDSAg62OhylN5NjAj6WD6Zu3CGrCpCP2lsPrHn4xnQ9L2SW4-k3PA8qVKCxhLIyQLK5NvNZ75I9IK1BKJPbxBNu2GbafmYulf4ieWskpwGydNLojBC3DkDm1FUyGaLwo1gxMoliaU2rhDQAMjFJ4WcyyJv5wX9Ae-L_Ge-eRBm8lD74hR15HYcQCIGe86lOFy3I9XxaF9yOEujQ8FUkVsW6RMf3ZBs3IhrzFp-XyVAsAHrrd6Tz1u95KLp7GRGg0wjcn7IEZ8ML533Vgnb7ZPbtmil1dppnyS8irmC5UG6UY3y0dzqvi7LXGFTuSBrUL2wcI6_5EulUJ5WMxQmbSK-HSA0CLSYxsg5hb0btYsprOB4CqCe_vWJRNJmgvOJJpDIN14X1UzCc7hwiAHwsHc7ebAef3h5pRpaaUA-XOUIsPwnAWJlvLhpQ-A5a0f8fNMDPf9R3VtDnQjilVdH3C2DfNq-wd815f92LfGODUx5xroCqVDRPd56lsAckGOCCNJxJLLe1rxhMz_rGMyFzu38GBHTDXcduBu9_6Uu9IsFRE0=&slots=HSR_A&position=1&beaconIssued=2022-02-25T17:35:17",
+      "clickTrackingUrl": "https://www.expedia.co.in/taps/v1/Cl?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=1&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAELtopYf4Jehb5jq4KPyPTL8t93ho7OaxyZCAflzfG0UvnglL5MC4shCqHrRBV90-f8ZQPWnF7jWewS94mYqziPvftPUs_NOg5kXIv7N8094HI6_OU_GcTqZ5_lSgvgwi8t5jpyDoCsuwKQntJkWAMhssEqZvDqYN6yq232XERKLmZUUHfNHcLq_rUCgRZkJJKaujBdQixHEAa1uf8io6qKoI8ize_Dex7P2EU1lfs1XHfmQAxPHTT9n8HvhSQ5YjnPM0UnNk9cfA0jKdlxKkWsSMIPkDrseRTwonNWFMsHckFsU-kYSyP3GnN5l71nJFERuv9ncUvPtNuOP2VG-k4CjhRrTEnUNOWWlkG2nt7WMG9uKcxEVIii4E1N1zAiJzE30mNBJx4tz_eWZIrhHPGbXZm3FELOrfz9cXZDMycy0jGw5gqY8Flbst_gjzW0_OvoavA4kUB_CBgPkjdr3Jkyo-3mCl341cPslwispw25b24DtYO0Aa_l4RjPwv3Gcfx3bMHan0Jwtl11H4R4bJNg3RpQrVdDNFmq_92CLlGB1c6ji4D9yllDN7YQ--h_olYFFVRzlHkmbzjcd3ncMVbOiCyhL-AlBPfeLrMumK2VUDSAg62OhylN5NjAj6WD6Zu3CGrCpCP2lsPrHn4xnQ9L2SW4-k3PA8qVKCxhLIyQLK5NvNZ75I9IK1BKJPbxBNu2GbafmYulf4ieWskpwGydNLojBC3DkDm1FUyGaLwo1gxMoliaU2rhDQAMjFJ4WcyyJv5wX9Ae-L_Ge-eRBm8lD74hR15HYcQCIGe86lOFy3I9XxaF9yOEujQ8FUkVsW6RMf3ZBs3IhrzFp-XyVAsAHrrd6Tz1u95KLp7GRGg0wjcn7IEZ8ML533Vgnb7ZPbtmil1dppnyS8irmC5UG6UY3y0dzqvi7LXGFTuSBrUL2wcI6_5EulUJ5WMxQmbSK-HSA0CLSYxsg5hb0btYsprOB4CqCe_vWJRNJmgvOJJpDIN14X1UzCc7hwiAHwsHc7ebAef3h5pRpaaUA-XOUIsPwnAWJlvLhpQ-A5a0f8fNMDPf9R3VtDnQjilVdH3C2DfNq-wd815f92LfGODUx5xroCqVDRPd56lsAckGOCCNJxJLLe1rxhMz_rGMyFzu38GBHTDXcduBu9_6Uu9IsFRE0=&slots=HSR_A&position=1&beaconIssued=2022-02-25T17:35:17",
+      "details": "Enjoy up to 25 percent off at over 160 hotels in India, Middle East and Africa. Book by 30 April 2022.",
+      "detailsHeadline": "Up to 25pct off at over 160 IHG Hotels",
+      "hotelImage": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/1000000/700000/697000/696977/52c154f9_b.jpg",
+      "impressionTrackingUrl": "https://www.expedia.co.in/taps/v1/Impr?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=1&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAELtopYf4Jehb5jq4KPyPTL8t93ho7OaxyZCAflzfG0UvnglL5MC4shCqHrRBV90-f8ZQPWnF7jWewS94mYqziPvftPUs_NOg5kXIv7N8094HI6_OU_GcTqZ5_lSgvgwi8t5jpyDoCsuwKQntJkWAMhssEqZvDqYN6yq232XERKLmZUUHfNHcLq_rUCgRZkJJKaujBdQixHEAa1uf8io6qKoI8ize_Dex7P2EU1lfs1XHfmQAxPHTT9n8HvhSQ5YjnPM0UnNk9cfA0jKdlxKkWsSMIPkDrseRTwonNWFMsHckFsU-kYSyP3GnN5l71nJFERuv9ncUvPtNuOP2VG-k4CjhRrTEnUNOWWlkG2nt7WMG9uKcxEVIii4E1N1zAiJzE30mNBJx4tz_eWZIrhHPGbXZm3FELOrfz9cXZDMycy0jGw5gqY8Flbst_gjzW0_OvoavA4kUB_CBgPkjdr3Jkyo-3mCl341cPslwispw25b24DtYO0Aa_l4RjPwv3Gcfx3bMHan0Jwtl11H4R4bJNg3RpQrVdDNFmq_92CLlGB1c6ji4D9yllDN7YQ--h_olYFFVRzlHkmbzjcd3ncMVbOiCyhL-AlBPfeLrMumK2VUDSAg62OhylN5NjAj6WD6Zu3CGrCpCP2lsPrHn4xnQ9L2SW4-k3PA8qVKCxhLIyQLK5NvNZ75I9IK1BKJPbxBNu2GbafmYulf4ieWskpwGydNLojBC3DkDm1FUyGaLwo1gxMoliaU2rhDQAMjFJ4WcyyJv5wX9Ae-L_Ge-eRBm8lD74hR15HYcQCIGe86lOFy3I9XxaF9yOEujQ8FUkVsW6RMf3ZBs3IhrzFp-XyVAsAHrrd6Tz1u95KLp7GRGg0wjcn7IEZ8ML533Vgnb7ZPbtmil1dppnyS8irmC5UG6UY3y0dzqvi7LXGFTuSBrUL2wcI6_5EulUJ5WMxQmbSK-HSA0CLSYxsg5hb0btYsprOB4CqCe_vWJRNJmgvOJJpDIN14X1UzCc7hwiAHwsHc7ebAef3h5pRpaaUA-XOUIsPwnAWJlvLhpQ-A5a0f8fNMDPf9R3VtDnQjilVdH3C2DfNq-wd815f92LfGODUx5xroCqVDRPd56lsAckGOCCNJxJLLe1rxhMz_rGMyFzu38GBHTDXcduBu9_6Uu9IsFRE0=&slots=HSR_A&position=1&beaconIssued=2022-02-25T17:35:17",
+      "trackingData": "AAAAELtopYf4Jehb5jq4KPyPTL8t93ho7OaxyZCAflzfG0UvnglL5MC4shCqHrRBV90-f8ZQPWnF7jWewS94mYqziPvftPUs_NOg5kXIv7N8094HI6_OU_GcTqZ5_lSgvgwi8t5jpyDoCsuwKQntJkWAMhssEqZvDqYN6yq232XERKLmZUUHfNHcLq_rUCgRZkJJKaujBdQixHEAa1uf8io6qKoI8ize_Dex7P2EU1lfs1XHfmQAxPHTT9n8HvhSQ5YjnPM0UnNk9cfA0jKdlxKkWsSMIPkDrseRTwonNWFMsHckFsU-kYSyP3GnN5l71nJFERuv9ncUvPtNuOP2VG-k4CjhRrTEnUNOWWlkG2nt7WMG9uKcxEVIii4E1N1zAiJzE30mNBJx4tz_eWZIrhHPGbXZm3FELOrfz9cXZDMycy0jGw5gqY8Flbst_gjzW0_OvoavA4kUB_CBgPkjdr3Jkyo-3mCl341cPslwispw25b24DtYO0Aa_l4RjPwv3Gcfx3bMHan0Jwtl11H4R4bJNg3RpQrVdDNFmq_92CLlGB1c6ji4D9yllDN7YQ--h_olYFFVRzlHkmbzjcd3ncMVbOiCyhL-AlBPfeLrMumK2VUDSAg62OhylN5NjAj6WD6Zu3CGrCpCP2lsPrHn4xnQ9L2SW4-k3PA8qVKCxhLIyQLK5NvNZ75I9IK1BKJPbxBNu2GbafmYulf4ieWskpwGydNLojBC3DkDm1FUyGaLwo1gxMoliaU2rhDQAMjFJ4WcyyJv5wX9Ae-L_Ge-eRBm8lD74hR15HYcQCIGe86lOFy3I9XxaF9yOEujQ8FUkVsW6RMf3ZBs3IhrzFp-XyVAsAHrrd6Tz1u95KLp7GRGg0wjcn7IEZ8ML533Vgnb7ZPbtmil1dppnyS8irmC5UG6UY3y0dzqvi7LXGFTuSBrUL2wcI6_5EulUJ5WMxQmbSK-HSA0CLSYxsg5hb0btYsprOB4CqCe_vWJRNJmgvOJJpDIN14X1UzCc7hwiAHwsHc7ebAef3h5pRpaaUA-XOUIsPwnAWJlvLhpQ-A5a0f8fNMDPf9R3VtDnQjilVdH3C2DfNq-wd815f92LfGODUx5xroCqVDRPd56lsAckGOCCNJxJLLe1rxhMz_rGMyFzu38GBHTDXcduBu9_6Uu9IsFRE0=",
+      "brand": null,
+      "clickRedirectLinkoffTrackingUrl": null,
+      "logo": null,
+      "lotagline": null,
+      "rating": "0",
+      "slots": "HSR_A",
+      "vanityUrl": null,
+      "rank": "1",
+      "position": "1"
+    },
+    "amenities": [],
+    "star": null,
+    "starRatingIcon": "STAR",
+    "availability": {
+      "available": true,
+      "text": null,
+      "theme": "URGENT"
+    },
+    "offerSummary": {
+      "messages": [
+        {
+          "message": "Fully refundable",
+          "theme": "SUCCESS",
+          "type": "FREE_CANCEL",
+          "mark": null
+        },
+        {
+          "message": "Reserve now, pay later",
+          "theme": "SUCCESS",
+          "type": "PAY_LATER",
+          "mark": null
+        }
+      ]
+    },
+    "legalDisclaimer": null,
+    "imageGallery": {
+      "accessibilityLabel": "Photo gallery for Holiday Inn Resort Goa, an IHG Hotel",
+      "images": [
+        {
+          "image": {
+            "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/1000000/700000/697000/696977/52c154f9_b.jpg",
+            "description": "Featured image"
+          },
+          "subjectId": 3,
+          "fallbackImage": {
+            "url": "https://images.trvl-media.com/hotels/1000000/700000/697000/696977/52c154f9.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Featured image"
+          },
+          "imageId": "102096636"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/700000/697000/696977/66e39405.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Terrace/patio"
+          },
+          "subjectId": 91008,
+          "fallbackImage": null,
+          "imageId": "102096547"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/700000/697000/696977/414d9e79.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Pool"
+          },
+          "subjectId": 30000,
+          "fallbackImage": null,
+          "imageId": "102096640"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/700000/697000/696977/085290a7.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Bedroom"
+          },
+          "subjectId": 21001,
+          "fallbackImage": null,
+          "imageId": "102096521"
+        }
+      ]
+    },
+    "mapMarker": {
+      "icon": "HOTEL",
+      "label": "Rs9,499",
+      "type": "HOTEL",
+      "latLong": {
+        "latitude": 15.159208,
+        "longitude": 73.949471
+      },
+      "clientSideAnalytics": {
+        "referrerId": "Module.Map.HotelMarkerSelect",
+        "linkName": "User selecting a hotel marker on the PWA HSR map"
+      }
+    },
+    "neighborhood": {
+      "name": "Cavelossim"
+    },
+    "pinnedDetails": null,
+    "recentlyViewed": null,
+    "featuredMessages": null,
+    "supportingMessages": ["Excludes taxes & fees"],
+    "shortList": {
+      "favorited": false,
+      "saveUrl": "/api/ucs/shortlist/save/696977",
+      "removeUrl": "/api/ucs/shortlist/remove/696977",
+      "metaData": {
+        "chkIn": "20220311",
+        "chkOut": "20220312",
+        "hotelId": "696977",
+        "roomConfiguration": "2"
+      }
+    },
+    "highlightedPropertyDetails": [],
+    "propertySource": null,
+    "dataAttributes": null,
+    "listingFooter": null
+  },
+  {
+    "__typename": "Property",
+    "id": "30783748",
+    "name": "ITC Grand Goa, a Luxury Collection Resort & Spa, Goa",
+    "propertyImage": {
+      "image": {
+        "description": "Featured image",
+        "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/31000000/30790000/30783800/30783748/4ec39822_b.jpg"
+      },
+      "fallbackImage": {
+        "description": "Featured image",
+        "url": "https://images.trvl-media.com/hotels/31000000/30790000/30783800/30783748/4ec39822.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      }
+    },
+    "offerBadge": {
+      "primary": {
+        "text": "Ad",
+        "theme_temp": "SPONSORED",
+        "icon_temp": null,
+        "mark": null
+      },
+      "secondary": {
+        "text": "We have 5 left at",
+        "theme_temp": "DEAL_GENERIC",
+        "icon_temp": null
+      }
+    },
+    "price": {
+      "alignment": null,
+      "displayMessages": null,
+      "lead": {
+        "formatted": "Rs23,850"
+      },
+      "strikeOutType": "PRICE_SURVEY",
+      "strikeOut": null,
+      "disclaimer": null,
+      "roomNightMessage": "per night",
+      "priceMessages": [
+        {
+          "value": "per night"
+        }
+      ],
+      "marketingFeeDetails": null,
+      "options": [
+        {
+          "leadingCaption": null,
+          "displayPrice": {
+            "formatted": "Rs23,850"
+          },
+          "strikeOut": null,
+          "loyaltyPrice": null,
+          "disclaimer": null
+        }
+      ]
+    },
+    "reviews": {
+      "score": 4.2,
+      "localizedScore": "4.2",
+      "total": 110,
+      "localizedTotal": "110 reviews",
+      "superlative": "Very good",
+      "localizedSubtitle": "4.2 / 5 (110 reviews)",
+      "localizedSubtitleA11y": {
+        "accessibilityLabel": "4.2 out of 5 Very good (110 reviews)",
+        "value": "4.2/5 Very good (110 reviews)"
+      },
+      "mark": null
+    },
+    "destinationInfo": {
+      "distanceFromMessaging": null
+    },
+    "vipMessaging": null,
+    "propertyDetailsLink": {
+      "uri": {
+        "value": "https://www.expedia.co.in/Cansaulim-Hotels-ITC-Grand-Goa.h30783748.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810519621&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=6049928&destination=Goa%2C+India&destType=MARKET&trackingData=AAAAEJMfUzDdQVIV8VKS3uKJgYFpth72ovtAm_gPZ3XmccnzFhuWUhEJNofCql6guK8yNbymQKZqRPO3tuRtiwedoHJL-Fot7utX3LVRLpq4wJHrLsbfpuBYOp1dQZv0LNA5go8JTQ7AhhNx80XGhrTQfSK8WIU6GsywER3-DUltggcTuosohhhabgZXKuLK-fG1lnMVFEKyTmUYe_Vq2apwBnVVxZMaRETkj7DnRsAn6h6-t3Jw1Gt6mPBSqYdDtNzxWg62Q2e-Z9JZo02l9Xig44tdkD5MO8G79Se_KqHG4p1Q49GUFaIUGeaEHw7VzIzevO3G7z5rOfkjN8dHOkR5cwRwWGBUBP4ibvwb0vefaT5Lx80EUxIrrOgOc2voxqIL37jTC3OtWKrPMcdGIpMvFRFr5mJ75QZZXVrlII3s1C30xFK1Q5dPpvnI56YqwR--Jn6CNvPZTkPzZ1CU8m254-jTut0upi5QKFnaqI65GUDmG9GaGTkyJHtDmi9Sity8-6xF_ORbFy0_5AUJ3aiQS7G1oeSPZ9A1AjcnaF2xcDBTVd_iAUh1JkQuQap0pPp2FIEQKNSiM2iO-n5bZGyKwwRxxlhNzoBGbPO574FcFUkVp0dBc4pzVOrW8WKCFNYdDbkxdNu48ywpfmXlnFsoX56Kg4l6eLGcVBrZ20Ct2Pu_q6hcQRCgPMa77MaMSMiiAYLnO7soRNgMzBu2ydv1NW3xYJpXjI43zuQLevKTLY4PaHz1mh0VhojHrdbrvAIvrNZa130OABnqpXaHRUpaF93jpw1OuDdDZpuRQaeCzTOoj-aD9h_WOi9a86VPfcqQsCQeZUPkzzCIIZfsvTOwKrFK4BKFkUrtS0AXjO1ceQ-VsyMmSfpEiWxNkoNZexZuyUhqEOqKZEEd1oDO5wnvORYIm4QQhpvzp6Yo620uXzDFU0WH0zwVPlBCIer4x3IYnNx7CyNJgTo2wBbfsy-9_6OFZ9MzqIWpDk95JKNKG8bgiq_2Rkf1u2zjELwJs8_qTqJrqN4NDrzy83HWJjQmKdlQDrpHhjAbroHmx2kGrQ_fqbFBs4UvJUzD13N0bRIMTymImcd5RvqiJmjLP_-4M2wsCLGEAThI6Xi7ASSmun00sa3pzTWuyBJ-eAjxHD_PbQ%3D%3D&rank=2&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_AA&position=2&beaconIssued=2022-02-25T17%3A35%3A17&sort=RECOMMENDED&top_dp=23850&top_cur=INR&semdtl=&userIntent=&selectedRoomType=210026768&selectedRatePlan=220272194",
+        "relativePath": "/Cansaulim-Hotels-ITC-Grand-Goa.h30783748.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810519621&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=6049928&destination=Goa%2C+India&destType=MARKET&trackingData=AAAAEJMfUzDdQVIV8VKS3uKJgYFpth72ovtAm_gPZ3XmccnzFhuWUhEJNofCql6guK8yNbymQKZqRPO3tuRtiwedoHJL-Fot7utX3LVRLpq4wJHrLsbfpuBYOp1dQZv0LNA5go8JTQ7AhhNx80XGhrTQfSK8WIU6GsywER3-DUltggcTuosohhhabgZXKuLK-fG1lnMVFEKyTmUYe_Vq2apwBnVVxZMaRETkj7DnRsAn6h6-t3Jw1Gt6mPBSqYdDtNzxWg62Q2e-Z9JZo02l9Xig44tdkD5MO8G79Se_KqHG4p1Q49GUFaIUGeaEHw7VzIzevO3G7z5rOfkjN8dHOkR5cwRwWGBUBP4ibvwb0vefaT5Lx80EUxIrrOgOc2voxqIL37jTC3OtWKrPMcdGIpMvFRFr5mJ75QZZXVrlII3s1C30xFK1Q5dPpvnI56YqwR--Jn6CNvPZTkPzZ1CU8m254-jTut0upi5QKFnaqI65GUDmG9GaGTkyJHtDmi9Sity8-6xF_ORbFy0_5AUJ3aiQS7G1oeSPZ9A1AjcnaF2xcDBTVd_iAUh1JkQuQap0pPp2FIEQKNSiM2iO-n5bZGyKwwRxxlhNzoBGbPO574FcFUkVp0dBc4pzVOrW8WKCFNYdDbkxdNu48ywpfmXlnFsoX56Kg4l6eLGcVBrZ20Ct2Pu_q6hcQRCgPMa77MaMSMiiAYLnO7soRNgMzBu2ydv1NW3xYJpXjI43zuQLevKTLY4PaHz1mh0VhojHrdbrvAIvrNZa130OABnqpXaHRUpaF93jpw1OuDdDZpuRQaeCzTOoj-aD9h_WOi9a86VPfcqQsCQeZUPkzzCIIZfsvTOwKrFK4BKFkUrtS0AXjO1ceQ-VsyMmSfpEiWxNkoNZexZuyUhqEOqKZEEd1oDO5wnvORYIm4QQhpvzp6Yo620uXzDFU0WH0zwVPlBCIer4x3IYnNx7CyNJgTo2wBbfsy-9_6OFZ9MzqIWpDk95JKNKG8bgiq_2Rkf1u2zjELwJs8_qTqJrqN4NDrzy83HWJjQmKdlQDrpHhjAbroHmx2kGrQ_fqbFBs4UvJUzD13N0bRIMTymImcd5RvqiJmjLP_-4M2wsCLGEAThI6Xi7ASSmun00sa3pzTWuyBJ-eAjxHD_PbQ%3D%3D&rank=2&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_AA&position=2&beaconIssued=2022-02-25T17%3A35%3A17&sort=RECOMMENDED&top_dp=23850&top_cur=INR&semdtl=&userIntent=&selectedRoomType=210026768&selectedRatePlan=220272194"
+      },
+      "clientSideAnalytics": {
+        "referrerId": "HOT.SR:HotelModule:2",
+        "linkName": "View selected property"
+      }
+    },
+    "sponsoredListing": {
+      "id": "598651",
+      "clickRedirectTrackingUrl": "https://www.expedia.co.in/taps/v1/ClRedirect?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&destinationUrl=&rank=2&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEJMfUzDdQVIV8VKS3uKJgYFpth72ovtAm_gPZ3XmccnzFhuWUhEJNofCql6guK8yNbymQKZqRPO3tuRtiwedoHJL-Fot7utX3LVRLpq4wJHrLsbfpuBYOp1dQZv0LNA5go8JTQ7AhhNx80XGhrTQfSK8WIU6GsywER3-DUltggcTuosohhhabgZXKuLK-fG1lnMVFEKyTmUYe_Vq2apwBnVVxZMaRETkj7DnRsAn6h6-t3Jw1Gt6mPBSqYdDtNzxWg62Q2e-Z9JZo02l9Xig44tdkD5MO8G79Se_KqHG4p1Q49GUFaIUGeaEHw7VzIzevO3G7z5rOfkjN8dHOkR5cwRwWGBUBP4ibvwb0vefaT5Lx80EUxIrrOgOc2voxqIL37jTC3OtWKrPMcdGIpMvFRFr5mJ75QZZXVrlII3s1C30xFK1Q5dPpvnI56YqwR--Jn6CNvPZTkPzZ1CU8m254-jTut0upi5QKFnaqI65GUDmG9GaGTkyJHtDmi9Sity8-6xF_ORbFy0_5AUJ3aiQS7G1oeSPZ9A1AjcnaF2xcDBTVd_iAUh1JkQuQap0pPp2FIEQKNSiM2iO-n5bZGyKwwRxxlhNzoBGbPO574FcFUkVp0dBc4pzVOrW8WKCFNYdDbkxdNu48ywpfmXlnFsoX56Kg4l6eLGcVBrZ20Ct2Pu_q6hcQRCgPMa77MaMSMiiAYLnO7soRNgMzBu2ydv1NW3xYJpXjI43zuQLevKTLY4PaHz1mh0VhojHrdbrvAIvrNZa130OABnqpXaHRUpaF93jpw1OuDdDZpuRQaeCzTOoj-aD9h_WOi9a86VPfcqQsCQeZUPkzzCIIZfsvTOwKrFK4BKFkUrtS0AXjO1ceQ-VsyMmSfpEiWxNkoNZexZuyUhqEOqKZEEd1oDO5wnvORYIm4QQhpvzp6Yo620uXzDFU0WH0zwVPlBCIer4x3IYnNx7CyNJgTo2wBbfsy-9_6OFZ9MzqIWpDk95JKNKG8bgiq_2Rkf1u2zjELwJs8_qTqJrqN4NDrzy83HWJjQmKdlQDrpHhjAbroHmx2kGrQ_fqbFBs4UvJUzD13N0bRIMTymImcd5RvqiJmjLP_-4M2wsCLGEAThI6Xi7ASSmun00sa3pzTWuyBJ-eAjxHD_PbQ==&slots=HSR_AA&position=2&beaconIssued=2022-02-25T17:35:17",
+      "clickTrackingUrl": "https://www.expedia.co.in/taps/v1/Cl?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=2&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEJMfUzDdQVIV8VKS3uKJgYFpth72ovtAm_gPZ3XmccnzFhuWUhEJNofCql6guK8yNbymQKZqRPO3tuRtiwedoHJL-Fot7utX3LVRLpq4wJHrLsbfpuBYOp1dQZv0LNA5go8JTQ7AhhNx80XGhrTQfSK8WIU6GsywER3-DUltggcTuosohhhabgZXKuLK-fG1lnMVFEKyTmUYe_Vq2apwBnVVxZMaRETkj7DnRsAn6h6-t3Jw1Gt6mPBSqYdDtNzxWg62Q2e-Z9JZo02l9Xig44tdkD5MO8G79Se_KqHG4p1Q49GUFaIUGeaEHw7VzIzevO3G7z5rOfkjN8dHOkR5cwRwWGBUBP4ibvwb0vefaT5Lx80EUxIrrOgOc2voxqIL37jTC3OtWKrPMcdGIpMvFRFr5mJ75QZZXVrlII3s1C30xFK1Q5dPpvnI56YqwR--Jn6CNvPZTkPzZ1CU8m254-jTut0upi5QKFnaqI65GUDmG9GaGTkyJHtDmi9Sity8-6xF_ORbFy0_5AUJ3aiQS7G1oeSPZ9A1AjcnaF2xcDBTVd_iAUh1JkQuQap0pPp2FIEQKNSiM2iO-n5bZGyKwwRxxlhNzoBGbPO574FcFUkVp0dBc4pzVOrW8WKCFNYdDbkxdNu48ywpfmXlnFsoX56Kg4l6eLGcVBrZ20Ct2Pu_q6hcQRCgPMa77MaMSMiiAYLnO7soRNgMzBu2ydv1NW3xYJpXjI43zuQLevKTLY4PaHz1mh0VhojHrdbrvAIvrNZa130OABnqpXaHRUpaF93jpw1OuDdDZpuRQaeCzTOoj-aD9h_WOi9a86VPfcqQsCQeZUPkzzCIIZfsvTOwKrFK4BKFkUrtS0AXjO1ceQ-VsyMmSfpEiWxNkoNZexZuyUhqEOqKZEEd1oDO5wnvORYIm4QQhpvzp6Yo620uXzDFU0WH0zwVPlBCIer4x3IYnNx7CyNJgTo2wBbfsy-9_6OFZ9MzqIWpDk95JKNKG8bgiq_2Rkf1u2zjELwJs8_qTqJrqN4NDrzy83HWJjQmKdlQDrpHhjAbroHmx2kGrQ_fqbFBs4UvJUzD13N0bRIMTymImcd5RvqiJmjLP_-4M2wsCLGEAThI6Xi7ASSmun00sa3pzTWuyBJ-eAjxHD_PbQ==&slots=HSR_AA&position=2&beaconIssued=2022-02-25T17:35:17",
+      "details": null,
+      "detailsHeadline": null,
+      "hotelImage": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/31000000/30790000/30783800/30783748/4ec39822_b.jpg",
+      "impressionTrackingUrl": "https://www.expedia.co.in/taps/v1/Impr?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=2&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEJMfUzDdQVIV8VKS3uKJgYFpth72ovtAm_gPZ3XmccnzFhuWUhEJNofCql6guK8yNbymQKZqRPO3tuRtiwedoHJL-Fot7utX3LVRLpq4wJHrLsbfpuBYOp1dQZv0LNA5go8JTQ7AhhNx80XGhrTQfSK8WIU6GsywER3-DUltggcTuosohhhabgZXKuLK-fG1lnMVFEKyTmUYe_Vq2apwBnVVxZMaRETkj7DnRsAn6h6-t3Jw1Gt6mPBSqYdDtNzxWg62Q2e-Z9JZo02l9Xig44tdkD5MO8G79Se_KqHG4p1Q49GUFaIUGeaEHw7VzIzevO3G7z5rOfkjN8dHOkR5cwRwWGBUBP4ibvwb0vefaT5Lx80EUxIrrOgOc2voxqIL37jTC3OtWKrPMcdGIpMvFRFr5mJ75QZZXVrlII3s1C30xFK1Q5dPpvnI56YqwR--Jn6CNvPZTkPzZ1CU8m254-jTut0upi5QKFnaqI65GUDmG9GaGTkyJHtDmi9Sity8-6xF_ORbFy0_5AUJ3aiQS7G1oeSPZ9A1AjcnaF2xcDBTVd_iAUh1JkQuQap0pPp2FIEQKNSiM2iO-n5bZGyKwwRxxlhNzoBGbPO574FcFUkVp0dBc4pzVOrW8WKCFNYdDbkxdNu48ywpfmXlnFsoX56Kg4l6eLGcVBrZ20Ct2Pu_q6hcQRCgPMa77MaMSMiiAYLnO7soRNgMzBu2ydv1NW3xYJpXjI43zuQLevKTLY4PaHz1mh0VhojHrdbrvAIvrNZa130OABnqpXaHRUpaF93jpw1OuDdDZpuRQaeCzTOoj-aD9h_WOi9a86VPfcqQsCQeZUPkzzCIIZfsvTOwKrFK4BKFkUrtS0AXjO1ceQ-VsyMmSfpEiWxNkoNZexZuyUhqEOqKZEEd1oDO5wnvORYIm4QQhpvzp6Yo620uXzDFU0WH0zwVPlBCIer4x3IYnNx7CyNJgTo2wBbfsy-9_6OFZ9MzqIWpDk95JKNKG8bgiq_2Rkf1u2zjELwJs8_qTqJrqN4NDrzy83HWJjQmKdlQDrpHhjAbroHmx2kGrQ_fqbFBs4UvJUzD13N0bRIMTymImcd5RvqiJmjLP_-4M2wsCLGEAThI6Xi7ASSmun00sa3pzTWuyBJ-eAjxHD_PbQ==&slots=HSR_AA&position=2&beaconIssued=2022-02-25T17:35:17",
+      "trackingData": "AAAAEJMfUzDdQVIV8VKS3uKJgYFpth72ovtAm_gPZ3XmccnzFhuWUhEJNofCql6guK8yNbymQKZqRPO3tuRtiwedoHJL-Fot7utX3LVRLpq4wJHrLsbfpuBYOp1dQZv0LNA5go8JTQ7AhhNx80XGhrTQfSK8WIU6GsywER3-DUltggcTuosohhhabgZXKuLK-fG1lnMVFEKyTmUYe_Vq2apwBnVVxZMaRETkj7DnRsAn6h6-t3Jw1Gt6mPBSqYdDtNzxWg62Q2e-Z9JZo02l9Xig44tdkD5MO8G79Se_KqHG4p1Q49GUFaIUGeaEHw7VzIzevO3G7z5rOfkjN8dHOkR5cwRwWGBUBP4ibvwb0vefaT5Lx80EUxIrrOgOc2voxqIL37jTC3OtWKrPMcdGIpMvFRFr5mJ75QZZXVrlII3s1C30xFK1Q5dPpvnI56YqwR--Jn6CNvPZTkPzZ1CU8m254-jTut0upi5QKFnaqI65GUDmG9GaGTkyJHtDmi9Sity8-6xF_ORbFy0_5AUJ3aiQS7G1oeSPZ9A1AjcnaF2xcDBTVd_iAUh1JkQuQap0pPp2FIEQKNSiM2iO-n5bZGyKwwRxxlhNzoBGbPO574FcFUkVp0dBc4pzVOrW8WKCFNYdDbkxdNu48ywpfmXlnFsoX56Kg4l6eLGcVBrZ20Ct2Pu_q6hcQRCgPMa77MaMSMiiAYLnO7soRNgMzBu2ydv1NW3xYJpXjI43zuQLevKTLY4PaHz1mh0VhojHrdbrvAIvrNZa130OABnqpXaHRUpaF93jpw1OuDdDZpuRQaeCzTOoj-aD9h_WOi9a86VPfcqQsCQeZUPkzzCIIZfsvTOwKrFK4BKFkUrtS0AXjO1ceQ-VsyMmSfpEiWxNkoNZexZuyUhqEOqKZEEd1oDO5wnvORYIm4QQhpvzp6Yo620uXzDFU0WH0zwVPlBCIer4x3IYnNx7CyNJgTo2wBbfsy-9_6OFZ9MzqIWpDk95JKNKG8bgiq_2Rkf1u2zjELwJs8_qTqJrqN4NDrzy83HWJjQmKdlQDrpHhjAbroHmx2kGrQ_fqbFBs4UvJUzD13N0bRIMTymImcd5RvqiJmjLP_-4M2wsCLGEAThI6Xi7ASSmun00sa3pzTWuyBJ-eAjxHD_PbQ==",
+      "brand": null,
+      "clickRedirectLinkoffTrackingUrl": null,
+      "logo": null,
+      "lotagline": null,
+      "rating": "0",
+      "slots": "HSR_AA",
+      "vanityUrl": null,
+      "rank": "2",
+      "position": "2"
+    },
+    "amenities": [],
+    "star": null,
+    "starRatingIcon": "STAR",
+    "availability": {
+      "available": true,
+      "text": null,
+      "theme": "URGENT"
+    },
+    "offerSummary": {
+      "messages": []
+    },
+    "legalDisclaimer": null,
+    "imageGallery": {
+      "accessibilityLabel": "Photo gallery for ITC Grand Goa, a Luxury Collection Resort & Spa, Goa",
+      "images": [
+        {
+          "image": {
+            "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/31000000/30790000/30783800/30783748/4ec39822_b.jpg",
+            "description": "Featured image"
+          },
+          "subjectId": 3,
+          "fallbackImage": {
+            "url": "https://images.trvl-media.com/hotels/31000000/30790000/30783800/30783748/4ec39822.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Featured image"
+          },
+          "imageId": "71594500"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/31000000/30790000/30783800/30783748/0fe221d8.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Exterior"
+          },
+          "subjectId": 91024,
+          "fallbackImage": null,
+          "imageId": "71594495"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/31000000/30790000/30783800/30783748/b015ad4a.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Pool"
+          },
+          "subjectId": 30000,
+          "fallbackImage": null,
+          "imageId": "71594529"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/31000000/30790000/30783800/30783748/a8de013c.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "View from Room"
+          },
+          "subjectId": 22013,
+          "fallbackImage": null,
+          "imageId": "71594476"
+        }
+      ]
+    },
+    "mapMarker": {
+      "icon": "HOTEL",
+      "label": "Rs23,850",
+      "type": "HOTEL",
+      "latLong": {
+        "latitude": 15.327758,
+        "longitude": 73.898979
+      },
+      "clientSideAnalytics": {
+        "referrerId": "Module.Map.HotelMarkerSelect",
+        "linkName": "User selecting a hotel marker on the PWA HSR map"
+      }
+    },
+    "neighborhood": {
+      "name": "Arossim"
+    },
+    "pinnedDetails": null,
+    "recentlyViewed": null,
+    "featuredMessages": null,
+    "supportingMessages": ["Excludes taxes & fees"],
+    "shortList": {
+      "favorited": false,
+      "saveUrl": "/api/ucs/shortlist/save/30783748",
+      "removeUrl": "/api/ucs/shortlist/remove/30783748",
+      "metaData": {
+        "chkIn": "20220311",
+        "chkOut": "20220312",
+        "hotelId": "30783748",
+        "roomConfiguration": "2"
+      }
+    },
+    "highlightedPropertyDetails": [],
+    "propertySource": null,
+    "dataAttributes": null,
+    "listingFooter": null
+  },
+  {
+    "__typename": "Property",
+    "id": "24057290",
+    "name": "Hilton Goa Resort",
+    "propertyImage": {
+      "image": {
+        "description": "Featured image",
+        "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/25000000/24060000/24057300/24057290/7d26f557_b.jpg"
+      },
+      "fallbackImage": {
+        "description": "Featured image",
+        "url": "https://images.trvl-media.com/hotels/25000000/24060000/24057300/24057290/8039a091.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      }
+    },
+    "offerBadge": {
+      "primary": {
+        "text": "Ad",
+        "theme_temp": "SPONSORED",
+        "icon_temp": null,
+        "mark": null
+      },
+      "secondary": null
+    },
+    "price": {
+      "alignment": null,
+      "displayMessages": null,
+      "lead": {
+        "formatted": "Rs13,999"
+      },
+      "strikeOutType": "STANDALONE",
+      "strikeOut": null,
+      "disclaimer": null,
+      "roomNightMessage": "per night",
+      "priceMessages": [
+        {
+          "value": "per night"
+        }
+      ],
+      "marketingFeeDetails": null,
+      "options": [
+        {
+          "leadingCaption": null,
+          "displayPrice": {
+            "formatted": "Rs13,999"
+          },
+          "strikeOut": null,
+          "loyaltyPrice": null,
+          "disclaimer": null
+        }
+      ]
+    },
+    "reviews": {
+      "score": 4.5,
+      "localizedScore": "4.5",
+      "total": 11,
+      "localizedTotal": "11 reviews",
+      "superlative": "Wonderful",
+      "localizedSubtitle": "4.5 / 5 (11 reviews)",
+      "localizedSubtitleA11y": {
+        "accessibilityLabel": "4.5 out of 5 Wonderful (11 reviews)",
+        "value": "4.5/5 Wonderful (11 reviews)"
+      },
+      "mark": null
+    },
+    "destinationInfo": {
+      "distanceFromMessaging": null
+    },
+    "vipMessaging": null,
+    "propertyDetailsLink": {
+      "uri": {
+        "value": "https://www.expedia.co.in/Candolim-Hotels-Hilton-Goa-Resort.h24057290.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810519621&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=6049928&destination=Goa%2C+India&destType=MARKET&trackingData=AAAAEEdaBLlBiVdEixPxwiCPTMsyg5s32ugV01nOCdIE0oCiBHLRobM_RQKEEEwNyCKwJ1FSsm1yTnX0AAh-80sNjDby3VkBu0JVRsesm6hTL0-gcU28A0uTKByWJSQvYunnDr1Nhi8RShnXFgarY9c_iX8jaGT_Ryb0QwcWKO_aBWBh1gf9c2URUgfL_3pHl6Sww3GOQkGqHBCGo_v7wEGUWAUCQwHIbd8k4sQ4S0yFFo501_nYdb02vlukrzgcI0NA24Sp0d0Pxd7HwcAhvKjq4iJFKkhpCAt1ICnaeaZCtQri3w9JWzFsu6T7iJedBaPtTI3Zq22xWoGEJN1RzGgYXIawlJNi81cY8GyMhRsxKc-gCmy67y6DhktjPMac77so99m4HZCi4ubRRSFfnTNgW-rsRby7MUyCldLyGfLgjNlS2_aBkp-iFrcTvC18y2d3E0kGc2c2Vv2X84T9LHhcO-J5YajeG1k3T2SAeHyBah9wel2beGhZD8BtG2tc01xifyyqUvRMengTXexGDpijKhW2bkpjM38eFIIvCaItBGeYflv33HzMfd0q771y30EO1-u6V3JeYVStCQUlaUB0IEl58zaBlyNQVI0gyQbmqEdNXkhMvxtTJpn1xJmsk9UAwyUz4uQm3uOJ9fI0JMLn_meBZioqKL-ntw4LBO7T32ojJgzPbj2g1wN2r44zG3tKnjhHDPHbHsU7dppfxeewqRuzUJIkEWaGdUppHBMzKQ5ESryOLnv-i0TYfFaYRB8X1yInIVkFitq5Nz8nULDVtu5OXyo0l7KJdNOng8rR9JYJ-RcIVh2SzZuF3ofxr-_IiZySlSsHs8PQ5SZFsDYG_r2MnFe3C9Ojd5tcMj6giln--hkqAx7_fy9fTYC4t6JUlb4DO4TupsoGage7Exk-W7Wou0pSpxVV_9zzTF_n6fN5GvmKb0EnZAkhwsFyt91B4x15kzFUNHnBFwFY5lLzf9TuOGeQrDOqXCdjGFBOmjH0GWbOK-7_J6F5-MFt0BfUUYMn6Bvb4fOZ30_5ZW9k4dVJ_D8OmFohfwUkkJwxfq3xCMarv7T0jZCkiKuSrruC4jAbXcciQmdAv8IcNjsqnXvqGMQekwi3mL7EN-nPEywI-NmAIFGeWFau85wN_1FgYw%3D%3D&rank=3&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_DYN&position=3&beaconIssued=2022-02-25T17%3A35%3A17&sort=RECOMMENDED&top_dp=13999&top_cur=INR&semdtl=&userIntent=&selectedRoomType=314051772&selectedRatePlan=381427476",
+        "relativePath": "/Candolim-Hotels-Hilton-Goa-Resort.h24057290.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810519621&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=6049928&destination=Goa%2C+India&destType=MARKET&trackingData=AAAAEEdaBLlBiVdEixPxwiCPTMsyg5s32ugV01nOCdIE0oCiBHLRobM_RQKEEEwNyCKwJ1FSsm1yTnX0AAh-80sNjDby3VkBu0JVRsesm6hTL0-gcU28A0uTKByWJSQvYunnDr1Nhi8RShnXFgarY9c_iX8jaGT_Ryb0QwcWKO_aBWBh1gf9c2URUgfL_3pHl6Sww3GOQkGqHBCGo_v7wEGUWAUCQwHIbd8k4sQ4S0yFFo501_nYdb02vlukrzgcI0NA24Sp0d0Pxd7HwcAhvKjq4iJFKkhpCAt1ICnaeaZCtQri3w9JWzFsu6T7iJedBaPtTI3Zq22xWoGEJN1RzGgYXIawlJNi81cY8GyMhRsxKc-gCmy67y6DhktjPMac77so99m4HZCi4ubRRSFfnTNgW-rsRby7MUyCldLyGfLgjNlS2_aBkp-iFrcTvC18y2d3E0kGc2c2Vv2X84T9LHhcO-J5YajeG1k3T2SAeHyBah9wel2beGhZD8BtG2tc01xifyyqUvRMengTXexGDpijKhW2bkpjM38eFIIvCaItBGeYflv33HzMfd0q771y30EO1-u6V3JeYVStCQUlaUB0IEl58zaBlyNQVI0gyQbmqEdNXkhMvxtTJpn1xJmsk9UAwyUz4uQm3uOJ9fI0JMLn_meBZioqKL-ntw4LBO7T32ojJgzPbj2g1wN2r44zG3tKnjhHDPHbHsU7dppfxeewqRuzUJIkEWaGdUppHBMzKQ5ESryOLnv-i0TYfFaYRB8X1yInIVkFitq5Nz8nULDVtu5OXyo0l7KJdNOng8rR9JYJ-RcIVh2SzZuF3ofxr-_IiZySlSsHs8PQ5SZFsDYG_r2MnFe3C9Ojd5tcMj6giln--hkqAx7_fy9fTYC4t6JUlb4DO4TupsoGage7Exk-W7Wou0pSpxVV_9zzTF_n6fN5GvmKb0EnZAkhwsFyt91B4x15kzFUNHnBFwFY5lLzf9TuOGeQrDOqXCdjGFBOmjH0GWbOK-7_J6F5-MFt0BfUUYMn6Bvb4fOZ30_5ZW9k4dVJ_D8OmFohfwUkkJwxfq3xCMarv7T0jZCkiKuSrruC4jAbXcciQmdAv8IcNjsqnXvqGMQekwi3mL7EN-nPEywI-NmAIFGeWFau85wN_1FgYw%3D%3D&rank=3&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_DYN&position=3&beaconIssued=2022-02-25T17%3A35%3A17&sort=RECOMMENDED&top_dp=13999&top_cur=INR&semdtl=&userIntent=&selectedRoomType=314051772&selectedRatePlan=381427476"
+      },
+      "clientSideAnalytics": {
+        "referrerId": "HOT.SR:HotelModule:3",
+        "linkName": "View selected property"
+      }
+    },
+    "sponsoredListing": {
+      "id": "65573",
+      "clickRedirectTrackingUrl": "https://www.expedia.co.in/taps/v1/ClRedirect?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&destinationUrl=&rank=3&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEEdaBLlBiVdEixPxwiCPTMsyg5s32ugV01nOCdIE0oCiBHLRobM_RQKEEEwNyCKwJ1FSsm1yTnX0AAh-80sNjDby3VkBu0JVRsesm6hTL0-gcU28A0uTKByWJSQvYunnDr1Nhi8RShnXFgarY9c_iX8jaGT_Ryb0QwcWKO_aBWBh1gf9c2URUgfL_3pHl6Sww3GOQkGqHBCGo_v7wEGUWAUCQwHIbd8k4sQ4S0yFFo501_nYdb02vlukrzgcI0NA24Sp0d0Pxd7HwcAhvKjq4iJFKkhpCAt1ICnaeaZCtQri3w9JWzFsu6T7iJedBaPtTI3Zq22xWoGEJN1RzGgYXIawlJNi81cY8GyMhRsxKc-gCmy67y6DhktjPMac77so99m4HZCi4ubRRSFfnTNgW-rsRby7MUyCldLyGfLgjNlS2_aBkp-iFrcTvC18y2d3E0kGc2c2Vv2X84T9LHhcO-J5YajeG1k3T2SAeHyBah9wel2beGhZD8BtG2tc01xifyyqUvRMengTXexGDpijKhW2bkpjM38eFIIvCaItBGeYflv33HzMfd0q771y30EO1-u6V3JeYVStCQUlaUB0IEl58zaBlyNQVI0gyQbmqEdNXkhMvxtTJpn1xJmsk9UAwyUz4uQm3uOJ9fI0JMLn_meBZioqKL-ntw4LBO7T32ojJgzPbj2g1wN2r44zG3tKnjhHDPHbHsU7dppfxeewqRuzUJIkEWaGdUppHBMzKQ5ESryOLnv-i0TYfFaYRB8X1yInIVkFitq5Nz8nULDVtu5OXyo0l7KJdNOng8rR9JYJ-RcIVh2SzZuF3ofxr-_IiZySlSsHs8PQ5SZFsDYG_r2MnFe3C9Ojd5tcMj6giln--hkqAx7_fy9fTYC4t6JUlb4DO4TupsoGage7Exk-W7Wou0pSpxVV_9zzTF_n6fN5GvmKb0EnZAkhwsFyt91B4x15kzFUNHnBFwFY5lLzf9TuOGeQrDOqXCdjGFBOmjH0GWbOK-7_J6F5-MFt0BfUUYMn6Bvb4fOZ30_5ZW9k4dVJ_D8OmFohfwUkkJwxfq3xCMarv7T0jZCkiKuSrruC4jAbXcciQmdAv8IcNjsqnXvqGMQekwi3mL7EN-nPEywI-NmAIFGeWFau85wN_1FgYw==&slots=HSR_DYN&position=3&beaconIssued=2022-02-25T17:35:17",
+      "clickTrackingUrl": "https://www.expedia.co.in/taps/v1/Cl?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=3&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEEdaBLlBiVdEixPxwiCPTMsyg5s32ugV01nOCdIE0oCiBHLRobM_RQKEEEwNyCKwJ1FSsm1yTnX0AAh-80sNjDby3VkBu0JVRsesm6hTL0-gcU28A0uTKByWJSQvYunnDr1Nhi8RShnXFgarY9c_iX8jaGT_Ryb0QwcWKO_aBWBh1gf9c2URUgfL_3pHl6Sww3GOQkGqHBCGo_v7wEGUWAUCQwHIbd8k4sQ4S0yFFo501_nYdb02vlukrzgcI0NA24Sp0d0Pxd7HwcAhvKjq4iJFKkhpCAt1ICnaeaZCtQri3w9JWzFsu6T7iJedBaPtTI3Zq22xWoGEJN1RzGgYXIawlJNi81cY8GyMhRsxKc-gCmy67y6DhktjPMac77so99m4HZCi4ubRRSFfnTNgW-rsRby7MUyCldLyGfLgjNlS2_aBkp-iFrcTvC18y2d3E0kGc2c2Vv2X84T9LHhcO-J5YajeG1k3T2SAeHyBah9wel2beGhZD8BtG2tc01xifyyqUvRMengTXexGDpijKhW2bkpjM38eFIIvCaItBGeYflv33HzMfd0q771y30EO1-u6V3JeYVStCQUlaUB0IEl58zaBlyNQVI0gyQbmqEdNXkhMvxtTJpn1xJmsk9UAwyUz4uQm3uOJ9fI0JMLn_meBZioqKL-ntw4LBO7T32ojJgzPbj2g1wN2r44zG3tKnjhHDPHbHsU7dppfxeewqRuzUJIkEWaGdUppHBMzKQ5ESryOLnv-i0TYfFaYRB8X1yInIVkFitq5Nz8nULDVtu5OXyo0l7KJdNOng8rR9JYJ-RcIVh2SzZuF3ofxr-_IiZySlSsHs8PQ5SZFsDYG_r2MnFe3C9Ojd5tcMj6giln--hkqAx7_fy9fTYC4t6JUlb4DO4TupsoGage7Exk-W7Wou0pSpxVV_9zzTF_n6fN5GvmKb0EnZAkhwsFyt91B4x15kzFUNHnBFwFY5lLzf9TuOGeQrDOqXCdjGFBOmjH0GWbOK-7_J6F5-MFt0BfUUYMn6Bvb4fOZ30_5ZW9k4dVJ_D8OmFohfwUkkJwxfq3xCMarv7T0jZCkiKuSrruC4jAbXcciQmdAv8IcNjsqnXvqGMQekwi3mL7EN-nPEywI-NmAIFGeWFau85wN_1FgYw==&slots=HSR_DYN&position=3&beaconIssued=2022-02-25T17:35:17",
+      "details": "Enjoy your stay inclusive of breakfast, one major meal, shared airport transfers, one Goan Masterclass and more",
+      "detailsHeadline": "Great Small Breaks: Perfect Staycation",
+      "hotelImage": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/25000000/24060000/24057300/24057290/7d26f557_b.jpg",
+      "impressionTrackingUrl": "https://www.expedia.co.in/taps/v1/Impr?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=3&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEEdaBLlBiVdEixPxwiCPTMsyg5s32ugV01nOCdIE0oCiBHLRobM_RQKEEEwNyCKwJ1FSsm1yTnX0AAh-80sNjDby3VkBu0JVRsesm6hTL0-gcU28A0uTKByWJSQvYunnDr1Nhi8RShnXFgarY9c_iX8jaGT_Ryb0QwcWKO_aBWBh1gf9c2URUgfL_3pHl6Sww3GOQkGqHBCGo_v7wEGUWAUCQwHIbd8k4sQ4S0yFFo501_nYdb02vlukrzgcI0NA24Sp0d0Pxd7HwcAhvKjq4iJFKkhpCAt1ICnaeaZCtQri3w9JWzFsu6T7iJedBaPtTI3Zq22xWoGEJN1RzGgYXIawlJNi81cY8GyMhRsxKc-gCmy67y6DhktjPMac77so99m4HZCi4ubRRSFfnTNgW-rsRby7MUyCldLyGfLgjNlS2_aBkp-iFrcTvC18y2d3E0kGc2c2Vv2X84T9LHhcO-J5YajeG1k3T2SAeHyBah9wel2beGhZD8BtG2tc01xifyyqUvRMengTXexGDpijKhW2bkpjM38eFIIvCaItBGeYflv33HzMfd0q771y30EO1-u6V3JeYVStCQUlaUB0IEl58zaBlyNQVI0gyQbmqEdNXkhMvxtTJpn1xJmsk9UAwyUz4uQm3uOJ9fI0JMLn_meBZioqKL-ntw4LBO7T32ojJgzPbj2g1wN2r44zG3tKnjhHDPHbHsU7dppfxeewqRuzUJIkEWaGdUppHBMzKQ5ESryOLnv-i0TYfFaYRB8X1yInIVkFitq5Nz8nULDVtu5OXyo0l7KJdNOng8rR9JYJ-RcIVh2SzZuF3ofxr-_IiZySlSsHs8PQ5SZFsDYG_r2MnFe3C9Ojd5tcMj6giln--hkqAx7_fy9fTYC4t6JUlb4DO4TupsoGage7Exk-W7Wou0pSpxVV_9zzTF_n6fN5GvmKb0EnZAkhwsFyt91B4x15kzFUNHnBFwFY5lLzf9TuOGeQrDOqXCdjGFBOmjH0GWbOK-7_J6F5-MFt0BfUUYMn6Bvb4fOZ30_5ZW9k4dVJ_D8OmFohfwUkkJwxfq3xCMarv7T0jZCkiKuSrruC4jAbXcciQmdAv8IcNjsqnXvqGMQekwi3mL7EN-nPEywI-NmAIFGeWFau85wN_1FgYw==&slots=HSR_DYN&position=3&beaconIssued=2022-02-25T17:35:17",
+      "trackingData": "AAAAEEdaBLlBiVdEixPxwiCPTMsyg5s32ugV01nOCdIE0oCiBHLRobM_RQKEEEwNyCKwJ1FSsm1yTnX0AAh-80sNjDby3VkBu0JVRsesm6hTL0-gcU28A0uTKByWJSQvYunnDr1Nhi8RShnXFgarY9c_iX8jaGT_Ryb0QwcWKO_aBWBh1gf9c2URUgfL_3pHl6Sww3GOQkGqHBCGo_v7wEGUWAUCQwHIbd8k4sQ4S0yFFo501_nYdb02vlukrzgcI0NA24Sp0d0Pxd7HwcAhvKjq4iJFKkhpCAt1ICnaeaZCtQri3w9JWzFsu6T7iJedBaPtTI3Zq22xWoGEJN1RzGgYXIawlJNi81cY8GyMhRsxKc-gCmy67y6DhktjPMac77so99m4HZCi4ubRRSFfnTNgW-rsRby7MUyCldLyGfLgjNlS2_aBkp-iFrcTvC18y2d3E0kGc2c2Vv2X84T9LHhcO-J5YajeG1k3T2SAeHyBah9wel2beGhZD8BtG2tc01xifyyqUvRMengTXexGDpijKhW2bkpjM38eFIIvCaItBGeYflv33HzMfd0q771y30EO1-u6V3JeYVStCQUlaUB0IEl58zaBlyNQVI0gyQbmqEdNXkhMvxtTJpn1xJmsk9UAwyUz4uQm3uOJ9fI0JMLn_meBZioqKL-ntw4LBO7T32ojJgzPbj2g1wN2r44zG3tKnjhHDPHbHsU7dppfxeewqRuzUJIkEWaGdUppHBMzKQ5ESryOLnv-i0TYfFaYRB8X1yInIVkFitq5Nz8nULDVtu5OXyo0l7KJdNOng8rR9JYJ-RcIVh2SzZuF3ofxr-_IiZySlSsHs8PQ5SZFsDYG_r2MnFe3C9Ojd5tcMj6giln--hkqAx7_fy9fTYC4t6JUlb4DO4TupsoGage7Exk-W7Wou0pSpxVV_9zzTF_n6fN5GvmKb0EnZAkhwsFyt91B4x15kzFUNHnBFwFY5lLzf9TuOGeQrDOqXCdjGFBOmjH0GWbOK-7_J6F5-MFt0BfUUYMn6Bvb4fOZ30_5ZW9k4dVJ_D8OmFohfwUkkJwxfq3xCMarv7T0jZCkiKuSrruC4jAbXcciQmdAv8IcNjsqnXvqGMQekwi3mL7EN-nPEywI-NmAIFGeWFau85wN_1FgYw==",
+      "brand": null,
+      "clickRedirectLinkoffTrackingUrl": null,
+      "logo": null,
+      "lotagline": null,
+      "rating": "0",
+      "slots": "HSR_DYN",
+      "vanityUrl": null,
+      "rank": "3",
+      "position": "3"
+    },
+    "amenities": [],
+    "star": null,
+    "starRatingIcon": "STAR",
+    "availability": {
+      "available": true,
+      "text": null,
+      "theme": "URGENT"
+    },
+    "offerSummary": {
+      "messages": [
+        {
+          "message": "Fully refundable",
+          "theme": "SUCCESS",
+          "type": "FREE_CANCEL",
+          "mark": null
+        },
+        {
+          "message": "Reserve now, pay later",
+          "theme": "SUCCESS",
+          "type": "PAY_LATER",
+          "mark": null
+        }
+      ]
+    },
+    "legalDisclaimer": null,
+    "imageGallery": {
+      "accessibilityLabel": "Photo gallery for Hilton Goa Resort",
+      "images": [
+        {
+          "image": {
+            "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/25000000/24060000/24057300/24057290/7d26f557_b.jpg",
+            "description": "Featured image"
+          },
+          "subjectId": 3,
+          "fallbackImage": {
+            "url": "https://images.trvl-media.com/hotels/25000000/24060000/24057300/24057290/8039a091.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Featured image"
+          },
+          "imageId": "606716679"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/25000000/24060000/24057300/24057290/cf70e5ad.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Front of Property"
+          },
+          "subjectId": 91001,
+          "fallbackImage": null,
+          "imageId": "475092768"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/25000000/24060000/24057300/24057290/1860bf90.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Infinity pool"
+          },
+          "subjectId": 30005,
+          "fallbackImage": null,
+          "imageId": "475127908"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/25000000/24060000/24057300/24057290/60a40f17.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Bedroom"
+          },
+          "subjectId": 21001,
+          "fallbackImage": null,
+          "imageId": "606716708"
+        }
+      ]
+    },
+    "mapMarker": {
+      "icon": "HOTEL",
+      "label": "Rs13,999",
+      "type": "HOTEL",
+      "latLong": {
+        "latitude": 15.520106,
+        "longitude": 73.794507
+      },
+      "clientSideAnalytics": {
+        "referrerId": "Module.Map.HotelMarkerSelect",
+        "linkName": "User selecting a hotel marker on the PWA HSR map"
+      }
+    },
+    "neighborhood": {
+      "name": "Saipem"
+    },
+    "pinnedDetails": null,
+    "recentlyViewed": null,
+    "featuredMessages": null,
+    "supportingMessages": ["Excludes taxes & fees"],
+    "shortList": {
+      "favorited": false,
+      "saveUrl": "/api/ucs/shortlist/save/24057290",
+      "removeUrl": "/api/ucs/shortlist/remove/24057290",
+      "metaData": {
+        "chkIn": "20220311",
+        "chkOut": "20220312",
+        "hotelId": "24057290",
+        "roomConfiguration": "2"
+      }
+    },
+    "highlightedPropertyDetails": [],
+    "propertySource": null,
+    "dataAttributes": null,
+    "listingFooter": null
+  },
+  {
+    "__typename": "Property",
+    "id": "66031217",
+    "name": "The Westin Goa",
+    "propertyImage": {
+      "image": {
+        "description": "Featured image",
+        "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/67000000/66040000/66031300/66031217/d7b52c39_b.jpg"
+      },
+      "fallbackImage": {
+        "description": "Featured image",
+        "url": "https://images.trvl-media.com/hotels/67000000/66040000/66031300/66031217/b97c090e.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      }
+    },
+    "offerBadge": {
+      "primary": {
+        "text": "Ad",
+        "theme_temp": "SPONSORED",
+        "icon_temp": null,
+        "mark": null
+      },
+      "secondary": {
+        "text": "We have 3 left at",
+        "theme_temp": "DEAL_GENERIC",
+        "icon_temp": null
+      }
+    },
+    "price": {
+      "alignment": null,
+      "displayMessages": null,
+      "lead": {
+        "formatted": "Rs18,279"
+      },
+      "strikeOutType": "STANDALONE",
+      "strikeOut": null,
+      "disclaimer": null,
+      "roomNightMessage": "per night",
+      "priceMessages": [
+        {
+          "value": "per night"
+        }
+      ],
+      "marketingFeeDetails": null,
+      "options": [
+        {
+          "leadingCaption": null,
+          "displayPrice": {
+            "formatted": "Rs18,279"
+          },
+          "strikeOut": null,
+          "loyaltyPrice": null,
+          "disclaimer": null
+        }
+      ]
+    },
+    "reviews": {
+      "score": 4.8,
+      "localizedScore": "4.8",
+      "total": 11,
+      "localizedTotal": "11 reviews",
+      "superlative": "Exceptional",
+      "localizedSubtitle": "4.8 / 5 (11 reviews)",
+      "localizedSubtitleA11y": {
+        "accessibilityLabel": "4.8 out of 5 Exceptional (11 reviews)",
+        "value": "4.8/5 Exceptional (11 reviews)"
+      },
+      "mark": null
+    },
+    "destinationInfo": {
+      "distanceFromMessaging": null
+    },
+    "vipMessaging": null,
+    "propertyDetailsLink": {
+      "uri": {
+        "value": "https://www.expedia.co.in/Anjuna-Hotels-The-Westin-Goa.h66031217.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810519621&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=6049928&destination=Goa%2C+India&destType=MARKET&trackingData=AAAAECDClLcdgUb7yq0T87igfQI8pHG_AytvzMHQQivZ90yZAScemX66a5K3_bVSPQaH2uqlP0L-SbaoORZ-CTgqGYOjoRSRIGdpduHJ3ugHL65dGsvWYftn93_Eld1T6vOwr-yoqiRo0Vu_gicmbCfUsuF8yCect3GjEXeB9dSomAdz-_SGbvyrHAFSk99t1xuGP1XSn-6aCkFQF49K1qhAk3HZ9b_TizDTi5kgaDnM3w7gz-hLO4RZTfQRG3nxGn0BMYBpbDa0dliV7AVizzmn9Z4dJM8TXZZ5jyca5Iybv2ClH0kg-9jcMIyHppC8Z-_sp_MhXM5kGbUmvwMsmFjufaYVriPbLofQLJWknmbFuSOSuEVZKD9xWt5ECUCOWCqu2tut19DWtjzi6NfmFBqdduQmEt3aAI2UnYDLDKXQiKm-0tQpr2OZZqGT52jgrQbeTw7p1nCUloDmJsxn59cU9wM559r-PC5jXOwJ9T4hJRD-dRST8KJW9R49DhVRcwXVe2iPV_InIf5nxZ3aFymk6KBTyzFRsRYn1AOHwkyG5I3YHeiSk0Txi8Ng-YhQP3YcrQoZdQhv0TpYU_R2xo5BWD0IDMbNq2vFZ6_KbJQ5zRrk8hSP3uF85C65LkN-pWTCnS1H46sZ2c-JBmxXuvtZX0WpeYmj4O1ZdVe1WMvubYBtuDW6wC889wBlwXX6c6fzmLPeZ2NdMxI0qivjR9rY69XzPNV0dLkeCoPN2SjSZnVTzIU92oVHyCj3wNJtP3_r2DhdD6G85A6vULC3N_x7T4c7HaF6PuGHFNwNcT95mDLQ5nmB1ksZAYcytF7fHuL-Cf1ol2S15fAFQLH6dC3HbRLjNjgrzRaaODTKzHVOSjzPZlooDMMcXVIg_y9hR4f4HxiNV0r3WpR7FJTWai-R-s3o0TLSzXH6L5YQUuoW9LPWCVN-8ZDMdlTMtDVrY7E2xOCyxsAseVtPczI92F-fg8-MHhmSOdXT-COnwdFZuVlnnk3wEEErwSYqYbE5LQkbIoRgh_iA9az2B53lX3CyV9azM2mQYIWU8F4fFhJ9DszreZPn0zraklWBphMMi1Yc1xFlS8xS4p4xYdV-qTEvBPSOo3Ztc5iT4Ndi0Fp7ma3OOJ5wDIFnpmdzbUNrRNw_KQ%3D%3D&rank=4&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_AB&position=4&beaconIssued=2022-02-25T17%3A35%3A17&sort=RECOMMENDED&top_dp=18279&top_cur=INR&semdtl=&userIntent=&selectedRoomType=229267278&selectedRatePlan=268374379",
+        "relativePath": "/Anjuna-Hotels-The-Westin-Goa.h66031217.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810519621&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=6049928&destination=Goa%2C+India&destType=MARKET&trackingData=AAAAECDClLcdgUb7yq0T87igfQI8pHG_AytvzMHQQivZ90yZAScemX66a5K3_bVSPQaH2uqlP0L-SbaoORZ-CTgqGYOjoRSRIGdpduHJ3ugHL65dGsvWYftn93_Eld1T6vOwr-yoqiRo0Vu_gicmbCfUsuF8yCect3GjEXeB9dSomAdz-_SGbvyrHAFSk99t1xuGP1XSn-6aCkFQF49K1qhAk3HZ9b_TizDTi5kgaDnM3w7gz-hLO4RZTfQRG3nxGn0BMYBpbDa0dliV7AVizzmn9Z4dJM8TXZZ5jyca5Iybv2ClH0kg-9jcMIyHppC8Z-_sp_MhXM5kGbUmvwMsmFjufaYVriPbLofQLJWknmbFuSOSuEVZKD9xWt5ECUCOWCqu2tut19DWtjzi6NfmFBqdduQmEt3aAI2UnYDLDKXQiKm-0tQpr2OZZqGT52jgrQbeTw7p1nCUloDmJsxn59cU9wM559r-PC5jXOwJ9T4hJRD-dRST8KJW9R49DhVRcwXVe2iPV_InIf5nxZ3aFymk6KBTyzFRsRYn1AOHwkyG5I3YHeiSk0Txi8Ng-YhQP3YcrQoZdQhv0TpYU_R2xo5BWD0IDMbNq2vFZ6_KbJQ5zRrk8hSP3uF85C65LkN-pWTCnS1H46sZ2c-JBmxXuvtZX0WpeYmj4O1ZdVe1WMvubYBtuDW6wC889wBlwXX6c6fzmLPeZ2NdMxI0qivjR9rY69XzPNV0dLkeCoPN2SjSZnVTzIU92oVHyCj3wNJtP3_r2DhdD6G85A6vULC3N_x7T4c7HaF6PuGHFNwNcT95mDLQ5nmB1ksZAYcytF7fHuL-Cf1ol2S15fAFQLH6dC3HbRLjNjgrzRaaODTKzHVOSjzPZlooDMMcXVIg_y9hR4f4HxiNV0r3WpR7FJTWai-R-s3o0TLSzXH6L5YQUuoW9LPWCVN-8ZDMdlTMtDVrY7E2xOCyxsAseVtPczI92F-fg8-MHhmSOdXT-COnwdFZuVlnnk3wEEErwSYqYbE5LQkbIoRgh_iA9az2B53lX3CyV9azM2mQYIWU8F4fFhJ9DszreZPn0zraklWBphMMi1Yc1xFlS8xS4p4xYdV-qTEvBPSOo3Ztc5iT4Ndi0Fp7ma3OOJ5wDIFnpmdzbUNrRNw_KQ%3D%3D&rank=4&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_AB&position=4&beaconIssued=2022-02-25T17%3A35%3A17&sort=RECOMMENDED&top_dp=18279&top_cur=INR&semdtl=&userIntent=&selectedRoomType=229267278&selectedRatePlan=268374379"
+      },
+      "clientSideAnalytics": {
+        "referrerId": "HOT.SR:HotelModule:4",
+        "linkName": "View selected property"
+      }
+    },
+    "sponsoredListing": {
+      "id": "600806",
+      "clickRedirectTrackingUrl": "https://www.expedia.co.in/taps/v1/ClRedirect?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&destinationUrl=&rank=4&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAECDClLcdgUb7yq0T87igfQI8pHG_AytvzMHQQivZ90yZAScemX66a5K3_bVSPQaH2uqlP0L-SbaoORZ-CTgqGYOjoRSRIGdpduHJ3ugHL65dGsvWYftn93_Eld1T6vOwr-yoqiRo0Vu_gicmbCfUsuF8yCect3GjEXeB9dSomAdz-_SGbvyrHAFSk99t1xuGP1XSn-6aCkFQF49K1qhAk3HZ9b_TizDTi5kgaDnM3w7gz-hLO4RZTfQRG3nxGn0BMYBpbDa0dliV7AVizzmn9Z4dJM8TXZZ5jyca5Iybv2ClH0kg-9jcMIyHppC8Z-_sp_MhXM5kGbUmvwMsmFjufaYVriPbLofQLJWknmbFuSOSuEVZKD9xWt5ECUCOWCqu2tut19DWtjzi6NfmFBqdduQmEt3aAI2UnYDLDKXQiKm-0tQpr2OZZqGT52jgrQbeTw7p1nCUloDmJsxn59cU9wM559r-PC5jXOwJ9T4hJRD-dRST8KJW9R49DhVRcwXVe2iPV_InIf5nxZ3aFymk6KBTyzFRsRYn1AOHwkyG5I3YHeiSk0Txi8Ng-YhQP3YcrQoZdQhv0TpYU_R2xo5BWD0IDMbNq2vFZ6_KbJQ5zRrk8hSP3uF85C65LkN-pWTCnS1H46sZ2c-JBmxXuvtZX0WpeYmj4O1ZdVe1WMvubYBtuDW6wC889wBlwXX6c6fzmLPeZ2NdMxI0qivjR9rY69XzPNV0dLkeCoPN2SjSZnVTzIU92oVHyCj3wNJtP3_r2DhdD6G85A6vULC3N_x7T4c7HaF6PuGHFNwNcT95mDLQ5nmB1ksZAYcytF7fHuL-Cf1ol2S15fAFQLH6dC3HbRLjNjgrzRaaODTKzHVOSjzPZlooDMMcXVIg_y9hR4f4HxiNV0r3WpR7FJTWai-R-s3o0TLSzXH6L5YQUuoW9LPWCVN-8ZDMdlTMtDVrY7E2xOCyxsAseVtPczI92F-fg8-MHhmSOdXT-COnwdFZuVlnnk3wEEErwSYqYbE5LQkbIoRgh_iA9az2B53lX3CyV9azM2mQYIWU8F4fFhJ9DszreZPn0zraklWBphMMi1Yc1xFlS8xS4p4xYdV-qTEvBPSOo3Ztc5iT4Ndi0Fp7ma3OOJ5wDIFnpmdzbUNrRNw_KQ==&slots=HSR_AB&position=4&beaconIssued=2022-02-25T17:35:17",
+      "clickTrackingUrl": "https://www.expedia.co.in/taps/v1/Cl?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=4&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAECDClLcdgUb7yq0T87igfQI8pHG_AytvzMHQQivZ90yZAScemX66a5K3_bVSPQaH2uqlP0L-SbaoORZ-CTgqGYOjoRSRIGdpduHJ3ugHL65dGsvWYftn93_Eld1T6vOwr-yoqiRo0Vu_gicmbCfUsuF8yCect3GjEXeB9dSomAdz-_SGbvyrHAFSk99t1xuGP1XSn-6aCkFQF49K1qhAk3HZ9b_TizDTi5kgaDnM3w7gz-hLO4RZTfQRG3nxGn0BMYBpbDa0dliV7AVizzmn9Z4dJM8TXZZ5jyca5Iybv2ClH0kg-9jcMIyHppC8Z-_sp_MhXM5kGbUmvwMsmFjufaYVriPbLofQLJWknmbFuSOSuEVZKD9xWt5ECUCOWCqu2tut19DWtjzi6NfmFBqdduQmEt3aAI2UnYDLDKXQiKm-0tQpr2OZZqGT52jgrQbeTw7p1nCUloDmJsxn59cU9wM559r-PC5jXOwJ9T4hJRD-dRST8KJW9R49DhVRcwXVe2iPV_InIf5nxZ3aFymk6KBTyzFRsRYn1AOHwkyG5I3YHeiSk0Txi8Ng-YhQP3YcrQoZdQhv0TpYU_R2xo5BWD0IDMbNq2vFZ6_KbJQ5zRrk8hSP3uF85C65LkN-pWTCnS1H46sZ2c-JBmxXuvtZX0WpeYmj4O1ZdVe1WMvubYBtuDW6wC889wBlwXX6c6fzmLPeZ2NdMxI0qivjR9rY69XzPNV0dLkeCoPN2SjSZnVTzIU92oVHyCj3wNJtP3_r2DhdD6G85A6vULC3N_x7T4c7HaF6PuGHFNwNcT95mDLQ5nmB1ksZAYcytF7fHuL-Cf1ol2S15fAFQLH6dC3HbRLjNjgrzRaaODTKzHVOSjzPZlooDMMcXVIg_y9hR4f4HxiNV0r3WpR7FJTWai-R-s3o0TLSzXH6L5YQUuoW9LPWCVN-8ZDMdlTMtDVrY7E2xOCyxsAseVtPczI92F-fg8-MHhmSOdXT-COnwdFZuVlnnk3wEEErwSYqYbE5LQkbIoRgh_iA9az2B53lX3CyV9azM2mQYIWU8F4fFhJ9DszreZPn0zraklWBphMMi1Yc1xFlS8xS4p4xYdV-qTEvBPSOo3Ztc5iT4Ndi0Fp7ma3OOJ5wDIFnpmdzbUNrRNw_KQ==&slots=HSR_AB&position=4&beaconIssued=2022-02-25T17:35:17",
+      "details": "Located in Anjuna, The Westin Goa is perfect for staycations, families, and young couples. Shuttle service to airport provided.",
+      "detailsHeadline": "Rediscover Goa in Anjuna",
+      "hotelImage": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/67000000/66040000/66031300/66031217/d7b52c39_b.jpg",
+      "impressionTrackingUrl": "https://www.expedia.co.in/taps/v1/Impr?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=4&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAECDClLcdgUb7yq0T87igfQI8pHG_AytvzMHQQivZ90yZAScemX66a5K3_bVSPQaH2uqlP0L-SbaoORZ-CTgqGYOjoRSRIGdpduHJ3ugHL65dGsvWYftn93_Eld1T6vOwr-yoqiRo0Vu_gicmbCfUsuF8yCect3GjEXeB9dSomAdz-_SGbvyrHAFSk99t1xuGP1XSn-6aCkFQF49K1qhAk3HZ9b_TizDTi5kgaDnM3w7gz-hLO4RZTfQRG3nxGn0BMYBpbDa0dliV7AVizzmn9Z4dJM8TXZZ5jyca5Iybv2ClH0kg-9jcMIyHppC8Z-_sp_MhXM5kGbUmvwMsmFjufaYVriPbLofQLJWknmbFuSOSuEVZKD9xWt5ECUCOWCqu2tut19DWtjzi6NfmFBqdduQmEt3aAI2UnYDLDKXQiKm-0tQpr2OZZqGT52jgrQbeTw7p1nCUloDmJsxn59cU9wM559r-PC5jXOwJ9T4hJRD-dRST8KJW9R49DhVRcwXVe2iPV_InIf5nxZ3aFymk6KBTyzFRsRYn1AOHwkyG5I3YHeiSk0Txi8Ng-YhQP3YcrQoZdQhv0TpYU_R2xo5BWD0IDMbNq2vFZ6_KbJQ5zRrk8hSP3uF85C65LkN-pWTCnS1H46sZ2c-JBmxXuvtZX0WpeYmj4O1ZdVe1WMvubYBtuDW6wC889wBlwXX6c6fzmLPeZ2NdMxI0qivjR9rY69XzPNV0dLkeCoPN2SjSZnVTzIU92oVHyCj3wNJtP3_r2DhdD6G85A6vULC3N_x7T4c7HaF6PuGHFNwNcT95mDLQ5nmB1ksZAYcytF7fHuL-Cf1ol2S15fAFQLH6dC3HbRLjNjgrzRaaODTKzHVOSjzPZlooDMMcXVIg_y9hR4f4HxiNV0r3WpR7FJTWai-R-s3o0TLSzXH6L5YQUuoW9LPWCVN-8ZDMdlTMtDVrY7E2xOCyxsAseVtPczI92F-fg8-MHhmSOdXT-COnwdFZuVlnnk3wEEErwSYqYbE5LQkbIoRgh_iA9az2B53lX3CyV9azM2mQYIWU8F4fFhJ9DszreZPn0zraklWBphMMi1Yc1xFlS8xS4p4xYdV-qTEvBPSOo3Ztc5iT4Ndi0Fp7ma3OOJ5wDIFnpmdzbUNrRNw_KQ==&slots=HSR_AB&position=4&beaconIssued=2022-02-25T17:35:17",
+      "trackingData": "AAAAECDClLcdgUb7yq0T87igfQI8pHG_AytvzMHQQivZ90yZAScemX66a5K3_bVSPQaH2uqlP0L-SbaoORZ-CTgqGYOjoRSRIGdpduHJ3ugHL65dGsvWYftn93_Eld1T6vOwr-yoqiRo0Vu_gicmbCfUsuF8yCect3GjEXeB9dSomAdz-_SGbvyrHAFSk99t1xuGP1XSn-6aCkFQF49K1qhAk3HZ9b_TizDTi5kgaDnM3w7gz-hLO4RZTfQRG3nxGn0BMYBpbDa0dliV7AVizzmn9Z4dJM8TXZZ5jyca5Iybv2ClH0kg-9jcMIyHppC8Z-_sp_MhXM5kGbUmvwMsmFjufaYVriPbLofQLJWknmbFuSOSuEVZKD9xWt5ECUCOWCqu2tut19DWtjzi6NfmFBqdduQmEt3aAI2UnYDLDKXQiKm-0tQpr2OZZqGT52jgrQbeTw7p1nCUloDmJsxn59cU9wM559r-PC5jXOwJ9T4hJRD-dRST8KJW9R49DhVRcwXVe2iPV_InIf5nxZ3aFymk6KBTyzFRsRYn1AOHwkyG5I3YHeiSk0Txi8Ng-YhQP3YcrQoZdQhv0TpYU_R2xo5BWD0IDMbNq2vFZ6_KbJQ5zRrk8hSP3uF85C65LkN-pWTCnS1H46sZ2c-JBmxXuvtZX0WpeYmj4O1ZdVe1WMvubYBtuDW6wC889wBlwXX6c6fzmLPeZ2NdMxI0qivjR9rY69XzPNV0dLkeCoPN2SjSZnVTzIU92oVHyCj3wNJtP3_r2DhdD6G85A6vULC3N_x7T4c7HaF6PuGHFNwNcT95mDLQ5nmB1ksZAYcytF7fHuL-Cf1ol2S15fAFQLH6dC3HbRLjNjgrzRaaODTKzHVOSjzPZlooDMMcXVIg_y9hR4f4HxiNV0r3WpR7FJTWai-R-s3o0TLSzXH6L5YQUuoW9LPWCVN-8ZDMdlTMtDVrY7E2xOCyxsAseVtPczI92F-fg8-MHhmSOdXT-COnwdFZuVlnnk3wEEErwSYqYbE5LQkbIoRgh_iA9az2B53lX3CyV9azM2mQYIWU8F4fFhJ9DszreZPn0zraklWBphMMi1Yc1xFlS8xS4p4xYdV-qTEvBPSOo3Ztc5iT4Ndi0Fp7ma3OOJ5wDIFnpmdzbUNrRNw_KQ==",
+      "brand": null,
+      "clickRedirectLinkoffTrackingUrl": null,
+      "logo": null,
+      "lotagline": null,
+      "rating": "0",
+      "slots": "HSR_AB",
+      "vanityUrl": null,
+      "rank": "4",
+      "position": "4"
+    },
+    "amenities": [],
+    "star": null,
+    "starRatingIcon": "STAR",
+    "availability": {
+      "available": true,
+      "text": null,
+      "theme": "URGENT"
+    },
+    "offerSummary": {
+      "messages": []
+    },
+    "legalDisclaimer": null,
+    "imageGallery": {
+      "accessibilityLabel": "Photo gallery for The Westin Goa",
+      "images": [
+        {
+          "image": {
+            "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/67000000/66040000/66031300/66031217/d7b52c39_b.jpg",
+            "description": "Featured image"
+          },
+          "subjectId": 3,
+          "fallbackImage": {
+            "url": "https://images.trvl-media.com/hotels/67000000/66040000/66031300/66031217/b97c090e.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Featured image"
+          },
+          "imageId": "532100537"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/67000000/66040000/66031300/66031217/79c43777.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Outdoor dining"
+          },
+          "subjectId": 91007,
+          "fallbackImage": null,
+          "imageId": "536718889"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/67000000/66040000/66031300/66031217/18320cac.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Pool"
+          },
+          "subjectId": 30000,
+          "fallbackImage": null,
+          "imageId": "572192961"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/67000000/66040000/66031300/66031217/7577bdf7.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Bedroom"
+          },
+          "subjectId": 21001,
+          "fallbackImage": null,
+          "imageId": "532100519"
+        }
+      ]
+    },
+    "mapMarker": {
+      "icon": "HOTEL",
+      "label": "Rs18,279",
+      "type": "HOTEL",
+      "latLong": {
+        "latitude": 15.589355,
+        "longitude": 73.743438
+      },
+      "clientSideAnalytics": {
+        "referrerId": "Module.Map.HotelMarkerSelect",
+        "linkName": "User selecting a hotel marker on the PWA HSR map"
+      }
+    },
+    "neighborhood": {
+      "name": "Anjuna"
+    },
+    "pinnedDetails": null,
+    "recentlyViewed": null,
+    "featuredMessages": null,
+    "supportingMessages": ["Excludes taxes & fees"],
+    "shortList": {
+      "favorited": false,
+      "saveUrl": "/api/ucs/shortlist/save/66031217",
+      "removeUrl": "/api/ucs/shortlist/remove/66031217",
+      "metaData": {
+        "chkIn": "20220311",
+        "chkOut": "20220312",
+        "hotelId": "66031217",
+        "roomConfiguration": "2"
+      }
+    },
+    "highlightedPropertyDetails": [],
+    "propertySource": null,
+    "dataAttributes": null,
+    "listingFooter": null
+  },
+  {
+    "__typename": "Property",
+    "id": "15439133",
+    "name": "W Goa",
+    "propertyImage": {
+      "image": {
+        "description": "Featured image",
+        "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/16000000/15440000/15439200/15439133/6aa45d81_b.jpg"
+      },
+      "fallbackImage": {
+        "description": "Featured image",
+        "url": "https://images.trvl-media.com/hotels/16000000/15440000/15439200/15439133/6aa45d81.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      }
+    },
+    "offerBadge": {
+      "primary": {
+        "text": "Ad",
+        "theme_temp": "SPONSORED",
+        "icon_temp": null,
+        "mark": null
+      },
+      "secondary": {
+        "text": "We have 5 left at",
+        "theme_temp": "DEAL_GENERIC",
+        "icon_temp": null
+      }
+    },
+    "price": {
+      "alignment": null,
+      "displayMessages": null,
+      "lead": {
+        "formatted": "Rs30,195"
+      },
+      "strikeOutType": "PRICE_SURVEY",
+      "strikeOut": null,
+      "disclaimer": null,
+      "roomNightMessage": "per night",
+      "priceMessages": [
+        {
+          "value": "per night"
+        }
+      ],
+      "marketingFeeDetails": null,
+      "options": [
+        {
+          "leadingCaption": null,
+          "displayPrice": {
+            "formatted": "Rs30,195"
+          },
+          "strikeOut": null,
+          "loyaltyPrice": null,
+          "disclaimer": null
+        }
+      ]
+    },
+    "reviews": {
+      "score": 4.2,
+      "localizedScore": "4.2",
+      "total": 86,
+      "localizedTotal": "86 reviews",
+      "superlative": "Very good",
+      "localizedSubtitle": "4.2 / 5 (86 reviews)",
+      "localizedSubtitleA11y": {
+        "accessibilityLabel": "4.2 out of 5 Very good (86 reviews)",
+        "value": "4.2/5 Very good (86 reviews)"
+      },
+      "mark": null
+    },
+    "destinationInfo": {
+      "distanceFromMessaging": null
+    },
+    "vipMessaging": null,
+    "propertyDetailsLink": {
+      "uri": {
+        "value": "https://www.expedia.co.in/Vagator-Hotels-W-Goa.h15439133.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810519621&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=6049928&destination=Goa%2C+India&destType=MARKET&trackingData=AAAAEH3FNVHy931MIeLcdONr_c2HtDE_f_thWMVfvRw7WWuur0BRUFqDSHPJB-tY5A5-zfyQTRg-rl80ETiHPwlrgpA1e1nS11s_0qtccM0gOQrPuohjoiKG2WQhWNUQE4k-L8CI9i-9WxupH_3Cp33XuRqSR1F7hgHw3o_pwPe_J7c_kQ46n7uqajAjFvYMYuN6If33FGpzG7BQ_mTtkai6vvbYpcy-icuOPFfgQpOjxnMpffrkBMISn8SYfnSXeR2_wkZXg_LnZXNrGaSJkIrxPPZFZ0A8f8MaumAAe_A4WQNbs3VjN7sPnfViZ82MavjiMSgRKYXYgZgYPbXP4Il1s0V1j2bXCaaGTmXzjp0uC32vDGbCXVuudxV_u9DN_ruxXczHu4HSj-We5U19Nm5ld0hImusdyOu8Iicl3WB7E5zdZPTtt-4UxM9OdCRtSeLv-7OqHZB-UHXeWThoYv-_gzqAyTdx_y3SZRilb4FRa48JabQbRJgq7XsGTvh1MSvsdpmyO6U4enNs0yup0TgpOGWC67bEfW46yR4jTEiFQQSNo-jXt6flzQvnXqPq03aQm73M_fB1-Nv_JpMx8JpHJ_X3Qd2ErCU4zhtnzHbuwPGaKrRNT57RoR-EM0njPZS_XrNd3GJ-K8-P65jitOlORNg8A31ASeCDLOJ0srLNrwq2rcy4ySbhCSJJDpOajojSOFSTiWdaVgF0hcsotkrlUtLq2_aVQqxeDXzYrmU3mrwQBZR1C4BXrQnntzvWc39jkEKDL_sgzCaWdhtHcnS1CO0-L1pppbn2pptJiwh3h9Nu-ldYodAke60sxbM7-Byyv6L-VFN26kt9x65-zeewAP_OOUHTpYZfBAEqe3A-29rcS6Dh2sAqAHuJidJvZ0Wlny-ep8vaU7Kkti5WBygTXRDqhTFgJR3q1X_L8YkiIHBmdS2luvB4QnFainWwBut0Vm2p0rCujyxl-JUQpitdjw-1QtQ4StRMSvTQqRZq6wniQ2sDxTjmvsfKE0GUgJNDT8XiwLkw5S7rMMymu8zXvIpWEgw0EwA6-6tpcRwROhHG9ktxhqvAk0idv_faAFexkXHFscOs1L_i-dyfIvBEVhHsPg_lhZgG4WZOaNEB3cb9SA4KTtOpuhnVBN96Nb6IQw%3D%3D&rank=5&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_AC&position=5&beaconIssued=2022-02-25T17%3A35%3A17&sort=RECOMMENDED&top_dp=30195&top_cur=INR&semdtl=&userIntent=&selectedRoomType=220232105&selectedRatePlan=288137383",
+        "relativePath": "/Vagator-Hotels-W-Goa.h15439133.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810519621&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=6049928&destination=Goa%2C+India&destType=MARKET&trackingData=AAAAEH3FNVHy931MIeLcdONr_c2HtDE_f_thWMVfvRw7WWuur0BRUFqDSHPJB-tY5A5-zfyQTRg-rl80ETiHPwlrgpA1e1nS11s_0qtccM0gOQrPuohjoiKG2WQhWNUQE4k-L8CI9i-9WxupH_3Cp33XuRqSR1F7hgHw3o_pwPe_J7c_kQ46n7uqajAjFvYMYuN6If33FGpzG7BQ_mTtkai6vvbYpcy-icuOPFfgQpOjxnMpffrkBMISn8SYfnSXeR2_wkZXg_LnZXNrGaSJkIrxPPZFZ0A8f8MaumAAe_A4WQNbs3VjN7sPnfViZ82MavjiMSgRKYXYgZgYPbXP4Il1s0V1j2bXCaaGTmXzjp0uC32vDGbCXVuudxV_u9DN_ruxXczHu4HSj-We5U19Nm5ld0hImusdyOu8Iicl3WB7E5zdZPTtt-4UxM9OdCRtSeLv-7OqHZB-UHXeWThoYv-_gzqAyTdx_y3SZRilb4FRa48JabQbRJgq7XsGTvh1MSvsdpmyO6U4enNs0yup0TgpOGWC67bEfW46yR4jTEiFQQSNo-jXt6flzQvnXqPq03aQm73M_fB1-Nv_JpMx8JpHJ_X3Qd2ErCU4zhtnzHbuwPGaKrRNT57RoR-EM0njPZS_XrNd3GJ-K8-P65jitOlORNg8A31ASeCDLOJ0srLNrwq2rcy4ySbhCSJJDpOajojSOFSTiWdaVgF0hcsotkrlUtLq2_aVQqxeDXzYrmU3mrwQBZR1C4BXrQnntzvWc39jkEKDL_sgzCaWdhtHcnS1CO0-L1pppbn2pptJiwh3h9Nu-ldYodAke60sxbM7-Byyv6L-VFN26kt9x65-zeewAP_OOUHTpYZfBAEqe3A-29rcS6Dh2sAqAHuJidJvZ0Wlny-ep8vaU7Kkti5WBygTXRDqhTFgJR3q1X_L8YkiIHBmdS2luvB4QnFainWwBut0Vm2p0rCujyxl-JUQpitdjw-1QtQ4StRMSvTQqRZq6wniQ2sDxTjmvsfKE0GUgJNDT8XiwLkw5S7rMMymu8zXvIpWEgw0EwA6-6tpcRwROhHG9ktxhqvAk0idv_faAFexkXHFscOs1L_i-dyfIvBEVhHsPg_lhZgG4WZOaNEB3cb9SA4KTtOpuhnVBN96Nb6IQw%3D%3D&rank=5&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_AC&position=5&beaconIssued=2022-02-25T17%3A35%3A17&sort=RECOMMENDED&top_dp=30195&top_cur=INR&semdtl=&userIntent=&selectedRoomType=220232105&selectedRatePlan=288137383"
+      },
+      "clientSideAnalytics": {
+        "referrerId": "HOT.SR:HotelModule:5",
+        "linkName": "View selected property"
+      }
+    },
+    "sponsoredListing": {
+      "id": "582904",
+      "clickRedirectTrackingUrl": "https://www.expedia.co.in/taps/v1/ClRedirect?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&destinationUrl=&rank=5&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEH3FNVHy931MIeLcdONr_c2HtDE_f_thWMVfvRw7WWuur0BRUFqDSHPJB-tY5A5-zfyQTRg-rl80ETiHPwlrgpA1e1nS11s_0qtccM0gOQrPuohjoiKG2WQhWNUQE4k-L8CI9i-9WxupH_3Cp33XuRqSR1F7hgHw3o_pwPe_J7c_kQ46n7uqajAjFvYMYuN6If33FGpzG7BQ_mTtkai6vvbYpcy-icuOPFfgQpOjxnMpffrkBMISn8SYfnSXeR2_wkZXg_LnZXNrGaSJkIrxPPZFZ0A8f8MaumAAe_A4WQNbs3VjN7sPnfViZ82MavjiMSgRKYXYgZgYPbXP4Il1s0V1j2bXCaaGTmXzjp0uC32vDGbCXVuudxV_u9DN_ruxXczHu4HSj-We5U19Nm5ld0hImusdyOu8Iicl3WB7E5zdZPTtt-4UxM9OdCRtSeLv-7OqHZB-UHXeWThoYv-_gzqAyTdx_y3SZRilb4FRa48JabQbRJgq7XsGTvh1MSvsdpmyO6U4enNs0yup0TgpOGWC67bEfW46yR4jTEiFQQSNo-jXt6flzQvnXqPq03aQm73M_fB1-Nv_JpMx8JpHJ_X3Qd2ErCU4zhtnzHbuwPGaKrRNT57RoR-EM0njPZS_XrNd3GJ-K8-P65jitOlORNg8A31ASeCDLOJ0srLNrwq2rcy4ySbhCSJJDpOajojSOFSTiWdaVgF0hcsotkrlUtLq2_aVQqxeDXzYrmU3mrwQBZR1C4BXrQnntzvWc39jkEKDL_sgzCaWdhtHcnS1CO0-L1pppbn2pptJiwh3h9Nu-ldYodAke60sxbM7-Byyv6L-VFN26kt9x65-zeewAP_OOUHTpYZfBAEqe3A-29rcS6Dh2sAqAHuJidJvZ0Wlny-ep8vaU7Kkti5WBygTXRDqhTFgJR3q1X_L8YkiIHBmdS2luvB4QnFainWwBut0Vm2p0rCujyxl-JUQpitdjw-1QtQ4StRMSvTQqRZq6wniQ2sDxTjmvsfKE0GUgJNDT8XiwLkw5S7rMMymu8zXvIpWEgw0EwA6-6tpcRwROhHG9ktxhqvAk0idv_faAFexkXHFscOs1L_i-dyfIvBEVhHsPg_lhZgG4WZOaNEB3cb9SA4KTtOpuhnVBN96Nb6IQw==&slots=HSR_AC&position=5&beaconIssued=2022-02-25T17:35:17",
+      "clickTrackingUrl": "https://www.expedia.co.in/taps/v1/Cl?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=5&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEH3FNVHy931MIeLcdONr_c2HtDE_f_thWMVfvRw7WWuur0BRUFqDSHPJB-tY5A5-zfyQTRg-rl80ETiHPwlrgpA1e1nS11s_0qtccM0gOQrPuohjoiKG2WQhWNUQE4k-L8CI9i-9WxupH_3Cp33XuRqSR1F7hgHw3o_pwPe_J7c_kQ46n7uqajAjFvYMYuN6If33FGpzG7BQ_mTtkai6vvbYpcy-icuOPFfgQpOjxnMpffrkBMISn8SYfnSXeR2_wkZXg_LnZXNrGaSJkIrxPPZFZ0A8f8MaumAAe_A4WQNbs3VjN7sPnfViZ82MavjiMSgRKYXYgZgYPbXP4Il1s0V1j2bXCaaGTmXzjp0uC32vDGbCXVuudxV_u9DN_ruxXczHu4HSj-We5U19Nm5ld0hImusdyOu8Iicl3WB7E5zdZPTtt-4UxM9OdCRtSeLv-7OqHZB-UHXeWThoYv-_gzqAyTdx_y3SZRilb4FRa48JabQbRJgq7XsGTvh1MSvsdpmyO6U4enNs0yup0TgpOGWC67bEfW46yR4jTEiFQQSNo-jXt6flzQvnXqPq03aQm73M_fB1-Nv_JpMx8JpHJ_X3Qd2ErCU4zhtnzHbuwPGaKrRNT57RoR-EM0njPZS_XrNd3GJ-K8-P65jitOlORNg8A31ASeCDLOJ0srLNrwq2rcy4ySbhCSJJDpOajojSOFSTiWdaVgF0hcsotkrlUtLq2_aVQqxeDXzYrmU3mrwQBZR1C4BXrQnntzvWc39jkEKDL_sgzCaWdhtHcnS1CO0-L1pppbn2pptJiwh3h9Nu-ldYodAke60sxbM7-Byyv6L-VFN26kt9x65-zeewAP_OOUHTpYZfBAEqe3A-29rcS6Dh2sAqAHuJidJvZ0Wlny-ep8vaU7Kkti5WBygTXRDqhTFgJR3q1X_L8YkiIHBmdS2luvB4QnFainWwBut0Vm2p0rCujyxl-JUQpitdjw-1QtQ4StRMSvTQqRZq6wniQ2sDxTjmvsfKE0GUgJNDT8XiwLkw5S7rMMymu8zXvIpWEgw0EwA6-6tpcRwROhHG9ktxhqvAk0idv_faAFexkXHFscOs1L_i-dyfIvBEVhHsPg_lhZgG4WZOaNEB3cb9SA4KTtOpuhnVBN96Nb6IQw==&slots=HSR_AC&position=5&beaconIssued=2022-02-25T17:35:17",
+      "details": "Cocktail Hour at Woobar. INR 1,500 Resort Credit. Airport Transfers. Breakfast for Two.",
+      "detailsHeadline": "A Night of Glitz",
+      "hotelImage": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/16000000/15440000/15439200/15439133/6aa45d81_b.jpg",
+      "impressionTrackingUrl": "https://www.expedia.co.in/taps/v1/Impr?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=5&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEH3FNVHy931MIeLcdONr_c2HtDE_f_thWMVfvRw7WWuur0BRUFqDSHPJB-tY5A5-zfyQTRg-rl80ETiHPwlrgpA1e1nS11s_0qtccM0gOQrPuohjoiKG2WQhWNUQE4k-L8CI9i-9WxupH_3Cp33XuRqSR1F7hgHw3o_pwPe_J7c_kQ46n7uqajAjFvYMYuN6If33FGpzG7BQ_mTtkai6vvbYpcy-icuOPFfgQpOjxnMpffrkBMISn8SYfnSXeR2_wkZXg_LnZXNrGaSJkIrxPPZFZ0A8f8MaumAAe_A4WQNbs3VjN7sPnfViZ82MavjiMSgRKYXYgZgYPbXP4Il1s0V1j2bXCaaGTmXzjp0uC32vDGbCXVuudxV_u9DN_ruxXczHu4HSj-We5U19Nm5ld0hImusdyOu8Iicl3WB7E5zdZPTtt-4UxM9OdCRtSeLv-7OqHZB-UHXeWThoYv-_gzqAyTdx_y3SZRilb4FRa48JabQbRJgq7XsGTvh1MSvsdpmyO6U4enNs0yup0TgpOGWC67bEfW46yR4jTEiFQQSNo-jXt6flzQvnXqPq03aQm73M_fB1-Nv_JpMx8JpHJ_X3Qd2ErCU4zhtnzHbuwPGaKrRNT57RoR-EM0njPZS_XrNd3GJ-K8-P65jitOlORNg8A31ASeCDLOJ0srLNrwq2rcy4ySbhCSJJDpOajojSOFSTiWdaVgF0hcsotkrlUtLq2_aVQqxeDXzYrmU3mrwQBZR1C4BXrQnntzvWc39jkEKDL_sgzCaWdhtHcnS1CO0-L1pppbn2pptJiwh3h9Nu-ldYodAke60sxbM7-Byyv6L-VFN26kt9x65-zeewAP_OOUHTpYZfBAEqe3A-29rcS6Dh2sAqAHuJidJvZ0Wlny-ep8vaU7Kkti5WBygTXRDqhTFgJR3q1X_L8YkiIHBmdS2luvB4QnFainWwBut0Vm2p0rCujyxl-JUQpitdjw-1QtQ4StRMSvTQqRZq6wniQ2sDxTjmvsfKE0GUgJNDT8XiwLkw5S7rMMymu8zXvIpWEgw0EwA6-6tpcRwROhHG9ktxhqvAk0idv_faAFexkXHFscOs1L_i-dyfIvBEVhHsPg_lhZgG4WZOaNEB3cb9SA4KTtOpuhnVBN96Nb6IQw==&slots=HSR_AC&position=5&beaconIssued=2022-02-25T17:35:17",
+      "trackingData": "AAAAEH3FNVHy931MIeLcdONr_c2HtDE_f_thWMVfvRw7WWuur0BRUFqDSHPJB-tY5A5-zfyQTRg-rl80ETiHPwlrgpA1e1nS11s_0qtccM0gOQrPuohjoiKG2WQhWNUQE4k-L8CI9i-9WxupH_3Cp33XuRqSR1F7hgHw3o_pwPe_J7c_kQ46n7uqajAjFvYMYuN6If33FGpzG7BQ_mTtkai6vvbYpcy-icuOPFfgQpOjxnMpffrkBMISn8SYfnSXeR2_wkZXg_LnZXNrGaSJkIrxPPZFZ0A8f8MaumAAe_A4WQNbs3VjN7sPnfViZ82MavjiMSgRKYXYgZgYPbXP4Il1s0V1j2bXCaaGTmXzjp0uC32vDGbCXVuudxV_u9DN_ruxXczHu4HSj-We5U19Nm5ld0hImusdyOu8Iicl3WB7E5zdZPTtt-4UxM9OdCRtSeLv-7OqHZB-UHXeWThoYv-_gzqAyTdx_y3SZRilb4FRa48JabQbRJgq7XsGTvh1MSvsdpmyO6U4enNs0yup0TgpOGWC67bEfW46yR4jTEiFQQSNo-jXt6flzQvnXqPq03aQm73M_fB1-Nv_JpMx8JpHJ_X3Qd2ErCU4zhtnzHbuwPGaKrRNT57RoR-EM0njPZS_XrNd3GJ-K8-P65jitOlORNg8A31ASeCDLOJ0srLNrwq2rcy4ySbhCSJJDpOajojSOFSTiWdaVgF0hcsotkrlUtLq2_aVQqxeDXzYrmU3mrwQBZR1C4BXrQnntzvWc39jkEKDL_sgzCaWdhtHcnS1CO0-L1pppbn2pptJiwh3h9Nu-ldYodAke60sxbM7-Byyv6L-VFN26kt9x65-zeewAP_OOUHTpYZfBAEqe3A-29rcS6Dh2sAqAHuJidJvZ0Wlny-ep8vaU7Kkti5WBygTXRDqhTFgJR3q1X_L8YkiIHBmdS2luvB4QnFainWwBut0Vm2p0rCujyxl-JUQpitdjw-1QtQ4StRMSvTQqRZq6wniQ2sDxTjmvsfKE0GUgJNDT8XiwLkw5S7rMMymu8zXvIpWEgw0EwA6-6tpcRwROhHG9ktxhqvAk0idv_faAFexkXHFscOs1L_i-dyfIvBEVhHsPg_lhZgG4WZOaNEB3cb9SA4KTtOpuhnVBN96Nb6IQw==",
+      "brand": null,
+      "clickRedirectLinkoffTrackingUrl": null,
+      "logo": null,
+      "lotagline": null,
+      "rating": "0",
+      "slots": "HSR_AC",
+      "vanityUrl": null,
+      "rank": "5",
+      "position": "5"
+    },
+    "amenities": [],
+    "star": null,
+    "starRatingIcon": "STAR",
+    "availability": {
+      "available": true,
+      "text": null,
+      "theme": "URGENT"
+    },
+    "offerSummary": {
+      "messages": []
+    },
+    "legalDisclaimer": null,
+    "imageGallery": {
+      "accessibilityLabel": "Photo gallery for W Goa",
+      "images": [
+        {
+          "image": {
+            "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/16000000/15440000/15439200/15439133/6aa45d81_b.jpg",
+            "description": "Featured image"
+          },
+          "subjectId": 3,
+          "fallbackImage": {
+            "url": "https://images.trvl-media.com/hotels/16000000/15440000/15439200/15439133/6aa45d81.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Featured image"
+          },
+          "imageId": "67084536"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/16000000/15440000/15439200/15439133/b40df2cc.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Exterior"
+          },
+          "subjectId": 91024,
+          "fallbackImage": null,
+          "imageId": "67084519"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/16000000/15440000/15439200/15439133/a12dbcbb.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Pool"
+          },
+          "subjectId": 30000,
+          "fallbackImage": null,
+          "imageId": "91630089"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/16000000/15440000/15439200/15439133/b982554d.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Bedroom"
+          },
+          "subjectId": 21001,
+          "fallbackImage": null,
+          "imageId": "67084465"
+        }
+      ]
+    },
+    "mapMarker": {
+      "icon": "HOTEL",
+      "label": "Rs30,195",
+      "type": "HOTEL",
+      "latLong": {
+        "latitude": 15.604394,
+        "longitude": 73.734374
+      },
+      "clientSideAnalytics": {
+        "referrerId": "Module.Map.HotelMarkerSelect",
+        "linkName": "User selecting a hotel marker on the PWA HSR map"
+      }
+    },
+    "neighborhood": {
+      "name": "Chapora"
+    },
+    "pinnedDetails": null,
+    "recentlyViewed": null,
+    "featuredMessages": null,
+    "supportingMessages": ["Excludes taxes & fees"],
+    "shortList": {
+      "favorited": false,
+      "saveUrl": "/api/ucs/shortlist/save/15439133",
+      "removeUrl": "/api/ucs/shortlist/remove/15439133",
+      "metaData": {
+        "chkIn": "20220311",
+        "chkOut": "20220312",
+        "hotelId": "15439133",
+        "roomConfiguration": "2"
+      }
+    },
+    "highlightedPropertyDetails": [],
+    "propertySource": null,
+    "dataAttributes": null,
+    "listingFooter": null
+  },
+  {
+    "__typename": "Property",
+    "id": "438378",
+    "name": "The Leela Goa",
+    "propertyImage": {
+      "image": {
+        "description": "Featured image",
+        "url": "https://images.trvl-media.com/hotels/1000000/440000/438400/438378/bdbe16ac.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      },
+      "fallbackImage": null
+    },
+    "offerBadge": {
+      "primary": {
+        "text": "VIP Access",
+        "theme_temp": "VIP",
+        "icon_temp": null,
+        "mark": null
+      },
+      "secondary": {
+        "text": "We have 8 left at",
+        "theme_temp": "DEAL_GENERIC",
+        "icon_temp": null
+      }
+    },
+    "price": {
+      "alignment": null,
+      "displayMessages": null,
+      "lead": {
+        "formatted": "Rs29,202"
+      },
+      "strikeOutType": "PRICE_SURVEY",
+      "strikeOut": null,
+      "disclaimer": null,
+      "roomNightMessage": "per night",
+      "priceMessages": [
+        {
+          "value": "per night"
+        }
+      ],
+      "marketingFeeDetails": null,
+      "options": [
+        {
+          "leadingCaption": null,
+          "displayPrice": {
+            "formatted": "Rs29,202"
+          },
+          "strikeOut": null,
+          "loyaltyPrice": null,
+          "disclaimer": null
+        }
+      ]
+    },
+    "reviews": {
+      "score": 4.7,
+      "localizedScore": "4.7",
+      "total": 494,
+      "localizedTotal": "494 reviews",
+      "superlative": "Exceptional",
+      "localizedSubtitle": "4.7 / 5 (494 reviews)",
+      "localizedSubtitleA11y": {
+        "accessibilityLabel": "4.7 out of 5 Exceptional (494 reviews)",
+        "value": "4.7/5 Exceptional (494 reviews)"
+      },
+      "mark": null
+    },
+    "destinationInfo": {
+      "distanceFromMessaging": null
+    },
+    "vipMessaging": "VIP Access",
+    "propertyDetailsLink": {
+      "uri": {
+        "value": "https://www.expedia.co.in/Cavelossim-Hotels-The-Leela-Goa.h438378.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810519621&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=6049928&destination=Goa%2C+India&destType=MARKET&sort=RECOMMENDED&top_dp=29202&top_cur=INR&semdtl=&userIntent=&selectedRoomType=212704126&selectedRatePlan=238065495",
+        "relativePath": "/Cavelossim-Hotels-The-Leela-Goa.h438378.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810519621&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=6049928&destination=Goa%2C+India&destType=MARKET&sort=RECOMMENDED&top_dp=29202&top_cur=INR&semdtl=&userIntent=&selectedRoomType=212704126&selectedRatePlan=238065495"
+      },
+      "clientSideAnalytics": {
+        "referrerId": "HOT.SR:HotelModule:6",
+        "linkName": "View selected property"
+      }
+    },
+    "sponsoredListing": null,
+    "amenities": [],
+    "star": null,
+    "starRatingIcon": "STAR",
+    "availability": {
+      "available": true,
+      "text": null,
+      "theme": "URGENT"
+    },
+    "offerSummary": {
+      "messages": []
+    },
+    "legalDisclaimer": null,
+    "imageGallery": {
+      "accessibilityLabel": "Photo gallery for The Leela Goa",
+      "images": [
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/440000/438400/438378/bdbe16ac.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Featured image"
+          },
+          "subjectId": 3,
+          "fallbackImage": null,
+          "imageId": "17330636"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/440000/438400/438378/d08ab991.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Exterior"
+          },
+          "subjectId": 91024,
+          "fallbackImage": null,
+          "imageId": "616285427"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/440000/438400/438378/616334b9.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "View from Room"
+          },
+          "subjectId": 22013,
+          "fallbackImage": null,
+          "imageId": "616301636"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/440000/438400/438378/fd40d8a9.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Bar"
+          },
+          "subjectId": 82000,
+          "fallbackImage": null,
+          "imageId": "17330641"
+        }
+      ]
+    },
+    "mapMarker": {
+      "icon": "HOTEL",
+      "label": "Rs29,202",
+      "type": "HOTEL",
+      "latLong": {
+        "latitude": 15.156707,
+        "longitude": 73.949605
+      },
+      "clientSideAnalytics": {
+        "referrerId": "Module.Map.HotelMarkerSelect",
+        "linkName": "User selecting a hotel marker on the PWA HSR map"
+      }
+    },
+    "neighborhood": {
+      "name": "Cavelossim"
+    },
+    "pinnedDetails": null,
+    "recentlyViewed": null,
+    "featuredMessages": null,
+    "supportingMessages": ["Excludes taxes & fees"],
+    "shortList": {
+      "favorited": false,
+      "saveUrl": "/api/ucs/shortlist/save/438378",
+      "removeUrl": "/api/ucs/shortlist/remove/438378",
+      "metaData": {
+        "chkIn": "20220311",
+        "chkOut": "20220312",
+        "hotelId": "438378",
+        "roomConfiguration": "2"
+      }
+    },
+    "highlightedPropertyDetails": [],
+    "propertySource": null,
+    "dataAttributes": null,
+    "listingFooter": null
+  },
+  {
+    "__typename": "Property",
+    "id": "663615",
+    "name": "Taj Exotica Resort & Spa, Goa",
+    "propertyImage": {
+      "image": {
+        "description": "Featured image",
+        "url": "https://images.trvl-media.com/hotels/1000000/670000/663700/663615/5bb5e9f8.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      },
+      "fallbackImage": null
+    },
+    "offerBadge": {
+      "primary": null,
+      "secondary": {
+        "text": "Member Price available",
+        "theme_temp": "DEAL_MEMBER",
+        "icon_temp": {
+          "id": "mod",
+          "description": "mod",
+          "title": ""
+        }
+      }
+    },
+    "price": {
+      "alignment": null,
+      "displayMessages": null,
+      "lead": {
+        "formatted": "Rs37,000"
+      },
+      "strikeOutType": "PRICE_SURVEY",
+      "strikeOut": null,
+      "disclaimer": null,
+      "roomNightMessage": "per night",
+      "priceMessages": [
+        {
+          "value": "per night"
+        }
+      ],
+      "marketingFeeDetails": null,
+      "options": [
+        {
+          "leadingCaption": null,
+          "displayPrice": {
+            "formatted": "Rs37,000"
+          },
+          "strikeOut": null,
+          "loyaltyPrice": null,
+          "disclaimer": null
+        }
+      ]
+    },
+    "reviews": {
+      "score": 4.7,
+      "localizedScore": "4.7",
+      "total": 278,
+      "localizedTotal": "278 reviews",
+      "superlative": "Exceptional",
+      "localizedSubtitle": "4.7 / 5 (278 reviews)",
+      "localizedSubtitleA11y": {
+        "accessibilityLabel": "4.7 out of 5 Exceptional (278 reviews)",
+        "value": "4.7/5 Exceptional (278 reviews)"
+      },
+      "mark": null
+    },
+    "destinationInfo": {
+      "distanceFromMessaging": null
+    },
+    "vipMessaging": null,
+    "propertyDetailsLink": {
+      "uri": {
+        "value": "https://www.expedia.co.in/Benaulim-Hotels-Taj-Exotica-Resort-Spa.h663615.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810519621&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=6049928&destination=Goa%2C+India&destType=MARKET&sort=RECOMMENDED&top_dp=37000&top_cur=INR&semdtl=&userIntent=&selectedRoomType=202174379&selectedRatePlan=211132560",
+        "relativePath": "/Benaulim-Hotels-Taj-Exotica-Resort-Spa.h663615.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810519621&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=6049928&destination=Goa%2C+India&destType=MARKET&sort=RECOMMENDED&top_dp=37000&top_cur=INR&semdtl=&userIntent=&selectedRoomType=202174379&selectedRatePlan=211132560"
+      },
+      "clientSideAnalytics": {
+        "referrerId": "HOT.SR:HotelModule:7",
+        "linkName": "View selected property"
+      }
+    },
+    "sponsoredListing": null,
+    "amenities": [],
+    "star": null,
+    "starRatingIcon": "STAR",
+    "availability": {
+      "available": true,
+      "text": null,
+      "theme": "URGENT"
+    },
+    "offerSummary": {
+      "messages": []
+    },
+    "legalDisclaimer": null,
+    "imageGallery": {
+      "accessibilityLabel": "Photo gallery for Taj Exotica Resort & Spa, Goa",
+      "images": [
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/670000/663700/663615/5bb5e9f8.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Featured image"
+          },
+          "subjectId": 3,
+          "fallbackImage": null,
+          "imageId": "652236206"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/670000/663700/663615/67f06b8b.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Beach"
+          },
+          "subjectId": 91004,
+          "fallbackImage": null,
+          "imageId": "418886037"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/670000/663700/663615/26f5c79b.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Outdoor pool"
+          },
+          "subjectId": 30003,
+          "fallbackImage": null,
+          "imageId": "38869405"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/670000/663700/663615/08a8dd9d.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Bedroom"
+          },
+          "subjectId": 21001,
+          "fallbackImage": null,
+          "imageId": "22101728"
+        }
+      ]
+    },
+    "mapMarker": {
+      "icon": "HOTEL",
+      "label": "Rs37,000",
+      "type": "HOTEL",
+      "latLong": {
+        "latitude": 15.244699,
+        "longitude": 73.925672
+      },
+      "clientSideAnalytics": {
+        "referrerId": "Module.Map.HotelMarkerSelect",
+        "linkName": "User selecting a hotel marker on the PWA HSR map"
+      }
+    },
+    "neighborhood": {
+      "name": "Benaulim"
+    },
+    "pinnedDetails": null,
+    "recentlyViewed": null,
+    "featuredMessages": null,
+    "supportingMessages": ["Excludes taxes & fees"],
+    "shortList": {
+      "favorited": false,
+      "saveUrl": "/api/ucs/shortlist/save/663615",
+      "removeUrl": "/api/ucs/shortlist/remove/663615",
+      "metaData": {
+        "chkIn": "20220311",
+        "chkOut": "20220312",
+        "hotelId": "663615",
+        "roomConfiguration": "2"
+      }
+    },
+    "highlightedPropertyDetails": [],
+    "propertySource": null,
+    "dataAttributes": null,
+    "listingFooter": {
+      "actionDetails": {
+        "name": "EXTERNAL_LINK"
+      },
+      "icon": {
+        "description": "",
+        "id": "chevron_right"
+      },
+      "linkUrl": "https://www.expedia.co.in/user/createaccount?uurl=e3id%3Dredr%26rurl%3D%2FHotel-Search%3FregionId%3D6049928%26destination%3DGoa%252C%2BIndia%26startDate%3D2022-03-11%26endDate%3D2022-03-12%26adults%3D2%26children%3D%26sort%3DRECOMMENDED%26semdtl%3D%26userIntent%3D%26selected%3D663615&fromheader=true",
+      "referrerId": ":LodgingCard.createAccount:7",
+      "text": "Sign up for Member Price"
+    }
+  },
+  {
+    "__typename": "Property",
+    "id": "921574",
+    "name": "The LaLiT Golf & Spa Resort Goa",
+    "propertyImage": {
+      "image": {
+        "description": "Featured image",
+        "url": "https://images.trvl-media.com/hotels/1000000/930000/921600/921574/dafc43a9.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      },
+      "fallbackImage": null
+    },
+    "offerBadge": {
+      "primary": null,
+      "secondary": {
+        "text": "Member Price available",
+        "theme_temp": "DEAL_MEMBER",
+        "icon_temp": {
+          "id": "mod",
+          "description": "mod",
+          "title": ""
+        }
+      }
+    },
+    "price": {
+      "alignment": null,
+      "displayMessages": null,
+      "lead": {
+        "formatted": "Rs12,999"
+      },
+      "strikeOutType": "PRICE_SURVEY",
+      "strikeOut": null,
+      "disclaimer": null,
+      "roomNightMessage": "per night",
+      "priceMessages": [
+        {
+          "value": "per night"
+        }
+      ],
+      "marketingFeeDetails": null,
+      "options": [
+        {
+          "leadingCaption": null,
+          "displayPrice": {
+            "formatted": "Rs12,999"
+          },
+          "strikeOut": null,
+          "loyaltyPrice": null,
+          "disclaimer": null
+        }
+      ]
+    },
+    "reviews": {
+      "score": 3.9,
+      "localizedScore": "3.9",
+      "total": 180,
+      "localizedTotal": "180 reviews",
+      "superlative": "Good",
+      "localizedSubtitle": "3.9 / 5 (180 reviews)",
+      "localizedSubtitleA11y": {
+        "accessibilityLabel": "3.9 out of 5 Good (180 reviews)",
+        "value": "3.9/5 Good (180 reviews)"
+      },
+      "mark": null
+    },
+    "destinationInfo": {
+      "distanceFromMessaging": null
+    },
+    "vipMessaging": null,
+    "propertyDetailsLink": {
+      "uri": {
+        "value": "https://www.expedia.co.in/Canacona-Hotels-The-LaLiT-Golf-Spa-Resort-Goa.h921574.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810519622&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=6049928&destination=Goa%2C+India&destType=MARKET&sort=RECOMMENDED&top_dp=12999&top_cur=INR&semdtl=&userIntent=&selectedRoomType=201853121&selectedRatePlan=230119949",
+        "relativePath": "/Canacona-Hotels-The-LaLiT-Golf-Spa-Resort-Goa.h921574.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810519622&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=6049928&destination=Goa%2C+India&destType=MARKET&sort=RECOMMENDED&top_dp=12999&top_cur=INR&semdtl=&userIntent=&selectedRoomType=201853121&selectedRatePlan=230119949"
+      },
+      "clientSideAnalytics": {
+        "referrerId": "HOT.SR:HotelModule:8",
+        "linkName": "View selected property"
+      }
+    },
+    "sponsoredListing": null,
+    "amenities": [],
+    "star": null,
+    "starRatingIcon": "STAR",
+    "availability": {
+      "available": true,
+      "text": null,
+      "theme": "URGENT"
+    },
+    "offerSummary": {
+      "messages": [
+        {
+          "message": "Fully refundable",
+          "theme": "SUCCESS",
+          "type": "FREE_CANCEL",
+          "mark": null
+        }
+      ]
+    },
+    "legalDisclaimer": null,
+    "imageGallery": {
+      "accessibilityLabel": "Photo gallery for The LaLiT Golf & Spa Resort Goa",
+      "images": [
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/930000/921600/921574/dafc43a9.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Featured image"
+          },
+          "subjectId": 3,
+          "fallbackImage": null,
+          "imageId": "22483887"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/930000/921600/921574/96b99db7.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Exterior detail"
+          },
+          "subjectId": 91023,
+          "fallbackImage": null,
+          "imageId": "22483865"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/930000/921600/921574/092f1a6d.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Children's pool"
+          },
+          "subjectId": 30001,
+          "fallbackImage": null,
+          "imageId": "91664326"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/930000/921600/921574/f7adf7c2.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "View from Room"
+          },
+          "subjectId": 22013,
+          "fallbackImage": null,
+          "imageId": "60577870"
+        }
+      ]
+    },
+    "mapMarker": {
+      "icon": "HOTEL",
+      "label": "Rs12,999",
+      "type": "HOTEL",
+      "latLong": {
+        "latitude": 14.991025,
+        "longitude": 74.040171
+      },
+      "clientSideAnalytics": {
+        "referrerId": "Module.Map.HotelMarkerSelect",
+        "linkName": "User selecting a hotel marker on the PWA HSR map"
+      }
+    },
+    "neighborhood": {
+      "name": "Palolem"
+    },
+    "pinnedDetails": null,
+    "recentlyViewed": null,
+    "featuredMessages": null,
+    "supportingMessages": ["Excludes taxes & fees"],
+    "shortList": {
+      "favorited": false,
+      "saveUrl": "/api/ucs/shortlist/save/921574",
+      "removeUrl": "/api/ucs/shortlist/remove/921574",
+      "metaData": {
+        "chkIn": "20220311",
+        "chkOut": "20220312",
+        "hotelId": "921574",
+        "roomConfiguration": "2"
+      }
+    },
+    "highlightedPropertyDetails": [],
+    "propertySource": null,
+    "dataAttributes": null,
+    "listingFooter": null
+  },
+  {
+    "__typename": "Property",
+    "id": "46205118",
+    "name": "Taj Resort & Convention Centre, Goa",
+    "propertyImage": {
+      "image": {
+        "description": "Featured image",
+        "url": "https://images.trvl-media.com/hotels/47000000/46210000/46205200/46205118/1583475f.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      },
+      "fallbackImage": null
+    },
+    "offerBadge": {
+      "primary": {
+        "text": "VIP Access",
+        "theme_temp": "VIP",
+        "icon_temp": null,
+        "mark": null
+      },
+      "secondary": {
+        "text": "Member Price available",
+        "theme_temp": "DEAL_MEMBER",
+        "icon_temp": {
+          "id": "mod",
+          "description": "mod",
+          "title": ""
+        }
+      }
+    },
+    "price": {
+      "alignment": null,
+      "displayMessages": null,
+      "lead": {
+        "formatted": "Rs19,900"
+      },
+      "strikeOutType": "PRICE_SURVEY",
+      "strikeOut": null,
+      "disclaimer": null,
+      "roomNightMessage": "per night",
+      "priceMessages": [
+        {
+          "value": "per night"
+        }
+      ],
+      "marketingFeeDetails": null,
+      "options": [
+        {
+          "leadingCaption": null,
+          "displayPrice": {
+            "formatted": "Rs19,900"
+          },
+          "strikeOut": null,
+          "loyaltyPrice": null,
+          "disclaimer": null
+        }
+      ]
+    },
+    "reviews": {
+      "score": 4.6,
+      "localizedScore": "4.6",
+      "total": 25,
+      "localizedTotal": "25 reviews",
+      "superlative": "Wonderful",
+      "localizedSubtitle": "4.6 / 5 (25 reviews)",
+      "localizedSubtitleA11y": {
+        "accessibilityLabel": "4.6 out of 5 Wonderful (25 reviews)",
+        "value": "4.6/5 Wonderful (25 reviews)"
+      },
+      "mark": null
+    },
+    "destinationInfo": {
+      "distanceFromMessaging": null
+    },
+    "vipMessaging": "VIP Access",
+    "propertyDetailsLink": {
+      "uri": {
+        "value": "https://www.expedia.co.in/Dona-Paula-Hotels-Taj-Hotel-Convention-Centre.h46205118.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810519623&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=6049928&destination=Goa%2C+India&destType=MARKET&sort=RECOMMENDED&top_dp=19900&top_cur=INR&semdtl=&userIntent=&selectedRoomType=228004539&selectedRatePlan=260287523",
+        "relativePath": "/Dona-Paula-Hotels-Taj-Hotel-Convention-Centre.h46205118.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810519623&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=6049928&destination=Goa%2C+India&destType=MARKET&sort=RECOMMENDED&top_dp=19900&top_cur=INR&semdtl=&userIntent=&selectedRoomType=228004539&selectedRatePlan=260287523"
+      },
+      "clientSideAnalytics": {
+        "referrerId": "HOT.SR:HotelModule:9",
+        "linkName": "View selected property"
+      }
+    },
+    "sponsoredListing": null,
+    "amenities": [],
+    "star": null,
+    "starRatingIcon": "STAR",
+    "availability": {
+      "available": true,
+      "text": null,
+      "theme": "URGENT"
+    },
+    "offerSummary": {
+      "messages": [
+        {
+          "message": "Fully refundable",
+          "theme": "SUCCESS",
+          "type": "FREE_CANCEL",
+          "mark": null
+        },
+        {
+          "message": "Reserve now, pay later",
+          "theme": "SUCCESS",
+          "type": "PAY_LATER",
+          "mark": null
+        }
+      ]
+    },
+    "legalDisclaimer": null,
+    "imageGallery": {
+      "accessibilityLabel": "Photo gallery for Taj Resort & Convention Centre, Goa",
+      "images": [
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/47000000/46210000/46205200/46205118/1583475f.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Featured image"
+          },
+          "subjectId": 3,
+          "fallbackImage": null,
+          "imageId": "459792480"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/47000000/46210000/46205200/46205118/6a0edcf5.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Outdoor dining"
+          },
+          "subjectId": 91007,
+          "fallbackImage": null,
+          "imageId": "458322257"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/47000000/46210000/46205200/46205118/766a9214.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Pool"
+          },
+          "subjectId": 30000,
+          "fallbackImage": null,
+          "imageId": "460231164"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/47000000/46210000/46205200/46205118/8b5a389d.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Bedroom"
+          },
+          "subjectId": 21001,
+          "fallbackImage": null,
+          "imageId": "458322262"
+        }
+      ]
+    },
+    "mapMarker": {
+      "icon": "HOTEL",
+      "label": "Rs19,900",
+      "type": "HOTEL",
+      "latLong": {
+        "latitude": 15.459144,
+        "longitude": 73.811114
+      },
+      "clientSideAnalytics": {
+        "referrerId": "Module.Map.HotelMarkerSelect",
+        "linkName": "User selecting a hotel marker on the PWA HSR map"
+      }
+    },
+    "neighborhood": {
+      "name": "Dona Paula"
+    },
+    "pinnedDetails": null,
+    "recentlyViewed": null,
+    "featuredMessages": null,
+    "supportingMessages": ["Excludes taxes & fees"],
+    "shortList": {
+      "favorited": false,
+      "saveUrl": "/api/ucs/shortlist/save/46205118",
+      "removeUrl": "/api/ucs/shortlist/remove/46205118",
+      "metaData": {
+        "chkIn": "20220311",
+        "chkOut": "20220312",
+        "hotelId": "46205118",
+        "roomConfiguration": "2"
+      }
+    },
+    "highlightedPropertyDetails": [],
+    "propertySource": null,
+    "dataAttributes": null,
+    "listingFooter": null
+  }
+]

@@ -1,0 +1,1773 @@
+[
+  {
+    "__typename": "Property",
+    "id": "36969621",
+    "name": "Holiday Inn Express Kolkata Airport, an IHG Hotel",
+    "propertyImage": {
+      "image": {
+        "description": "Featured image",
+        "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/37000000/36970000/36969700/36969621/455b640b_b.jpg"
+      },
+      "fallbackImage": {
+        "description": "Featured image",
+        "url": "https://images.trvl-media.com/hotels/37000000/36970000/36969700/36969621/455b640b.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      }
+    },
+    "offerBadge": {
+      "primary": {
+        "text": "Ad",
+        "theme_temp": "SPONSORED",
+        "icon_temp": null,
+        "mark": null
+      },
+      "secondary": null
+    },
+    "price": {
+      "alignment": null,
+      "displayMessages": null,
+      "lead": {
+        "formatted": "Rs3,419"
+      },
+      "strikeOutType": "PRICE_SURVEY",
+      "strikeOut": null,
+      "disclaimer": null,
+      "roomNightMessage": "per night",
+      "priceMessages": [
+        {
+          "value": "per night"
+        }
+      ],
+      "marketingFeeDetails": null,
+      "options": [
+        {
+          "leadingCaption": null,
+          "displayPrice": {
+            "formatted": "Rs3,419"
+          },
+          "strikeOut": null,
+          "loyaltyPrice": null,
+          "disclaimer": null
+        }
+      ]
+    },
+    "reviews": {
+      "score": 4.3,
+      "localizedScore": "4.3",
+      "total": 27,
+      "localizedTotal": "27 reviews",
+      "superlative": "Excellent",
+      "localizedSubtitle": "4.3 / 5 (27 reviews)",
+      "localizedSubtitleA11y": {
+        "accessibilityLabel": "4.3 out of 5 Excellent (27 reviews)",
+        "value": "4.3/5 Excellent (27 reviews)"
+      },
+      "mark": null
+    },
+    "destinationInfo": {
+      "distanceFromMessaging": null
+    },
+    "vipMessaging": null,
+    "propertyDetailsLink": {
+      "uri": {
+        "value": "https://www.expedia.co.in/Kolkata-Hotels-Holiday-Inn-Express-Kolkata-Airport.h36969621.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810450145&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=178244&destination=Kolkata+%28and+vicinity%29%2C+West+Bengal%2C+India&destType=MARKET&trackingData=AAAAEL5gxhqEpcNJsdGf5bi02toxI09pAtMGyj96L_7Dv0v33-o2Le5frzx70OHRTGtbljg5YrvGFi2Jsogs9-TBbYUI4ofIIuKb5EM9qDD_8tyVrSHOihEK4Vx9lVg-r_4ciSjPK2q0UJsI_6goyNMEeBo8ZymMo7ehGuwusx3R3723_2EVsaoWETApU8ilYUwgHHZfUWl-NjiCSmOAX92twmhGxSM5hNEQKDLHPmwh74391L2EFz2tg1XBkItishY2nHMLFcmRo3i6Wbfx_W8QL_wHlrHrVPMQGReCsZT7hjIi06Nvizs-00EwAXbpoRnVmQPaoIEFHyRapo1DyRdeZD3hAcneqodZxIJ992CHP0Rx4tLzU4oEhb31ukHUu2q_yUn_IDOSnuK2Gs1oUJVAo-jyBUMm5aHgc7-_-fKUglKJ3NDdg8uEDkbb1dQB4LgVLiDeEXzG5dHhX4DqVTfXhpCo9iejMa3frk-LaCRqf8wtOZTCWmvXhHX2R4DRR0zL6uv_7saEkHbGmzJMxeWvTueNeO-YfdNKEmcHurEDBzR6GnWyWqlyL7NtfkEe-TrzVqQdRRZSHOxAZc8T2t8Tes3Yk7vRAW9oTV-8jsubRTwUNh769AMgKVw3eTaH4Ja8PdCtbxY-h0KdRDQ2aERslIFoXrozkycilb-Of8e3Ovd9Uu4UXLSjO5BSsc4xoNzgWyTYZbuz7U8lxNhIep-R5Xg_UD06ycPBSAQ4WWXUjYrWJaigUXm1jdwIDzM-nGN6wTcgSCX8KC7FSqB88oIpe6zu0BUXdpEgdCZp5cxjrgWuK3ws7E7iOv-i7S92aGfnrtnm46SPnAYScOh-w91RMxyfVEp-aCB7uZBswvPtMju_XnMFLxFXPB_rvOpnunwMA-m2kHt4b-PeqAqFaQK9oia_h41LpRRu0-EwlyUASXolTWyzzy70MaF9F_FIz7M21WNNc0ke6kWqK4A_rFSf-Tq0cckONPk22kwjWlA6UZYoAJKw0rJqeodcjLi-XPeyhQZVOMxe-YeiIT5DbHzDozZkrVc45YpcguP2OkE2R4qovk_iWoMJ9C_GAucrNhrNpKQvZxq-uR7Ykv0cQ_2kUXyPYWizEKTGJC4UKYi0gFZiS2n7_NLVMos0tHG4IQGsVcaKdaA5V7_DUkG_rJRTFGI%3D&rank=1&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_A&position=1&beaconIssued=2022-02-25T17%3A34%3A08&sort=RECOMMENDED&top_dp=3419&top_cur=INR&semdtl=&userIntent=&selectedRoomType=216042988&selectedRatePlan=381131141",
+        "relativePath": "/Kolkata-Hotels-Holiday-Inn-Express-Kolkata-Airport.h36969621.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810450145&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=178244&destination=Kolkata+%28and+vicinity%29%2C+West+Bengal%2C+India&destType=MARKET&trackingData=AAAAEL5gxhqEpcNJsdGf5bi02toxI09pAtMGyj96L_7Dv0v33-o2Le5frzx70OHRTGtbljg5YrvGFi2Jsogs9-TBbYUI4ofIIuKb5EM9qDD_8tyVrSHOihEK4Vx9lVg-r_4ciSjPK2q0UJsI_6goyNMEeBo8ZymMo7ehGuwusx3R3723_2EVsaoWETApU8ilYUwgHHZfUWl-NjiCSmOAX92twmhGxSM5hNEQKDLHPmwh74391L2EFz2tg1XBkItishY2nHMLFcmRo3i6Wbfx_W8QL_wHlrHrVPMQGReCsZT7hjIi06Nvizs-00EwAXbpoRnVmQPaoIEFHyRapo1DyRdeZD3hAcneqodZxIJ992CHP0Rx4tLzU4oEhb31ukHUu2q_yUn_IDOSnuK2Gs1oUJVAo-jyBUMm5aHgc7-_-fKUglKJ3NDdg8uEDkbb1dQB4LgVLiDeEXzG5dHhX4DqVTfXhpCo9iejMa3frk-LaCRqf8wtOZTCWmvXhHX2R4DRR0zL6uv_7saEkHbGmzJMxeWvTueNeO-YfdNKEmcHurEDBzR6GnWyWqlyL7NtfkEe-TrzVqQdRRZSHOxAZc8T2t8Tes3Yk7vRAW9oTV-8jsubRTwUNh769AMgKVw3eTaH4Ja8PdCtbxY-h0KdRDQ2aERslIFoXrozkycilb-Of8e3Ovd9Uu4UXLSjO5BSsc4xoNzgWyTYZbuz7U8lxNhIep-R5Xg_UD06ycPBSAQ4WWXUjYrWJaigUXm1jdwIDzM-nGN6wTcgSCX8KC7FSqB88oIpe6zu0BUXdpEgdCZp5cxjrgWuK3ws7E7iOv-i7S92aGfnrtnm46SPnAYScOh-w91RMxyfVEp-aCB7uZBswvPtMju_XnMFLxFXPB_rvOpnunwMA-m2kHt4b-PeqAqFaQK9oia_h41LpRRu0-EwlyUASXolTWyzzy70MaF9F_FIz7M21WNNc0ke6kWqK4A_rFSf-Tq0cckONPk22kwjWlA6UZYoAJKw0rJqeodcjLi-XPeyhQZVOMxe-YeiIT5DbHzDozZkrVc45YpcguP2OkE2R4qovk_iWoMJ9C_GAucrNhrNpKQvZxq-uR7Ykv0cQ_2kUXyPYWizEKTGJC4UKYi0gFZiS2n7_NLVMos0tHG4IQGsVcaKdaA5V7_DUkG_rJRTFGI%3D&rank=1&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_A&position=1&beaconIssued=2022-02-25T17%3A34%3A08&sort=RECOMMENDED&top_dp=3419&top_cur=INR&semdtl=&userIntent=&selectedRoomType=216042988&selectedRatePlan=381131141"
+      },
+      "clientSideAnalytics": {
+        "referrerId": "HOT.SR:HotelModule:1",
+        "linkName": "View selected property"
+      }
+    },
+    "sponsoredListing": {
+      "id": "650528",
+      "clickRedirectTrackingUrl": "https://www.expedia.co.in/taps/v1/ClRedirect?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&destinationUrl=&rank=1&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEL5gxhqEpcNJsdGf5bi02toxI09pAtMGyj96L_7Dv0v33-o2Le5frzx70OHRTGtbljg5YrvGFi2Jsogs9-TBbYUI4ofIIuKb5EM9qDD_8tyVrSHOihEK4Vx9lVg-r_4ciSjPK2q0UJsI_6goyNMEeBo8ZymMo7ehGuwusx3R3723_2EVsaoWETApU8ilYUwgHHZfUWl-NjiCSmOAX92twmhGxSM5hNEQKDLHPmwh74391L2EFz2tg1XBkItishY2nHMLFcmRo3i6Wbfx_W8QL_wHlrHrVPMQGReCsZT7hjIi06Nvizs-00EwAXbpoRnVmQPaoIEFHyRapo1DyRdeZD3hAcneqodZxIJ992CHP0Rx4tLzU4oEhb31ukHUu2q_yUn_IDOSnuK2Gs1oUJVAo-jyBUMm5aHgc7-_-fKUglKJ3NDdg8uEDkbb1dQB4LgVLiDeEXzG5dHhX4DqVTfXhpCo9iejMa3frk-LaCRqf8wtOZTCWmvXhHX2R4DRR0zL6uv_7saEkHbGmzJMxeWvTueNeO-YfdNKEmcHurEDBzR6GnWyWqlyL7NtfkEe-TrzVqQdRRZSHOxAZc8T2t8Tes3Yk7vRAW9oTV-8jsubRTwUNh769AMgKVw3eTaH4Ja8PdCtbxY-h0KdRDQ2aERslIFoXrozkycilb-Of8e3Ovd9Uu4UXLSjO5BSsc4xoNzgWyTYZbuz7U8lxNhIep-R5Xg_UD06ycPBSAQ4WWXUjYrWJaigUXm1jdwIDzM-nGN6wTcgSCX8KC7FSqB88oIpe6zu0BUXdpEgdCZp5cxjrgWuK3ws7E7iOv-i7S92aGfnrtnm46SPnAYScOh-w91RMxyfVEp-aCB7uZBswvPtMju_XnMFLxFXPB_rvOpnunwMA-m2kHt4b-PeqAqFaQK9oia_h41LpRRu0-EwlyUASXolTWyzzy70MaF9F_FIz7M21WNNc0ke6kWqK4A_rFSf-Tq0cckONPk22kwjWlA6UZYoAJKw0rJqeodcjLi-XPeyhQZVOMxe-YeiIT5DbHzDozZkrVc45YpcguP2OkE2R4qovk_iWoMJ9C_GAucrNhrNpKQvZxq-uR7Ykv0cQ_2kUXyPYWizEKTGJC4UKYi0gFZiS2n7_NLVMos0tHG4IQGsVcaKdaA5V7_DUkG_rJRTFGI=&slots=HSR_A&position=1&beaconIssued=2022-02-25T17:34:08",
+      "clickTrackingUrl": "https://www.expedia.co.in/taps/v1/Cl?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=1&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEL5gxhqEpcNJsdGf5bi02toxI09pAtMGyj96L_7Dv0v33-o2Le5frzx70OHRTGtbljg5YrvGFi2Jsogs9-TBbYUI4ofIIuKb5EM9qDD_8tyVrSHOihEK4Vx9lVg-r_4ciSjPK2q0UJsI_6goyNMEeBo8ZymMo7ehGuwusx3R3723_2EVsaoWETApU8ilYUwgHHZfUWl-NjiCSmOAX92twmhGxSM5hNEQKDLHPmwh74391L2EFz2tg1XBkItishY2nHMLFcmRo3i6Wbfx_W8QL_wHlrHrVPMQGReCsZT7hjIi06Nvizs-00EwAXbpoRnVmQPaoIEFHyRapo1DyRdeZD3hAcneqodZxIJ992CHP0Rx4tLzU4oEhb31ukHUu2q_yUn_IDOSnuK2Gs1oUJVAo-jyBUMm5aHgc7-_-fKUglKJ3NDdg8uEDkbb1dQB4LgVLiDeEXzG5dHhX4DqVTfXhpCo9iejMa3frk-LaCRqf8wtOZTCWmvXhHX2R4DRR0zL6uv_7saEkHbGmzJMxeWvTueNeO-YfdNKEmcHurEDBzR6GnWyWqlyL7NtfkEe-TrzVqQdRRZSHOxAZc8T2t8Tes3Yk7vRAW9oTV-8jsubRTwUNh769AMgKVw3eTaH4Ja8PdCtbxY-h0KdRDQ2aERslIFoXrozkycilb-Of8e3Ovd9Uu4UXLSjO5BSsc4xoNzgWyTYZbuz7U8lxNhIep-R5Xg_UD06ycPBSAQ4WWXUjYrWJaigUXm1jdwIDzM-nGN6wTcgSCX8KC7FSqB88oIpe6zu0BUXdpEgdCZp5cxjrgWuK3ws7E7iOv-i7S92aGfnrtnm46SPnAYScOh-w91RMxyfVEp-aCB7uZBswvPtMju_XnMFLxFXPB_rvOpnunwMA-m2kHt4b-PeqAqFaQK9oia_h41LpRRu0-EwlyUASXolTWyzzy70MaF9F_FIz7M21WNNc0ke6kWqK4A_rFSf-Tq0cckONPk22kwjWlA6UZYoAJKw0rJqeodcjLi-XPeyhQZVOMxe-YeiIT5DbHzDozZkrVc45YpcguP2OkE2R4qovk_iWoMJ9C_GAucrNhrNpKQvZxq-uR7Ykv0cQ_2kUXyPYWizEKTGJC4UKYi0gFZiS2n7_NLVMos0tHG4IQGsVcaKdaA5V7_DUkG_rJRTFGI=&slots=HSR_A&position=1&beaconIssued=2022-02-25T17:34:08",
+      "details": "Enjoy up to 25 percent off at over 160 hotels in India, Middle East and Africa. Book by 30 April 2022.",
+      "detailsHeadline": "Up to 25pct off at over 160 IHG Hotels",
+      "hotelImage": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/37000000/36970000/36969700/36969621/455b640b_b.jpg",
+      "impressionTrackingUrl": "https://www.expedia.co.in/taps/v1/Impr?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=1&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEL5gxhqEpcNJsdGf5bi02toxI09pAtMGyj96L_7Dv0v33-o2Le5frzx70OHRTGtbljg5YrvGFi2Jsogs9-TBbYUI4ofIIuKb5EM9qDD_8tyVrSHOihEK4Vx9lVg-r_4ciSjPK2q0UJsI_6goyNMEeBo8ZymMo7ehGuwusx3R3723_2EVsaoWETApU8ilYUwgHHZfUWl-NjiCSmOAX92twmhGxSM5hNEQKDLHPmwh74391L2EFz2tg1XBkItishY2nHMLFcmRo3i6Wbfx_W8QL_wHlrHrVPMQGReCsZT7hjIi06Nvizs-00EwAXbpoRnVmQPaoIEFHyRapo1DyRdeZD3hAcneqodZxIJ992CHP0Rx4tLzU4oEhb31ukHUu2q_yUn_IDOSnuK2Gs1oUJVAo-jyBUMm5aHgc7-_-fKUglKJ3NDdg8uEDkbb1dQB4LgVLiDeEXzG5dHhX4DqVTfXhpCo9iejMa3frk-LaCRqf8wtOZTCWmvXhHX2R4DRR0zL6uv_7saEkHbGmzJMxeWvTueNeO-YfdNKEmcHurEDBzR6GnWyWqlyL7NtfkEe-TrzVqQdRRZSHOxAZc8T2t8Tes3Yk7vRAW9oTV-8jsubRTwUNh769AMgKVw3eTaH4Ja8PdCtbxY-h0KdRDQ2aERslIFoXrozkycilb-Of8e3Ovd9Uu4UXLSjO5BSsc4xoNzgWyTYZbuz7U8lxNhIep-R5Xg_UD06ycPBSAQ4WWXUjYrWJaigUXm1jdwIDzM-nGN6wTcgSCX8KC7FSqB88oIpe6zu0BUXdpEgdCZp5cxjrgWuK3ws7E7iOv-i7S92aGfnrtnm46SPnAYScOh-w91RMxyfVEp-aCB7uZBswvPtMju_XnMFLxFXPB_rvOpnunwMA-m2kHt4b-PeqAqFaQK9oia_h41LpRRu0-EwlyUASXolTWyzzy70MaF9F_FIz7M21WNNc0ke6kWqK4A_rFSf-Tq0cckONPk22kwjWlA6UZYoAJKw0rJqeodcjLi-XPeyhQZVOMxe-YeiIT5DbHzDozZkrVc45YpcguP2OkE2R4qovk_iWoMJ9C_GAucrNhrNpKQvZxq-uR7Ykv0cQ_2kUXyPYWizEKTGJC4UKYi0gFZiS2n7_NLVMos0tHG4IQGsVcaKdaA5V7_DUkG_rJRTFGI=&slots=HSR_A&position=1&beaconIssued=2022-02-25T17:34:08",
+      "trackingData": "AAAAEL5gxhqEpcNJsdGf5bi02toxI09pAtMGyj96L_7Dv0v33-o2Le5frzx70OHRTGtbljg5YrvGFi2Jsogs9-TBbYUI4ofIIuKb5EM9qDD_8tyVrSHOihEK4Vx9lVg-r_4ciSjPK2q0UJsI_6goyNMEeBo8ZymMo7ehGuwusx3R3723_2EVsaoWETApU8ilYUwgHHZfUWl-NjiCSmOAX92twmhGxSM5hNEQKDLHPmwh74391L2EFz2tg1XBkItishY2nHMLFcmRo3i6Wbfx_W8QL_wHlrHrVPMQGReCsZT7hjIi06Nvizs-00EwAXbpoRnVmQPaoIEFHyRapo1DyRdeZD3hAcneqodZxIJ992CHP0Rx4tLzU4oEhb31ukHUu2q_yUn_IDOSnuK2Gs1oUJVAo-jyBUMm5aHgc7-_-fKUglKJ3NDdg8uEDkbb1dQB4LgVLiDeEXzG5dHhX4DqVTfXhpCo9iejMa3frk-LaCRqf8wtOZTCWmvXhHX2R4DRR0zL6uv_7saEkHbGmzJMxeWvTueNeO-YfdNKEmcHurEDBzR6GnWyWqlyL7NtfkEe-TrzVqQdRRZSHOxAZc8T2t8Tes3Yk7vRAW9oTV-8jsubRTwUNh769AMgKVw3eTaH4Ja8PdCtbxY-h0KdRDQ2aERslIFoXrozkycilb-Of8e3Ovd9Uu4UXLSjO5BSsc4xoNzgWyTYZbuz7U8lxNhIep-R5Xg_UD06ycPBSAQ4WWXUjYrWJaigUXm1jdwIDzM-nGN6wTcgSCX8KC7FSqB88oIpe6zu0BUXdpEgdCZp5cxjrgWuK3ws7E7iOv-i7S92aGfnrtnm46SPnAYScOh-w91RMxyfVEp-aCB7uZBswvPtMju_XnMFLxFXPB_rvOpnunwMA-m2kHt4b-PeqAqFaQK9oia_h41LpRRu0-EwlyUASXolTWyzzy70MaF9F_FIz7M21WNNc0ke6kWqK4A_rFSf-Tq0cckONPk22kwjWlA6UZYoAJKw0rJqeodcjLi-XPeyhQZVOMxe-YeiIT5DbHzDozZkrVc45YpcguP2OkE2R4qovk_iWoMJ9C_GAucrNhrNpKQvZxq-uR7Ykv0cQ_2kUXyPYWizEKTGJC4UKYi0gFZiS2n7_NLVMos0tHG4IQGsVcaKdaA5V7_DUkG_rJRTFGI=",
+      "brand": null,
+      "clickRedirectLinkoffTrackingUrl": null,
+      "logo": null,
+      "lotagline": null,
+      "rating": "0",
+      "slots": "HSR_A",
+      "vanityUrl": null,
+      "rank": "1",
+      "position": "1"
+    },
+    "amenities": [],
+    "star": null,
+    "starRatingIcon": "STAR",
+    "availability": {
+      "available": true,
+      "text": null,
+      "theme": "URGENT"
+    },
+    "offerSummary": {
+      "messages": [
+        {
+          "message": "Fully refundable",
+          "theme": "SUCCESS",
+          "type": "FREE_CANCEL",
+          "mark": null
+        },
+        {
+          "message": "Reserve now, pay later",
+          "theme": "SUCCESS",
+          "type": "PAY_LATER",
+          "mark": null
+        }
+      ]
+    },
+    "legalDisclaimer": null,
+    "imageGallery": {
+      "accessibilityLabel": "Photo gallery for Holiday Inn Express Kolkata Airport, an IHG Hotel",
+      "images": [
+        {
+          "image": {
+            "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/37000000/36970000/36969700/36969621/455b640b_b.jpg",
+            "description": "Featured image"
+          },
+          "subjectId": 3,
+          "fallbackImage": {
+            "url": "https://images.trvl-media.com/hotels/37000000/36970000/36969700/36969621/455b640b.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Featured image"
+          },
+          "imageId": "498309653"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/37000000/36970000/36969700/36969621/e43d3dac.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Exterior"
+          },
+          "subjectId": 91024,
+          "fallbackImage": null,
+          "imageId": "564163404"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/37000000/36970000/36969700/36969621/94ef199d.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Bedroom"
+          },
+          "subjectId": 21001,
+          "fallbackImage": null,
+          "imageId": "498309657"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/37000000/36970000/36969700/36969621/c148cb3e.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Restaurant"
+          },
+          "subjectId": 81003,
+          "fallbackImage": null,
+          "imageId": "454279767"
+        }
+      ]
+    },
+    "mapMarker": {
+      "icon": "HOTEL",
+      "label": "Rs3,419",
+      "type": "HOTEL",
+      "latLong": {
+        "latitude": 22.641842,
+        "longitude": 88.432252
+      },
+      "clientSideAnalytics": {
+        "referrerId": "Module.Map.HotelMarkerSelect",
+        "linkName": "User selecting a hotel marker on the PWA HSR map"
+      }
+    },
+    "neighborhood": {
+      "name": "Kolkata"
+    },
+    "pinnedDetails": null,
+    "recentlyViewed": null,
+    "featuredMessages": null,
+    "supportingMessages": ["Excludes taxes & fees"],
+    "shortList": {
+      "favorited": false,
+      "saveUrl": "/api/ucs/shortlist/save/36969621",
+      "removeUrl": "/api/ucs/shortlist/remove/36969621",
+      "metaData": {
+        "chkIn": "20220311",
+        "chkOut": "20220312",
+        "hotelId": "36969621",
+        "roomConfiguration": "2"
+      }
+    },
+    "highlightedPropertyDetails": [],
+    "propertySource": null,
+    "dataAttributes": null,
+    "listingFooter": null
+  },
+  {
+    "__typename": "Property",
+    "id": "16159430",
+    "name": "Holiday Inn Kolkata Airport, an IHG Hotel",
+    "propertyImage": {
+      "image": {
+        "description": "Featured image",
+        "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/17000000/16160000/16159500/16159430/8a9cc8e1_b.jpg"
+      },
+      "fallbackImage": {
+        "description": "Featured image",
+        "url": "https://images.trvl-media.com/hotels/17000000/16160000/16159500/16159430/8a9cc8e1.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      }
+    },
+    "offerBadge": {
+      "primary": {
+        "text": "Ad",
+        "theme_temp": "SPONSORED",
+        "icon_temp": null,
+        "mark": null
+      },
+      "secondary": {
+        "text": "We have 5 left at",
+        "theme_temp": "DEAL_GENERIC",
+        "icon_temp": null
+      }
+    },
+    "price": {
+      "alignment": null,
+      "displayMessages": null,
+      "lead": {
+        "formatted": "Rs3,861"
+      },
+      "strikeOutType": "PRICE_SURVEY",
+      "strikeOut": null,
+      "disclaimer": null,
+      "roomNightMessage": "per night",
+      "priceMessages": [
+        {
+          "value": "per night"
+        }
+      ],
+      "marketingFeeDetails": null,
+      "options": [
+        {
+          "leadingCaption": null,
+          "displayPrice": {
+            "formatted": "Rs3,861"
+          },
+          "strikeOut": null,
+          "loyaltyPrice": null,
+          "disclaimer": null
+        }
+      ]
+    },
+    "reviews": {
+      "score": 4.1,
+      "localizedScore": "4.1",
+      "total": 125,
+      "localizedTotal": "125 reviews",
+      "superlative": "Very good",
+      "localizedSubtitle": "4.1 / 5 (125 reviews)",
+      "localizedSubtitleA11y": {
+        "accessibilityLabel": "4.1 out of 5 Very good (125 reviews)",
+        "value": "4.1/5 Very good (125 reviews)"
+      },
+      "mark": null
+    },
+    "destinationInfo": {
+      "distanceFromMessaging": null
+    },
+    "vipMessaging": null,
+    "propertyDetailsLink": {
+      "uri": {
+        "value": "https://www.expedia.co.in/Kolkata-Hotels-Holiday-Inn-Kolkata-Airport.h16159430.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810450145&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=178244&destination=Kolkata+%28and+vicinity%29%2C+West+Bengal%2C+India&destType=MARKET&neighborhoodId=553248633981711493&trackingData=AAAAEFqTJtQ-Q5ciKr4-rVsFVQLO1a1ke_ZNU8zpDAAdePNS9VqS1IeuK3qqVhmNoHv7YYL_lIBZnmGPIdVZ4bihr6T15d3v2Y_Mc3mAv9UTJvdrqTO0z21GDbtXYyKdKcJOYeBGgYrj_ru8lWKq3LqATEhJ1ptZ1JXd86GZ6Jj2ByByUyFT_Htpv9X7D59Nr4LlQ0SZtPP46he9o_En2R1WsMRNXEmjc4bnGxIP9aDwqBts7xceZFSO7wGfcoaeA3IaLW3H_sN5aGohg-ldiAKQ3JRDFw46NeMYUXeSqriXHZzf9AK7lxNbsVfQrsauNMmaGZClg7lUZqAzIlP-uH63D0dyhObIeXSQqJKo9g0DmT5t3-5phrRosHhbUSUS0U2Va7QKc5k2lgjCXuGnAPEbtte2azQekk5A6oBamT8w3EmKdYXK7q3p226vy-rU81Huo9N9Big9I-7IRgC3WrMvHB21dK0eZ9DKb-gLM8YLS3WlX5TXn8VPXY1nhlGw-qLU7OboWU-rrbfR7arnTpfcSiVhElLkJNhh7ihq6zrB4Lg3LOgeO2qps55xIvGOUyfEWLaQv9sH2hPVJAE9ZGAAvOBXF2fhtnBKsmHPTpJV9dxRR_7DW4hg1PlxYnK8gVH3Lf_pqScawwf68hJk_S8il-SK3seHMQdk6q7nYqKSgQG0ti_OOF6WZv33xE1_zi7I8fQ-dmQYrDi5BYaGf7C4c4oi2u9-d079wXktyav4qGCqAep8z8gZ5V7nPTQoLyyDFMH9RTO8UrkvM9Y6xamdnV6jpQOkr2JNgRrTVyVWOJgFWUsh4x9xY9QeireZNT-Yz9F6fy2bR4wtqf3ojPdOsPDisBRE4U55lX4schJsIU5Vv6M2VW33wgkbgB8N2G5czeqlIrfCMXtloN1qvNbymJ45ERETQ1k7JKr6bp8W15J9jQvA1az_IToZpA9Xh5O36BhjBwwFgxZUiUw8QY7VZBy6sxznhiX18J3Z9PtrauaEUe-_MJ6V9BcA5m9I-v1v_IZerI6y7lngVCgU3amMYoR5v2ncKsWREWUpRQpqq2N9VJ5sjK9L01zawKcMKm43BOdc7GT5WHV88ELmM9Salta1oGkP9Xe62UHrWEnBTVSVsM-q_CD9-Fzoqa1LRqLe0Ceb9xlZ-viCvhSFMQt57Hk%3D&rank=2&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_AA&position=2&beaconIssued=2022-02-25T17%3A34%3A08&sort=RECOMMENDED&top_dp=3861&top_cur=INR&semdtl=&userIntent=&selectedRoomType=314048555&selectedRatePlan=381376501",
+        "relativePath": "/Kolkata-Hotels-Holiday-Inn-Kolkata-Airport.h16159430.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810450145&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=178244&destination=Kolkata+%28and+vicinity%29%2C+West+Bengal%2C+India&destType=MARKET&neighborhoodId=553248633981711493&trackingData=AAAAEFqTJtQ-Q5ciKr4-rVsFVQLO1a1ke_ZNU8zpDAAdePNS9VqS1IeuK3qqVhmNoHv7YYL_lIBZnmGPIdVZ4bihr6T15d3v2Y_Mc3mAv9UTJvdrqTO0z21GDbtXYyKdKcJOYeBGgYrj_ru8lWKq3LqATEhJ1ptZ1JXd86GZ6Jj2ByByUyFT_Htpv9X7D59Nr4LlQ0SZtPP46he9o_En2R1WsMRNXEmjc4bnGxIP9aDwqBts7xceZFSO7wGfcoaeA3IaLW3H_sN5aGohg-ldiAKQ3JRDFw46NeMYUXeSqriXHZzf9AK7lxNbsVfQrsauNMmaGZClg7lUZqAzIlP-uH63D0dyhObIeXSQqJKo9g0DmT5t3-5phrRosHhbUSUS0U2Va7QKc5k2lgjCXuGnAPEbtte2azQekk5A6oBamT8w3EmKdYXK7q3p226vy-rU81Huo9N9Big9I-7IRgC3WrMvHB21dK0eZ9DKb-gLM8YLS3WlX5TXn8VPXY1nhlGw-qLU7OboWU-rrbfR7arnTpfcSiVhElLkJNhh7ihq6zrB4Lg3LOgeO2qps55xIvGOUyfEWLaQv9sH2hPVJAE9ZGAAvOBXF2fhtnBKsmHPTpJV9dxRR_7DW4hg1PlxYnK8gVH3Lf_pqScawwf68hJk_S8il-SK3seHMQdk6q7nYqKSgQG0ti_OOF6WZv33xE1_zi7I8fQ-dmQYrDi5BYaGf7C4c4oi2u9-d079wXktyav4qGCqAep8z8gZ5V7nPTQoLyyDFMH9RTO8UrkvM9Y6xamdnV6jpQOkr2JNgRrTVyVWOJgFWUsh4x9xY9QeireZNT-Yz9F6fy2bR4wtqf3ojPdOsPDisBRE4U55lX4schJsIU5Vv6M2VW33wgkbgB8N2G5czeqlIrfCMXtloN1qvNbymJ45ERETQ1k7JKr6bp8W15J9jQvA1az_IToZpA9Xh5O36BhjBwwFgxZUiUw8QY7VZBy6sxznhiX18J3Z9PtrauaEUe-_MJ6V9BcA5m9I-v1v_IZerI6y7lngVCgU3amMYoR5v2ncKsWREWUpRQpqq2N9VJ5sjK9L01zawKcMKm43BOdc7GT5WHV88ELmM9Salta1oGkP9Xe62UHrWEnBTVSVsM-q_CD9-Fzoqa1LRqLe0Ceb9xlZ-viCvhSFMQt57Hk%3D&rank=2&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_AA&position=2&beaconIssued=2022-02-25T17%3A34%3A08&sort=RECOMMENDED&top_dp=3861&top_cur=INR&semdtl=&userIntent=&selectedRoomType=314048555&selectedRatePlan=381376501"
+      },
+      "clientSideAnalytics": {
+        "referrerId": "HOT.SR:HotelModule:2",
+        "linkName": "View selected property"
+      }
+    },
+    "sponsoredListing": {
+      "id": "650486",
+      "clickRedirectTrackingUrl": "https://www.expedia.co.in/taps/v1/ClRedirect?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&destinationUrl=&rank=2&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEFqTJtQ-Q5ciKr4-rVsFVQLO1a1ke_ZNU8zpDAAdePNS9VqS1IeuK3qqVhmNoHv7YYL_lIBZnmGPIdVZ4bihr6T15d3v2Y_Mc3mAv9UTJvdrqTO0z21GDbtXYyKdKcJOYeBGgYrj_ru8lWKq3LqATEhJ1ptZ1JXd86GZ6Jj2ByByUyFT_Htpv9X7D59Nr4LlQ0SZtPP46he9o_En2R1WsMRNXEmjc4bnGxIP9aDwqBts7xceZFSO7wGfcoaeA3IaLW3H_sN5aGohg-ldiAKQ3JRDFw46NeMYUXeSqriXHZzf9AK7lxNbsVfQrsauNMmaGZClg7lUZqAzIlP-uH63D0dyhObIeXSQqJKo9g0DmT5t3-5phrRosHhbUSUS0U2Va7QKc5k2lgjCXuGnAPEbtte2azQekk5A6oBamT8w3EmKdYXK7q3p226vy-rU81Huo9N9Big9I-7IRgC3WrMvHB21dK0eZ9DKb-gLM8YLS3WlX5TXn8VPXY1nhlGw-qLU7OboWU-rrbfR7arnTpfcSiVhElLkJNhh7ihq6zrB4Lg3LOgeO2qps55xIvGOUyfEWLaQv9sH2hPVJAE9ZGAAvOBXF2fhtnBKsmHPTpJV9dxRR_7DW4hg1PlxYnK8gVH3Lf_pqScawwf68hJk_S8il-SK3seHMQdk6q7nYqKSgQG0ti_OOF6WZv33xE1_zi7I8fQ-dmQYrDi5BYaGf7C4c4oi2u9-d079wXktyav4qGCqAep8z8gZ5V7nPTQoLyyDFMH9RTO8UrkvM9Y6xamdnV6jpQOkr2JNgRrTVyVWOJgFWUsh4x9xY9QeireZNT-Yz9F6fy2bR4wtqf3ojPdOsPDisBRE4U55lX4schJsIU5Vv6M2VW33wgkbgB8N2G5czeqlIrfCMXtloN1qvNbymJ45ERETQ1k7JKr6bp8W15J9jQvA1az_IToZpA9Xh5O36BhjBwwFgxZUiUw8QY7VZBy6sxznhiX18J3Z9PtrauaEUe-_MJ6V9BcA5m9I-v1v_IZerI6y7lngVCgU3amMYoR5v2ncKsWREWUpRQpqq2N9VJ5sjK9L01zawKcMKm43BOdc7GT5WHV88ELmM9Salta1oGkP9Xe62UHrWEnBTVSVsM-q_CD9-Fzoqa1LRqLe0Ceb9xlZ-viCvhSFMQt57Hk=&slots=HSR_AA&position=2&beaconIssued=2022-02-25T17:34:08",
+      "clickTrackingUrl": "https://www.expedia.co.in/taps/v1/Cl?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=2&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEFqTJtQ-Q5ciKr4-rVsFVQLO1a1ke_ZNU8zpDAAdePNS9VqS1IeuK3qqVhmNoHv7YYL_lIBZnmGPIdVZ4bihr6T15d3v2Y_Mc3mAv9UTJvdrqTO0z21GDbtXYyKdKcJOYeBGgYrj_ru8lWKq3LqATEhJ1ptZ1JXd86GZ6Jj2ByByUyFT_Htpv9X7D59Nr4LlQ0SZtPP46he9o_En2R1WsMRNXEmjc4bnGxIP9aDwqBts7xceZFSO7wGfcoaeA3IaLW3H_sN5aGohg-ldiAKQ3JRDFw46NeMYUXeSqriXHZzf9AK7lxNbsVfQrsauNMmaGZClg7lUZqAzIlP-uH63D0dyhObIeXSQqJKo9g0DmT5t3-5phrRosHhbUSUS0U2Va7QKc5k2lgjCXuGnAPEbtte2azQekk5A6oBamT8w3EmKdYXK7q3p226vy-rU81Huo9N9Big9I-7IRgC3WrMvHB21dK0eZ9DKb-gLM8YLS3WlX5TXn8VPXY1nhlGw-qLU7OboWU-rrbfR7arnTpfcSiVhElLkJNhh7ihq6zrB4Lg3LOgeO2qps55xIvGOUyfEWLaQv9sH2hPVJAE9ZGAAvOBXF2fhtnBKsmHPTpJV9dxRR_7DW4hg1PlxYnK8gVH3Lf_pqScawwf68hJk_S8il-SK3seHMQdk6q7nYqKSgQG0ti_OOF6WZv33xE1_zi7I8fQ-dmQYrDi5BYaGf7C4c4oi2u9-d079wXktyav4qGCqAep8z8gZ5V7nPTQoLyyDFMH9RTO8UrkvM9Y6xamdnV6jpQOkr2JNgRrTVyVWOJgFWUsh4x9xY9QeireZNT-Yz9F6fy2bR4wtqf3ojPdOsPDisBRE4U55lX4schJsIU5Vv6M2VW33wgkbgB8N2G5czeqlIrfCMXtloN1qvNbymJ45ERETQ1k7JKr6bp8W15J9jQvA1az_IToZpA9Xh5O36BhjBwwFgxZUiUw8QY7VZBy6sxznhiX18J3Z9PtrauaEUe-_MJ6V9BcA5m9I-v1v_IZerI6y7lngVCgU3amMYoR5v2ncKsWREWUpRQpqq2N9VJ5sjK9L01zawKcMKm43BOdc7GT5WHV88ELmM9Salta1oGkP9Xe62UHrWEnBTVSVsM-q_CD9-Fzoqa1LRqLe0Ceb9xlZ-viCvhSFMQt57Hk=&slots=HSR_AA&position=2&beaconIssued=2022-02-25T17:34:08",
+      "details": "Enjoy up to 25 percent off at over 160 hotels in India, Middle East and Africa. Book by 30 April 2022.",
+      "detailsHeadline": "Up to 25pct off at over 160 IHG Hotels",
+      "hotelImage": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/17000000/16160000/16159500/16159430/8a9cc8e1_b.jpg",
+      "impressionTrackingUrl": "https://www.expedia.co.in/taps/v1/Impr?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=2&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEFqTJtQ-Q5ciKr4-rVsFVQLO1a1ke_ZNU8zpDAAdePNS9VqS1IeuK3qqVhmNoHv7YYL_lIBZnmGPIdVZ4bihr6T15d3v2Y_Mc3mAv9UTJvdrqTO0z21GDbtXYyKdKcJOYeBGgYrj_ru8lWKq3LqATEhJ1ptZ1JXd86GZ6Jj2ByByUyFT_Htpv9X7D59Nr4LlQ0SZtPP46he9o_En2R1WsMRNXEmjc4bnGxIP9aDwqBts7xceZFSO7wGfcoaeA3IaLW3H_sN5aGohg-ldiAKQ3JRDFw46NeMYUXeSqriXHZzf9AK7lxNbsVfQrsauNMmaGZClg7lUZqAzIlP-uH63D0dyhObIeXSQqJKo9g0DmT5t3-5phrRosHhbUSUS0U2Va7QKc5k2lgjCXuGnAPEbtte2azQekk5A6oBamT8w3EmKdYXK7q3p226vy-rU81Huo9N9Big9I-7IRgC3WrMvHB21dK0eZ9DKb-gLM8YLS3WlX5TXn8VPXY1nhlGw-qLU7OboWU-rrbfR7arnTpfcSiVhElLkJNhh7ihq6zrB4Lg3LOgeO2qps55xIvGOUyfEWLaQv9sH2hPVJAE9ZGAAvOBXF2fhtnBKsmHPTpJV9dxRR_7DW4hg1PlxYnK8gVH3Lf_pqScawwf68hJk_S8il-SK3seHMQdk6q7nYqKSgQG0ti_OOF6WZv33xE1_zi7I8fQ-dmQYrDi5BYaGf7C4c4oi2u9-d079wXktyav4qGCqAep8z8gZ5V7nPTQoLyyDFMH9RTO8UrkvM9Y6xamdnV6jpQOkr2JNgRrTVyVWOJgFWUsh4x9xY9QeireZNT-Yz9F6fy2bR4wtqf3ojPdOsPDisBRE4U55lX4schJsIU5Vv6M2VW33wgkbgB8N2G5czeqlIrfCMXtloN1qvNbymJ45ERETQ1k7JKr6bp8W15J9jQvA1az_IToZpA9Xh5O36BhjBwwFgxZUiUw8QY7VZBy6sxznhiX18J3Z9PtrauaEUe-_MJ6V9BcA5m9I-v1v_IZerI6y7lngVCgU3amMYoR5v2ncKsWREWUpRQpqq2N9VJ5sjK9L01zawKcMKm43BOdc7GT5WHV88ELmM9Salta1oGkP9Xe62UHrWEnBTVSVsM-q_CD9-Fzoqa1LRqLe0Ceb9xlZ-viCvhSFMQt57Hk=&slots=HSR_AA&position=2&beaconIssued=2022-02-25T17:34:08",
+      "trackingData": "AAAAEFqTJtQ-Q5ciKr4-rVsFVQLO1a1ke_ZNU8zpDAAdePNS9VqS1IeuK3qqVhmNoHv7YYL_lIBZnmGPIdVZ4bihr6T15d3v2Y_Mc3mAv9UTJvdrqTO0z21GDbtXYyKdKcJOYeBGgYrj_ru8lWKq3LqATEhJ1ptZ1JXd86GZ6Jj2ByByUyFT_Htpv9X7D59Nr4LlQ0SZtPP46he9o_En2R1WsMRNXEmjc4bnGxIP9aDwqBts7xceZFSO7wGfcoaeA3IaLW3H_sN5aGohg-ldiAKQ3JRDFw46NeMYUXeSqriXHZzf9AK7lxNbsVfQrsauNMmaGZClg7lUZqAzIlP-uH63D0dyhObIeXSQqJKo9g0DmT5t3-5phrRosHhbUSUS0U2Va7QKc5k2lgjCXuGnAPEbtte2azQekk5A6oBamT8w3EmKdYXK7q3p226vy-rU81Huo9N9Big9I-7IRgC3WrMvHB21dK0eZ9DKb-gLM8YLS3WlX5TXn8VPXY1nhlGw-qLU7OboWU-rrbfR7arnTpfcSiVhElLkJNhh7ihq6zrB4Lg3LOgeO2qps55xIvGOUyfEWLaQv9sH2hPVJAE9ZGAAvOBXF2fhtnBKsmHPTpJV9dxRR_7DW4hg1PlxYnK8gVH3Lf_pqScawwf68hJk_S8il-SK3seHMQdk6q7nYqKSgQG0ti_OOF6WZv33xE1_zi7I8fQ-dmQYrDi5BYaGf7C4c4oi2u9-d079wXktyav4qGCqAep8z8gZ5V7nPTQoLyyDFMH9RTO8UrkvM9Y6xamdnV6jpQOkr2JNgRrTVyVWOJgFWUsh4x9xY9QeireZNT-Yz9F6fy2bR4wtqf3ojPdOsPDisBRE4U55lX4schJsIU5Vv6M2VW33wgkbgB8N2G5czeqlIrfCMXtloN1qvNbymJ45ERETQ1k7JKr6bp8W15J9jQvA1az_IToZpA9Xh5O36BhjBwwFgxZUiUw8QY7VZBy6sxznhiX18J3Z9PtrauaEUe-_MJ6V9BcA5m9I-v1v_IZerI6y7lngVCgU3amMYoR5v2ncKsWREWUpRQpqq2N9VJ5sjK9L01zawKcMKm43BOdc7GT5WHV88ELmM9Salta1oGkP9Xe62UHrWEnBTVSVsM-q_CD9-Fzoqa1LRqLe0Ceb9xlZ-viCvhSFMQt57Hk=",
+      "brand": null,
+      "clickRedirectLinkoffTrackingUrl": null,
+      "logo": null,
+      "lotagline": null,
+      "rating": "0",
+      "slots": "HSR_AA",
+      "vanityUrl": null,
+      "rank": "2",
+      "position": "2"
+    },
+    "amenities": [],
+    "star": null,
+    "starRatingIcon": "STAR",
+    "availability": {
+      "available": true,
+      "text": null,
+      "theme": "URGENT"
+    },
+    "offerSummary": {
+      "messages": [
+        {
+          "message": "Fully refundable",
+          "theme": "SUCCESS",
+          "type": "FREE_CANCEL",
+          "mark": null
+        },
+        {
+          "message": "Reserve now, pay later",
+          "theme": "SUCCESS",
+          "type": "PAY_LATER",
+          "mark": null
+        }
+      ]
+    },
+    "legalDisclaimer": null,
+    "imageGallery": {
+      "accessibilityLabel": "Photo gallery for Holiday Inn Kolkata Airport, an IHG Hotel",
+      "images": [
+        {
+          "image": {
+            "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/17000000/16160000/16159500/16159430/8a9cc8e1_b.jpg",
+            "description": "Featured image"
+          },
+          "subjectId": 3,
+          "fallbackImage": {
+            "url": "https://images.trvl-media.com/hotels/17000000/16160000/16159500/16159430/8a9cc8e1.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Featured image"
+          },
+          "imageId": "475663273"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/17000000/16160000/16159500/16159430/7b61b297.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Terrace/patio"
+          },
+          "subjectId": 91008,
+          "fallbackImage": null,
+          "imageId": "32462134"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/17000000/16160000/16159500/16159430/0da4194c.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Pool"
+          },
+          "subjectId": 30000,
+          "fallbackImage": null,
+          "imageId": "90093646"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/17000000/16160000/16159500/16159430/989af444.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Bedroom"
+          },
+          "subjectId": 21001,
+          "fallbackImage": null,
+          "imageId": "32828871"
+        }
+      ]
+    },
+    "mapMarker": {
+      "icon": "HOTEL",
+      "label": "Rs3,861",
+      "type": "HOTEL",
+      "latLong": {
+        "latitude": 22.623195,
+        "longitude": 88.443216
+      },
+      "clientSideAnalytics": {
+        "referrerId": "Module.Map.HotelMarkerSelect",
+        "linkName": "User selecting a hotel marker on the PWA HSR map"
+      }
+    },
+    "neighborhood": {
+      "name": "New Town"
+    },
+    "pinnedDetails": null,
+    "recentlyViewed": null,
+    "featuredMessages": null,
+    "supportingMessages": ["Excludes taxes & fees"],
+    "shortList": {
+      "favorited": false,
+      "saveUrl": "/api/ucs/shortlist/save/16159430",
+      "removeUrl": "/api/ucs/shortlist/remove/16159430",
+      "metaData": {
+        "chkIn": "20220311",
+        "chkOut": "20220312",
+        "hotelId": "16159430",
+        "roomConfiguration": "2"
+      }
+    },
+    "highlightedPropertyDetails": [],
+    "propertySource": null,
+    "dataAttributes": null,
+    "listingFooter": null
+  },
+  {
+    "__typename": "Property",
+    "id": "16474794",
+    "name": "JW Marriott Hotel Kolkata",
+    "propertyImage": {
+      "image": {
+        "description": "Featured image",
+        "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/17000000/16480000/16474800/16474794/9fa0cdab_b.jpg"
+      },
+      "fallbackImage": {
+        "description": "Featured image",
+        "url": "https://images.trvl-media.com/hotels/17000000/16480000/16474800/16474794/9fa0cdab.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      }
+    },
+    "offerBadge": {
+      "primary": {
+        "text": "Ad",
+        "theme_temp": "SPONSORED",
+        "icon_temp": null,
+        "mark": null
+      },
+      "secondary": {
+        "text": "We have 5 left at",
+        "theme_temp": "DEAL_GENERIC",
+        "icon_temp": null
+      }
+    },
+    "price": {
+      "alignment": null,
+      "displayMessages": null,
+      "lead": {
+        "formatted": "Rs7,555"
+      },
+      "strikeOutType": "PRICE_SURVEY",
+      "strikeOut": null,
+      "disclaimer": null,
+      "roomNightMessage": "per night",
+      "priceMessages": [
+        {
+          "value": "per night"
+        }
+      ],
+      "marketingFeeDetails": null,
+      "options": [
+        {
+          "leadingCaption": null,
+          "displayPrice": {
+            "formatted": "Rs7,555"
+          },
+          "strikeOut": null,
+          "loyaltyPrice": null,
+          "disclaimer": null
+        }
+      ]
+    },
+    "reviews": {
+      "score": 4.5,
+      "localizedScore": "4.5",
+      "total": 138,
+      "localizedTotal": "138 reviews",
+      "superlative": "Wonderful",
+      "localizedSubtitle": "4.5 / 5 (138 reviews)",
+      "localizedSubtitleA11y": {
+        "accessibilityLabel": "4.5 out of 5 Wonderful (138 reviews)",
+        "value": "4.5/5 Wonderful (138 reviews)"
+      },
+      "mark": null
+    },
+    "destinationInfo": {
+      "distanceFromMessaging": null
+    },
+    "vipMessaging": null,
+    "propertyDetailsLink": {
+      "uri": {
+        "value": "https://www.expedia.co.in/Kolkata-Hotels-JW-Marriott-Hotel-Kolkata.h16474794.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810450145&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=178244&destination=Kolkata+%28and+vicinity%29%2C+West+Bengal%2C+India&destType=MARKET&neighborhoodId=178969&trackingData=AAAAEAG6Koaq38ip_yWqk9JvEvizkZDZpn9SpxOIpzgUqhDN47apP-Qm8OpEs2a25VfJrNJ5f6hkCMtvxAA6TLS4azSmGMVLjiPQQDH-ZDiyHee7-ZrJqPLGdsBj4_DGILqmFVauIGyzNkNvFUGkn4dN87jaGcqgud9ubJRtNkYaxgMnz3703M6A2hIxKqIKYaxuthuQtL6MPy5-x3iIgDnOZsvxvALei_rzpukam5h902FVL1bg0-vO3Jw0xaE_tDoKymb2QqLxI9xwEMjYIElfm3Cg3QpGZBWCxqZI1i73R2FE6RSshceNhaAw16p6rTcvajC3UZyvgSXOFqJQKBPG5RDnTlg4CxeUDE2kLZrV3V51LC6h2UtKDlJ_QNV6YT3t8uNXVuFThs1d3NKWn5iOjtXI0PtdHZKxg8p2LhzOXg-vT4AgAqs1tNJyWffvNBA-hrl_pr2w3PBti6lZbyGbxlIxlzwZNKHIr13wFuyGDM7vKSAmcpwUIpPOImVWn5JPvaN1WIHsjHdAsEyfLezBvdLBBeuv0Y4IaMRSqD_TcU2aQoPdZU_FOSuKR9eVndFMoI9Fh10EN8rMzHyIYmvzDPDex4EKeh6vOBg9YUeMpM5OE48XwGVfKA_zksVEvrTyVRByIlwj3l6Jxnuy9cw8bkjTqsuz55_Uf-zzO-U7faW7Nu46PW2DpuP8anK6KxyGnJyvv7wdDMx-4BpL4ZlFq0ykn7b6jh-8P54W0l5yl7pcoxruig4-YqxFfScpnV0feaVS0V3DZc5pGlq3QwxfH4zdAFMwPIqPIjHIGcLzdmuDlLBjwE5-vy19jfY6pB-vBkU6rSj3xfe-bPL9TYpWyH6mz4Av3hEpVzrGzV3Vt_iVWM1cQuC2EyYj9yIxZGvMrSCynBW9cvlHFH3LPASBVNeXM03aOI7umf6Mlr7gIaYe8uCADlftYmQRNOANaAV9rwTWOxbZ9FVu8y4BUumfe5x7sh7zvKGJrUketETjMwzo05IET8TKjJ064rl19JlNf97AZ3JxRZXBQEVj0OFe080ou7p1s7nXpopIIqIjt4gtImvSpOnJbJbs3RW0PKZJKRwYMZLBe66-23KL2uay7rM3b1n7JUVrbDsCBbDAAKMo3e6GhonsKzNP31IS3rjMgw%3D%3D&rank=3&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_DYN&position=3&beaconIssued=2022-02-25T17%3A34%3A08&sort=RECOMMENDED&top_dp=7555&top_cur=INR&semdtl=&userIntent=&selectedRoomType=221741256&selectedRatePlan=298208794",
+        "relativePath": "/Kolkata-Hotels-JW-Marriott-Hotel-Kolkata.h16474794.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810450145&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=178244&destination=Kolkata+%28and+vicinity%29%2C+West+Bengal%2C+India&destType=MARKET&neighborhoodId=178969&trackingData=AAAAEAG6Koaq38ip_yWqk9JvEvizkZDZpn9SpxOIpzgUqhDN47apP-Qm8OpEs2a25VfJrNJ5f6hkCMtvxAA6TLS4azSmGMVLjiPQQDH-ZDiyHee7-ZrJqPLGdsBj4_DGILqmFVauIGyzNkNvFUGkn4dN87jaGcqgud9ubJRtNkYaxgMnz3703M6A2hIxKqIKYaxuthuQtL6MPy5-x3iIgDnOZsvxvALei_rzpukam5h902FVL1bg0-vO3Jw0xaE_tDoKymb2QqLxI9xwEMjYIElfm3Cg3QpGZBWCxqZI1i73R2FE6RSshceNhaAw16p6rTcvajC3UZyvgSXOFqJQKBPG5RDnTlg4CxeUDE2kLZrV3V51LC6h2UtKDlJ_QNV6YT3t8uNXVuFThs1d3NKWn5iOjtXI0PtdHZKxg8p2LhzOXg-vT4AgAqs1tNJyWffvNBA-hrl_pr2w3PBti6lZbyGbxlIxlzwZNKHIr13wFuyGDM7vKSAmcpwUIpPOImVWn5JPvaN1WIHsjHdAsEyfLezBvdLBBeuv0Y4IaMRSqD_TcU2aQoPdZU_FOSuKR9eVndFMoI9Fh10EN8rMzHyIYmvzDPDex4EKeh6vOBg9YUeMpM5OE48XwGVfKA_zksVEvrTyVRByIlwj3l6Jxnuy9cw8bkjTqsuz55_Uf-zzO-U7faW7Nu46PW2DpuP8anK6KxyGnJyvv7wdDMx-4BpL4ZlFq0ykn7b6jh-8P54W0l5yl7pcoxruig4-YqxFfScpnV0feaVS0V3DZc5pGlq3QwxfH4zdAFMwPIqPIjHIGcLzdmuDlLBjwE5-vy19jfY6pB-vBkU6rSj3xfe-bPL9TYpWyH6mz4Av3hEpVzrGzV3Vt_iVWM1cQuC2EyYj9yIxZGvMrSCynBW9cvlHFH3LPASBVNeXM03aOI7umf6Mlr7gIaYe8uCADlftYmQRNOANaAV9rwTWOxbZ9FVu8y4BUumfe5x7sh7zvKGJrUketETjMwzo05IET8TKjJ064rl19JlNf97AZ3JxRZXBQEVj0OFe080ou7p1s7nXpopIIqIjt4gtImvSpOnJbJbs3RW0PKZJKRwYMZLBe66-23KL2uay7rM3b1n7JUVrbDsCBbDAAKMo3e6GhonsKzNP31IS3rjMgw%3D%3D&rank=3&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_DYN&position=3&beaconIssued=2022-02-25T17%3A34%3A08&sort=RECOMMENDED&top_dp=7555&top_cur=INR&semdtl=&userIntent=&selectedRoomType=221741256&selectedRatePlan=298208794"
+      },
+      "clientSideAnalytics": {
+        "referrerId": "HOT.SR:HotelModule:3",
+        "linkName": "View selected property"
+      }
+    },
+    "sponsoredListing": {
+      "id": "598545",
+      "clickRedirectTrackingUrl": "https://www.expedia.co.in/taps/v1/ClRedirect?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&destinationUrl=&rank=3&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEAG6Koaq38ip_yWqk9JvEvizkZDZpn9SpxOIpzgUqhDN47apP-Qm8OpEs2a25VfJrNJ5f6hkCMtvxAA6TLS4azSmGMVLjiPQQDH-ZDiyHee7-ZrJqPLGdsBj4_DGILqmFVauIGyzNkNvFUGkn4dN87jaGcqgud9ubJRtNkYaxgMnz3703M6A2hIxKqIKYaxuthuQtL6MPy5-x3iIgDnOZsvxvALei_rzpukam5h902FVL1bg0-vO3Jw0xaE_tDoKymb2QqLxI9xwEMjYIElfm3Cg3QpGZBWCxqZI1i73R2FE6RSshceNhaAw16p6rTcvajC3UZyvgSXOFqJQKBPG5RDnTlg4CxeUDE2kLZrV3V51LC6h2UtKDlJ_QNV6YT3t8uNXVuFThs1d3NKWn5iOjtXI0PtdHZKxg8p2LhzOXg-vT4AgAqs1tNJyWffvNBA-hrl_pr2w3PBti6lZbyGbxlIxlzwZNKHIr13wFuyGDM7vKSAmcpwUIpPOImVWn5JPvaN1WIHsjHdAsEyfLezBvdLBBeuv0Y4IaMRSqD_TcU2aQoPdZU_FOSuKR9eVndFMoI9Fh10EN8rMzHyIYmvzDPDex4EKeh6vOBg9YUeMpM5OE48XwGVfKA_zksVEvrTyVRByIlwj3l6Jxnuy9cw8bkjTqsuz55_Uf-zzO-U7faW7Nu46PW2DpuP8anK6KxyGnJyvv7wdDMx-4BpL4ZlFq0ykn7b6jh-8P54W0l5yl7pcoxruig4-YqxFfScpnV0feaVS0V3DZc5pGlq3QwxfH4zdAFMwPIqPIjHIGcLzdmuDlLBjwE5-vy19jfY6pB-vBkU6rSj3xfe-bPL9TYpWyH6mz4Av3hEpVzrGzV3Vt_iVWM1cQuC2EyYj9yIxZGvMrSCynBW9cvlHFH3LPASBVNeXM03aOI7umf6Mlr7gIaYe8uCADlftYmQRNOANaAV9rwTWOxbZ9FVu8y4BUumfe5x7sh7zvKGJrUketETjMwzo05IET8TKjJ064rl19JlNf97AZ3JxRZXBQEVj0OFe080ou7p1s7nXpopIIqIjt4gtImvSpOnJbJbs3RW0PKZJKRwYMZLBe66-23KL2uay7rM3b1n7JUVrbDsCBbDAAKMo3e6GhonsKzNP31IS3rjMgw==&slots=HSR_DYN&position=3&beaconIssued=2022-02-25T17:34:08",
+      "clickTrackingUrl": "https://www.expedia.co.in/taps/v1/Cl?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=3&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEAG6Koaq38ip_yWqk9JvEvizkZDZpn9SpxOIpzgUqhDN47apP-Qm8OpEs2a25VfJrNJ5f6hkCMtvxAA6TLS4azSmGMVLjiPQQDH-ZDiyHee7-ZrJqPLGdsBj4_DGILqmFVauIGyzNkNvFUGkn4dN87jaGcqgud9ubJRtNkYaxgMnz3703M6A2hIxKqIKYaxuthuQtL6MPy5-x3iIgDnOZsvxvALei_rzpukam5h902FVL1bg0-vO3Jw0xaE_tDoKymb2QqLxI9xwEMjYIElfm3Cg3QpGZBWCxqZI1i73R2FE6RSshceNhaAw16p6rTcvajC3UZyvgSXOFqJQKBPG5RDnTlg4CxeUDE2kLZrV3V51LC6h2UtKDlJ_QNV6YT3t8uNXVuFThs1d3NKWn5iOjtXI0PtdHZKxg8p2LhzOXg-vT4AgAqs1tNJyWffvNBA-hrl_pr2w3PBti6lZbyGbxlIxlzwZNKHIr13wFuyGDM7vKSAmcpwUIpPOImVWn5JPvaN1WIHsjHdAsEyfLezBvdLBBeuv0Y4IaMRSqD_TcU2aQoPdZU_FOSuKR9eVndFMoI9Fh10EN8rMzHyIYmvzDPDex4EKeh6vOBg9YUeMpM5OE48XwGVfKA_zksVEvrTyVRByIlwj3l6Jxnuy9cw8bkjTqsuz55_Uf-zzO-U7faW7Nu46PW2DpuP8anK6KxyGnJyvv7wdDMx-4BpL4ZlFq0ykn7b6jh-8P54W0l5yl7pcoxruig4-YqxFfScpnV0feaVS0V3DZc5pGlq3QwxfH4zdAFMwPIqPIjHIGcLzdmuDlLBjwE5-vy19jfY6pB-vBkU6rSj3xfe-bPL9TYpWyH6mz4Av3hEpVzrGzV3Vt_iVWM1cQuC2EyYj9yIxZGvMrSCynBW9cvlHFH3LPASBVNeXM03aOI7umf6Mlr7gIaYe8uCADlftYmQRNOANaAV9rwTWOxbZ9FVu8y4BUumfe5x7sh7zvKGJrUketETjMwzo05IET8TKjJ064rl19JlNf97AZ3JxRZXBQEVj0OFe080ou7p1s7nXpopIIqIjt4gtImvSpOnJbJbs3RW0PKZJKRwYMZLBe66-23KL2uay7rM3b1n7JUVrbDsCBbDAAKMo3e6GhonsKzNP31IS3rjMgw==&slots=HSR_DYN&position=3&beaconIssued=2022-02-25T17:34:08",
+      "details": "Experience the elegance and warmth while enjoying greater savings when you book a stay for a minimum of 7 nights.",
+      "detailsHeadline": "Long Stay Offer",
+      "hotelImage": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/17000000/16480000/16474800/16474794/9fa0cdab_b.jpg",
+      "impressionTrackingUrl": "https://www.expedia.co.in/taps/v1/Impr?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=3&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEAG6Koaq38ip_yWqk9JvEvizkZDZpn9SpxOIpzgUqhDN47apP-Qm8OpEs2a25VfJrNJ5f6hkCMtvxAA6TLS4azSmGMVLjiPQQDH-ZDiyHee7-ZrJqPLGdsBj4_DGILqmFVauIGyzNkNvFUGkn4dN87jaGcqgud9ubJRtNkYaxgMnz3703M6A2hIxKqIKYaxuthuQtL6MPy5-x3iIgDnOZsvxvALei_rzpukam5h902FVL1bg0-vO3Jw0xaE_tDoKymb2QqLxI9xwEMjYIElfm3Cg3QpGZBWCxqZI1i73R2FE6RSshceNhaAw16p6rTcvajC3UZyvgSXOFqJQKBPG5RDnTlg4CxeUDE2kLZrV3V51LC6h2UtKDlJ_QNV6YT3t8uNXVuFThs1d3NKWn5iOjtXI0PtdHZKxg8p2LhzOXg-vT4AgAqs1tNJyWffvNBA-hrl_pr2w3PBti6lZbyGbxlIxlzwZNKHIr13wFuyGDM7vKSAmcpwUIpPOImVWn5JPvaN1WIHsjHdAsEyfLezBvdLBBeuv0Y4IaMRSqD_TcU2aQoPdZU_FOSuKR9eVndFMoI9Fh10EN8rMzHyIYmvzDPDex4EKeh6vOBg9YUeMpM5OE48XwGVfKA_zksVEvrTyVRByIlwj3l6Jxnuy9cw8bkjTqsuz55_Uf-zzO-U7faW7Nu46PW2DpuP8anK6KxyGnJyvv7wdDMx-4BpL4ZlFq0ykn7b6jh-8P54W0l5yl7pcoxruig4-YqxFfScpnV0feaVS0V3DZc5pGlq3QwxfH4zdAFMwPIqPIjHIGcLzdmuDlLBjwE5-vy19jfY6pB-vBkU6rSj3xfe-bPL9TYpWyH6mz4Av3hEpVzrGzV3Vt_iVWM1cQuC2EyYj9yIxZGvMrSCynBW9cvlHFH3LPASBVNeXM03aOI7umf6Mlr7gIaYe8uCADlftYmQRNOANaAV9rwTWOxbZ9FVu8y4BUumfe5x7sh7zvKGJrUketETjMwzo05IET8TKjJ064rl19JlNf97AZ3JxRZXBQEVj0OFe080ou7p1s7nXpopIIqIjt4gtImvSpOnJbJbs3RW0PKZJKRwYMZLBe66-23KL2uay7rM3b1n7JUVrbDsCBbDAAKMo3e6GhonsKzNP31IS3rjMgw==&slots=HSR_DYN&position=3&beaconIssued=2022-02-25T17:34:08",
+      "trackingData": "AAAAEAG6Koaq38ip_yWqk9JvEvizkZDZpn9SpxOIpzgUqhDN47apP-Qm8OpEs2a25VfJrNJ5f6hkCMtvxAA6TLS4azSmGMVLjiPQQDH-ZDiyHee7-ZrJqPLGdsBj4_DGILqmFVauIGyzNkNvFUGkn4dN87jaGcqgud9ubJRtNkYaxgMnz3703M6A2hIxKqIKYaxuthuQtL6MPy5-x3iIgDnOZsvxvALei_rzpukam5h902FVL1bg0-vO3Jw0xaE_tDoKymb2QqLxI9xwEMjYIElfm3Cg3QpGZBWCxqZI1i73R2FE6RSshceNhaAw16p6rTcvajC3UZyvgSXOFqJQKBPG5RDnTlg4CxeUDE2kLZrV3V51LC6h2UtKDlJ_QNV6YT3t8uNXVuFThs1d3NKWn5iOjtXI0PtdHZKxg8p2LhzOXg-vT4AgAqs1tNJyWffvNBA-hrl_pr2w3PBti6lZbyGbxlIxlzwZNKHIr13wFuyGDM7vKSAmcpwUIpPOImVWn5JPvaN1WIHsjHdAsEyfLezBvdLBBeuv0Y4IaMRSqD_TcU2aQoPdZU_FOSuKR9eVndFMoI9Fh10EN8rMzHyIYmvzDPDex4EKeh6vOBg9YUeMpM5OE48XwGVfKA_zksVEvrTyVRByIlwj3l6Jxnuy9cw8bkjTqsuz55_Uf-zzO-U7faW7Nu46PW2DpuP8anK6KxyGnJyvv7wdDMx-4BpL4ZlFq0ykn7b6jh-8P54W0l5yl7pcoxruig4-YqxFfScpnV0feaVS0V3DZc5pGlq3QwxfH4zdAFMwPIqPIjHIGcLzdmuDlLBjwE5-vy19jfY6pB-vBkU6rSj3xfe-bPL9TYpWyH6mz4Av3hEpVzrGzV3Vt_iVWM1cQuC2EyYj9yIxZGvMrSCynBW9cvlHFH3LPASBVNeXM03aOI7umf6Mlr7gIaYe8uCADlftYmQRNOANaAV9rwTWOxbZ9FVu8y4BUumfe5x7sh7zvKGJrUketETjMwzo05IET8TKjJ064rl19JlNf97AZ3JxRZXBQEVj0OFe080ou7p1s7nXpopIIqIjt4gtImvSpOnJbJbs3RW0PKZJKRwYMZLBe66-23KL2uay7rM3b1n7JUVrbDsCBbDAAKMo3e6GhonsKzNP31IS3rjMgw==",
+      "brand": null,
+      "clickRedirectLinkoffTrackingUrl": null,
+      "logo": null,
+      "lotagline": null,
+      "rating": "0",
+      "slots": "HSR_DYN",
+      "vanityUrl": null,
+      "rank": "3",
+      "position": "3"
+    },
+    "amenities": [],
+    "star": null,
+    "starRatingIcon": "STAR",
+    "availability": {
+      "available": true,
+      "text": null,
+      "theme": "URGENT"
+    },
+    "offerSummary": {
+      "messages": [
+        {
+          "message": "Fully refundable",
+          "theme": "SUCCESS",
+          "type": "FREE_CANCEL",
+          "mark": null
+        },
+        {
+          "message": "Reserve now, pay later",
+          "theme": "SUCCESS",
+          "type": "PAY_LATER",
+          "mark": null
+        }
+      ]
+    },
+    "legalDisclaimer": null,
+    "imageGallery": {
+      "accessibilityLabel": "Photo gallery for JW Marriott Hotel Kolkata",
+      "images": [
+        {
+          "image": {
+            "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/17000000/16480000/16474800/16474794/9fa0cdab_b.jpg",
+            "description": "Featured image"
+          },
+          "subjectId": 3,
+          "fallbackImage": {
+            "url": "https://images.trvl-media.com/hotels/17000000/16480000/16474800/16474794/9fa0cdab.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Featured image"
+          },
+          "imageId": "285935281"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/17000000/16480000/16474800/16474794/7443d80b.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Exterior"
+          },
+          "subjectId": 91024,
+          "fallbackImage": null,
+          "imageId": "262585765"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/17000000/16480000/16474800/16474794/0ae9d5d5.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Pool"
+          },
+          "subjectId": 30000,
+          "fallbackImage": null,
+          "imageId": "378607310"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/17000000/16480000/16474800/16474794/8e950ece.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Bedroom"
+          },
+          "subjectId": 21001,
+          "fallbackImage": null,
+          "imageId": "55033914"
+        }
+      ]
+    },
+    "mapMarker": {
+      "icon": "HOTEL",
+      "label": "Rs7,555",
+      "type": "HOTEL",
+      "latLong": {
+        "latitude": 22.547921,
+        "longitude": 88.399576
+      },
+      "clientSideAnalytics": {
+        "referrerId": "Module.Map.HotelMarkerSelect",
+        "linkName": "User selecting a hotel marker on the PWA HSR map"
+      }
+    },
+    "neighborhood": {
+      "name": "Tangra"
+    },
+    "pinnedDetails": null,
+    "recentlyViewed": null,
+    "featuredMessages": null,
+    "supportingMessages": ["Excludes taxes & fees"],
+    "shortList": {
+      "favorited": false,
+      "saveUrl": "/api/ucs/shortlist/save/16474794",
+      "removeUrl": "/api/ucs/shortlist/remove/16474794",
+      "metaData": {
+        "chkIn": "20220311",
+        "chkOut": "20220312",
+        "hotelId": "16474794",
+        "roomConfiguration": "2"
+      }
+    },
+    "highlightedPropertyDetails": [],
+    "propertySource": null,
+    "dataAttributes": null,
+    "listingFooter": null
+  },
+  {
+    "__typename": "MessageResult",
+    "title": {
+      "text": "You could be seeing lower prices",
+      "icon": null,
+      "mark": {
+        "description": "You could be seeing lower prices",
+        "id": "mod_exp"
+      },
+      "illustration": null,
+      "theme": null
+    },
+    "subtitle": {
+      "text": "With member prices, you could save 10% or more right now on thousands of properties.",
+      "icon": null,
+      "mark": null,
+      "illustration": null,
+      "theme": null
+    },
+    "action": {
+      "primary": {
+        "actionDetails": null,
+        "linkUrl": "https://www.expedia.co.in/user/signin?uurl=e3id%3Dredr%26rurl%3D%2FHotel-Search%3FregionId%3D178244%26destination%3DKolkata%2B%2528and%2Bvicinity%2529%252C%2BWest%2BBengal%252C%2BIndia%26startDate%3D2022-03-11%26endDate%3D2022-03-12%26adults%3D2%26children%3D%26sort%3DRECOMMENDED%26semdtl%3D%26userIntent%3D",
+        "referrerId": ":LoginCard.SignIn",
+        "text": "Sign in"
+      },
+      "secondary": {
+        "actionDetails": null,
+        "linkUrl": "https://www.expedia.co.in/user/createaccount?uurl=e3id%3Dredr%26rurl%3D%2FHotel-Search%3FregionId%3D178244%26destination%3DKolkata%2B%2528and%2Bvicinity%2529%252C%2BWest%2BBengal%252C%2BIndia%26startDate%3D2022-03-11%26endDate%3D2022-03-12%26adults%3D2%26children%3D%26sort%3DRECOMMENDED%26semdtl%3D%26userIntent%3D&fromheader=true",
+        "referrerId": ":LoginCard.CreateAccount",
+        "text": "Sign up, it's free"
+      }
+    },
+    "index": 3,
+    "type": "LOGIN"
+  },
+  {
+    "__typename": "Property",
+    "id": "16714839",
+    "name": "The Westin Kolkata Rajarhat",
+    "propertyImage": {
+      "image": {
+        "description": "Lobby",
+        "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/17000000/16720000/16714900/16714839/8f36c2ca_b.jpg"
+      },
+      "fallbackImage": {
+        "description": "Lobby",
+        "url": "https://images.trvl-media.com/hotels/17000000/16720000/16714900/16714839/f8122d01.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      }
+    },
+    "offerBadge": {
+      "primary": {
+        "text": "Ad",
+        "theme_temp": "SPONSORED",
+        "icon_temp": null,
+        "mark": null
+      },
+      "secondary": {
+        "text": "We have 5 left at",
+        "theme_temp": "DEAL_GENERIC",
+        "icon_temp": null
+      }
+    },
+    "price": {
+      "alignment": null,
+      "displayMessages": null,
+      "lead": {
+        "formatted": "Rs6,700"
+      },
+      "strikeOutType": "STANDALONE",
+      "strikeOut": null,
+      "disclaimer": null,
+      "roomNightMessage": "per night",
+      "priceMessages": [
+        {
+          "value": "per night"
+        }
+      ],
+      "marketingFeeDetails": null,
+      "options": [
+        {
+          "leadingCaption": null,
+          "displayPrice": {
+            "formatted": "Rs6,700"
+          },
+          "strikeOut": null,
+          "loyaltyPrice": null,
+          "disclaimer": null
+        }
+      ]
+    },
+    "reviews": {
+      "score": 4.4,
+      "localizedScore": "4.4",
+      "total": 73,
+      "localizedTotal": "73 reviews",
+      "superlative": "Excellent",
+      "localizedSubtitle": "4.4 / 5 (73 reviews)",
+      "localizedSubtitleA11y": {
+        "accessibilityLabel": "4.4 out of 5 Excellent (73 reviews)",
+        "value": "4.4/5 Excellent (73 reviews)"
+      },
+      "mark": null
+    },
+    "destinationInfo": {
+      "distanceFromMessaging": null
+    },
+    "vipMessaging": null,
+    "propertyDetailsLink": {
+      "uri": {
+        "value": "https://www.expedia.co.in/Kolkata-Hotels-The-Westin-Kolkata-Rajarhat.h16714839.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810450145&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=178244&destination=Kolkata+%28and+vicinity%29%2C+West+Bengal%2C+India&destType=MARKET&neighborhoodId=553248633981711493&trackingData=AAAAEAzMAFPWAc2Xzxv3i9BP1bjpg7v1dXkhkna2I-6r6dbEM9W6_fIBtS4QWrS1vGbvNQ0kmJdFuQx_h9-nl54rjNJls-YUSfP618zTWMqgbqHjHUnLjn-w1Mo67x9EnK7Uz_hpYQ2iTHYzhFfD3aIJLyl9d8eqVbSHsO2by-8DLX6ZtPJggtwC8mUG2XcsdMgNgUBbWW7cJOi8hisuu1ivXsnce9hnPjXCN1f9yGQ5IBTOViZuKFb5oFxGP8njS51QJOTy8MFUkifo88Jsj7fe0hFgTlO-kMiBIz0RQYkLIPBvY6HNagBdobwc1rWjt-lVpk6uVtLBaI2LfEh3V80QgBbrKucPlIV4ngSqatdtOn40JB1hu_L_BxlY8JOSxe9H80qFpnGZAt2IAlMGIC0hPWuH0fku6oq6og36SAc9__0fc0W8VdjPzXG7YWRbXUxOzV8cu44I30k4wRZmezCWeKvu3wXQ6fyGyQVhUln91Pr1rdfQAgh0K3VLekKOyEC1anTXm3tx_u1puAC71mXURPYauvFDkXqJjufiZqB0yJTLO_S3_xclkVvyPhMBvThnCjt99gM5WkISpDKvcgtJChSo2p7hQBixJix2WKjRkpIj9SEtgMWAbv51QHgKN9INBBFH96cUY2EWNgXsEL8pmNgKFO5-nj1moq7tBYm3O0udoBX99hR5c546YpXctFy7vqUuJd5cAO1RuldFvXpyEbhYEWLKAIGa8akIaJbASYZaZZVAObicn7SP1Hjocp1U3OAt9SvmmYQ3HaSrF5tvNTlCjw4zFA-mXe6Kep15hDDdyALYuV3K_Hlo9jeUwDoNJsDe34S4EbvAPTUfpWoWkOi1fXbyWq8aWmkHmZepfaEfnrag34sQc1LWWsZu1pO_8E0DJufBadD7V4CR8SS1qikfdfTpSiLW0SlxUQ2xKFHjLz-lSzJkjgnI-0Qi1Ua461_rjqmD7cd7nhXW1ZuhquM8H9ORzq2mCeXiVK-L7oCIyVoQoAKYaqAiQ0nl_6Al51PQfL9by_LnS8lemYcTRAvdCVB_pskmOO4M0pSR7QYHoUNUMJH75NDRGO-egIJePww_XQwmgU_aatEE67Tmyf2EEWrkI_o6w7OQROEjmqyznx105omXdbfItRXeQGI_4Q%3D%3D&rank=4&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_AB&position=4&beaconIssued=2022-02-25T17%3A34%3A08&sort=RECOMMENDED&top_dp=6700&top_cur=INR&semdtl=&userIntent=&selectedRoomType=220832137&selectedRatePlan=292138218",
+        "relativePath": "/Kolkata-Hotels-The-Westin-Kolkata-Rajarhat.h16714839.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810450145&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=178244&destination=Kolkata+%28and+vicinity%29%2C+West+Bengal%2C+India&destType=MARKET&neighborhoodId=553248633981711493&trackingData=AAAAEAzMAFPWAc2Xzxv3i9BP1bjpg7v1dXkhkna2I-6r6dbEM9W6_fIBtS4QWrS1vGbvNQ0kmJdFuQx_h9-nl54rjNJls-YUSfP618zTWMqgbqHjHUnLjn-w1Mo67x9EnK7Uz_hpYQ2iTHYzhFfD3aIJLyl9d8eqVbSHsO2by-8DLX6ZtPJggtwC8mUG2XcsdMgNgUBbWW7cJOi8hisuu1ivXsnce9hnPjXCN1f9yGQ5IBTOViZuKFb5oFxGP8njS51QJOTy8MFUkifo88Jsj7fe0hFgTlO-kMiBIz0RQYkLIPBvY6HNagBdobwc1rWjt-lVpk6uVtLBaI2LfEh3V80QgBbrKucPlIV4ngSqatdtOn40JB1hu_L_BxlY8JOSxe9H80qFpnGZAt2IAlMGIC0hPWuH0fku6oq6og36SAc9__0fc0W8VdjPzXG7YWRbXUxOzV8cu44I30k4wRZmezCWeKvu3wXQ6fyGyQVhUln91Pr1rdfQAgh0K3VLekKOyEC1anTXm3tx_u1puAC71mXURPYauvFDkXqJjufiZqB0yJTLO_S3_xclkVvyPhMBvThnCjt99gM5WkISpDKvcgtJChSo2p7hQBixJix2WKjRkpIj9SEtgMWAbv51QHgKN9INBBFH96cUY2EWNgXsEL8pmNgKFO5-nj1moq7tBYm3O0udoBX99hR5c546YpXctFy7vqUuJd5cAO1RuldFvXpyEbhYEWLKAIGa8akIaJbASYZaZZVAObicn7SP1Hjocp1U3OAt9SvmmYQ3HaSrF5tvNTlCjw4zFA-mXe6Kep15hDDdyALYuV3K_Hlo9jeUwDoNJsDe34S4EbvAPTUfpWoWkOi1fXbyWq8aWmkHmZepfaEfnrag34sQc1LWWsZu1pO_8E0DJufBadD7V4CR8SS1qikfdfTpSiLW0SlxUQ2xKFHjLz-lSzJkjgnI-0Qi1Ua461_rjqmD7cd7nhXW1ZuhquM8H9ORzq2mCeXiVK-L7oCIyVoQoAKYaqAiQ0nl_6Al51PQfL9by_LnS8lemYcTRAvdCVB_pskmOO4M0pSR7QYHoUNUMJH75NDRGO-egIJePww_XQwmgU_aatEE67Tmyf2EEWrkI_o6w7OQROEjmqyznx105omXdbfItRXeQGI_4Q%3D%3D&rank=4&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_AB&position=4&beaconIssued=2022-02-25T17%3A34%3A08&sort=RECOMMENDED&top_dp=6700&top_cur=INR&semdtl=&userIntent=&selectedRoomType=220832137&selectedRatePlan=292138218"
+      },
+      "clientSideAnalytics": {
+        "referrerId": "HOT.SR:HotelModule:4",
+        "linkName": "View selected property"
+      }
+    },
+    "sponsoredListing": {
+      "id": "598604",
+      "clickRedirectTrackingUrl": "https://www.expedia.co.in/taps/v1/ClRedirect?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&destinationUrl=&rank=4&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEAzMAFPWAc2Xzxv3i9BP1bjpg7v1dXkhkna2I-6r6dbEM9W6_fIBtS4QWrS1vGbvNQ0kmJdFuQx_h9-nl54rjNJls-YUSfP618zTWMqgbqHjHUnLjn-w1Mo67x9EnK7Uz_hpYQ2iTHYzhFfD3aIJLyl9d8eqVbSHsO2by-8DLX6ZtPJggtwC8mUG2XcsdMgNgUBbWW7cJOi8hisuu1ivXsnce9hnPjXCN1f9yGQ5IBTOViZuKFb5oFxGP8njS51QJOTy8MFUkifo88Jsj7fe0hFgTlO-kMiBIz0RQYkLIPBvY6HNagBdobwc1rWjt-lVpk6uVtLBaI2LfEh3V80QgBbrKucPlIV4ngSqatdtOn40JB1hu_L_BxlY8JOSxe9H80qFpnGZAt2IAlMGIC0hPWuH0fku6oq6og36SAc9__0fc0W8VdjPzXG7YWRbXUxOzV8cu44I30k4wRZmezCWeKvu3wXQ6fyGyQVhUln91Pr1rdfQAgh0K3VLekKOyEC1anTXm3tx_u1puAC71mXURPYauvFDkXqJjufiZqB0yJTLO_S3_xclkVvyPhMBvThnCjt99gM5WkISpDKvcgtJChSo2p7hQBixJix2WKjRkpIj9SEtgMWAbv51QHgKN9INBBFH96cUY2EWNgXsEL8pmNgKFO5-nj1moq7tBYm3O0udoBX99hR5c546YpXctFy7vqUuJd5cAO1RuldFvXpyEbhYEWLKAIGa8akIaJbASYZaZZVAObicn7SP1Hjocp1U3OAt9SvmmYQ3HaSrF5tvNTlCjw4zFA-mXe6Kep15hDDdyALYuV3K_Hlo9jeUwDoNJsDe34S4EbvAPTUfpWoWkOi1fXbyWq8aWmkHmZepfaEfnrag34sQc1LWWsZu1pO_8E0DJufBadD7V4CR8SS1qikfdfTpSiLW0SlxUQ2xKFHjLz-lSzJkjgnI-0Qi1Ua461_rjqmD7cd7nhXW1ZuhquM8H9ORzq2mCeXiVK-L7oCIyVoQoAKYaqAiQ0nl_6Al51PQfL9by_LnS8lemYcTRAvdCVB_pskmOO4M0pSR7QYHoUNUMJH75NDRGO-egIJePww_XQwmgU_aatEE67Tmyf2EEWrkI_o6w7OQROEjmqyznx105omXdbfItRXeQGI_4Q==&slots=HSR_AB&position=4&beaconIssued=2022-02-25T17:34:08",
+      "clickTrackingUrl": "https://www.expedia.co.in/taps/v1/Cl?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=4&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEAzMAFPWAc2Xzxv3i9BP1bjpg7v1dXkhkna2I-6r6dbEM9W6_fIBtS4QWrS1vGbvNQ0kmJdFuQx_h9-nl54rjNJls-YUSfP618zTWMqgbqHjHUnLjn-w1Mo67x9EnK7Uz_hpYQ2iTHYzhFfD3aIJLyl9d8eqVbSHsO2by-8DLX6ZtPJggtwC8mUG2XcsdMgNgUBbWW7cJOi8hisuu1ivXsnce9hnPjXCN1f9yGQ5IBTOViZuKFb5oFxGP8njS51QJOTy8MFUkifo88Jsj7fe0hFgTlO-kMiBIz0RQYkLIPBvY6HNagBdobwc1rWjt-lVpk6uVtLBaI2LfEh3V80QgBbrKucPlIV4ngSqatdtOn40JB1hu_L_BxlY8JOSxe9H80qFpnGZAt2IAlMGIC0hPWuH0fku6oq6og36SAc9__0fc0W8VdjPzXG7YWRbXUxOzV8cu44I30k4wRZmezCWeKvu3wXQ6fyGyQVhUln91Pr1rdfQAgh0K3VLekKOyEC1anTXm3tx_u1puAC71mXURPYauvFDkXqJjufiZqB0yJTLO_S3_xclkVvyPhMBvThnCjt99gM5WkISpDKvcgtJChSo2p7hQBixJix2WKjRkpIj9SEtgMWAbv51QHgKN9INBBFH96cUY2EWNgXsEL8pmNgKFO5-nj1moq7tBYm3O0udoBX99hR5c546YpXctFy7vqUuJd5cAO1RuldFvXpyEbhYEWLKAIGa8akIaJbASYZaZZVAObicn7SP1Hjocp1U3OAt9SvmmYQ3HaSrF5tvNTlCjw4zFA-mXe6Kep15hDDdyALYuV3K_Hlo9jeUwDoNJsDe34S4EbvAPTUfpWoWkOi1fXbyWq8aWmkHmZepfaEfnrag34sQc1LWWsZu1pO_8E0DJufBadD7V4CR8SS1qikfdfTpSiLW0SlxUQ2xKFHjLz-lSzJkjgnI-0Qi1Ua461_rjqmD7cd7nhXW1ZuhquM8H9ORzq2mCeXiVK-L7oCIyVoQoAKYaqAiQ0nl_6Al51PQfL9by_LnS8lemYcTRAvdCVB_pskmOO4M0pSR7QYHoUNUMJH75NDRGO-egIJePww_XQwmgU_aatEE67Tmyf2EEWrkI_o6w7OQROEjmqyznx105omXdbfItRXeQGI_4Q==&slots=HSR_AB&position=4&beaconIssued=2022-02-25T17:34:08",
+      "details": "Stay at unbeatable rates with complimentary breakfast and wi-fi. Free stay for kids below 12 years of age.",
+      "detailsHeadline": "Comfiest Beds, Delicious Breakfast",
+      "hotelImage": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/17000000/16720000/16714900/16714839/8f36c2ca_b.jpg",
+      "impressionTrackingUrl": "https://www.expedia.co.in/taps/v1/Impr?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=4&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEAzMAFPWAc2Xzxv3i9BP1bjpg7v1dXkhkna2I-6r6dbEM9W6_fIBtS4QWrS1vGbvNQ0kmJdFuQx_h9-nl54rjNJls-YUSfP618zTWMqgbqHjHUnLjn-w1Mo67x9EnK7Uz_hpYQ2iTHYzhFfD3aIJLyl9d8eqVbSHsO2by-8DLX6ZtPJggtwC8mUG2XcsdMgNgUBbWW7cJOi8hisuu1ivXsnce9hnPjXCN1f9yGQ5IBTOViZuKFb5oFxGP8njS51QJOTy8MFUkifo88Jsj7fe0hFgTlO-kMiBIz0RQYkLIPBvY6HNagBdobwc1rWjt-lVpk6uVtLBaI2LfEh3V80QgBbrKucPlIV4ngSqatdtOn40JB1hu_L_BxlY8JOSxe9H80qFpnGZAt2IAlMGIC0hPWuH0fku6oq6og36SAc9__0fc0W8VdjPzXG7YWRbXUxOzV8cu44I30k4wRZmezCWeKvu3wXQ6fyGyQVhUln91Pr1rdfQAgh0K3VLekKOyEC1anTXm3tx_u1puAC71mXURPYauvFDkXqJjufiZqB0yJTLO_S3_xclkVvyPhMBvThnCjt99gM5WkISpDKvcgtJChSo2p7hQBixJix2WKjRkpIj9SEtgMWAbv51QHgKN9INBBFH96cUY2EWNgXsEL8pmNgKFO5-nj1moq7tBYm3O0udoBX99hR5c546YpXctFy7vqUuJd5cAO1RuldFvXpyEbhYEWLKAIGa8akIaJbASYZaZZVAObicn7SP1Hjocp1U3OAt9SvmmYQ3HaSrF5tvNTlCjw4zFA-mXe6Kep15hDDdyALYuV3K_Hlo9jeUwDoNJsDe34S4EbvAPTUfpWoWkOi1fXbyWq8aWmkHmZepfaEfnrag34sQc1LWWsZu1pO_8E0DJufBadD7V4CR8SS1qikfdfTpSiLW0SlxUQ2xKFHjLz-lSzJkjgnI-0Qi1Ua461_rjqmD7cd7nhXW1ZuhquM8H9ORzq2mCeXiVK-L7oCIyVoQoAKYaqAiQ0nl_6Al51PQfL9by_LnS8lemYcTRAvdCVB_pskmOO4M0pSR7QYHoUNUMJH75NDRGO-egIJePww_XQwmgU_aatEE67Tmyf2EEWrkI_o6w7OQROEjmqyznx105omXdbfItRXeQGI_4Q==&slots=HSR_AB&position=4&beaconIssued=2022-02-25T17:34:08",
+      "trackingData": "AAAAEAzMAFPWAc2Xzxv3i9BP1bjpg7v1dXkhkna2I-6r6dbEM9W6_fIBtS4QWrS1vGbvNQ0kmJdFuQx_h9-nl54rjNJls-YUSfP618zTWMqgbqHjHUnLjn-w1Mo67x9EnK7Uz_hpYQ2iTHYzhFfD3aIJLyl9d8eqVbSHsO2by-8DLX6ZtPJggtwC8mUG2XcsdMgNgUBbWW7cJOi8hisuu1ivXsnce9hnPjXCN1f9yGQ5IBTOViZuKFb5oFxGP8njS51QJOTy8MFUkifo88Jsj7fe0hFgTlO-kMiBIz0RQYkLIPBvY6HNagBdobwc1rWjt-lVpk6uVtLBaI2LfEh3V80QgBbrKucPlIV4ngSqatdtOn40JB1hu_L_BxlY8JOSxe9H80qFpnGZAt2IAlMGIC0hPWuH0fku6oq6og36SAc9__0fc0W8VdjPzXG7YWRbXUxOzV8cu44I30k4wRZmezCWeKvu3wXQ6fyGyQVhUln91Pr1rdfQAgh0K3VLekKOyEC1anTXm3tx_u1puAC71mXURPYauvFDkXqJjufiZqB0yJTLO_S3_xclkVvyPhMBvThnCjt99gM5WkISpDKvcgtJChSo2p7hQBixJix2WKjRkpIj9SEtgMWAbv51QHgKN9INBBFH96cUY2EWNgXsEL8pmNgKFO5-nj1moq7tBYm3O0udoBX99hR5c546YpXctFy7vqUuJd5cAO1RuldFvXpyEbhYEWLKAIGa8akIaJbASYZaZZVAObicn7SP1Hjocp1U3OAt9SvmmYQ3HaSrF5tvNTlCjw4zFA-mXe6Kep15hDDdyALYuV3K_Hlo9jeUwDoNJsDe34S4EbvAPTUfpWoWkOi1fXbyWq8aWmkHmZepfaEfnrag34sQc1LWWsZu1pO_8E0DJufBadD7V4CR8SS1qikfdfTpSiLW0SlxUQ2xKFHjLz-lSzJkjgnI-0Qi1Ua461_rjqmD7cd7nhXW1ZuhquM8H9ORzq2mCeXiVK-L7oCIyVoQoAKYaqAiQ0nl_6Al51PQfL9by_LnS8lemYcTRAvdCVB_pskmOO4M0pSR7QYHoUNUMJH75NDRGO-egIJePww_XQwmgU_aatEE67Tmyf2EEWrkI_o6w7OQROEjmqyznx105omXdbfItRXeQGI_4Q==",
+      "brand": null,
+      "clickRedirectLinkoffTrackingUrl": null,
+      "logo": null,
+      "lotagline": null,
+      "rating": "0",
+      "slots": "HSR_AB",
+      "vanityUrl": null,
+      "rank": "4",
+      "position": "4"
+    },
+    "amenities": [],
+    "star": null,
+    "starRatingIcon": "STAR",
+    "availability": {
+      "available": true,
+      "text": null,
+      "theme": "URGENT"
+    },
+    "offerSummary": {
+      "messages": [
+        {
+          "message": "Fully refundable",
+          "theme": "SUCCESS",
+          "type": "FREE_CANCEL",
+          "mark": null
+        },
+        {
+          "message": "Reserve now, pay later",
+          "theme": "SUCCESS",
+          "type": "PAY_LATER",
+          "mark": null
+        }
+      ]
+    },
+    "legalDisclaimer": null,
+    "imageGallery": {
+      "accessibilityLabel": "Photo gallery for The Westin Kolkata Rajarhat",
+      "images": [
+        {
+          "image": {
+            "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/17000000/16720000/16714900/16714839/8f36c2ca_b.jpg",
+            "description": "Garden"
+          },
+          "subjectId": 91005,
+          "fallbackImage": {
+            "url": "https://images.trvl-media.com/hotels/17000000/16720000/16714900/16714839/3b89d9ff.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Garden"
+          },
+          "imageId": "67080334"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/17000000/16720000/16714900/16714839/58e055ef.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Pool"
+          },
+          "subjectId": 30000,
+          "fallbackImage": null,
+          "imageId": "84961643"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/17000000/16720000/16714900/16714839/9fd4c5b1.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Bedroom"
+          },
+          "subjectId": 21001,
+          "fallbackImage": null,
+          "imageId": "84961627"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/17000000/16720000/16714900/16714839/fea150d4.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Bar"
+          },
+          "subjectId": 82000,
+          "fallbackImage": null,
+          "imageId": "87315565"
+        }
+      ]
+    },
+    "mapMarker": {
+      "icon": "HOTEL",
+      "label": "Rs6,700",
+      "type": "HOTEL",
+      "latLong": {
+        "latitude": 22.5913,
+        "longitude": 88.475552
+      },
+      "clientSideAnalytics": {
+        "referrerId": "Module.Map.HotelMarkerSelect",
+        "linkName": "User selecting a hotel marker on the PWA HSR map"
+      }
+    },
+    "neighborhood": {
+      "name": "New Town"
+    },
+    "pinnedDetails": null,
+    "recentlyViewed": null,
+    "featuredMessages": null,
+    "supportingMessages": ["Excludes taxes & fees"],
+    "shortList": {
+      "favorited": false,
+      "saveUrl": "/api/ucs/shortlist/save/16714839",
+      "removeUrl": "/api/ucs/shortlist/remove/16714839",
+      "metaData": {
+        "chkIn": "20220311",
+        "chkOut": "20220312",
+        "hotelId": "16714839",
+        "roomConfiguration": "2"
+      }
+    },
+    "highlightedPropertyDetails": [],
+    "propertySource": null,
+    "dataAttributes": null,
+    "listingFooter": null
+  },
+  {
+    "__typename": "Property",
+    "id": "44399005",
+    "name": "Fairfield by Marriott Kolkata",
+    "propertyImage": {
+      "image": {
+        "description": "Featured image",
+        "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/45000000/44400000/44399100/44399005/08a8b3a6_b.jpg"
+      },
+      "fallbackImage": {
+        "description": "Featured image",
+        "url": "https://images.trvl-media.com/hotels/45000000/44400000/44399100/44399005/08a8b3a6.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      }
+    },
+    "offerBadge": {
+      "primary": {
+        "text": "Ad",
+        "theme_temp": "SPONSORED",
+        "icon_temp": null,
+        "mark": null
+      },
+      "secondary": {
+        "text": "We have 5 left at",
+        "theme_temp": "DEAL_GENERIC",
+        "icon_temp": null
+      }
+    },
+    "price": {
+      "alignment": null,
+      "displayMessages": null,
+      "lead": {
+        "formatted": "Rs3,900"
+      },
+      "strikeOutType": "PRICE_SURVEY",
+      "strikeOut": null,
+      "disclaimer": null,
+      "roomNightMessage": "per night",
+      "priceMessages": [
+        {
+          "value": "per night"
+        }
+      ],
+      "marketingFeeDetails": null,
+      "options": [
+        {
+          "leadingCaption": null,
+          "displayPrice": {
+            "formatted": "Rs3,900"
+          },
+          "strikeOut": null,
+          "loyaltyPrice": null,
+          "disclaimer": null
+        }
+      ]
+    },
+    "reviews": {
+      "score": 4.7,
+      "localizedScore": "4.7",
+      "total": 29,
+      "localizedTotal": "29 reviews",
+      "superlative": "Exceptional",
+      "localizedSubtitle": "4.7 / 5 (29 reviews)",
+      "localizedSubtitleA11y": {
+        "accessibilityLabel": "4.7 out of 5 Exceptional (29 reviews)",
+        "value": "4.7/5 Exceptional (29 reviews)"
+      },
+      "mark": null
+    },
+    "destinationInfo": {
+      "distanceFromMessaging": null
+    },
+    "vipMessaging": null,
+    "propertyDetailsLink": {
+      "uri": {
+        "value": "https://www.expedia.co.in/Kolkata-Hotels-Fairfield-By-Marriott-Kolkata.h44399005.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810450145&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=178244&destination=Kolkata+%28and+vicinity%29%2C+West+Bengal%2C+India&destType=MARKET&neighborhoodId=553248633981711493&trackingData=AAAAEDmpRtk_KIS44tGsD7PV-h2gnRfF2eyWtOoJ7OuKNzmOa2iScM2M2o0ZchKqylqp09CE1_eu_j0FroNIHTxINCpAVMHbG29qEi0ejqlzu-ns3vp2AnjLCiEQko7OvqRPwbnE70HbyKibWaKeKKMRTOZmeRfhb1uYN4IRL4QdWuP6AJpWW6jYIUr5uT6rXgkNJ81a1uGGu2GJYexwHw9MMCxnEvx2chZLImteFPMq7CRy0TDWwsaX3NXHU0qhwngtLPVOELkH2R1GabJyvjoJVKz1vEMQymRGYNssedUQ04A8sOuiuEjNoEEOYScBI2bZIgC3dMXnGgLSH_uYrveXK6i0yBXvnQySknxUnIOK55CFI9iOtQja3dalWIJfVIT86UpxjlSe1KaMCcl6PCrcyZt0Ohr9HUMJn1OfBQLAqH2RIkfRkK3_EcCFbom5_l1t5swF4XeenMOiMFrCmmg_V6kiYT0KEXAvxD7rY6P-WszxemavpuX7-74aKYPHbZHXuYtk1VvNu7LYFWl11cGFLvC5I3o1URfgiLk-8hqlQCy3EBnvBvh1V5hyijMh4R8wUKOAl3LqAR6q3aBdUWnT9keB987wqYzhPq4uVbt1zp7KTRsPlIx8aYhlIcZ2ClxA5vpXMt8NbXw1iTPDKeI6A3InSPWZcY5-8KdcZugbzTymhinch1L9FIfHQUo18e3wIvmJ6f8I5krdJXLf7TumEWLYfGD1IvAUUtdfrATXiKnT3GixS8jfV1-vSPQ-2_KfWFd_m-cjM2JlhRFYZwk1npgru2GQ_qb-YzzNzLnOCzkiWK8njHw9FudeB_u9rHEkpSx5u4dtrIfbO6EgIuy0TZKj7zRaEwioLJqefsmzbz8kOIJegSz0VxWwJdxGrD89igO9ZcMymLIBTLsRNHbinhulci63T1-XrnbtD8IKFXmr56Xh0-WuscuUXxysxghkPMrWiuJ7LKkta32sVEXNm2YK5D8fhDTFF3sjL3HyEXogns4IHJ8JbSJMfKJANkRrWwOUcreJpgXwjBfzUaqKggnEeBBxy8_qTjydeZhIounpipTFskxVOuOSY0FiAiTnK15NgAAa_BkguFx66PNxfsVsnAIpIAToFguMgJoExcw7kuuWqPz-uy7ZWjom-T2HoA%3D%3D&rank=5&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_AC&position=5&beaconIssued=2022-02-25T17%3A34%3A08&sort=RECOMMENDED&top_dp=3900&top_cur=INR&semdtl=&userIntent=&selectedRoomType=218246923&selectedRatePlan=274279644",
+        "relativePath": "/Kolkata-Hotels-Fairfield-By-Marriott-Kolkata.h44399005.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810450145&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=178244&destination=Kolkata+%28and+vicinity%29%2C+West+Bengal%2C+India&destType=MARKET&neighborhoodId=553248633981711493&trackingData=AAAAEDmpRtk_KIS44tGsD7PV-h2gnRfF2eyWtOoJ7OuKNzmOa2iScM2M2o0ZchKqylqp09CE1_eu_j0FroNIHTxINCpAVMHbG29qEi0ejqlzu-ns3vp2AnjLCiEQko7OvqRPwbnE70HbyKibWaKeKKMRTOZmeRfhb1uYN4IRL4QdWuP6AJpWW6jYIUr5uT6rXgkNJ81a1uGGu2GJYexwHw9MMCxnEvx2chZLImteFPMq7CRy0TDWwsaX3NXHU0qhwngtLPVOELkH2R1GabJyvjoJVKz1vEMQymRGYNssedUQ04A8sOuiuEjNoEEOYScBI2bZIgC3dMXnGgLSH_uYrveXK6i0yBXvnQySknxUnIOK55CFI9iOtQja3dalWIJfVIT86UpxjlSe1KaMCcl6PCrcyZt0Ohr9HUMJn1OfBQLAqH2RIkfRkK3_EcCFbom5_l1t5swF4XeenMOiMFrCmmg_V6kiYT0KEXAvxD7rY6P-WszxemavpuX7-74aKYPHbZHXuYtk1VvNu7LYFWl11cGFLvC5I3o1URfgiLk-8hqlQCy3EBnvBvh1V5hyijMh4R8wUKOAl3LqAR6q3aBdUWnT9keB987wqYzhPq4uVbt1zp7KTRsPlIx8aYhlIcZ2ClxA5vpXMt8NbXw1iTPDKeI6A3InSPWZcY5-8KdcZugbzTymhinch1L9FIfHQUo18e3wIvmJ6f8I5krdJXLf7TumEWLYfGD1IvAUUtdfrATXiKnT3GixS8jfV1-vSPQ-2_KfWFd_m-cjM2JlhRFYZwk1npgru2GQ_qb-YzzNzLnOCzkiWK8njHw9FudeB_u9rHEkpSx5u4dtrIfbO6EgIuy0TZKj7zRaEwioLJqefsmzbz8kOIJegSz0VxWwJdxGrD89igO9ZcMymLIBTLsRNHbinhulci63T1-XrnbtD8IKFXmr56Xh0-WuscuUXxysxghkPMrWiuJ7LKkta32sVEXNm2YK5D8fhDTFF3sjL3HyEXogns4IHJ8JbSJMfKJANkRrWwOUcreJpgXwjBfzUaqKggnEeBBxy8_qTjydeZhIounpipTFskxVOuOSY0FiAiTnK15NgAAa_BkguFx66PNxfsVsnAIpIAToFguMgJoExcw7kuuWqPz-uy7ZWjom-T2HoA%3D%3D&rank=5&testVersionOverride=Buttercup%2C31936.102311.0%2C33775.98848.1%2C38414.114301.0%2C40794.121819.2%2C38427.115718.1%2C42444.123988.0%2C42876.124673.0%2C42973.124182.1%2C42974.123984.1%2C42975.124629.0%2C42976.125426.1%2C42802.125960.1%2C33739.99567.0%2C37898.109354.0%2C37930.119094.0&slots=HSR_AC&position=5&beaconIssued=2022-02-25T17%3A34%3A08&sort=RECOMMENDED&top_dp=3900&top_cur=INR&semdtl=&userIntent=&selectedRoomType=218246923&selectedRatePlan=274279644"
+      },
+      "clientSideAnalytics": {
+        "referrerId": "HOT.SR:HotelModule:5",
+        "linkName": "View selected property"
+      }
+    },
+    "sponsoredListing": {
+      "id": "598572",
+      "clickRedirectTrackingUrl": "https://www.expedia.co.in/taps/v1/ClRedirect?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&destinationUrl=&rank=5&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEDmpRtk_KIS44tGsD7PV-h2gnRfF2eyWtOoJ7OuKNzmOa2iScM2M2o0ZchKqylqp09CE1_eu_j0FroNIHTxINCpAVMHbG29qEi0ejqlzu-ns3vp2AnjLCiEQko7OvqRPwbnE70HbyKibWaKeKKMRTOZmeRfhb1uYN4IRL4QdWuP6AJpWW6jYIUr5uT6rXgkNJ81a1uGGu2GJYexwHw9MMCxnEvx2chZLImteFPMq7CRy0TDWwsaX3NXHU0qhwngtLPVOELkH2R1GabJyvjoJVKz1vEMQymRGYNssedUQ04A8sOuiuEjNoEEOYScBI2bZIgC3dMXnGgLSH_uYrveXK6i0yBXvnQySknxUnIOK55CFI9iOtQja3dalWIJfVIT86UpxjlSe1KaMCcl6PCrcyZt0Ohr9HUMJn1OfBQLAqH2RIkfRkK3_EcCFbom5_l1t5swF4XeenMOiMFrCmmg_V6kiYT0KEXAvxD7rY6P-WszxemavpuX7-74aKYPHbZHXuYtk1VvNu7LYFWl11cGFLvC5I3o1URfgiLk-8hqlQCy3EBnvBvh1V5hyijMh4R8wUKOAl3LqAR6q3aBdUWnT9keB987wqYzhPq4uVbt1zp7KTRsPlIx8aYhlIcZ2ClxA5vpXMt8NbXw1iTPDKeI6A3InSPWZcY5-8KdcZugbzTymhinch1L9FIfHQUo18e3wIvmJ6f8I5krdJXLf7TumEWLYfGD1IvAUUtdfrATXiKnT3GixS8jfV1-vSPQ-2_KfWFd_m-cjM2JlhRFYZwk1npgru2GQ_qb-YzzNzLnOCzkiWK8njHw9FudeB_u9rHEkpSx5u4dtrIfbO6EgIuy0TZKj7zRaEwioLJqefsmzbz8kOIJegSz0VxWwJdxGrD89igO9ZcMymLIBTLsRNHbinhulci63T1-XrnbtD8IKFXmr56Xh0-WuscuUXxysxghkPMrWiuJ7LKkta32sVEXNm2YK5D8fhDTFF3sjL3HyEXogns4IHJ8JbSJMfKJANkRrWwOUcreJpgXwjBfzUaqKggnEeBBxy8_qTjydeZhIounpipTFskxVOuOSY0FiAiTnK15NgAAa_BkguFx66PNxfsVsnAIpIAToFguMgJoExcw7kuuWqPz-uy7ZWjom-T2HoA==&slots=HSR_AC&position=5&beaconIssued=2022-02-25T17:34:08",
+      "clickTrackingUrl": "https://www.expedia.co.in/taps/v1/Cl?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=5&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEDmpRtk_KIS44tGsD7PV-h2gnRfF2eyWtOoJ7OuKNzmOa2iScM2M2o0ZchKqylqp09CE1_eu_j0FroNIHTxINCpAVMHbG29qEi0ejqlzu-ns3vp2AnjLCiEQko7OvqRPwbnE70HbyKibWaKeKKMRTOZmeRfhb1uYN4IRL4QdWuP6AJpWW6jYIUr5uT6rXgkNJ81a1uGGu2GJYexwHw9MMCxnEvx2chZLImteFPMq7CRy0TDWwsaX3NXHU0qhwngtLPVOELkH2R1GabJyvjoJVKz1vEMQymRGYNssedUQ04A8sOuiuEjNoEEOYScBI2bZIgC3dMXnGgLSH_uYrveXK6i0yBXvnQySknxUnIOK55CFI9iOtQja3dalWIJfVIT86UpxjlSe1KaMCcl6PCrcyZt0Ohr9HUMJn1OfBQLAqH2RIkfRkK3_EcCFbom5_l1t5swF4XeenMOiMFrCmmg_V6kiYT0KEXAvxD7rY6P-WszxemavpuX7-74aKYPHbZHXuYtk1VvNu7LYFWl11cGFLvC5I3o1URfgiLk-8hqlQCy3EBnvBvh1V5hyijMh4R8wUKOAl3LqAR6q3aBdUWnT9keB987wqYzhPq4uVbt1zp7KTRsPlIx8aYhlIcZ2ClxA5vpXMt8NbXw1iTPDKeI6A3InSPWZcY5-8KdcZugbzTymhinch1L9FIfHQUo18e3wIvmJ6f8I5krdJXLf7TumEWLYfGD1IvAUUtdfrATXiKnT3GixS8jfV1-vSPQ-2_KfWFd_m-cjM2JlhRFYZwk1npgru2GQ_qb-YzzNzLnOCzkiWK8njHw9FudeB_u9rHEkpSx5u4dtrIfbO6EgIuy0TZKj7zRaEwioLJqefsmzbz8kOIJegSz0VxWwJdxGrD89igO9ZcMymLIBTLsRNHbinhulci63T1-XrnbtD8IKFXmr56Xh0-WuscuUXxysxghkPMrWiuJ7LKkta32sVEXNm2YK5D8fhDTFF3sjL3HyEXogns4IHJ8JbSJMfKJANkRrWwOUcreJpgXwjBfzUaqKggnEeBBxy8_qTjydeZhIounpipTFskxVOuOSY0FiAiTnK15NgAAa_BkguFx66PNxfsVsnAIpIAToFguMgJoExcw7kuuWqPz-uy7ZWjom-T2HoA==&slots=HSR_AC&position=5&beaconIssued=2022-02-25T17:34:08",
+      "details": "Buffet Breakfast, Cocktail hour from 18:30 hrs till 19:30 Hrs",
+      "detailsHeadline": "Executive room package",
+      "hotelImage": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/45000000/44400000/44399100/44399005/08a8b3a6_b.jpg",
+      "impressionTrackingUrl": "https://www.expedia.co.in/taps/v1/Impr?testVersionOverride=Buttercup,31936.102311.0,33775.98848.1,38414.114301.0,40794.121819.2,38427.115718.1,42444.123988.0,42876.124673.0,42973.124182.1,42974.123984.1,42975.124629.0,42976.125426.1,42802.125960.1,33739.99567.0,37898.109354.0,37930.119094.0&rank=5&candidateHmGuid=33b8da3c-9bba-4462-be38-d3d7f39c1b48&trackingData=AAAAEDmpRtk_KIS44tGsD7PV-h2gnRfF2eyWtOoJ7OuKNzmOa2iScM2M2o0ZchKqylqp09CE1_eu_j0FroNIHTxINCpAVMHbG29qEi0ejqlzu-ns3vp2AnjLCiEQko7OvqRPwbnE70HbyKibWaKeKKMRTOZmeRfhb1uYN4IRL4QdWuP6AJpWW6jYIUr5uT6rXgkNJ81a1uGGu2GJYexwHw9MMCxnEvx2chZLImteFPMq7CRy0TDWwsaX3NXHU0qhwngtLPVOELkH2R1GabJyvjoJVKz1vEMQymRGYNssedUQ04A8sOuiuEjNoEEOYScBI2bZIgC3dMXnGgLSH_uYrveXK6i0yBXvnQySknxUnIOK55CFI9iOtQja3dalWIJfVIT86UpxjlSe1KaMCcl6PCrcyZt0Ohr9HUMJn1OfBQLAqH2RIkfRkK3_EcCFbom5_l1t5swF4XeenMOiMFrCmmg_V6kiYT0KEXAvxD7rY6P-WszxemavpuX7-74aKYPHbZHXuYtk1VvNu7LYFWl11cGFLvC5I3o1URfgiLk-8hqlQCy3EBnvBvh1V5hyijMh4R8wUKOAl3LqAR6q3aBdUWnT9keB987wqYzhPq4uVbt1zp7KTRsPlIx8aYhlIcZ2ClxA5vpXMt8NbXw1iTPDKeI6A3InSPWZcY5-8KdcZugbzTymhinch1L9FIfHQUo18e3wIvmJ6f8I5krdJXLf7TumEWLYfGD1IvAUUtdfrATXiKnT3GixS8jfV1-vSPQ-2_KfWFd_m-cjM2JlhRFYZwk1npgru2GQ_qb-YzzNzLnOCzkiWK8njHw9FudeB_u9rHEkpSx5u4dtrIfbO6EgIuy0TZKj7zRaEwioLJqefsmzbz8kOIJegSz0VxWwJdxGrD89igO9ZcMymLIBTLsRNHbinhulci63T1-XrnbtD8IKFXmr56Xh0-WuscuUXxysxghkPMrWiuJ7LKkta32sVEXNm2YK5D8fhDTFF3sjL3HyEXogns4IHJ8JbSJMfKJANkRrWwOUcreJpgXwjBfzUaqKggnEeBBxy8_qTjydeZhIounpipTFskxVOuOSY0FiAiTnK15NgAAa_BkguFx66PNxfsVsnAIpIAToFguMgJoExcw7kuuWqPz-uy7ZWjom-T2HoA==&slots=HSR_AC&position=5&beaconIssued=2022-02-25T17:34:08",
+      "trackingData": "AAAAEDmpRtk_KIS44tGsD7PV-h2gnRfF2eyWtOoJ7OuKNzmOa2iScM2M2o0ZchKqylqp09CE1_eu_j0FroNIHTxINCpAVMHbG29qEi0ejqlzu-ns3vp2AnjLCiEQko7OvqRPwbnE70HbyKibWaKeKKMRTOZmeRfhb1uYN4IRL4QdWuP6AJpWW6jYIUr5uT6rXgkNJ81a1uGGu2GJYexwHw9MMCxnEvx2chZLImteFPMq7CRy0TDWwsaX3NXHU0qhwngtLPVOELkH2R1GabJyvjoJVKz1vEMQymRGYNssedUQ04A8sOuiuEjNoEEOYScBI2bZIgC3dMXnGgLSH_uYrveXK6i0yBXvnQySknxUnIOK55CFI9iOtQja3dalWIJfVIT86UpxjlSe1KaMCcl6PCrcyZt0Ohr9HUMJn1OfBQLAqH2RIkfRkK3_EcCFbom5_l1t5swF4XeenMOiMFrCmmg_V6kiYT0KEXAvxD7rY6P-WszxemavpuX7-74aKYPHbZHXuYtk1VvNu7LYFWl11cGFLvC5I3o1URfgiLk-8hqlQCy3EBnvBvh1V5hyijMh4R8wUKOAl3LqAR6q3aBdUWnT9keB987wqYzhPq4uVbt1zp7KTRsPlIx8aYhlIcZ2ClxA5vpXMt8NbXw1iTPDKeI6A3InSPWZcY5-8KdcZugbzTymhinch1L9FIfHQUo18e3wIvmJ6f8I5krdJXLf7TumEWLYfGD1IvAUUtdfrATXiKnT3GixS8jfV1-vSPQ-2_KfWFd_m-cjM2JlhRFYZwk1npgru2GQ_qb-YzzNzLnOCzkiWK8njHw9FudeB_u9rHEkpSx5u4dtrIfbO6EgIuy0TZKj7zRaEwioLJqefsmzbz8kOIJegSz0VxWwJdxGrD89igO9ZcMymLIBTLsRNHbinhulci63T1-XrnbtD8IKFXmr56Xh0-WuscuUXxysxghkPMrWiuJ7LKkta32sVEXNm2YK5D8fhDTFF3sjL3HyEXogns4IHJ8JbSJMfKJANkRrWwOUcreJpgXwjBfzUaqKggnEeBBxy8_qTjydeZhIounpipTFskxVOuOSY0FiAiTnK15NgAAa_BkguFx66PNxfsVsnAIpIAToFguMgJoExcw7kuuWqPz-uy7ZWjom-T2HoA==",
+      "brand": null,
+      "clickRedirectLinkoffTrackingUrl": null,
+      "logo": null,
+      "lotagline": null,
+      "rating": "0",
+      "slots": "HSR_AC",
+      "vanityUrl": null,
+      "rank": "5",
+      "position": "5"
+    },
+    "amenities": [],
+    "star": null,
+    "starRatingIcon": "STAR",
+    "availability": {
+      "available": true,
+      "text": null,
+      "theme": "URGENT"
+    },
+    "offerSummary": {
+      "messages": [
+        {
+          "message": "Fully refundable",
+          "theme": "SUCCESS",
+          "type": "FREE_CANCEL",
+          "mark": null
+        },
+        {
+          "message": "Reserve now, pay later",
+          "theme": "SUCCESS",
+          "type": "PAY_LATER",
+          "mark": null
+        }
+      ]
+    },
+    "legalDisclaimer": null,
+    "imageGallery": {
+      "accessibilityLabel": "Photo gallery for Fairfield by Marriott Kolkata",
+      "images": [
+        {
+          "image": {
+            "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/45000000/44400000/44399100/44399005/08a8b3a6_b.jpg",
+            "description": "Featured image"
+          },
+          "subjectId": 3,
+          "fallbackImage": {
+            "url": "https://images.trvl-media.com/hotels/45000000/44400000/44399100/44399005/08a8b3a6.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Featured image"
+          },
+          "imageId": "372436005"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/45000000/44400000/44399100/44399005/794ca0a8.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Exterior"
+          },
+          "subjectId": 91024,
+          "fallbackImage": null,
+          "imageId": "370354736"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/45000000/44400000/44399100/44399005/810faae8.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Outdoor pool"
+          },
+          "subjectId": 30003,
+          "fallbackImage": null,
+          "imageId": "372436000"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/45000000/44400000/44399100/44399005/1e0b70e6.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Bedroom"
+          },
+          "subjectId": 21001,
+          "fallbackImage": null,
+          "imageId": "448628588"
+        }
+      ]
+    },
+    "mapMarker": {
+      "icon": "HOTEL",
+      "label": "Rs3,900",
+      "type": "HOTEL",
+      "latLong": {
+        "latitude": 22.579051,
+        "longitude": 88.468479
+      },
+      "clientSideAnalytics": {
+        "referrerId": "Module.Map.HotelMarkerSelect",
+        "linkName": "User selecting a hotel marker on the PWA HSR map"
+      }
+    },
+    "neighborhood": {
+      "name": "New Town"
+    },
+    "pinnedDetails": null,
+    "recentlyViewed": null,
+    "featuredMessages": null,
+    "supportingMessages": ["Excludes taxes & fees"],
+    "shortList": {
+      "favorited": false,
+      "saveUrl": "/api/ucs/shortlist/save/44399005",
+      "removeUrl": "/api/ucs/shortlist/remove/44399005",
+      "metaData": {
+        "chkIn": "20220311",
+        "chkOut": "20220312",
+        "hotelId": "44399005",
+        "roomConfiguration": "2"
+      }
+    },
+    "highlightedPropertyDetails": [],
+    "propertySource": null,
+    "dataAttributes": null,
+    "listingFooter": null
+  },
+  {
+    "__typename": "Property",
+    "id": "922011",
+    "name": "ITC Sonar, a Luxury Collection Hotel, Kolkata",
+    "propertyImage": {
+      "image": {
+        "description": "Featured image",
+        "url": "https://images.trvl-media.com/hotels/1000000/930000/922100/922011/2fcb7d6e.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      },
+      "fallbackImage": null
+    },
+    "offerBadge": {
+      "primary": null,
+      "secondary": {
+        "text": "We have 5 left at",
+        "theme_temp": "DEAL_GENERIC",
+        "icon_temp": null
+      }
+    },
+    "price": {
+      "alignment": null,
+      "displayMessages": null,
+      "lead": {
+        "formatted": "Rs5,000"
+      },
+      "strikeOutType": "STANDALONE",
+      "strikeOut": null,
+      "disclaimer": null,
+      "roomNightMessage": "per night",
+      "priceMessages": [
+        {
+          "value": "per night"
+        }
+      ],
+      "marketingFeeDetails": null,
+      "options": [
+        {
+          "leadingCaption": null,
+          "displayPrice": {
+            "formatted": "Rs5,000"
+          },
+          "strikeOut": null,
+          "loyaltyPrice": null,
+          "disclaimer": null
+        }
+      ]
+    },
+    "reviews": {
+      "score": 4.4,
+      "localizedScore": "4.4",
+      "total": 183,
+      "localizedTotal": "183 reviews",
+      "superlative": "Excellent",
+      "localizedSubtitle": "4.4 / 5 (183 reviews)",
+      "localizedSubtitleA11y": {
+        "accessibilityLabel": "4.4 out of 5 Excellent (183 reviews)",
+        "value": "4.4/5 Excellent (183 reviews)"
+      },
+      "mark": null
+    },
+    "destinationInfo": {
+      "distanceFromMessaging": null
+    },
+    "vipMessaging": null,
+    "propertyDetailsLink": {
+      "uri": {
+        "value": "https://www.expedia.co.in/Kolkata-Hotels-ITC-Sonar.h922011.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810450145&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=178244&destination=Kolkata+%28and+vicinity%29%2C+West+Bengal%2C+India&destType=MARKET&neighborhoodId=178969&sort=RECOMMENDED&top_dp=5000&top_cur=INR&semdtl=&userIntent=&selectedRoomType=213604579&selectedRatePlan=244409058",
+        "relativePath": "/Kolkata-Hotels-ITC-Sonar.h922011.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810450145&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=178244&destination=Kolkata+%28and+vicinity%29%2C+West+Bengal%2C+India&destType=MARKET&neighborhoodId=178969&sort=RECOMMENDED&top_dp=5000&top_cur=INR&semdtl=&userIntent=&selectedRoomType=213604579&selectedRatePlan=244409058"
+      },
+      "clientSideAnalytics": {
+        "referrerId": "HOT.SR:HotelModule:6",
+        "linkName": "View selected property"
+      }
+    },
+    "sponsoredListing": null,
+    "amenities": [],
+    "star": null,
+    "starRatingIcon": "STAR",
+    "availability": {
+      "available": true,
+      "text": null,
+      "theme": "URGENT"
+    },
+    "offerSummary": {
+      "messages": [
+        {
+          "message": "Fully refundable",
+          "theme": "SUCCESS",
+          "type": "FREE_CANCEL",
+          "mark": null
+        },
+        {
+          "message": "Reserve now, pay later",
+          "theme": "SUCCESS",
+          "type": "PAY_LATER",
+          "mark": null
+        }
+      ]
+    },
+    "legalDisclaimer": null,
+    "imageGallery": {
+      "accessibilityLabel": "Photo gallery for ITC Sonar, a Luxury Collection Hotel, Kolkata",
+      "images": [
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/930000/922100/922011/2fcb7d6e.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Featured image"
+          },
+          "subjectId": 3,
+          "fallbackImage": null,
+          "imageId": "42535326"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/930000/922100/922011/38699953.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Exterior"
+          },
+          "subjectId": 91024,
+          "fallbackImage": null,
+          "imageId": "402454443"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/930000/922100/922011/209f22d9.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Pool"
+          },
+          "subjectId": 30000,
+          "fallbackImage": null,
+          "imageId": "42535253"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/930000/922100/922011/c39ff250.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Bedroom"
+          },
+          "subjectId": 21001,
+          "fallbackImage": null,
+          "imageId": "68520839"
+        }
+      ]
+    },
+    "mapMarker": {
+      "icon": "HOTEL",
+      "label": "Rs5,000",
+      "type": "HOTEL",
+      "latLong": {
+        "latitude": 22.544855,
+        "longitude": 88.397809
+      },
+      "clientSideAnalytics": {
+        "referrerId": "Module.Map.HotelMarkerSelect",
+        "linkName": "User selecting a hotel marker on the PWA HSR map"
+      }
+    },
+    "neighborhood": {
+      "name": "Tangra"
+    },
+    "pinnedDetails": null,
+    "recentlyViewed": null,
+    "featuredMessages": null,
+    "supportingMessages": ["Excludes taxes & fees"],
+    "shortList": {
+      "favorited": false,
+      "saveUrl": "/api/ucs/shortlist/save/922011",
+      "removeUrl": "/api/ucs/shortlist/remove/922011",
+      "metaData": {
+        "chkIn": "20220311",
+        "chkOut": "20220312",
+        "hotelId": "922011",
+        "roomConfiguration": "2"
+      }
+    },
+    "highlightedPropertyDetails": [],
+    "propertySource": null,
+    "dataAttributes": null,
+    "listingFooter": null
+  },
+  {
+    "__typename": "Property",
+    "id": "20421",
+    "name": "The Oberoi Grand, Kolkata",
+    "propertyImage": {
+      "image": {
+        "description": "Featured image",
+        "url": "https://images.trvl-media.com/hotels/1000000/30000/20500/20421/41e24b81.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      },
+      "fallbackImage": null
+    },
+    "offerBadge": null,
+    "price": {
+      "alignment": null,
+      "displayMessages": null,
+      "lead": {
+        "formatted": "Rs7,335"
+      },
+      "strikeOutType": "PRICE_SURVEY",
+      "strikeOut": null,
+      "disclaimer": null,
+      "roomNightMessage": "per night",
+      "priceMessages": [
+        {
+          "value": "per night"
+        }
+      ],
+      "marketingFeeDetails": null,
+      "options": [
+        {
+          "leadingCaption": null,
+          "displayPrice": {
+            "formatted": "Rs7,335"
+          },
+          "strikeOut": null,
+          "loyaltyPrice": null,
+          "disclaimer": null
+        }
+      ]
+    },
+    "reviews": {
+      "score": 4.8,
+      "localizedScore": "4.8",
+      "total": 519,
+      "localizedTotal": "519 reviews",
+      "superlative": "Exceptional",
+      "localizedSubtitle": "4.8 / 5 (519 reviews)",
+      "localizedSubtitleA11y": {
+        "accessibilityLabel": "4.8 out of 5 Exceptional (519 reviews)",
+        "value": "4.8/5 Exceptional (519 reviews)"
+      },
+      "mark": null
+    },
+    "destinationInfo": {
+      "distanceFromMessaging": null
+    },
+    "vipMessaging": null,
+    "propertyDetailsLink": {
+      "uri": {
+        "value": "https://www.expedia.co.in/Kolkata-Hotels-The-Oberoi-Grand.h20421.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810450145&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=178244&destination=Kolkata+%28and+vicinity%29%2C+West+Bengal%2C+India&destType=MARKET&neighborhoodId=553248635974587237&sort=RECOMMENDED&top_dp=7335&top_cur=INR&semdtl=&userIntent=&selectedRoomType=200305774&selectedRatePlan=384312008",
+        "relativePath": "/Kolkata-Hotels-The-Oberoi-Grand.h20421.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810450145&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=178244&destination=Kolkata+%28and+vicinity%29%2C+West+Bengal%2C+India&destType=MARKET&neighborhoodId=553248635974587237&sort=RECOMMENDED&top_dp=7335&top_cur=INR&semdtl=&userIntent=&selectedRoomType=200305774&selectedRatePlan=384312008"
+      },
+      "clientSideAnalytics": {
+        "referrerId": "HOT.SR:HotelModule:7",
+        "linkName": "View selected property"
+      }
+    },
+    "sponsoredListing": null,
+    "amenities": [],
+    "star": null,
+    "starRatingIcon": "STAR",
+    "availability": {
+      "available": true,
+      "text": null,
+      "theme": "URGENT"
+    },
+    "offerSummary": {
+      "messages": [
+        {
+          "message": "Fully refundable",
+          "theme": "SUCCESS",
+          "type": "FREE_CANCEL",
+          "mark": null
+        },
+        {
+          "message": "Reserve now, pay later",
+          "theme": "SUCCESS",
+          "type": "PAY_LATER",
+          "mark": null
+        }
+      ]
+    },
+    "legalDisclaimer": null,
+    "imageGallery": {
+      "accessibilityLabel": "Photo gallery for The Oberoi Grand, Kolkata",
+      "images": [
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/30000/20500/20421/41e24b81.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Featured image"
+          },
+          "subjectId": 3,
+          "fallbackImage": null,
+          "imageId": "398133801"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/30000/20500/20421/c3266c1e.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Outdoor pool"
+          },
+          "subjectId": 30003,
+          "fallbackImage": null,
+          "imageId": "32558486"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/30000/20500/20421/83899e50.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Bedroom"
+          },
+          "subjectId": 21001,
+          "fallbackImage": null,
+          "imageId": "70170468"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/30000/20500/20421/8e12746a.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Bar"
+          },
+          "subjectId": 82000,
+          "fallbackImage": null,
+          "imageId": "32416438"
+        }
+      ]
+    },
+    "mapMarker": {
+      "icon": "HOTEL",
+      "label": "Rs7,335",
+      "type": "HOTEL",
+      "latLong": {
+        "latitude": 22.561433,
+        "longitude": 88.350911
+      },
+      "clientSideAnalytics": {
+        "referrerId": "Module.Map.HotelMarkerSelect",
+        "linkName": "User selecting a hotel marker on the PWA HSR map"
+      }
+    },
+    "neighborhood": {
+      "name": "Kolkata"
+    },
+    "pinnedDetails": null,
+    "recentlyViewed": null,
+    "featuredMessages": null,
+    "supportingMessages": ["Excludes taxes & fees"],
+    "shortList": {
+      "favorited": false,
+      "saveUrl": "/api/ucs/shortlist/save/20421",
+      "removeUrl": "/api/ucs/shortlist/remove/20421",
+      "metaData": {
+        "chkIn": "20220311",
+        "chkOut": "20220312",
+        "hotelId": "20421",
+        "roomConfiguration": "2"
+      }
+    },
+    "highlightedPropertyDetails": [],
+    "propertySource": null,
+    "dataAttributes": null,
+    "listingFooter": null
+  },
+  {
+    "__typename": "Property",
+    "id": "465007",
+    "name": "Taj Bengal",
+    "propertyImage": {
+      "image": {
+        "description": "Featured image",
+        "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465007/c5556b6d.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      },
+      "fallbackImage": null
+    },
+    "offerBadge": {
+      "primary": null,
+      "secondary": {
+        "text": "Member Price available",
+        "theme_temp": "DEAL_MEMBER",
+        "icon_temp": {
+          "id": "mod",
+          "description": "mod",
+          "title": ""
+        }
+      }
+    },
+    "price": {
+      "alignment": null,
+      "displayMessages": null,
+      "lead": {
+        "formatted": "Rs8,500"
+      },
+      "strikeOutType": "PRICE_SURVEY",
+      "strikeOut": null,
+      "disclaimer": null,
+      "roomNightMessage": "per night",
+      "priceMessages": [
+        {
+          "value": "per night"
+        }
+      ],
+      "marketingFeeDetails": null,
+      "options": [
+        {
+          "leadingCaption": null,
+          "displayPrice": {
+            "formatted": "Rs8,500"
+          },
+          "strikeOut": null,
+          "loyaltyPrice": null,
+          "disclaimer": null
+        }
+      ]
+    },
+    "reviews": {
+      "score": 4.6,
+      "localizedScore": "4.6",
+      "total": 222,
+      "localizedTotal": "222 reviews",
+      "superlative": "Wonderful",
+      "localizedSubtitle": "4.6 / 5 (222 reviews)",
+      "localizedSubtitleA11y": {
+        "accessibilityLabel": "4.6 out of 5 Wonderful (222 reviews)",
+        "value": "4.6/5 Wonderful (222 reviews)"
+      },
+      "mark": null
+    },
+    "destinationInfo": {
+      "distanceFromMessaging": null
+    },
+    "vipMessaging": null,
+    "propertyDetailsLink": {
+      "uri": {
+        "value": "https://www.expedia.co.in/Kolkata-Hotels-Taj-Bengal.h465007.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810450147&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=178244&destination=Kolkata+%28and+vicinity%29%2C+West+Bengal%2C+India&destType=MARKET&neighborhoodId=553248635939582690&sort=RECOMMENDED&top_dp=8500&top_cur=INR&semdtl=&userIntent=&selectedRoomType=241292&selectedRatePlan=612199",
+        "relativePath": "/Kolkata-Hotels-Taj-Bengal.h465007.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810450147&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=178244&destination=Kolkata+%28and+vicinity%29%2C+West+Bengal%2C+India&destType=MARKET&neighborhoodId=553248635939582690&sort=RECOMMENDED&top_dp=8500&top_cur=INR&semdtl=&userIntent=&selectedRoomType=241292&selectedRatePlan=612199"
+      },
+      "clientSideAnalytics": {
+        "referrerId": "HOT.SR:HotelModule:8",
+        "linkName": "View selected property"
+      }
+    },
+    "sponsoredListing": null,
+    "amenities": [],
+    "star": null,
+    "starRatingIcon": "STAR",
+    "availability": {
+      "available": true,
+      "text": null,
+      "theme": "URGENT"
+    },
+    "offerSummary": {
+      "messages": [
+        {
+          "message": "Fully refundable",
+          "theme": "SUCCESS",
+          "type": "FREE_CANCEL",
+          "mark": null
+        },
+        {
+          "message": "Reserve now, pay later",
+          "theme": "SUCCESS",
+          "type": "PAY_LATER",
+          "mark": null
+        }
+      ]
+    },
+    "legalDisclaimer": null,
+    "imageGallery": {
+      "accessibilityLabel": "Photo gallery for Taj Bengal",
+      "images": [
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465007/c5556b6d.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Featured image"
+          },
+          "subjectId": 3,
+          "fallbackImage": null,
+          "imageId": "448672971"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465007/497a25ff.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "BBQ/picnic area"
+          },
+          "subjectId": 91016,
+          "fallbackImage": null,
+          "imageId": "436106440"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465007/4acb58f9.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Bedroom"
+          },
+          "subjectId": 21001,
+          "fallbackImage": null,
+          "imageId": "436115020"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465007/fa81b0b0.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Restaurant"
+          },
+          "subjectId": 81003,
+          "fallbackImage": null,
+          "imageId": "76990564"
+        }
+      ]
+    },
+    "mapMarker": {
+      "icon": "HOTEL",
+      "label": "Rs8,500",
+      "type": "HOTEL",
+      "latLong": {
+        "latitude": 22.537063,
+        "longitude": 88.333663
+      },
+      "clientSideAnalytics": {
+        "referrerId": "Module.Map.HotelMarkerSelect",
+        "linkName": "User selecting a hotel marker on the PWA HSR map"
+      }
+    },
+    "neighborhood": {
+      "name": "Kolkata"
+    },
+    "pinnedDetails": null,
+    "recentlyViewed": null,
+    "featuredMessages": null,
+    "supportingMessages": ["Excludes taxes & fees"],
+    "shortList": {
+      "favorited": false,
+      "saveUrl": "/api/ucs/shortlist/save/465007",
+      "removeUrl": "/api/ucs/shortlist/remove/465007",
+      "metaData": {
+        "chkIn": "20220311",
+        "chkOut": "20220312",
+        "hotelId": "465007",
+        "roomConfiguration": "2"
+      }
+    },
+    "highlightedPropertyDetails": [],
+    "propertySource": null,
+    "dataAttributes": null,
+    "listingFooter": {
+      "actionDetails": {
+        "name": "EXTERNAL_LINK"
+      },
+      "icon": {
+        "description": "",
+        "id": "chevron_right"
+      },
+      "linkUrl": "https://www.expedia.co.in/user/createaccount?uurl=e3id%3Dredr%26rurl%3D%2FHotel-Search%3FregionId%3D178244%26destination%3DKolkata%2B%2528and%2Bvicinity%2529%252C%2BWest%2BBengal%252C%2BIndia%26startDate%3D2022-03-11%26endDate%3D2022-03-12%26adults%3D2%26children%3D%26sort%3DRECOMMENDED%26semdtl%3D%26userIntent%3D%26selected%3D465007&fromheader=true",
+      "referrerId": ":LodgingCard.createAccount:8",
+      "text": "Sign up for Member Price"
+    }
+  },
+  {
+    "__typename": "Property",
+    "id": "890428",
+    "name": "Hyatt Regency Kolkata",
+    "propertyImage": {
+      "image": {
+        "description": "Featured image",
+        "url": "https://images.trvl-media.com/hotels/1000000/900000/890500/890428/3f8abf7b.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      },
+      "fallbackImage": null
+    },
+    "offerBadge": null,
+    "price": {
+      "alignment": null,
+      "displayMessages": null,
+      "lead": {
+        "formatted": "Rs5,600"
+      },
+      "strikeOutType": "PRICE_SURVEY",
+      "strikeOut": null,
+      "disclaimer": null,
+      "roomNightMessage": "per night",
+      "priceMessages": [
+        {
+          "value": "per night"
+        }
+      ],
+      "marketingFeeDetails": null,
+      "options": [
+        {
+          "leadingCaption": null,
+          "displayPrice": {
+            "formatted": "Rs5,600"
+          },
+          "strikeOut": null,
+          "loyaltyPrice": null,
+          "disclaimer": null
+        }
+      ]
+    },
+    "reviews": {
+      "score": 4.2,
+      "localizedScore": "4.2",
+      "total": 322,
+      "localizedTotal": "322 reviews",
+      "superlative": "Very good",
+      "localizedSubtitle": "4.2 / 5 (322 reviews)",
+      "localizedSubtitleA11y": {
+        "accessibilityLabel": "4.2 out of 5 Very good (322 reviews)",
+        "value": "4.2/5 Very good (322 reviews)"
+      },
+      "mark": null
+    },
+    "destinationInfo": {
+      "distanceFromMessaging": null
+    },
+    "vipMessaging": null,
+    "propertyDetailsLink": {
+      "uri": {
+        "value": "https://www.expedia.co.in/Kolkata-Hotels-Hyatt-Regency-Kolkata.h890428.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810450147&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=178244&destination=Kolkata+%28and+vicinity%29%2C+West+Bengal%2C+India&destType=MARKET&sort=RECOMMENDED&top_dp=5600&top_cur=INR&semdtl=&userIntent=&selectedRoomType=121125&selectedRatePlan=383876484",
+        "relativePath": "/Kolkata-Hotels-Hyatt-Regency-Kolkata.h890428.Hotel-Information?chkin=2022-03-11&chkout=2022-03-12&x_pwa=1&rfrr=HSR&pwa_ts=1645810450147&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pbi9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=178244&destination=Kolkata+%28and+vicinity%29%2C+West+Bengal%2C+India&destType=MARKET&sort=RECOMMENDED&top_dp=5600&top_cur=INR&semdtl=&userIntent=&selectedRoomType=121125&selectedRatePlan=383876484"
+      },
+      "clientSideAnalytics": {
+        "referrerId": "HOT.SR:HotelModule:9",
+        "linkName": "View selected property"
+      }
+    },
+    "sponsoredListing": null,
+    "amenities": [],
+    "star": null,
+    "starRatingIcon": "STAR",
+    "availability": {
+      "available": true,
+      "text": null,
+      "theme": "URGENT"
+    },
+    "offerSummary": {
+      "messages": [
+        {
+          "message": "Fully refundable",
+          "theme": "SUCCESS",
+          "type": "FREE_CANCEL",
+          "mark": null
+        },
+        {
+          "message": "Reserve now, pay later",
+          "theme": "SUCCESS",
+          "type": "PAY_LATER",
+          "mark": null
+        }
+      ]
+    },
+    "legalDisclaimer": null,
+    "imageGallery": {
+      "accessibilityLabel": "Photo gallery for Hyatt Regency Kolkata",
+      "images": [
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/900000/890500/890428/3f8abf7b.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Featured image"
+          },
+          "subjectId": 3,
+          "fallbackImage": null,
+          "imageId": "655999521"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/900000/890500/890428/68b01535.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Garden"
+          },
+          "subjectId": 91005,
+          "fallbackImage": null,
+          "imageId": "16286444"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/900000/890500/890428/1d361032.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Outdoor pool"
+          },
+          "subjectId": 30003,
+          "fallbackImage": null,
+          "imageId": "16285295"
+        },
+        {
+          "image": {
+            "url": "https://images.trvl-media.com/hotels/1000000/900000/890500/890428/0d76d9c1.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "description": "Bedroom"
+          },
+          "subjectId": 21001,
+          "fallbackImage": null,
+          "imageId": "23899005"
+        }
+      ]
+    },
+    "mapMarker": {
+      "icon": "HOTEL",
+      "label": "Rs5,600",
+      "type": "HOTEL",
+      "latLong": {
+        "latitude": 22.571298,
+        "longitude": 88.404837
+      },
+      "clientSideAnalytics": {
+        "referrerId": "Module.Map.HotelMarkerSelect",
+        "linkName": "User selecting a hotel marker on the PWA HSR map"
+      }
+    },
+    "neighborhood": {
+      "name": "Salt Lake"
+    },
+    "pinnedDetails": null,
+    "recentlyViewed": null,
+    "featuredMessages": null,
+    "supportingMessages": ["Excludes taxes & fees"],
+    "shortList": {
+      "favorited": false,
+      "saveUrl": "/api/ucs/shortlist/save/890428",
+      "removeUrl": "/api/ucs/shortlist/remove/890428",
+      "metaData": {
+        "chkIn": "20220311",
+        "chkOut": "20220312",
+        "hotelId": "890428",
+        "roomConfiguration": "2"
+      }
+    },
+    "highlightedPropertyDetails": [],
+    "propertySource": null,
+    "dataAttributes": null,
+    "listingFooter": null
+  }
+]
