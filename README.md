@@ -1,4 +1,4 @@
-# Orbitz_clone
+# Expedia_clone
 expedia.com is a travel fare aggregator website and travel metasearch engine. a subsidiary of Expedia Group. It is headquartered in the Seattle, Washington, United States
 
 ### Individual Project
@@ -28,7 +28,7 @@ expedia.com is a travel fare aggregator website and travel metasearch engine. a 
    This is our landing page
   <br>
   <br>
-   <img src="https://user-images.githubusercontent.com/88077417/167290746-826a27d0-b351-4e74-92f1-99d693b83ae8.png"/>
+   <img src="http://localhost:3000/#"/>
 ---
  <h3>Signup Page</h3>
   <br>
