@@ -17,7 +17,6 @@ expedia.com is a travel fare aggregator website and travel metasearch engine. a 
     <li>Homepage</li>
     <li>Sign up</li>
      <li>Login Page</li>
-    <li>List your Property</li>
       <li>Product Page</li>
       <li>Checkout Page</li>
      <li>Payment page</li>
