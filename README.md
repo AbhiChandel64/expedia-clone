@@ -50,7 +50,7 @@ expedia.com is a travel fare aggregator website and travel metasearch engine. a 
   In this menu we are booking the items by directly going to checkout page.
   <br> 
   <br>
-  <img src"https://user-images.githubusercontent.com/96104507/168786615-3d3be4d4-7d99-434b-9181-11e194f616cb.png"/>
+  <img src="https://user-images.githubusercontent.com/96104507/168786615-3d3be4d4-7d99-434b-9181-11e194f616cb.png"/>
   ---  
   <h3>Checkout Page</h3>
    <br>
